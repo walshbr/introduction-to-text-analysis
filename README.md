@@ -1,5 +1,5 @@
-# My Awesome Book
+# Introduction to Text Analysis
 
-This gitbook provides a brief introduction to digital text analysis by way of a variety of tools. Concepts and methods are introduced gradually and in the course of the term. While some of these tools are more difficult to use than others, a tool-based approach means that only minimal prior programming experience will be required to work through these materials. 
+This gitbook provides a brief introduction to digital text analysis by means of a variety of tools. We introduce concepts and methods gradually and in the course of the term. Some of these tools are more difficult to use than others, but the book requires only minimal prior experience with programming to work through these materials. 
 
-Originally developed for use in a course on Nineteenth-Century Scandal, Crime, and Spectacle, the datasets and prompts used for the workbook's exercises this workbook draw from these materials. The book is intended to be modularized enough that it could be used in conjunction with other courses. 
+Originally developed for use in a course on Nineteenth-Century Scandal, Crime, and Spectacle, this workbook draws from these course materials for its datasets and prompts. The book is intended to be modularized enough that it could be used in conjunction with other courses. 
