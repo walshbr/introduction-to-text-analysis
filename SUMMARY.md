@@ -1,6 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
 * [Google NGram Viewer](google_ngram.d)
 * [Prism and Close Reading](prism_close.md)
 * [Prism and Crowdsourcing](prism_crowd.md)
