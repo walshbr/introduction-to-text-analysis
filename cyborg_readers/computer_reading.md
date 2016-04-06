@@ -9,7 +9,7 @@ Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the
 "How many movies did you see?
 "What movie did you see?"
 
-In the first case, "I saw 8<sup>1/2</sup>" suggests that a number of movies that I saw.
+In the first case, I would be responding with a number of movies that I had seen. In the second, I'm responding with the title of a film, [*8<sup>1/2</sup>* by Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD).
 
 Humans can process information using context. Computers cannot make inferences. They only do what you (or decades of programmers) have taught them to do. In fact, by default, they do not know how to do much of anything. Everything that your computer does, from 
 
