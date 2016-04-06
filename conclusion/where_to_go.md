@@ -6,4 +6,4 @@ You have used a series of powerful tools in the course of working through this b
 
 Using a tool built by someone else forces you to abide by their own assumptions and conventions. 
 
-While writing this very section, the text editor I used to write the section included a helpful proofreading feature.
+While writing this book, I used GitBook's text editor so that I could preview the final product before it was published online.
