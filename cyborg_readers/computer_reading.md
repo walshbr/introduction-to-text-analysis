@@ -1,5 +1,6 @@
 # How Computers Read Texts
 
+When preparing for text analysis, this becomes im 
 Consider the following sentence:
 
 "I saw 8<sup>1/2</sup>."
@@ -9,10 +10,10 @@ Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the
 "How many movies did you see?
 "What movie did you see?"
 
-In the first case, I might be responding with a number of movies that I had seen. In the second, I'm responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). For humans, the difference is mostly trivial, and we would be able to distinguish between the two by context.
+In the first case, I might be responding with a number of movies that I had seen. In the second, I'm responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and we would be able to distinguish between the two by context.
 
-Computers cannot make inferences. They only do what you (or decades of programmers) have taught them to do. In fact, by default, they do not know how to do much of anything. Everything that your computer does, from 
+Computers cannot make inferences like these. Since numbers and words have significant differences - you can divide the former, but not the latter - programmers have developed conventions
 
 8 ≠ "8" ≠ "Eight" ≠ "Eighth"
 
-In almost all cases, the computer can only read for the things you tell it to read for. 
+They only do what you (or decades of programmers) have taught them to do. In fact, by default, they do not know how to do much of anything. In almost all cases, the computer can only read for the things you tell it to read for. 
