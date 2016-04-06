@@ -1,6 +1,6 @@
 #Where to go Next
 
-While writing this book, I used [GitBook's text editor](https://www.gitbook.com/editor/osx) so that I could preview the final product before it was published online. I found it really annoying to type while my text was screaming at me like this:
+While writing this book, I used [GitBook's text editor](https://www.gitbook.com/editor/osx) so that I could preview the final product before it was published online. I found it really annoying to type while my text was screaming at me like this: Test
 
 ![sentence difficulty in GitBook editor](assets/sentence_difficulty.png)
 The most irritating thing was that I could not tell what metrics they were using to diagnose my writing. What makes a sentence difficult? The number of words in each sentence? The number of clauses? Subjects in particular positions? I have all sorts of opinions about why writing might be unclear, but, as best I could tell, the editor was mostly basing their suggestions on the number of words in each sentence. I turned the feature off and went on with my life, but not before noting a truism of working digital humanities: using a tool built by someone else forces you to abide by their own assumptions and conventions. 
