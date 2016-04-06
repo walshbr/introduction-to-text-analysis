@@ -12,7 +12,11 @@ Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the
 
 In the first case, I might be responding with a number of movies that I had seen. In the second, I'm responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and we would be able to distinguish between the two by context.
 
-Computers cannot make inferences like these. Since numbers and words have significant differences - you can divide the former, but not the latter - programmers have developed conventions
+Computers cannot make inferences like these. Since numbers and words have significant differences - you can divide the former, but not the latter - programmers have developed conventions for telling computers to distinguish between these **data types**.
+
+**String**:
+
+**Integer**: 
 
 8 ≠ "8" ≠ "Eight" ≠ "Eighth"
 
