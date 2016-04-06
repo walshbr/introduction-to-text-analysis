@@ -1,4 +1,4 @@
-#Where to go Next
+# Where to go Next
 
 While writing this book, I used [GitBook's text editor](https://www.gitbook.com/editor/osx) so that I could preview the final product before it was published online. I found it really annoying to type while my text was screaming at me like this: Test
 
