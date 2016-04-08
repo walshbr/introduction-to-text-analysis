@@ -12,3 +12,6 @@ After Voyant processes your text you'll get a series of window panes
 Voyant packages several features into one tight digital package. The most familiar to you might be the one in the top left:
 
 ![voyant default wordcloud of string of pearls](/assets/voyant_word_cloud_default.png)
+![voyant world cloud sparse](/assets/voyant_word_cloud_sparse.png)
+
+![voyant word clouse dense](/assets/voyant_word_cloud_dense.png)
