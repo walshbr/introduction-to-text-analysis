@@ -14,7 +14,8 @@ Word clouds like these have been made popular in recent years by [Wordle](http:/
 
 ![underlying corpus term frequency](/assets/voyant_term_frequencies.png)
 
-The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character. But notice the words that you don't see: words like 'a' or 'the.' Words like these are *so* common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document.
+The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character. But notice the words that you don't see: words like 'a' or 'the.' Words like these are *so* common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, click the following: 
+![stopwords list]()
 
 
 
