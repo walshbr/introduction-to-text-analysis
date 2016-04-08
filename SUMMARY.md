@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Preface](prefacemd.md)
+* [Preface](preface.md)
 * Issues in Digital Text Analysis
    * [Why Read with a Computer?](issues/why_read_with_a_computer.md)
    * [Google NGram Viewer](issues/google_ngram.md)
