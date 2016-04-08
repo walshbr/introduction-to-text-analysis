@@ -14,11 +14,14 @@ Word clouds like these have been made popular in recent years by [Wordle](http:/
 
 ![underlying corpus term frequency](/assets/voyant_term_frequencies.png)
 
+Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. 
+
 The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character. But notice the words that you don't see: words like 'a' or 'the.' Words like these, **stopwords** are *so* common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right: 
 ![voyant settings](/assets/voyant_settings.png)
 
-By default, Voyant will auto-detect the language you are working with and apply a stopword list accordingly. From within the popup dialogue box you have the option to edit the stopword list being used for the current visualization. Take a look at the 
 
 Return to the word cloud. Using the slider below the word cloud, you can reduce or expand the number of terms visible in the visualization. Slide it all the way to the left to include the maximum number of words. 
 
 ![voyant word clouse dense](/assets/voyant_word_cloud_dense.png)
+
+update with some more analysis and language. 
