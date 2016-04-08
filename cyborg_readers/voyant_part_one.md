@@ -10,6 +10,10 @@ After Voyant processes your text you'll get a series of window panes with lots o
 Voyant gives you lots of options, so do not be overwhelmed. Voyant provides great documentation for working through their interface, and we will not rehearse them all again [here](http://docs.voyant-tools.org/start/). Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
 
 ![voyant default wordcloud of string of pearls](/assets/voyant_word_cloud_default.png)
-Word clouds like these have been made popular in recent years by [Wordle](http://www.wordle.net/). They do nothing more than count the different words in a text: the more frequent a particular word appears, the larger its presence in the word cloud. In fact, Voyant allows you to see the underlying frequencies that it is using to generate the cloud if you click the "Corpus Terms"  ![underlying corpus term frequency](/assets/voyant_term_frequencies.png)
+Word clouds like these have been made popular in recent years by [Wordle](http://www.wordle.net/). They do nothing more than count the different words in a text: the more frequent a particular word appears, the larger its presence in the word cloud. In fact, Voyant allows you to see the underlying frequencies that it is using to generate the cloud if you click the "Corpus Terms" button above the word cloud. 
+
+![underlying corpus term frequency](/assets/voyant_term_frequencies.png)
+
+A first thing to notice about the interface is that you can expand or contract the range of 
 
 ![voyant word clouse dense](/assets/voyant_word_cloud_dense.png)
