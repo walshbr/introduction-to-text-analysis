@@ -14,7 +14,7 @@ Word clouds like these have been made popular in recent years by [Wordle](http:/
 
 ![underlying corpus term frequency](/assets/voyant_term_frequencies.png)
 
-Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. 
+Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind frequently cited as one of the origin stories of digital humanities: Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas
 
 The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character. But notice the words that you don't see: words like 'a' or 'the.' Words like these, **stopwords** are *so* common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right: 
 ![voyant settings](/assets/voyant_settings.png)
