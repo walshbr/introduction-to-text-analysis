@@ -14,6 +14,6 @@ Word clouds like these have been made popular in recent years by [Wordle](http:/
 
 ![underlying corpus term frequency](/assets/voyant_term_frequencies.png)
 
-A first thing to notice about the interface is that you can expand or contract the range of 
+Using the slider below the word cloud, you can reduce or expand the number of terms visible in the visualization. Slide it all the way to the left to 
 
 ![voyant word clouse dense](/assets/voyant_word_cloud_dense.png)
