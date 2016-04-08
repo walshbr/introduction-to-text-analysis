@@ -10,3 +10,5 @@ After Voyant processes your text you'll get a series of window panes
 ![default view of string of pearls in voyant](/assets/voyant_overview.png)
 
 Voyant packages several features into one tight digital package. The most familiar to you might be the one in the top left:
+
+![voyant default wordcloud of string of pearls](/assets/voyant_word_cloud_default.png)
