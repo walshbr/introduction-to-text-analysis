@@ -8,4 +8,6 @@ When using digital methods to read
 
 #### Word Frequencies
 
+#### Stopwords
+
 #### Concordances
