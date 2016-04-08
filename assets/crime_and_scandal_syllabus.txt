@@ -1,0 +1,260 @@
+Scandal, Crime and Spectacle in the 19th Century
+
+Sarah Horowitz and Brandon Walsh
+Email: horowitzs@wlu.edu
+Phone: (540) 458-8773
+Office: Newcomb 314
+
+This course examines the intersection between scandal, crime and spectacle in 19th-century France and Britain. We will discuss the nature of scandals, the connection between scandals and political change, and how scandals and ideas about crime were used to articulate new ideas about class, gender and sexuality. In addition, this class will cover the rise of new theories of criminality in the 19th century and the popular fascination with crime and violence.  Crime and scandal also became interwoven into the fabric of the city as sources of urban spectacle.  Lastly, we will have an opportunity to discuss how issues of crime, scandal and spectacle resonate in the 21st century.  Some of the particular events and trends this class will cover include the Diamond Necklace Affair, the trial of Oscar Wilde, the Jack the Ripper murders, and the birth of detective fiction.
+
+Through this course, students will be introduced to text analysis and data mining for the humanities.  This course assumes no prior knowledge of these skills, but asks: how can newly developed technologies that allow computers to “read” large quantities of text shed light on the past?  Students will work in groups throughout the course of the term to complete a digital history project that analyzes an element of the 19th century fascination with crime and scandal.
+
+Course objectives:
+
+The goals of this course are to:
+
+1.  Develop a knowledge of issues in the history of the 19th century.
+2.  Develop historical literacy, which includes:
+a.  Identifying significant information in a historical document, visual image, or other primary source, and constructing a narrative of a historical event from a group of primary sources.
+b.  Identifying the key points in a scholarly argument and assessing its strengths and weakness, and analyzing key points of disagreement between two or more scholarly interpretations of a major historical development.
+c.  Integrating the analysis of primary and secondary sources, applying information that the student has discovered in primary sources to the evaluation of a scholarly debate.
+3.  Developing critical writing skills to convey historical knowledge.
+4.  Developing oral communication skills to convey historical knowledge. 
+5.  Developing the ability to integrate digitally driven research goals, methods, and media within the context of historical inquiry.
+6.  Develop the ability to understand, analyze, and use data. 
+7.  Develop critical savvy for assessing sources and data.
+8.  Develop the ability to assess information and information technologies critically.
+9.  Develop the ability to work collaboratively.
+
+Student progress towards these objectives will be measured by papers, presentations, participation in class discussions, and a final research project.
+
+Required texts:
+
+The following are required and can be found at the bookstore:
+
+•   Ari Adut, On Scandal
+•   Clifton Crais and Pamela Scully, Sara Baartman and the Hottentot Venus
+•   Rosalind Crone, Violent Victorians
+•   Vanessa Schwartz, Spectacular Realities
+•   A coursepack with additional readings
+
+All books (except for the coursepack) are on reserve at the library.  Additional assigned readings are online.
+
+All technologies used in the course are freely available on the web and run in a web browser. They will be introduced and discussed in class, and Brandon is available for any technical questions you might have.
+
+Google NGram Viewer - https://books.google.com/ngrams
+Prism - prism.scholarslab.org
+Bookworm - bookworm.library.yale.edu
+Voyant - http://voyant-tools.org/
+Browser-based Topic Modeling - http://mimno.infosci.cornell.edu/jsLDA/index.html
+
+Course requirements:
+
+The basic requirement of this course is active, creative, and consistent engagement with the course material in both written assignments and discussions.  Because much of our class time will be devoted to discussion, you must come to class having done the readings for that day and be prepared to discuss them.  
+
+Students will write three short papers about broad issues raised in class. 
+
+ Students will turn in short weekly technology response assignments that ask them to apply digital tools to the analysis of the texts under discussion for the week. Due at the beginning of the second class each week, these assignments will prepare students for the final project by asking them to think critically about the use of technology to explore the past and will be incorporated into the participation grade.
+
+For their final projects, students will work in groups of three or four and use the skills of text analysis to explore an aspect of crime, scandal or spectacle in the 19th century.  Each group will create a WordPress-based website presenting their findings. In preparation for the research project, students will hand in a proposal and an annotated bibliography.  Students will also present on their research at the end of the term and turn in a five-page paper discussing their process and contributions to the final group product.
+
+Grading:
+
+Class participation (including technology response papers): 20%
+First paper: 10%
+Second paper: 10%
+Third paper: 10%
+Final Project Proposal: 10%
+Annotated Bibliography: 10%
+Presentation: 5%
+Final project (including process paper): 25%
+
+If you do not complete all assignments, you may fail the class.
+
+Class participation:
+
+Your participation grade is based on both the quantity and quality of your participation.  In particular:
+
+•   An A means that you contribute to the vast majority of the discussions, you shthat you have both done the readings and thought about them, and your contributions are highly productive.  That is to say, you push the discussions in new, important, and interesting directions, raise substantive questions, and make links between readings and some of the larger themes of the course. If you were not a member of the class, the quality of discussion would be diminished markedly.
+•   A B means that you contribute to most of the discussions.  You have done the readings and can talk about them. If you were not a member of the class, the quality of discussion would be diminished.
+•   A C means that you don’t participate a lot.  When you talk, you show that you have done the readings, but do not fully engage with them. If you were not a member of the class, the quality of discussion would be somewhat diminished.
+•   A D means that you rarely contribute to class, and that when you do, your contributions do not reflect knowledge of the readings.
+•   An F means that either I don’t know who you are or that your contributions are detrimental to class discussion (i.e., disruptive or disrespectful).
+
+In-class exercises may also count towards your participation grade.
+
+Course policies:
+
+•   The syllabus is only a draft: there may be corrections and changes as the course goes along.  You are responsible for any changes mentioned in class, including changes to the class schedule or course policies.  If you have to be absent, be sure to find out what went on.
+•   Cell phones should not be seen or heard in class.  Don’t even think about texting in class.
+•   Computers are great!  And useful!  And fun!  But they can be detrimental to the quality of class discussions.  Please do not use a computer to take notes in class, unless you receive prior approval from me. If you do use a computer, you must turn off your wifi and commit to doing work for this class and only for this class.
+•   All papers must be typed, double-spaced, with 1-1.25 inch margins and in a 12-point font.  
+•   For every day (including weekends) your paper is late, I will deduct a third of a grade.  That is, an A will become an A-, an A- will become a B+, etc.  Papers handed in on the day they are due but after the deadline are also late.
+•   If you need an extension on a paper, please contact me 24 hours in advance of the paper’s deadline.  Note that you must have a valid reason, such as an illness or a family emergency.  
+•   If it becomes clear that the class as a whole is not doing the assigned readings, I may give unannounced quizzes on the readings.
+•   With the exception of the final project, you must hand in all work by the last day of classes.
+•   If you fall asleep in class, I will lower your course grade.  Please reschedule your nap time.
+•   I will also lower your grade if you have problems coming to class on time.
+
+Absence policy:
+
+•   There are two types of absences in this class: excused and unexcused. Excused absences are granted if you are ill or have a family emergency.  Unexcused absences cover all other types of absences, including those due to away games or extracurricular events.  
+•   Please let me know before class if you have a situation that merits an excused absence.  
+•   You are granted two unexcused absences without penalty.  After that, your final course grade goes down by a third of a grade for each additional unexcused absence. That is, an A will become an A-, an A- will become a B+, etc.
+•   In some cases, you may make up an unexcused absence.  You must have a valid reason for missing class, such as an away game if you are an athlete.  (Valid reasons do not include having a test/paper due that day or travel for personal reasons.)  You must also contact me at least one week prior to your absence to arrange how you will make up the class you miss.
+
+A Note on Plagiarism:
+
+The following is taken from the Washington & Lee Catalog, as well as the Executive Committee website (http://www.wlu.edu/x8198.xml):
+
+“’Plagiarism’ describes the use of another’s words or ideas without proper acknowledgment. The students of Washington and Lee University have considered plagiarism a violation of the Honor System in the past; therefore, all forms of plagiarism including Internet plagiarism are taken very seriously….Plagiarism takes many forms, including the wholesale copying of phrases or texts, or the use of ideas without indicating the source. Certain facts must also be properly acknowledged.”
+
+The library also has the following page with links to cites discussing what plagiarism is and how to avoid it: http://library.wlu.edu/research/ref/cite_plag.asp. 
+
+As your papers approach, we will be talking about this subject in more detail, as well as how to properly cite your sources.  
+
+Accommodations policy:
+
+Washington and Lee University makes reasonable academic accommodations for qualified students with disabilities. All undergraduate accommodations must be approved through the Office of the Dean of the College. Students requesting accommodations for this course should present an official accommodation letter within the first two weeks of the term and schedule a meeting outside of class time to discuss accommodations. It is the student’s responsibility to present this paperwork in a timely fashion and to follow up about accommodation arrangements. 
+
+Sakai site: 
+
+The syllabus, along with any classroom handouts and assignments will be on the course’s Sakai site, available at https://sakai.wlu.edu/.
+
+Schedule:
+
+Week 1
+
+Introductions
+
+Understanding Scandal
+•   Ari Adut, On Scandal, Introduction and Chapter 1
+•   Patrick Leary, “Googling the Victorians” available from http://www.victorianresearch.org/googling.pdf
+•   In class: Google NGram Viewer and Scandal
+
+Week 2
+
+Scandal and Monarchy, Part I
+•   Sarah Maza, “The Diamond Necklace Affair Revisited: The Case of the Missing Queen,” in Eroticism and the Body Politic, in coursepack
+•   Historical Essays on the Life of Marie–Antoinette of Austria, available from http://chnm.gmu.edu/revolution/d/262/
+•   In class: Prism and Close Reading
+
+Scandal and Monarchy, Part II
+•   Tamara Hunt, “Morality and Monarchy in the Queen Caroline Affair,” available from JSTOR
+•   Find two articles dating from the Queen Caroline Affair in the 19th Century British Newspapers Collection
+
+First paper due – four pages – analysis of Diamond Necklace Affair or Queen Caroline Affair.
+
+Week 3
+
+Scandal and Sexuality, Continued
+•   Ari Adut, On Scandal, Chapter 2 
+•   Transcripts of Oscar Wilde’s Libel Trial, available at http://law2.umkc.edu/faculty/projects/ftrials/wilde/Wildelibeltranscript.html
+•   In class: Prism and Crowdsourcing
+
+The Spectacle of Punishment
+•   Michel Foucault, Discipline and Punish, Part I, Chapter 1 (The Body of the Condemned) and Part III, Chapter 3 (Panopticism), in coursepack
+
+Week 4
+
+Crime and the Modern City
+•   Louis Chevalier, Working Classes, Dangerous Classes, pp. 1-23, 70-98, in coursepack
+•   Henry Mayhew, The London Underworld, pp. 109-127, 144-159, in coursepack
+•   In class: Digital Archives and the Victorians
+
+Female Criminality
+•   Lisa Downing, “Murder in the Feminine: Marie Lafarge and the Sexualization of the Nineteenth-Century Criminal Woman,” available from JSTOR
+•   Cesare Lombroso, Criminal Woman, the Prostitute and the Normal Woman, Chapters 12, 18, 22, 23, in coursepack
+
+Second paper due – four pages – analysis of a 19th century archive – evaluate Sherlockian.net; The Old Bailey Online; The Dictionary of Victorian London; Hidden Lives Revealed; Casebook: Jack the Ripper; 19th Century British Newspapers; or Crime, Punishment, and Popular Culture 1790-1920.
+
+Week 5
+
+Detection in the 19th Century
+•   Simon Cole, Suspect Identities, Chapters 1 and 2, in coursepack
+•   In class: Bookworm and Problems with Data
+
+The Rise of Detective Fiction
+•   Michael Saler, “’Clap if You Believe in Sherlock Holmes’: Mass Culture and the Re-Enchantment of Modernity, c. 1890-1940
+•   Arthur Conan Doyle, “A Scandal in Bohemia,” available at http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#1
+
+Week 6
+
+Violence and Entertainment, Part I
+•   Rosalind Crone, Violent Victorians, Chapters 1 and 3
+•   The String of Pearls, Chapters 36-39, available from http://www.victorianlondon.org/mysteries/sweeney_todd-00.htm
+•   Franco Moretti, “Graphs” from Graphs, Maps, Trees, course packet
+•   In class: Voyant and How Computers Read Texts
+
+Violence and Entertainment, Part II
+•   Rosalind Crone, Violent Victorians, Chapter 6
+•   “The Hampstead Murders,” available from http://vrchristensen.com/http:/vrchristensen.com/category/newspaper-articles/lloyds-weekly-newspaper/
+•   Find an article on a 19th century murder from the Times from the “Dictionary of Victorian London,” available at http://www.victorianlondon.org/index-2012.htm
+
+Final Group Project Proposals Due
+
+Week 7
+
+Library Research Session + The Spectacle of the City, Part I
+•   Vanessa Schwartz, Spectacular Realities, Chapter 1
+•   In class: Voyant and Text Analysis pt. 2
+
+The Spectacle of the City, Part II
+•   Vanessa Schwartz, Spectacular Realities, Chapters 2 and 3 
+
+Week 8
+
+Sex and the City
+•   Judith Walkowitz, “Male Vice and Feminist Virtue: Feminism and the Politics of Prostitution in Nineteenth-Century Britain,” available from JSTOR
+•   W.T. Stead, “The Maiden Tribute of Modern Babylon,” in coursepack
+•   Jo Guldi and David Armitage. “Big Questions, Big Data” from The History Manifesto, available from http://historymanifesto.cambridge.org/read/chapter-4-big-questions-big-data/rise-big-data/
+•   In class: Topic Modeling Texts
+
+Sex and Death in the City 
+•   Judith Walkowitz, “Jack the Ripper and the Myth of Male Violence,” available from JSTOR
+•   Find two articles from http://www.casebook.org/press_reports/ on Jack the Ripper
+
+Third Paper Due – Using some of the text analysis tools you have learned so far, analyze a long text or a group of short texts on a related theme/phenomenon. In a four-page paper, analyze your findings and relate them to our discussions of 19th century history and the class readings.
+
+Week 9
+
+The Spectacle of Race
+•   Clifton Crais and Pamela Scully, Sara Baartman and the Hottentot Venus, Introduction, Chapters 3 and 4
+•   Find an article on Baartman from the library’s online resources
+•   In class: Topic Modeling pt. 2
+
+The Spectacle of Race
+•   Clifton Crais and Pamela Scully, Sara Baartman and the Hottentot Venus, Chapters 6 and 7
+•   Tressie McMillan Cottom, “When Your (Brown) Body is a (White) Wonderland,” http://tressiemc.com/2013/08/27/when-your-brown-body-is-a-white-wonderland/
+
+Week 10
+
+Politics, National Identity and Scandal, Part I
+•   Michael Burns, France and the Dreyfus Affair, excerpt in coursepack
+•   In class: Prism and sentiment analysis
+
+No class, meetings with groups about final projects
+
+Annotated Bibliography Due
+
+Week 11
+
+Scandals and Contemporary Media
+•   Anita Sarkeesian Interview: ‘The word “troll” feels too childish. This is abuse’ available from http://www.theguardian.com/technology/2015/aug/29/anita-sarkeesian-gamergate-interview-jessica-valenti
+•   “NSA Files Decoded” available from http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded
+•   Adam Kirsch, “Technology is Taking Over English Departments: The False Promise of the Digital Humanities” available from https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch
+•   In class: Possibilities for Further Work in Text Mining
+
+Scandal and Politics in the Present Day
+•   Ari Adut, On Scandal, Chapter 3
+•   Matt Bai, “How Gary Hart’s Downfall Forever Changed American Politics,” New York Times Magazine, available online
+
+Week 12
+
+Class Presentations
+
+Wrap Up and Class Presentations
+
+Final projects due during exam week (5000 words, total)
+Paper discussing final-group project process due during exam week (5 pages)
+
