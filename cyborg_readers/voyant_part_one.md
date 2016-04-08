@@ -18,9 +18,10 @@ Word clouds like these have been made popular in recent years by [Wordle](http:/
 
 Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](http://www.historyofinformation.com/expanded.php?id=2321) begun on punch cards in the 1940's and 50's was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do. 
 
-Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot simply by counting words.
+Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot simply by counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character. Looking at these counts, you could make the case that no one
 
-The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character. But notice the words that you don't see: words like 'a' or 'the.' Words like these, **stopwords** are *so* common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right: 
+Notice the words that you don't see: words like 'a' or 'the.' Words like these, **stopwords** are *so* common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right: 
+
 ![voyant settings](/assets/voyant_settings.png)
 
 
@@ -28,4 +29,10 @@ Return to the word cloud. Using the slider below the word cloud, you can reduce 
 
 ![voyant word clouse dense](/assets/voyant_word_cloud_dense.png)
 
+Say something about the noise that comes out looking at graphs like these.
+
 update with some more analysis and language. 
+
+So the main points are:
+give it three more instances of analysis for sweeney
+stopwords, patterns, noise in visualizations
