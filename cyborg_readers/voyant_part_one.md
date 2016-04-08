@@ -34,5 +34,5 @@ Say something about the noise that comes out looking at graphs like these.
 update with some more analysis and language. 
 
 So the main points are:
-give it three more instances of analysis for sweeney
-stopwords, patterns, noise in visualizations
+give it three more instances of analysis for sweeney (the concordance is only half fleshed out right now).
+stopwords (say more), patterns (say more about this), noise in visualizations (say more)
