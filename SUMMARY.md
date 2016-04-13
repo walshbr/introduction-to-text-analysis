@@ -45,4 +45,5 @@
 * Conclusion
    * [Where to go Next](conclusion/where_to_go.md)
    * [Further Resources](conclusion/resources.md)
+   * [Adapting This Book](conclusion/adapting.md)
 
