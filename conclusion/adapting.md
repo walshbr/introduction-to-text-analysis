@@ -69,11 +69,13 @@ After doing so, any changes you have made from the GitBooks editor will also cha
 If you are planning to use terminal, the process is fairly similar. Once you have forked and have your own copy of the book on github, you will just clone it to your computer using the clone url found at the top of your repository's page on GitHub. Here is the one for the original book:  
 
 ![github clone url](/assets/clone_url.png)
-Find your own clone url, copy it to your clipboard, and use it like so:
+
+Find your own clone url, copy it to your clipboard, and use it like so (without curly braces):
 
 ```$ git clone {your_clone_url here} ```
 
-Using a plain text editor
+This will copy the repository to your machine. From there, you will just edit using a plain text editor as normal and make changes to the repository using [git](https://git-scm.com/). 
+
 Pulling updates?
 
 If we haven't covered something here or you run into problems, 
