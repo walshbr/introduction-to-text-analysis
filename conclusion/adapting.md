@@ -20,6 +20,8 @@ First you will need to make a copy of our GitHub repository for your own account
 
 Note the "forked from bmw9t/introduction-to-text-analysis" window at the top of the window, which lets you know where the book originated from. Above that you will see your own book's location.
 
+#### Publishing
+
 You have a copy of the files that make up the book, but you will need to sync them with GitBooks if you want to publish them online in the same way that we have done here. To do so, after logging into GitBooks you will click on the green 'Import Button.' ![gitbook add book button](/assets/gitbook_add_book.png)
 
 Selecting the "GITHUB" option, you will need to link your GitHub account and verify your account by an email.
@@ -37,6 +39,9 @@ Give your repository a name and a description, and you're all set. A complete fo
 You now have a working copy of the book hosted on GitHub and rendered in GitBooks (GitBooks should automatically redirect you to your copy). You can do anything you want with these files, and they won't affect our own base copy of the resources. 
 
 ## Editing
+
+#### Markdown
+
 From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of files in **markdown**, a form of markup that can easily be converted into HTML. GitBooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. 
 
 #### Editing with GitBooks Editor
@@ -61,8 +66,11 @@ After doing so, any changes you have made from the GitBooks editor will also cha
 
 #### Editing with Terminal
 
-If you are planning to use terminal, you will need
-```$ git clone the repository ```
+If you are planning to use terminal, the process is fairly similar. Once you have forked and have your own copy of the book on github, you will just clone it to your computer using the clone url found at the top of your repository's page on GitHub. Here is the one for the original book:  
+
+![github clone url](/assets/clone_url.png)
+
+```$ git clone {your_clone_url here} ```
 
 Using a plain text editor
 Pulling updates?
