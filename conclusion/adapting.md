@@ -37,8 +37,7 @@ Give your repository a name and a description, and you're all set. A complete fo
 You now have a working copy of the book hosted on GitHub and rendered in GitBooks (GitBooks should automatically redirect you to your copy). You can do anything you want with these files, and they won't affect our own base copy of the resources. 
 
 ## Editing
-
-The book is written as a series of markdown files. Gitbooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. If markdown feels too complicated, gitbooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word.
+From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of **markdown** files. Gitbooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. If markdown feels too complicated, gitbooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word.
 
 Any changes you make to the GitHub files should automatically get rendered in the GitBooks version of the site. 
 
