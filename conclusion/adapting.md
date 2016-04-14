@@ -72,7 +72,7 @@ If you are planning to use terminal, the process is fairly similar. Once you hav
 
 Find your own clone url, copy it to your clipboard, and use it like so (without curly braces):
 
-```$ git clone {your_clone_url here} ```
+```$ git clone {your_clone_url here}```
 
 This will copy the repository to your machine. From there, you will just edit using a plain text editor as normal and make changes to the repository using [git](https://git-scm.com/). 
 
