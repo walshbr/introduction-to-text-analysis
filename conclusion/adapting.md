@@ -2,6 +2,8 @@
 
 We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. We especially imagine people reworking the exercises in each chapter to reflect their own content. With a little effort you can rework the book for your own purposes and publish it to GitBooks for your students to use.
 
+**Note: copying the book will only get you a particular version of the book at a particular point in time. By default, any changes we make to the book after you copy it will not be reflected in your version of the book. [Syncing your version](https://help.github.com/articles/syncing-a-fork/) of the book with ours will likely conflict with any changes you have made, so I would only try that with great care.**
+
 ## Getting Your Own Copy
 
 The contents of this book are hosted in [a repository on GitHub](https://github.com/bmw9t/introduction-to-text-analysis) and rendered to the internet via [GitBooks](gitbook.com). When we make changes to this file structure, the changes populate out to our GitBooks account, which renders the various files into a book. To make your own remixable copy of the book, you will need to make a copy our GitHub repository and sync your copy with a GitBook of your own. Things you'll need to begin:
@@ -75,7 +77,5 @@ Find your own clone url, copy it to your clipboard, and use it like so (without 
 ```$ git clone {your_clone_url here}```
 
 This will copy the repository to your machine. From there, you will just edit using a plain text editor as normal and make changes to the repository using [git](https://git-scm.com/). 
-
-Pulling updates?
 
 At this point you should have everything you need to edit your copy of the book as you see fit for your own needs. If we haven't covered something here or you run into problems, drop us a line in our [discussions forum](https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/discussions).
