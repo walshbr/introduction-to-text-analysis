@@ -55,7 +55,7 @@ The interface provides a preview of what your text will look like to the right o
 
 The computer will **clone**, or copy, the book to your computer. From there, you can follow the instructions in the [editor's documentation](https://help.gitbook.com/). The only significant difference from MS Word is that, after saving your work, you will need to click the sync button to upload your content to GitHub.
 
-
+![gitbooks sync](/assets/gitbooks_sync.png)
 
 After doing so, any changes you have made from the GitBooks editor will also change the GitHub repository's files, which will then automatically get rendered in the GitBooks version of the site.
 
