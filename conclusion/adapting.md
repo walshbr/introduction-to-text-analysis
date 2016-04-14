@@ -49,7 +49,11 @@ But I can also highlight text and press command + b as I would in Microsoft Word
 
 ![gitbooks editor interface](/assets/gitbooks_editor_interface.png)
 
-The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you do decide to work in the GitBooks Editor, you will need to log in the first you do so. Then select the "GitBooks.com" option for importing. The computer will **clone**, or copy, the book to your computer. From there, you can follow the instructions in the [editor's documentation](https://help.gitbook.com/). The only significant difference from MS Word is that, after saving your work, you will need to click the sync button to upload your content to GitHub.
+The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you do decide to work in the GitBooks Editor, you will need to log in the first you do so. Then select the "GitBooks.com" option for importing. 
+
+![gitbooks cloning locally](/assets/gitbooks_clone.png)
+
+The computer will **clone**, or copy, the book to your computer. From there, you can follow the instructions in the [editor's documentation](https://help.gitbook.com/). The only significant difference from MS Word is that, after saving your work, you will need to click the sync button to upload your content to GitHub.
 
 
 
