@@ -8,4 +8,5 @@ The book is written as a series of markdown files. Gitbooks provides a [great tu
 
 ## Cloning
 
-This is a test to check on whether or not it's linked to github
+Maybe it is not linked?
+
