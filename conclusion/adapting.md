@@ -17,6 +17,8 @@ First you will need to make a copy of our GitHub repository for your own account
 **Forking** is Github's term for creating a copy of a repository for yourself - imagine a road forking and diverging into two paths. If you click fork, GitHub should start the copying process. When finished, you will be redirected to your fresh copy of the repository.
 
 ![copy of github repository after forking](/assets/github_forking.png)
+
+Note the "forked from bmw9t/introduction-to-text-analysis" window at the top of the window, which lets you know where the book originated from. Above that you will see your own book's location.
 ## Editing
 
 The book is written as a series of markdown files. Gitbooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. If markdown feels too complicated, gitbooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word.
