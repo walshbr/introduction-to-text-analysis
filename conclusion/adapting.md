@@ -47,7 +47,7 @@ If markdown feels too complicated, GitBooks also provides a handy [desktop edito
 
 But I can also highlight text and press command + b as I would in Microsoft Word to produce the same effect.
 
-The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you do decide to work in the GitBooks Editor, you will just need one step to import
+The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you do decide to work in the GitBooks Editor, you will need to log in the first you do so. Then select the "GitBooks.com" option for importing. The computer will **clone**, or copy, the book to your computer. From there, you can follow the instructions in the editor's documentation.
 
 From then on changes you make to the GitBooks editor will also change the GitHub repository's files, which will then i GitHub files should automatically get rendered in the GitBooks version of the site.
 
