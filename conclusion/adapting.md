@@ -64,7 +64,7 @@ The computer will **clone**, or copy, the book to your computer. From there, you
 
 ![gitbooks sync](/assets/gitbooks_sync.png)
 
-After doing so, any changes you have made from the GitBooks editor will also change the GitHub repository's files, which will then automatically get rendered in the GitBooks version of the site.
+After doing so, any changes you have made from the GitBooks editor will also change the GitHub repository's files, which will then automatically get rendered in the GitBooks version of the site. You are all set!
 
 #### Editing with Terminal
 
