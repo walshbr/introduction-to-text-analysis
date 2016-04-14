@@ -20,7 +20,12 @@ First you will need to make a copy of our GitHub repository for your own account
 
 Note the "forked from bmw9t/introduction-to-text-analysis" window at the top of the window, which lets you know where the book originated from. Above that you will see your own book's location.
 
-You have a copy of the files that make up the book, but you will need to sync them with GitBooks if you want to publish them online in the same way that we have done here. ![gitbook add book button](/assets/gitbook_add_book.png)
+You have a copy of the files that make up the book, but you will need to sync them with GitBooks if you want to publish them online in the same way that we have done here. To do so, after logging into GitBooks you will click on the green 'Import Button.' ![gitbook add book button](/assets/gitbook_add_book.png)
+
+Then you will 
+
+![import github repository to gitbook]()
+
 
 Pulling updates?
 ## Editing
