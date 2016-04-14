@@ -24,7 +24,7 @@ You have a copy of the files that make up the book, but you will need to sync th
 
 Then you will 
 
-![import github repository to gitbook]()
+![import github repository to gitbook](/assets/gitbooks_import_github.png)
 
 
 Pulling updates?
