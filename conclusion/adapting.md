@@ -10,10 +10,13 @@ The contents of this book are hosted in [a repository on GitHub](https://github.
 - GitHub Account
 - GitBooks Editor
 
-First fork the GitHub repository. From the repository's page, click the fork button in the top-right corner of the window. Make sure you are logged in.
+First you will need to make a copy of our GitHub repository for your own account. When logged in and looking at our repository page, you should see these three buttons in the top-left corner of the window:
 
-![fork button on github](/assets/fork.png)
+![fork button on github](/assets/fork_button.png)
 
+**Forking** is Github's term for creating a copy of a repository for yourself - imagine a road forking and diverging into two paths. If you click fork, GitHub should start the copying process. When finished, you will be redirected to your fresh copy of the repository.
+
+![copy of github repository after forking](assets/github_forking.png)
 ## Editing
 
 The book is written as a series of markdown files. Gitbooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. If markdown feels too complicated, gitbooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word.
