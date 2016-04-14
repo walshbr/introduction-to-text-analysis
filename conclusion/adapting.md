@@ -32,7 +32,7 @@ After linking your GitHub account, if you have more than one respository under y
 
 Give your repository a name and a description, and you're all set. A complete form should look something like this:
 
-![Complete form for importing a github repository into GitBooks](/assets/gitbooks_github_complete_import_templata.png)
+![Complete form for importing a github repository into GitBooks](/assets/gitbooks_github_complete_import_template.png)
 
 Pulling updates?
 ## Editing
