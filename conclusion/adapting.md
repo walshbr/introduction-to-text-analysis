@@ -26,10 +26,13 @@ Selecting the "GITHUB" option, you will need to link your GitHub account and ver
 
 ![import github repository to gitbook](/assets/gitbooks_import_github.png)
 
-After linking your GitHub account, if you have more than one respository under your name you will have to select the one that you want to import to GitBooks. 
+After linking your GitHub account, if you have more than one respository under your name you will have to select the one that you want to import to GitBooks. In this case, we will import the *Introduction to Text Analysis* repository.
 
 ![select your repo in GitBooks](/assets/gitbook_repo_selection.png)
-In this case, we will import the *Introduction to Text Analysis* repository.
+
+Give your repository a name and a description, and you're all set. A complete form should look something like this:
+
+![Complete form for importing a github repository into GitBooks](/assets/gitbooks_github_complete_import_templata.png)
 
 Pulling updates?
 ## Editing
