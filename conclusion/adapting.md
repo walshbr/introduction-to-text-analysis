@@ -1,10 +1,10 @@
 # Adapting This Book
 
-We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. First, we will
+We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. We especially imagine people reworking the exercises in each chapter to reflect their own content. With a little effort you can rework the book for your own purposes and publish it to GitBooks for your students to use.
 
 ## Getting Your Own Copy
 
-The contents of this book are hosted in [a repository on GitHub](https://github.com/bmw9t/introduction-to-text-analysis). When we make changes to this file structure, the changes populate out to our GitBooks account, which renders the various files into a book. To make your own remixable copy of the book, you will need to make a copy our GitHub repository and sync your copy with a GitBook of your own. Things you'll need to begin:
+The contents of this book are hosted in [a repository on GitHub](https://github.com/bmw9t/introduction-to-text-analysis) and rendered to the internet via [GitBooks](gitbook.com). When we make changes to this file structure, the changes populate out to our GitBooks account, which renders the various files into a book. To make your own remixable copy of the book, you will need to make a copy our GitHub repository and sync your copy with a GitBook of your own. Things you'll need to begin:
 
 - GitBooks Account
 - GitHub Account
@@ -61,7 +61,10 @@ After doing so, any changes you have made from the GitBooks editor will also cha
 
 #### Editing with Terminal
 
+If you are planning to use terminal, you will need
 ```$ git clone the repository ```
 
 Using a plain text editor
 Pulling updates?
+
+If we haven't covered something here or you run into problems, 
