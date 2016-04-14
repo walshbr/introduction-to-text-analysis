@@ -32,11 +32,28 @@ After linking your GitHub account, if you have more than one respository under y
 
 Give your repository a name and a description, and you're all set. A complete form should look something like this:
 
-![Complete form for importing a github repository into GitBooks](/assets/gitbooks_github_complete_import_templata.png)
+![Complete form for importing a github repository into GitBooks](/assets/gitbooks_github_complete_import_template.png)
 
-Pulling updates?
+You now have a working copy of the book hosted on GitHub and rendered in GitBooks (GitBooks should automatically redirect you to your copy). You can do anything you want with these files, and they won't affect our own base copy of the resources. 
+
 ## Editing
+From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of files in **markdown**, a form of markup that can easily be converted into HTML. GitBooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. 
 
-The book is written as a series of markdown files. Gitbooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. If markdown feels too complicated, gitbooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word.
+#### Editing with GitBooks Editor
 
+If markdown feels too complicated, GitBooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word. You can type in markdown, but the editor will also convert certain commands to markdown for you:
 
+\*\*bolded text\*\* will render as **bolded text**.
+
+But I can also highlight text and press command + b as I would in Microsoft Word to produce the same effect.
+
+The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you do decide to work in the GitBooks Editor, you will just need one step to import
+
+From then on changes you make to the GitBooks editor will also change the GitHub repository's files, which will then i GitHub files should automatically get rendered in the GitBooks version of the site.
+
+#### Editing with Terminal
+
+```$ git clone the repository ```
+
+Using a plain text editor
+Pulling updates?
