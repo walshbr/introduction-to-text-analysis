@@ -37,10 +37,23 @@ Give your repository a name and a description, and you're all set. A complete fo
 You now have a working copy of the book hosted on GitHub and rendered in GitBooks (GitBooks should automatically redirect you to your copy). You can do anything you want with these files, and they won't affect our own base copy of the resources. 
 
 ## Editing
-From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of files in **markdown**, a form of markup that can easily be converted into HTML. Gitbooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. If markdown feels too complicated, gitbooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word.
+From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of files in **markdown**, a form of markup that can easily be converted into HTML. GitBooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. 
 
-Any changes you make to the GitHub files should automatically get rendered in the GitBooks version of the site. 
+#### Editing with GitBooks Editor
 
+If markdown feels too complicated, GitBooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word. You can type in markdown, but the editor will also convert certain commands to markdown for you:
+
+\*\*bolded text\*\* will render as **bolded text**.
+
+But I can also highlight text and press command + b as I would in Microsoft Word to produce the same effect.
+
+The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you do decide to work in the GitBooks Editor,
+
+Any changes you make to the GitHub files should automatically get rendered in the GitBooks version of the site.
+
+#### Editing with Terminal
+
+```$ git clone the repository ```
+
+Using a plain text editor
 Pulling updates?
-
-
