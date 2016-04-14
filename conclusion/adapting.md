@@ -22,10 +22,14 @@ Note the "forked from bmw9t/introduction-to-text-analysis" window at the top of 
 
 You have a copy of the files that make up the book, but you will need to sync them with GitBooks if you want to publish them online in the same way that we have done here. To do so, after logging into GitBooks you will click on the green 'Import Button.' ![gitbook add book button](/assets/gitbook_add_book.png)
 
-Then you will 
+Selecting the "GITHUB" option, you will need to link your GitHub account and verify your account by an email.
 
 ![import github repository to gitbook](/assets/gitbooks_import_github.png)
 
+After linking your GitHub account, if you have more than one respository under your name you will have to select the one that you want to import to GitBooks. 
+
+![select your repo in GitBooks](/assets/gitbook_repo_selection.png)
+In this case, we will import the *Introduction to Text Analysis* repository.
 
 Pulling updates?
 ## Editing
