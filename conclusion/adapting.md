@@ -78,4 +78,4 @@ This will copy the repository to your machine. From there, you will just edit us
 
 Pulling updates?
 
-If we haven't covered something here or you run into problems, 
+At this point you should have everything you need to edit the book as you see fit for your own needs. If we haven't covered something here or you run into problems, drop us a line in our [discussions forum](https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/discussions).
