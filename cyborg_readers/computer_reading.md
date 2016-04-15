@@ -22,6 +22,10 @@ So to a computer, the following are entirely unrelated:
 
 8 ≠ "8" ≠ "Eight" ≠ "Eighth"
 
+It goes even further: computers think of lowercase and capital letters as different:
+
+"H" ≠ "h"
+
 Programmers over the years have built a variety of functions and tools into different languages to get around some of these difficulties, but they still remain. When processing text by a computer, we have to account for such problems.
 
 They only do what you (or decades of programmers) have taught them to do. In fact, by default, they do not know how to do much of anything. In almost all cases, the computer can only read for the things you tell it to read for. 
