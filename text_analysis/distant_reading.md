@@ -6,11 +6,18 @@ It might appear as though distant reading is less critical: after all, you could
 
 #### Patterns
 
-Are there any clear outliers? For example, if the four of the top five words in a text are male names or male pronouns, that might say something about female representation in the text.
+Are there any clear outliers? 
+
+For example, if four of the top five words in a text are male names or male pronouns, that might say something about female representation in the text.
+
 What trends do you see in the data? Is anything clearly decreasing or increasing over time?
 
+What surprises you?
+What makes you want to investigate more in a particular direction?
 
-#### Assumptions
+#### Question your results
+
+It is easy to think that a 
 
 #### Word Frequencies
 
