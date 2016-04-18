@@ -25,9 +25,13 @@ Notice the words that you don't see: words like 'a' or 'the.' Words like these, 
 ![voyant settings](/assets/voyant_settings.png)
 
 
+There are some instances in which we might care a lot about just these words. They can tell us *how* an author writes: those very words that might seem to convey much meeting are the building blocks of style. Tamper with someone's use of prepositions or pronouns and you will quickly change the nature of their voice. You can use this same feature to edit the list of stopwords. Doing so will give you greater control over the tool and allow you to fine-tune it to your particular research questions. 
+
 Return to the word cloud. Using the slider below the word cloud, you can reduce or expand the number of terms visible in the visualization. Slide it all the way to the left to include the maximum number of words. 
 
 ![voyant word clouse dense](/assets/voyant_word_cloud_dense.png)
+
+Just like the stopword list can be used to adjust the filters that help to give you meaningful results, this slider adjusts the visualization that you get. It should become clear as you play with both options that different filters and different visualizations can give you radically different readings. The results are far from objective: your own reading and the tool itself both force the 
 
 Say something about the noise that comes out looking at graphs like these.
 
@@ -35,4 +39,4 @@ update with some more analysis and language.
 
 So the main points are:
 give it three more instances of analysis for sweeney (the concordance is only half fleshed out right now).
-stopwords (say more), patterns (say more about this), noise in visualizations (say more)
+patterns (say more about this), noise in visualizations (say more)
