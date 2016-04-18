@@ -20,7 +20,7 @@ Concordances like these are some of the oldest forms of text analysis that we ha
 
 Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot simply by counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character. Looking at these counts, you could argue that these relatively 'simple' words might reflect the audience of the text: penny dreadfuls like *The String of Pearls* were aimed at working class audiences. In order to substantiate such a claim, we would probably want to look at other publications of the period to see whether or not such a list of frequently used words was typical or not. 
 
-Notice the words that you don't see: words like 'a' or 'the.' Words like these, **stopwords** are *so* common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right: 
+Notice the words that you do not see on this list: words like 'a' or 'the.' Words like these, **stopwords** are *so* common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right: 
 
 ![voyant settings](/assets/voyant_settings.png)
 
