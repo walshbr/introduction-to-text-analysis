@@ -25,6 +25,10 @@ You may have heard of **ngrams** from [the Google Ngram Viewer](https://books.go
 
 ![voyant collocates](/assets/voyant_collocates.png)
 
-In this case, it helps to know that the 'context' slider allows you to find sentences where two words occur near each other. So setting a context of three for 'sweeney' and 'todd' will give you all the three word phrases in which those two words occur: they do not need to be contiguous. So in this case "Sweeney Todd says" would match as would "Sweeney said Todd."  
+In this case, it helps to know that the 'context' slider allows you to find sentences where two words occur near each other. So setting a context of three for 'sweeney' and 'todd' will give you all the three word phrases in which those two words occur: they do not need to be contiguous. So in this case "Sweeney Todd says" would match as would "Sweeney said Todd." 
+
+Finish this example out by then graphing
+
+![graph of sweeney said](sweeney_said.png)
 
 Include the graph feature
