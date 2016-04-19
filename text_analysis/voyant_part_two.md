@@ -11,7 +11,17 @@ In the bottom-right pane Voyant provides with a series of options for examining 
 
 ![voyant contexts](/assets/voyant_contexts.png)
 
-In this list of the first ten uses of 'said', two of them are closely joined with a name: 'Sweeney Todd.' If we look back at the word cloud for the text, we can see that these two words occur with high frequency in the text itself. Given this information, we might become interested in a series of related questions? How often is he talking? What is he talking about? When we start to move beyond particular words towards an interest in clusters of phrases, we introduce a new concept: **collocates**. Collocations are words that tend to occur together in meaningful patterns: so 'good night' is a collocation because it is part of a recognized combination of words whose meaning change when put together. 'A night,' on the other hand, is not a collocation because the words do not form a unit of meaning in the same way.  
+In this list of the first ten uses of 'said', two of them are closely joined with a name: 'Sweeney Todd.' If we look back at the word cloud for the text, we can see that these two words occur with high frequency in the text itself. Given this information, we might become interested in a series of related questions? How often is he talking? What is he talking about? 
+
+When we start to move beyond particular words towards an interest in clusters of phrases, we introduce a number of new concepts: **ngrams** and **collocates**. 
+
+You may have heard of **ngrams** from [the Google Ngram Viewer](https://books.google.com/ngrams), which allows users to search large corpora for specified words or phrases. An ngram is a sequence of words that occurs next to each other of a particular length: the 'n' becomes a stand-in for the specified length of phrase. So take the following sentence:
+
+"This is a sentence to illustrate ngrams."
+
+"To illustrate" is an ngram of length two, while "is a sentence" is an ngram of length three. We use a convenient shorthand for referring to ngrams of this length: **bigrams** and **trigrams**.
+
+**Collocations** are words that tend to occur together in meaningful patterns: so 'good night' is a collocation because it is part of a recognized combination of words whose meaning change when put together. 'A night,' on the other hand, is not a collocation because the words do not form a unit of meaning in the same way. We can think of collocations as bigrams that occur with such frequency that the combination itself is meaningful in some way.
 
 teach about collocates
 
