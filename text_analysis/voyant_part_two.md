@@ -11,7 +11,7 @@ In the bottom-right pane Voyant provides with a series of options for examining 
 
 ![voyant contexts](/assets/voyant_contexts.png)
 
-In this list of the first ten uses of 'said', two of them are closely joined with a name: 'Sweeney Todd.' If we look back at the word cloud for the text, we can see that these two words occur with high frequency in the text itself. Given this information, we might become interested in a series of related questions? How often is he talking? What is he talking about? When we start to move beyond particular words towards an interest in clusters of phrases, we introduce a new concept: **collocates**. Collocations are words that tend to occur together:  
+In this list of the first ten uses of 'said', two of them are closely joined with a name: 'Sweeney Todd.' If we look back at the word cloud for the text, we can see that these two words occur with high frequency in the text itself. Given this information, we might become interested in a series of related questions? How often is he talking? What is he talking about? When we start to move beyond particular words towards an interest in clusters of phrases, we introduce a new concept: **collocates**. Collocations are words that tend to occur together in meaningful patterns: so 'good night' is a collocation because it is part of a recognized combination of words whose meaning change when put together. 'A night,' on the other hand, is not a collocation because the words do not form a unit of meaning in the same way.  
 
 teach about collocates
 
