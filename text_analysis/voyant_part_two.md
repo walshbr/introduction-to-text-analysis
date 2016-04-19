@@ -23,7 +23,8 @@ You may have heard of **ngrams** from [the Google Ngram Viewer](https://books.go
 
 **Collocations** are words that tend to occur together in meaningful patterns: so 'good night' is a collocation because it is part of a recognized combination of words whose meaning change when put together. 'A night,' on the other hand, is not a collocation because the words do not form a unit of meaning in the same way. We can think of collocations as bigrams that occur with such frequency that the combination itself is meaningful in some way.
 
-teach about collocates
-
-
 ![voyant collocates](/assets/voyant_collocates.png)
+
+In this case, it helps to know that the 'context' slider allows you to find sentences where two words occur near each other. So setting a context of three for 'sweeney' and 'todd' will give you all the three word phrases in which those two words occur: they do not need to be contiguous. So in this case "Sweeney Todd says" would match as would "Sweeney said Todd."  
+
+Include the graph feature
