@@ -1,0 +1,1 @@
+What are some situations in which you might to find trigrams where words occur in particular places?
