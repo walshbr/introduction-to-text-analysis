@@ -11,7 +11,9 @@ In the bottom-right pane Voyant provides with a series of options for examining 
 
 ![voyant contexts](/assets/voyant_contexts.png)
 
-Now that we are interested in a particular context, we might 
+Now that we are interested in a particular context, we might want to 
+
+teach about collocates
 
 
 ![voyant collocates](/assets/voyant_collocates.png)
