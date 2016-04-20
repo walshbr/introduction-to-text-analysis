@@ -6,8 +6,7 @@ It might appear as though distant reading is less critical: after all, you could
 
 #### Patterns
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Moretti: Patterns are real in the same way shadows are real. Patterns are shadows of data. <a href="https://twitter.com/hashtag/Bodmerlab?src=hash">#Bodmerlab</a> <a href="https://twitter.com/hashtag/DHGE?src=hash">#DHGE</a></p>&mdash; Radu Suciu (@radusuciu) <a href="https://twitter.com/radusuciu/status/722830317027852288">April 20, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Moretti Tweet embed
 
 Are there any clear outliers? 
 
