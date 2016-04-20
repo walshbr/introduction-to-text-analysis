@@ -29,8 +29,8 @@ In this case, it helps to know that the 'context' slider allows you to find sent
 
 Click on the row that lists 'said sweeney 52'. Many of the windows in Voyant are interactive, and selecting something will modify the visualizations and options available to you elsewhere in the tool. Selecting a row here will modify line graph that shares a space with the collocates table. You'll need to select 'Trends' at the top of the pane in order to switch back to the line graph. 
 
-When you do, you will see a graph of the selected collocation over time. 
+When you do, you will see a graph of the selected collocation over time. 'Sweeny' and 'said' occur within a space of three words in highly variable amounts over the course of the text. By looking at the graph, we can get a rough idea of when Sweeny Todd speaks over the course of the narrative.
 
 ![graph of sweeney said](/assets/sweeney_said.png)
 
-Th
+To graph things, Voyant breaks up your document into a series of segments (you can change how many it uses). Within each piece of the text it calculates how often the selected phrase or word appears. The 'trends' pane can be quite handy, and it will allow you to see individual words or phrases as they rise and fall over the course of a corpus. Think of it as the next step in critically analyzing a concordance. After all, texts occur in sequence, and we can learn a lot from examining the locations in which significant words tend to cluster. You can think of this graph feature as roughly charting the time of the narrative: it cares about the order in which words occur. As we shortly see in our next chapter on **topic modeling**, this is not always the case.
