@@ -29,7 +29,7 @@ In this case, it helps to know that the 'context' slider allows you to find sent
 
 Click on the row that lists 'said sweeney 52'. Many of the windows in Voyant are interactive, and selecting something will modify the visualizations and options available to you elsewhere in the tool. Selecting a row here will modify line graph that shares a space with the collocates table. You'll need to select 'Trends' at the top of the pane in order to switch back to the line graph. 
 
-When you do, you will see 
+When you do, you will see a graph of the selected collocation over time. 
 
 ![graph of sweeney said](/assets/sweeney_said.png)
 
