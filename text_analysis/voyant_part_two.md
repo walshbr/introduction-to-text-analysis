@@ -25,10 +25,12 @@ You may have heard of **ngrams** from [the Google Ngram Viewer](https://books.go
 
 ![voyant collocates](/assets/voyant_collocates.png)
 
-In this case, it helps to know that the 'context' slider allows you to find sentences where two words occur near each other. So setting a context of three for 'sweeney' and 'todd' will give you all the three word phrases in which those two words occur: they do not need to be contiguous. So in this case "Sweeney Todd says" would match as would "Sweeney said Todd." 
+In this case, it helps to know that the 'context' slider allows you to find sentences where two words occur near each other. So setting a context of three for 'sweeney' and 'todd' will give you all the three word phrases in which those two words occur: they do not need to be contiguous. So in this case "Sweeney Todd said" would match as would "Sweeney said Todd." Each row tells you how often those words appear within a certain distance from each other. 
+
+Click on the row that lists 'said sweeney 52'. Many of the windows in Voyant are interactive, and selecting something will modify the visualizations and options available to you elsewhere in the tool. Selecting a row here will modify line graph that shares a space with the collocates graph.
 
 Finish this example out by then graphing
 
-![graph of sweeney said](sweeney_said.png)
+![graph of sweeney said](/assets/sweeney_said.png)
 
-Include the graph feature
+Th
