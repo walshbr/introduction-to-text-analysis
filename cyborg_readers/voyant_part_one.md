@@ -24,6 +24,9 @@ Notice the words that you do not see on this list: words like 'a' or 'the.' Word
 
 ![voyant settings](/assets/voyant_settings.png)
 
+Use the dropdown list to switch from 'auto-detect' to none. 
+
+![](/assets/stopword_free_concordance.png)
 
 There are some instances in which we might care a lot about just these words. They can tell us *how* an author writes: those very words that might seem to convey much meeting are the building blocks of style. Tamper with someone's use of prepositions or pronouns and you will quickly change the nature of their voice. You can use this same feature to edit the list of stopwords. Doing so will give you greater control over the tool and allow you to fine-tune it to your particular research questions. 
 
