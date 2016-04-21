@@ -6,6 +6,8 @@ It might appear as though distant reading is less critical: after all, you could
 
 #### Patterns
 
+Moretti Tweet embed
+
 Are there any clear outliers? 
 
 For example, if four of the top five words in a text are male names or male pronouns, that might say something about female representation in the text.
