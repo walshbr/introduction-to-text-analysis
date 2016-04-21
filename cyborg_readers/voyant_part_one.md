@@ -28,7 +28,7 @@ Use the dropdown list to switch from 'auto-detect' to none. Now the concordance 
 
 ![concordance with no stopwords](/assets/stopword_free_concordance.png)
 
-Words like these occur with such frequency that we often need to remove them entirely in order to get meaningful results. But the list of words that we might want to remove might change depending on the context. You can use this same area of *Voyant* to edit the stoplist your analysis is using.
+Words like these occur with such frequency that we often need to remove them entirely in order to get meaningful results. But the list of words that we might want to remove might change depending on the context. For example, language does not remain stable over time. Different decades and centuries have different linguistic patterns for which you might need to account. You can use this same area of *Voyant* to edit the stoplist your analysis is using.
 
 There are some instances in which we might care a lot about just these words. They can tell us *how* an author writes: those very words that might seem to convey much meeting are the building blocks of style. Tamper with someone's use of prepositions or pronouns and you will quickly change the nature of their voice. You can use this same feature to edit the list of stopwords. Doing so will give you greater control over the tool and allow you to fine-tune it to your particular research questions. 
 
