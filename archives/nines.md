@@ -7,7 +7,7 @@ The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINE
 
 Preservation
 Sustainability
-**Open Access** refers to the copyright status of a collection of materials.
+**Open Access** refers to the copyright status of a collection of materials. While there are different levels and variants, open access broadly means that the materals are available with little to no restrictions. If you have ever tried to access a resource from say, JSTOR, from home only to realize that you need to be on campus in order to do so, you have encountered accessibility issues. 
 
 Interoperability
 
