@@ -1,15 +1,21 @@
 # NINES
 
-Once a text is encoded in TEI, the work of a textual scholar has only begun.
+Once a text is encoded in TEI, the work of a textual scholar has only begun. 
 
 NINES mission: 
-The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather 
+The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
 
 Preservation
 Sustainability
+
+Accessibility
 **Open Access** refers to the copyright status of a collection of materials. While there are different levels and variants, open access broadly means that the materials are available with little to no restrictions. Open access materials can be juxtaposed with paywalled materials: you may have tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content. 
 
 Interoperability
+
+
+
+Peer review:
 
 Academic journals rely on the concept of **peer review** to ensure that scholarship meets particular standards of rigor and relevance. The peer review process typically involves submitting an article or book to a series of blind reviewers who, anonymous themselves, write letters in support or rejection of the project. Should the piece pass, it moves onto publication and receives the explicit seal of approval from the publication. 
 
