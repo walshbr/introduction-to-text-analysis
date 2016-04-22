@@ -7,7 +7,7 @@ The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINE
 
 Preservation
 Sustainability
-**Open Access** refers to the copyright status of a collection of materials. While there are different levels and variants, open access broadly means that the materials are available with little to no restrictions. You may have tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content. Open access materials can be juxtaposed with paywalled materials:
+**Open Access** refers to the copyright status of a collection of materials. While there are different levels and variants, open access broadly means that the materials are available with little to no restrictions. Open access materials can be juxtaposed with paywalled materials: you may have tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content. 
 
 Interoperability
 
