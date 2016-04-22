@@ -7,7 +7,8 @@ The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINE
 
 Preservation
 Sustainability
-Open Access
+**Open Access** refers to the copyright status of a collection of materials.
+
 Interoperability
 
 Academic journals rely on the concept of **peer review** to ensure that scholarship meets particular standards of rigor and relevance. The peer review process typically involves submitting an article or book to a series of blind reviewers who, anonymous themselves, write letters in support or rejection of the project. Should the piece pass, it moves onto publication and receives the explicit seal of approval from the publication. 
