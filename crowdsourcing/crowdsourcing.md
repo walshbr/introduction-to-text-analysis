@@ -1,17 +1,12 @@
 # Crowdsourcing
 
-Define crowdsourcing
-
-**Crowdsourcing**, broadly defined, can be thought of as the application of many different people to a single problem. 
-
-
 Think of a common scenario: you are buying something online and, before the system will allow you to check out, you have to enter some text, transcribe some audio, or otherwise prove that you are not a robot. Doing so only takes a seconds of your time, but such transactions happen millions of times everyday on the Internet. The combined energy wasted on such a simple interaction is astounding.
 
-Now imagine that you could take all those hours of human labor and put them to something useful. The chances are pretty high, at some point in the past, you have unknowingly done so.
+Now imagine that you could take all those hours of human labor and put them to something useful. [reCAPTCHA](https://www.google.com/recaptcha/intro/index.html) aims to do just that. 
 
+The chances are pretty high, at some point in the past, you have unknowingly done so
 
-The idea behind [reCAPTCHA](https://www.google.com/recaptcha/intro/index.html).
-
+**Crowdsourcing**, broadly defined, can be thought of as the application of many different people to a single problem by having them each work on a piece of the project. 
 
 You will learn more about this in our chapter on [data cleaning](/data_cleaning/problems_with_data.md).
 
