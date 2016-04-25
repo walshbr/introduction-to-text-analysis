@@ -4,7 +4,10 @@ Define crowdsourcing
 
 **Crowdsourcing**, broadly defined, can be thought of as the application of many different people to a single problem. 
 
-If you have ever entered the text of an image to prove that you are not a robot while buying something online, you have probably participated in reCAPTCHA.
+
+Think of a common scenario: you are buying something online and, before the system will allow you to check out, you have to enter some text, transcribe some audio, or otherwise prove that you are not a robot. Doing so only takes a seconds of your time, but such transactions happen millions of times everyday on the Internet.
+
+you have probably participated in reCAPTCHA.
 
 You will learn more about this in our chapter on [data cleaning](/data_cleaning/problems_with_data.md).
 
