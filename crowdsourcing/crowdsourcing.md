@@ -6,6 +6,10 @@ Now imagine that you could take all those hours of human labor and put them to s
 
 **Crowdsourcing**, broadly defined, can be thought of as the application of many different people to a single problem by having them each work on a piece of the project. The most common type of crowdsourcing is used to correct text transcriptions. When you scan an image with text in it, sophisticated computer programs run over the image to make their own best guess as to what that text might be based on vast quantities of information. This process is known as **optical character recognition (OCR)**, and these guesses are often incorrect: given many variations in font, ink type, contrast, and more, the task is actually very complicated and difficult. These mistakes are often called **dirty OCR**, and an example might look something like this:
 
+"Qi-jtb"
+
+That might not mean a lot out of context, but alongside an image you could probably piece together the word it was meant to represent from the original print artifact:
+
 You will learn more about this in our chapter on [data cleaning](/data_cleaning/problems_with_data.md).
 
 *Wikipedia* is probably the most famous crowdsourcing example. Its many users apply their energy to common problems: the production of knowledge regarding particular topics. But *Wikipedia* is different from other forms of crowdsourcing in that it has no clear goal in sight. They will never solve knowledge: instead, *Wikipedia*'s devoted users will be continually working to develop a better understanding until the website goes offline. The user community creates their own goals, priorities, and tasks, all of which can lead to systemic problems: the articles online necessarily reflect the inherent interest of the material but, instead, the interests of the community of editors.
