@@ -8,7 +8,7 @@ Now imagine that you could take all those hours of human labor and put them to s
 
 "Qi-jtb"
 
-That might not mean a lot out of context, but alongside an image you could probably piece together the word it was meant to represent from the original print artifact:
+That might not mean a lot out of context, but alongside an image you could probably piece together the word it was meant to represent from the original print artifact. Ryan Cordell fixes on this particular poor scanning of the first word in the famous phrase "Quoth the Raven" from Edgar Allen Poe's "The Raven" as an example of the problems that scanning can present for studying historical documents.
 
 You will learn more about this in our chapter on [data cleaning](/data_cleaning/problems_with_data.md).
 
