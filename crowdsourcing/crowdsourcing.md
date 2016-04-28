@@ -16,8 +16,6 @@ Whereas microtasking projects ask users to work on a problem already laid out fo
 
 *Typewright*, *Recaptcha*, and *Transcribe Bentham* produce great results, but they do so by employing human energy to fairly menial tasks. *Wikipedia* points to an important question about crowdsourcing: can the crowd do more?
 
-Typewright
-
 Ethical questions over labor
 
 References:
