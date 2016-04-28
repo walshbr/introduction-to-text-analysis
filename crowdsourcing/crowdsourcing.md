@@ -20,3 +20,8 @@ Typewright
 
 Ethical questions over labor
 
+References:
+
+http://ryancordell.org/research/qijtb-the-raven/
+
+
