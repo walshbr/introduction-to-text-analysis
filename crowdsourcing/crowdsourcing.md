@@ -8,9 +8,9 @@ Now imagine that you could take all those hours of human labor and put them to s
 
 "Qi-jtb"
 
-That might not mean a lot out of context, but alongside an image you could probably piece together the word it was meant to represent from the original print artifact. Ryan Cordell fixes on this particular poor scanning of the first word in the famous phrase "Quoth the Raven" from Edgar Allen Poe's "The Raven" as an example of the problems that scanning can present for studying historical documents.
+That might not mean a lot out of context, but alongside an image you could probably piece together the word it was meant to represent from the original print artifact. Ryan Cordell fixes on this particular poor scanning of the first word in the famous phrase "Quoth the Raven" from Edgar Allen Poe's "The Raven" as an example of the problems that scanning can present for studying historical documents. Such errors complicate a lot of digital text analysis: a search through the document for "Quoth" would not return this instance unless someone cleaned it. 
 
-You will learn more about this in our chapter on [data cleaning](/data_cleaning/problems_with_data.md).
+You will learn more about this and other problems with digital data in our chapter on [data cleaning](/data_cleaning/problems_with_data.md). For now, suffice it to say that correcting such errors is long, tedious work. 
 
 *Wikipedia* is probably the most famous crowdsourcing example. Its many users apply their energy to common problems: the production of knowledge regarding particular topics. But *Wikipedia* is different from other forms of crowdsourcing in that it has no clear goal in sight. They will never solve knowledge: instead, *Wikipedia*'s devoted users will be continually working to develop a better understanding until the website goes offline. The user community creates their own goals, priorities, and tasks, all of which can lead to systemic problems: the articles online necessarily reflect the inherent interest of the material but, instead, the interests of the community of editors.
 
