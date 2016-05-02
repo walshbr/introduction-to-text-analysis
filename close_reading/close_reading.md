@@ -15,6 +15,14 @@ Close reading relies on, at the very least, two core principles about the text u
 
 Consider the following thought experiment:
 
-You have been growing more and more irritated with your roommate for some time now. Their actions just really get under your skin: dirty dishes, laundry everywhere, the works. 
+You have been growing more and more irritated with your roommate for some time now. Their actions just really get under your skin: dirty dishes, laundry everywhere, the works. One you come home to find the following note on the counter:
+
+
+> You took care of these dishes? Thanks.
+
+But you look over to find that the skin is still loaded up with dirty dishes. Is the note just old? Was your roommate in a hurry and actually asking you to wash dishes? Or were they sarcastically trying to give you grief for not having done your part? Lots of questions. Now imagine a slightly different note:
+
+
+
 
 Close reading, then, might be best described as an activity in which a reader simply lets no detail go unquestioned.
