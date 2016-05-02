@@ -13,6 +13,8 @@ Close reading relies on, at the very least, two core principles about the text u
 
 > Everything about the text matters, whether the author intended for it to matter or not.
 
-Steven 
+Consider the following thought experiment:
+
+Your 
 
 Close reading, then, might be best described as an activity in which a reader simply lets no detail go unquestioned.
