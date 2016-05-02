@@ -25,6 +25,9 @@ Is the note just old? Was your roommate in a hurry and actually asking you to wa
 
 **Text**: Take a look at that question mark. And then the curt second sentence. Your roommate put those things there on purpose to be rude.
 
-The list could go on and on. And we employ a similar range of skills when we read anything, be it fiction, poetry, historical documents.
+The list could go on and on. We employ a similar range of skills when we read anything, be it fiction, poetry, historical documents. Close reading tends to refer to the last category, and might be best described as an activity in which a reader simply lets no detail of the text go unquestioned. The best way at approaching a good close reading is by asking (and attempting to answer) questions of every piece of a text? Take the first sentence of the Sherlock Holmes story "A Scandal in Bohemia":
 
-Close reading, then, might be best described as an activity in which a reader simply lets no detail go unquestioned.
+
+> To Sherlock Holmes she is always *the* woman.
+
+Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. 
