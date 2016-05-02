@@ -11,10 +11,7 @@ This last point is worth pausing over: **close reading**, in particular, is ofte
 
 Close reading relies on, at the very least, two core principles about the text under study:
 
-
-> **Everything about the text matters, whether the author intended for it to matter or not.
-**
-
+> Everything about the text matters, whether the author intended for it to matter or not.
 
 
 Close reading, then, might be best described as an activity in which a reader simply lets no detail go unquestioned.
