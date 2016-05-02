@@ -7,4 +7,4 @@ Search for hidden meanings in a text
 Adapting a text and reflecting on it
 Examination of the details in the text
 
-This last point is worth pausing over: **close reading**, in particular, is often proclaimed as the primary analytical tool of what it means to be a student or teacher of literature. To read closely means to give careful attention to the various components that make up a text and 
+This last point is worth pausing over: **close reading**, in particular, is often proclaimed as the primary analytical tool of what it means to be a student or teacher of literature. To read closely means to give careful attention to the various components that make up a text and cause us to think or feel a certain way about it. 
