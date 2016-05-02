@@ -15,11 +15,15 @@ Close reading relies on, at the very least, two core principles about the text u
 
 Consider the following thought experiment. One day you come home to find the following note from your roommate on the counter:
 
-> You took care of these dishes? Thanks.
+> took care of these dishes? Thanks.
 
-You have been growing more and more irritated with your roommate for some time now. Their actions just really get under your skin: dirty dishes, laundry everywhere, the works. 
+Is the note just old? Was your roommate in a hurry and actually asking you to wash dishes? Or were they sarcastically trying to give you grief for not having done your part? Lots of questions. To imagine responses to them you might employ a range of assummptions and interpretations depending on the scenario:
 
-But you look over to find that the skin is still loaded up with dirty dishes. Is the note just old? Was your roommate in a hurry and actually asking you to wash dishes? Or were they sarcastically trying to give you grief for not having done your part? Lots of questions. To imagine responses to 
+Context: you have been growing more and more irritated with your roommate for some time now. Their actions just really get under your skin: dirty dishes, laundry everywhere, the works. 
+
+Author: your roommate is actually a great person and would never leave a passive aggressive note. In fact, they probably meant it as a joke.
+
+But you look over to find that the skin is still loaded up with dirty dishes.  
 
 
 
