@@ -15,6 +15,6 @@ Close reading relies on, at the very least, two core principles about the text u
 
 Consider the following thought experiment:
 
-Your 
+You have been growing more and more irritated with your roommate for some time now. 
 
 Close reading, then, might be best described as an activity in which a reader simply lets no detail go unquestioned.
