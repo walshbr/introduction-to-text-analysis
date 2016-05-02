@@ -30,4 +30,15 @@ The list could go on and on. We employ a similar range of skills when we read an
 
 > To Sherlock Holmes she is always *the* woman.
 
-Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. 
+In beginning a close reading here, I might ask:
+
+Who is she?
+More specifically, Why is the woman not named here?
+Why is 'the' italicized?
+Why is this passage in the present tense?
+Why does the sentence have a sense of balance, with a phrase about Holmes and a phrase about the woman?
+Why are there no punctuation marks other than the period here?
+
+You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage. This evidence then becomes the material you use to produce an analysis of your own (sometimes also called a close reading). 
+
+Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves. You might start by asking a series of questions about how close reading might be informed by or with the very idea 
