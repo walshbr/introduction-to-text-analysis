@@ -1,4 +1,4 @@
-*[Prism](prism.scholarslab.org)* 
+*[Prism](prism.scholarslab.org)* is
 
-![prism splash page](/assets/prism_splash_page.png)
+
 
