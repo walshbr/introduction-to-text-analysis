@@ -1,0 +1,1 @@
+Prism grew out of a series of conversations and exercises carried out by Johanna Drucker, Bethany Nowviskie, and Jerome McGann in INSERT DATE HERE. Every member of the group would receive a copy of a single text as well as a transparency and 
