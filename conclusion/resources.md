@@ -14,6 +14,8 @@ Kirsch, Adam. "[Technology is Taking Over English Departments: The False Promise
 
 ## R
 
+Cordell, Ryan. "[Qitjb the Raven](http://ryancordell.org/research/qijtb-the-raven/)."
+
 ## Other
 [Stanford Literary Lab](http://litlab.stanford.edu/)
 [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](https://www.nines.org)
