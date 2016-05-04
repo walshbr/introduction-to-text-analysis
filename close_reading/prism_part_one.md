@@ -7,6 +7,6 @@ The transparency game crystallizes a very basic element of textual analysis:
 
 > When we close read, certain textual components - phrases, words, characters - make us interpret a document in a particular way.
 
+The game asks you to make graphic representations of these decisions, to identify the word that makes you feel a certain way.
 
-
-*Prism*
+*Prism* is a digital version of the same game.
