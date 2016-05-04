@@ -1,1 +1,1 @@
-Think back to *[Prism](prism.scholarslab.org)* and the transparency game. So far we have only really focused on the single transparencies, the indiviudal interpretations supplied by each person, 
+Think back to *[Prism](prism.scholarslab.org)* and the transparency game. So far we have only really focused on the single transparencies, the individual interpretations supplied by each person, 
