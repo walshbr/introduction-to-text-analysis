@@ -9,4 +9,4 @@ The transparency game crystallizes a very basic element of textual analysis:
 
 The game asks you to make graphic representations of these decisions, to identify the word that makes you feel a certain way.
 
-*Prism* is a digital version of the same game.
+*Prism* is a digital version of the same game. Given a choice between a few predetermined categories, *Prism* asks you to highlight a given text.
