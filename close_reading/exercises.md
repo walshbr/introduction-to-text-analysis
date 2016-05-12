@@ -4,4 +4,8 @@ Questions 3-5 ask you to work with our class Prism, available from [here](INSERT
 
 2. What does the previous exercise make you notice about reading in general? About your own reading process?
  
-3. How did you read 
+3. How did you read differntly when using *Prism*? Can you imagine other variations of the tool? How might things with with five interpretive categories, for example?
+
+4. Say something interesting about the results that *Prism* gives you. What new interpretations does it give you about the text?
+
+5. Think more critically about the categories I have chosen for you to highlight. What assumptions do you think I have about them? How does putting them against each other in this way make you think about them differently?
