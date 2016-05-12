@@ -1,0 +1,2 @@
+1. What is your own background with computer 
+2. Take a few minutes and take seriously the following question: how do you read? What happens during the process? Describe it in 3-5 sentences.
