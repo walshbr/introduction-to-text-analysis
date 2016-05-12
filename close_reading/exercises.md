@@ -2,4 +2,4 @@
 
 2. What does the previous exercise make you notice about reading in general? About your own reading process?
  
-Questions 3-5 ask you to work you work with our class Prism, available from this URL. INSERT URL HERE.
+Questions 3-5 ask you to work you work with our class Prism, available from [here](INSERT URL HERE). INSERT URL HERE.
