@@ -12,6 +12,7 @@ The game asks you to make graphic representations of these decisions, to identif
 
 
 ![prism highlights of the raven](prism_raven_highlights.png)
+
 Given a choice between a few predetermined categories, *Prism* asks you to highlight a given text. 
 
 The tool then combines your markings with those made by everyone else who has ever read the same *Prism* text to help you visualize how people are marking things.
