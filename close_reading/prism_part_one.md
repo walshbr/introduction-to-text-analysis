@@ -23,5 +23,7 @@ Makes sense, and you might have done the same. By selecting the other category, 
 
 By design, *Prism* forces you to think more deeply about the categories that you are given for highlighting. The creator of this *Prism* wants you to mark for "sound" and "sense" - categories that relate to Alexander Pope's famous formulation of poetry from *An Essay on Criticism*. In it, Pope suggests that the sound of a poem should complement the  underlying meaning of the poem. So the creator of this game wants you to try and pinpoint where these categories overlap and where they depart. You might not have known this context, though you might have intuited elements of it. 
 
+How would reading be different if you do not know the exact meanings behind the categories?
+
 In the process of marking
 
