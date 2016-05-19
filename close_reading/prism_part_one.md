@@ -6,6 +6,20 @@ The transparency game crystallizes a very basic element of textual analysis:
 
 The game asks you to make graphic representations of these decisions, to identify the word that makes you feel a certain way. By lifting the transparency off the text, you are left with a series of colors that correspond to your reading of the document. You have traced the broad outlines of your interpretation onto the page.
 
-*Prism* is a digital version of the same game. Given a choice between a few predetermined categories, *Prism* asks you to highlight a given text. 
+*Prism* is a digital version of the same game, which raises a lot of questions relevant to the course of study in this book:
+
+> What takes place when we read?
+
+> How does a computer understand texts differently than a human? 
+
+> How can technology help or
+
+
+
+
+
+
+
+Given a choice between a few predetermined categories, *Prism* asks you to highlight a given text. 
 
 The tool then combines your markings with those made by everyone else who has ever read the same *Prism* text to help you visualize how people are marking things.
