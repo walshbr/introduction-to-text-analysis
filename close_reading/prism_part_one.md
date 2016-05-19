@@ -10,10 +10,15 @@ The game asks you to make graphic representations of these decisions, to identif
 
 ![prism splash page](/assets/prism_splash_page.jpg)
 
-*Prism* is a digital version of the same game. Given a choice between a few predetermined categories, *Prism* asks you to highlight a given text. In this example from Edgar Allan Poe's *The Raven*, readers are asked to mark for "sound" and "sense" - categories that relate to Alexander Pope's famous formulation of poetry from *An Essay on Criticism*. In it, he suggests that the sound of a poem should complement the underlying meaning of the poem. *Prism* 
+*Prism* is a digital version of the same game. Given a choice between a few predetermined categories, *Prism* asks you to highlight a given text. In this *Prism *example, readers are asked to mark an excerpt from Edgar Allan Poe's *The Raven*.
+The creator of this *Prism* wants you to mark for "sound" and "sense" - categories that relate to Alexander Pope's famous formulation of poetry from *An Essay on Criticism*. In it, Pope suggests that the sound of a poem should complement the  underlying meaning of the poem. 
+
+By 
 
 
 ![prism highlights of the raven](/assets/prism_raven_highlights.png)
 
+
+In the process of marking
 
 The tool then combines your markings with those made by everyone else who has ever read the same *Prism* text to help you visualize how people are marking things.
