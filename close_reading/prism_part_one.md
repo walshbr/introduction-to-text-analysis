@@ -16,7 +16,8 @@ The game asks you to make graphic representations of these decisions, to identif
 
 After you click "Save Highlights", the tool combines your markings with those made by everyone else who has ever read the same *Prism* text to help you visualize how people are marking things.
 
-
+![prism winning facet](/assets/prism_raven_winning_facet.png)
+![prism font size visualization](/assets/prism_raven_font_size.png)
 The creator of this *Prism* wants you to mark for "sound" and "sense" - categories that relate to Alexander Pope's famous formulation of poetry from *An Essay on Criticism*. In it, Pope suggests that the sound of a poem should complement the  underlying meaning of the poem.
 
 In the process of marking
