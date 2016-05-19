@@ -14,7 +14,7 @@ The game asks you to make graphic representations of these decisions, to identif
 
 ![prism highlights of the raven](/assets/prism_raven_highlights.png)
 
-After you click "Save Highlights", the tool combines your markings with those made by everyone else who has ever read the same *Prism* text to help you visualize how people are marking things. By default, *Prism* will bring up the **winning facet visualization**, which colors the text according to those 
+After you click "Save Highlights", the tool combines your markings with those made by everyone else who has ever read the same *Prism* text to help you visualize how people are marking things. By default, *Prism* will bring up the **winning facet visualization**, which colors the text according to the category that was most frequently marked for a particular 
 
 ![prism winning facet](/assets/prism_raven_winning_facet.png)
 The **font size visualization** lets you see which parts of the text tended to be more frequently thought of as belonging to a particular category: *Prism* resizes the text to reflect concentrations of reading. So in this example, where readers were marking for "sound," they tended to mark rhyming words more frequently.
