@@ -19,7 +19,7 @@ The game asks you to make graphic representations of these decisions, to identif
 After you click "Save Highlights", the tool combines your markings with those made by everyone else who has ever read the same *Prism* text to help you visualize how people are marking things. By default, *Prism* will bring up the **winning facet visualization**, which colors the text according to the category that was most frequently marked for each individual word. Clicking on an individual word will color the pie chart and tell you exactly what percentage the word got from each category. 
 
 ![prism winning facet](/assets/prism_raven_winning_facet.png)
-Seeing a graphic representation of the reading process might help you to notice things that you might not otherwise. For example, here  
+Seeing a graphic representation of the reading process might help you to notice things that you might not otherwise. For example, here you might notice that people tended to mark
 
 *Prism* comes with two visualizations baked into it. To change visualizations, click the "Font Size Visualization" button on the right sidebar. The **font size visualization** lets you see which parts of the text tended to be more frequently thought of as belonging to a particular category: *Prism* resizes the text to reflect concentrations of reading. So in this example, where readers were marking for "sound," they tended to mark rhyming words more frequently.
 ![prism font size visualization](/assets/prism_raven_font_size.png)
