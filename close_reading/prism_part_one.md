@@ -14,12 +14,12 @@ The game asks you to make graphic representations of these decisions, to identif
 
 ![prism highlights of the raven](/assets/prism_raven_highlights.png)
 
-After you click "Save Highlights", the tool combines your markings with those made by everyone else who has ever read the same *Prism* text to help you visualize how people are marking things.
+After you click "Save Highlights", the tool combines your markings with those made by everyone else who has ever read the same *Prism* text to help you visualize how people are marking things. By default, *Prism* will bring up the **winning facet visualization**, which colors the text according to those 
 
 ![prism winning facet](/assets/prism_raven_winning_facet.png)
-The font size visualization lets you see which parts of the text tended to be more frequently thought of as belonging to a particular category: *Prism* resizes the text to reflect concentrations of reading. So in this example, where readers were marking for "sound," they tended to mark rhyming words more frequently.
+The **font size visualization** lets you see which parts of the text tended to be more frequently thought of as belonging to a particular category: *Prism* resizes the text to reflect concentrations of reading. So in this example, where readers were marking for "sound," they tended to mark rhyming words more frequently.
 ![prism font size visualization](/assets/prism_raven_font_size.png)
-Makes sense, and you might have done the same. 
+Makes sense, and you might have done the same. By selecting the other category, you could check out what readers tended to mark for "sense."
 
 The creator of this *Prism* wants you to mark for "sound" and "sense" - categories that relate to Alexander Pope's famous formulation of poetry from *An Essay on Criticism*. In it, Pope suggests that the sound of a poem should complement the  underlying meaning of the poem.
 
