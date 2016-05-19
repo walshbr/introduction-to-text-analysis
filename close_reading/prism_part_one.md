@@ -6,7 +6,7 @@ The transparency game crystallizes a very basic element of textual analysis:
 
 The game asks you to make graphic representations of these decisions, to identify the word that makes you feel a certain way. By lifting the transparency off the text, you are left with a series of colors that correspond to your reading of the document. You have traced the broad outlines of your interpretation onto the page.
 
-![prism splash page](/assets/prism_splash_page)
+![prism splash page](/assets/prism_splash_page.png)
 
 *Prism* is a digital version of the same game. 
 
