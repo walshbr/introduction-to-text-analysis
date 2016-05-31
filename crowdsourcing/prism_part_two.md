@@ -17,7 +17,7 @@ When uploading a text, you will paste your text into the window provided. *Prism
 Below these main parameters for your text, you will be asked to make some other choices that may be less intuitive: 
 ![listed vs unlisted prism interface](/assets/prism_create_two.png)
 
-By default, *Prism* assumes that the text you will upload and all its markings will be made available to the public. Selecting **unlisted** will make your *Prism* private so that it will be viewable only to people with the URL. Once you create the *Prism*, your asf
+By default, *Prism* assumes that the text you will upload and all its markings will be made available to the public. Selecting **unlisted** will make your *Prism* private so that it will be viewable only to people to whom you send the URL. Once you create the *Prism*, you will want to be extra certain that you copy that URL down somewhere so that you can send it out to your group.
 
 Explain how you can upload things
 
