@@ -12,7 +12,8 @@ In this photo from the "Future Directions" page for *Prism*, you can see the pro
 
 ![prism creation interface](/assets/prism_create_one.png)
 
-When uploading a text, you will have to paste your text into the window provided. The text 
+When uploading a text, you will paste your text into the window provided. *Prism* does not play with super long texts, so you may have to play around in order to find a length that works for the tool as well as for you. The three facets on the right correspond to the three marking categories according to which you want users to highlight. The rest of these categories should be self-explanatory.
+
 Explain listed vs unlisted
 
 ![listed vs unlisted prism interface](/assets/prism_create_two.png)
