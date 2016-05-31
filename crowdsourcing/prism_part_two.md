@@ -21,6 +21,8 @@ By default, *Prism* assumes that the text you will upload and all its markings w
 
 *Prism* will also ask you what license you want to attribute to your materials. Many of the choices offered here are [creative commons](https://creativecommons.org/) licenses, but you can also choose public domain or fair use depending on your use case. If you are unsure, you can always select no license, but it would be worth doing a little research about the materials you are uploading to find out their legal status.
 
+[myprisms page](/assets/prism_myprisms_png)
+
 What texts would you want to mark?
 
 Who would you have mark them?
