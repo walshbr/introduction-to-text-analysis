@@ -19,7 +19,7 @@ It is worth pausing over all of these examples to consider the labor going into 
 > Is it enough that the users are contributing to the public good for these projects?
 > At what point does volunteer labor become exploitation?
 
-In many cases, these digital projects cost vast sums of money, and, so the critique goes, these funds could have been past along . In the case of *Recaptcha*, you might have taken part in a crowdsourcing project without even realizing it. These are open questions with no clear answers, but they are worth keeping in mind.
+In many cases, these digital projects cost vast sums of money, and, so the critique goes, these funds could have provided for actual paid employees instead of volunteers. In the case of *Recaptcha*, you might have taken part in a crowdsourcing project without even realizing it. These are open questions with no clear answers, but they are worth keeping in mind.
 
 > What are ethical practices for conducting volunteer projects on such a scale?
 > What would it take for you to feel adequately compensated for your time?
