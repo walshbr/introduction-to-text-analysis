@@ -14,6 +14,8 @@ In this photo from the "Future Directions" page for *Prism*, you can see the pro
 
 Explain listed vs unlisted
 
+![listed vs unlisted prism interface]()
+
 Explain how you can upload things
 
 What texts would you want to mark?
