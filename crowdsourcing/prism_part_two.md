@@ -37,4 +37,4 @@ As you work through *Prism*, think critically about the kinds of things that it 
 
 > Do you feel that this sort of work is fundamentally more empowering than the kind we saw with *Typewright*, *Recaptcha*, and *Transcribe Bentham*?
 
- > 
+ > Are there other, better ways of facilitating group collaboration, digital or otherwise?
