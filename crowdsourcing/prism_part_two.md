@@ -35,4 +35,6 @@ With these tools, you can upload a range of texts for any kind of experiment. It
 
 As you work through *Prism*, think critically about the kinds of things that it claims. 
 
-> Do you feel that this sort of work is fundamentally more empowering than the kind we saw with *ReCaptcha* 
+> Do you feel that this sort of work is fundamentally more empowering than the kind we saw with *Typewright*, *Recaptcha*, and *Transcribe Bentham*?
+
+ > 
