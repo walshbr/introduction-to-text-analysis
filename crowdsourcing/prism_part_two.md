@@ -25,10 +25,14 @@ Once you upload a text, the easiest way to find it will be to go your personal p
 
 ![myprisms page](/assets/prism_myprisms.png)
 
-With these tools, you can upload a range of texts for any kind of experiment. It is tempting to say that you are limited by your imagination, but you will run up against scenarios in which the parameters for the tool
+With these tools, you can upload a range of texts for any kind of experiment. It is tempting to say that you are limited by your imagination, but you will run up against scenarios in which the parameters for the tool cause you headaches. That's OK! Take these opportunities to reflect:
 
-What texts would you want to mark?
+> What will the tool not let you do?
+> 
+> Can you imagine good reasons for these limitations?
+> 
+> How would you design a different tool?
 
-Who would you have mark them?
+As you work through *Prism*, think critically about the kinds of things that it claims. 
 
-What categories would you select.
+> Do you feel that this sort of work is fundamentally more empowering than the kind we saw with *ReCaptcha* 
