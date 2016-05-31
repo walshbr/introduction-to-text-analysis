@@ -26,7 +26,7 @@ In many cases, these digital projects cost vast sums of money, and, so the criti
 
 These are open questions with no clear answers, but they are worth keeping in mind. I think this awareness and self-reflection must be the foundation of ethical ways of engaging with projects like these. 
 
-*Typewright*, *Recaptcha*, and *Transcribe Bentham* produce great results, but they do so by employing human energy to fairly menial tasks. *Wikipedia* points to an important question about crowdsourcing: 
+*Typewright*, *Recaptcha*, and *Transcribe Bentham* produce great results, but they do so by employing human energy to fairly menial tasks. *Wikipedia* raises other important questions about crowdsourcing: 
 
 > Can the crowd do more?
 > What happens when we give control of the project over to the crowd?
