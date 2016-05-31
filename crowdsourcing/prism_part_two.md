@@ -19,7 +19,7 @@ Below these main parameters for your text, you will be asked to make some other 
 
 By default, *Prism* assumes that the text you will upload and all its markings will be made available to the public. Selecting **unlisted** will make your *Prism* private so that it will be viewable only to people to whom you send the URL. Once you create the *Prism*, you will want to be extra certain that you copy that URL down somewhere so that you can send it out to your group.
 
-Explain how you can upload things
+*Prism* will also ask you what license you want to attribute to your materials. Many of the choices offered here are [creative commons](https://creativecommons.org/) licenses, but you can also choose public domain or fair use depending on your use case. If you are unsure, you can always select no license, but it would be worth doing a little research about the materials you are uploading to find out what kind of legal status they are in.
 
 What texts would you want to mark?
 
