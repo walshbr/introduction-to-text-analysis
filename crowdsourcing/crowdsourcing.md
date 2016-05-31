@@ -19,12 +19,12 @@ It is worth pausing over all of these examples to consider the labor going into 
 > Is it enough that the users are contributing to the public good for these projects?
 > At what point does volunteer labor become exploitation?
 
-In many cases, these digital projects cost vast sums of money, and, so the critique goes, these funds could have provided for actual paid employees instead of volunteers. In the case of *Recaptcha*, you might have taken part in a crowdsourcing project without even realizing it. These are open questions with no clear answers, but they are worth keeping in mind.
+In many cases, these digital projects cost vast sums of money, and, so the critique goes, these funds could have provided for actual paid employees instead of volunteers. Some of these crowdsourcing participants maye not even have realized they were working. In the case of *Recaptcha*, you might have taken part in a crowdsourcing project without even realizing it. 
 
 > What are ethical practices for conducting volunteer projects on such a scale?
 > What would it take for you to feel adequately compensated for your time?
 
-
-*Typewright*, *Recaptcha*, and *Transcribe Bentham* produce great results, but they do so by employing human energy to fairly menial tasks. *Wikipedia* points to an important question about crowdsourcing: 
+These are open questions with no clear answers, but they are worth keeping in mind. I think this awareness and self-reflection must be the foundation of ethical ways of engaging with projects like these. *Typewright*, *Recaptcha*, and *Transcribe Bentham* produce great results, but they do so by employing human energy to fairly menial tasks. *Wikipedia* points to an important question about crowdsourcing: 
 
 > Can the crowd do more?
+> What happens when we give control of the project over to the crowd?
