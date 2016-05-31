@@ -12,7 +12,7 @@ In this photo from the "Future Directions" page for *Prism*, you can see the pro
 
 ![prism creation interface](/assets/prism_create_one.png)
 
-When uploading a text, you will find 
+When uploading a text, you will have to paste your text into the window provided. The text 
 Explain listed vs unlisted
 
 ![listed vs unlisted prism interface](/assets/prism_create_two.png)
