@@ -10,7 +10,7 @@ In this photo from the "Future Directions" page for *Prism*, you can see the pro
 
 *Prism* offers a few options to facilitate group reading. Most importantly, it assumes very little about how its users will use the tool. Anyone can upload their own text as a *Prism* and, within certain guidelines, adapt the tool to their own purposes. When logged in, you can create a *Prism* by clicking the big create button to pull up the uploading interface:
 
-!(prism create page)
+!(prism create page)[]
 
 Explain listed vs unlisted
 
