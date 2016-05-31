@@ -19,11 +19,11 @@ It is worth pausing over all of these examples to consider the labor going into 
 > Is it enough that the users are contributing to the public good?
 > At what point does volunteer labor become exploitation?
 
-In the case of *Recaptcha*, you might have taken part in a crowdsourcing project without even realizing it. 
+In the case of *Recaptcha*, you might have taken part in a crowdsourcing project without even realizing it. These are open questions with no clear answers, but they are worth keeping in mind.
 
 > What are ethical practices for conducting volunteer projects on such a scale?
+> What would it take for you to feel adequately compensated for your time?
 
-These are open questions with no clear answers, but they are worth keeping in mind.
 
 *Typewright*, *Recaptcha*, and *Transcribe Bentham* produce great results, but they do so by employing human energy to fairly menial tasks. *Wikipedia* points to an important question about crowdsourcing: 
 
