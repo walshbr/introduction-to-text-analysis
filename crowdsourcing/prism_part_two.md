@@ -21,7 +21,7 @@ By default, *Prism* assumes that the text you will upload and all its markings w
 
 *Prism* will also ask you what license you want to attribute to your materials. Many of the choices offered here are [creative commons](https://creativecommons.org/) licenses, but you can also choose public domain or fair use depending on your use case. If you are unsure, you can always select no license, but it would be worth doing a little research about the materials you are uploading to find out their legal status.
 
-Once you upload a text, the easiest way to find it will be to go your "MYPRISMS" page by clicking the top menu.
+Once you upload a text, the easiest way to find it will be to go your personal page by clicking the "MYPRISMS" link from the top menu. In this profile page, you can easily access both those texts that you have uploaded as well as the ones that you have highlighted by others.
 
 ![myprisms page](/assets/prism_myprisms.png)
 
