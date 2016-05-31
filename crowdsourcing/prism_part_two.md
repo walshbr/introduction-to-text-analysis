@@ -25,6 +25,8 @@ Once you upload a text, the easiest way to find it will be to go your personal p
 
 ![myprisms page](/assets/prism_myprisms.png)
 
+With these tools, you can upload a range of texts for any kind of experiment. It is tempting to say that you are limited by your imagination, but you will run up against scenarios in which the parameters for the tool
+
 What texts would you want to mark?
 
 Who would you have mark them?
