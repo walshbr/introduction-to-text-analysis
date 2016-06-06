@@ -34,7 +34,7 @@ And we can represent it graphically, like so:
 
 ![marking up poem by hand](/assets/tei.png)
 
-
+I stopped short of assigning a rhyme scheme of *a b c b d b*, but you get the idea.
 
 The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with the kinds of systematic 
 
