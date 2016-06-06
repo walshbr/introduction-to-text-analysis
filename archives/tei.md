@@ -30,11 +30,13 @@ We can think of the passage, after all, as a series of nested concepts:
 * Each line has text.
 * Some of that text contains a rhyme.
 
-And we can represent it graphically, like so:
+And we can represent it graphically, like so, where black denotes the stanza boundaries, horizontal blue the lines, and the rotating colors under the final words describe a rhyme scheme:
 
 ![marking up poem by hand](/assets/tei.png)
 
-I stopped short of assigning a rhyme scheme of *a b c b d b*, but you get the idea.
+Or with text.
+
+I stopped short of assigning a rhyme scheme of *a b c b d b*, but you 
 
 The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with the kinds of systematic 
 
