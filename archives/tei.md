@@ -21,12 +21,10 @@ Computers have a hard with abstract concepts like this. They tend to work in hie
 >
 >The brave man with a sword!
 
-
-
-The computer does not really know much at all about this poem. 
+The computer does not really know much at all about this poem. A computer program looking at this passage would, most likely, not even recognize it as related. But we might be interested in making the computer better able to represent the kinds of things that a human might find interesting in the passage. 
 
 The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with the kinds of systematic 
 
 Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
 
-Once a text has been encoded, it can be represented more easily in a digital form. This may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. For example, it can make it possible to provide nuanced digital editions of a work.
+Once a text has been encoded, it can be represented more easily in a digital form. This may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. For example, TEI encoding can make it possible to provide nuanced digital editions of a work.
