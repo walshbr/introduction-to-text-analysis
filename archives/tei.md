@@ -23,6 +23,19 @@ Computers have a hard with abstract concepts like this. They tend to work in hie
 
 The computer does not really know much at all about this poem. A computer program looking at this passage would, most likely, not even recognize it as related. But we might be interested in making the computer better able to represent the kinds of things that a human might find interesting in the passage. 
 
+We can think of the passage, after all, as a series of nested concepts:
+
+* There is a stanza.
+* This stanza contains some lines.
+* Each line has text.
+* Some of that text contains a rhyme.
+
+And we can represent it graphically, like so:
+
+![marking up poem by hand](/assets/tei.png)
+
+
+
 The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with the kinds of systematic 
 
 Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
