@@ -9,10 +9,10 @@ This book studies texts and the things that computers can do with them. But, as 
 
 Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures. 
 
-
-
-
-
+ 
+ 
+ 
+ 
 
 >Yet each man kills the thing he loves
 >
