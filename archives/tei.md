@@ -9,7 +9,24 @@ This book studies texts and the things that computers can do with them. But, as 
 
 Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures. 
 
+>Yet each man kills the thing he loves
+>
+>By each let this be heard.
+>
+>Some do it with a bitter look,
+>
+>Some with a flattering word.
+>
+>The coward does it with a kiss,
+>
+>The brave man with a sword!
+
+
+
 The computer does not really know much at all about this poem. 
 
-The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with 
-baby examples
+The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with the kinds of systematic 
+
+Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
+
+Once a text has been encoded, it can be represented more easily in a digital form. This may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. 
