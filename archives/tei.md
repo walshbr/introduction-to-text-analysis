@@ -7,7 +7,6 @@ This book studies texts and the things that computers can do with them. But, as 
 
 > How does it mean?
 
-
-Computers have a hard
+Computers have a hard with abstract concepts like this. An example:
 what it is
 baby examples
