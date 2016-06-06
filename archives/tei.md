@@ -9,11 +9,6 @@ This book studies texts and the things that computers can do with them. But, as 
 
 Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures. 
 
- 
- 
- 
- 
-
 >Yet each man kills the thing he loves
 >
 >By each let this be heard.
@@ -25,11 +20,6 @@ Computers have a hard with abstract concepts like this. They tend to work in hie
 >The coward does it with a kiss,
 >
 >The brave man with a sword!
-
-
-
-
-
 
 The computer does not really know much at all about this poem. A computer program looking at this passage would, most likely, not even recognize it as related. But we might be interested in making the computer better able to represent the kinds of things that a human might find interesting in the passage. 
 
