@@ -1,14 +1,6 @@
 # TEI
 
 
-This book studies texts and the things that computers can do with them. But, as you read along, you may notice that they cannot do all that much. Many of the methods that you will learn are simply different ways are simply sophisticated ways of counting words, but it should be immediately clear that reading entails far more complicated processes of interpretation and analysis. When we read, we tend to skip straight on to much more complicated understandings of a text:
-
-> What does it mean?
-
-> How does it mean?
-
-Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures. 
-
 >Yet each man kills the thing he loves
 >
 >By each let this be heard.
@@ -21,7 +13,17 @@ Computers have a hard with abstract concepts like this. They tend to work in hie
 >
 >The brave man with a sword!
 
-The computer does not really know much at all about this poem. A computer program looking at this passage would, most likely, not even recognize it as related. But we might be interested in making the computer better able to represent the kinds of things that a human might find interesting in the passage. 
+
+This book studies texts and the things that computers can do with them. But, as you read along, you may notice that they cannot do all that much. Many of the methods that you will learn are simply different ways are simply sophisticated ways of counting words, but it should be immediately clear that reading entails far more complicated processes of interpretation and analysis. When we read, we tend to skip straight on to much more complicated understandings of a text:
+
+> What does it mean?
+
+> How does it mean?
+
+Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures, and, even then, only know about those structures that someone has told it about. For example, if I were to say to a computer, "Hey! Find me the poem in this lesson!" It would have no idea what I was talking about: I have to let find some way of telling it where it can find the poem. Right now it just thinks the text up there is no different from the other lines of thext on this page.
+
+
+A computer program looking at the above passage from Oscar Wilde's *The Ballad of Reading Gaol* would, most likely, not even recognize those six lines as related in any way. But we might be interested in making the computer better able to represent the kinds of things that a human might find interesting in the passage. 
 
 We can think of the passage, after all, as a series of nested concepts:
 
