@@ -34,7 +34,7 @@ And we can represent it graphically, like so, where black denotes the stanza bou
 
 ![marking up poem by hand](/assets/tei.png)
 
-Or with text.
+But you probably would need a moment to realize what was going on if you came to this having not highlighted things yourself. We can perform a similar function with text annotations, which gets closer to a meaning that we could understand without having any prompting.
 
 I stopped short of assigning a rhyme scheme of *a b c b d b*, but you 
 
