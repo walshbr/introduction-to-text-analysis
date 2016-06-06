@@ -32,11 +32,11 @@ We can think of the passage, after all, as a series of nested concepts:
 
 And we can represent it graphically, like so, where black denotes the stanza boundaries, horizontal blue the lines, and the rotating colors under the final words describe a rhyme scheme:
 
-![marking up poem by hand](/assets/tei.png)
+![marking up poem by hand graphically](/assets/tei_graphic.png)
 
-But you probably would need a moment to realize what was going on if you came to this having not highlighted things yourself. We can perform a similar function with text annotations, which gets closer to a meaning that we could understand without having any prompting.
+But you probably would need a moment to realize what was going on if you came to this having not highlighted things yourself. We can perform a similar function with text annotations, which gets closer to a meaning that we could understand without having any prompting:
 
-I stopped short of assigning a rhyme scheme of *a b c b d b*, but you 
+![tei with text annotations](/assets/tei.png)
 
 The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with the kinds of systematic 
 
