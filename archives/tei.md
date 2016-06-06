@@ -20,12 +20,11 @@ This book studies texts and the things that computers can do with them. But, as 
 
 > How does it mean?
 
-Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures, and, even then, only know about those structures that someone has told it about. For example, if I were to say to a computer, "Hey! Find me the poem in this lesson!" It would have no idea what I was talking about: I have to let find some way of telling it where it can find the poem. Right now it just thinks the text up there is no different from the other lines of thext on this page.
+Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures, and, even then, only know about those structures that someone has told it about. For example, if I were to say to a computer, "Hey! Find me the poem in this lesson!" It would have no idea what I was talking about: I have to let find some way of telling it where it can find the poem. Right now it just thinks the text up there is no different from the other lines of text on this page.
 
+A computer program looking at the above passage from Oscar Wilde's *The Ballad of Reading Gaol* would, most likely, not even recognize those six lines as related in any way. Nor it would understand anything about how the internal components of those lines relate to each other. There are a number of ways to do this, and we can get towards one that works for a computer by working through a few that you might use on your own. 
 
-A computer program looking at the above passage from Oscar Wilde's *The Ballad of Reading Gaol* would, most likely, not even recognize those six lines as related in any way. But we might be interested in making the computer better able to represent the kinds of things that a human might find interesting in the passage. 
-
-We can think of the passage, after all, as a series of nested concepts:
+Think about all the annotations that you put on your own pages as you read them. If you are anything like me, your markings tend to be all over the place. But imagine if you were to systematically note certain structual features of the text. We can think of the passage, after all, as a series of nested concepts:
 
 * There is a stanza.
 * This stanza contains some lines.
