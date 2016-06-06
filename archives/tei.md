@@ -24,7 +24,7 @@ Computers have a hard with abstract concepts like this. They tend to work in hie
 
 A computer program looking at the above passage from Oscar Wilde's *The Ballad of Reading Gaol* would, most likely, not even recognize those six lines as related in any way. Nor it would understand anything about how the internal components of those lines relate to each other. There are a number of ways to do this, and we can get towards one that works for a computer by working through a few that you might use on your own. 
 
-Think about all the annotations that you put on your own pages as you read them. If you are anything like me, your markings tend to be all over the place. But imagine if you were to systematically note certain structual features of the text. We can think of the passage, after all, as a series of nested concepts:
+Think about all the annotations that you put on your own pages as you read them. If you are anything like me, your markings tend to be all over the place. But imagine if you were to systematically note certain structural features of the text. We can think of the passage, after all, as a series of nested concepts:
 
 * There is a stanza.
 * This stanza contains some lines.
