@@ -7,6 +7,9 @@ This book studies texts and the things that computers can do with them. But, as 
 
 > How does it mean?
 
-Computers have a hard with abstract concepts like this. An example:
-what it is
+Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures. 
+
+The computer does not really know much at all about this poem. 
+
+The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with 
 baby examples
