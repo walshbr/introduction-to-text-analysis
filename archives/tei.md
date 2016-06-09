@@ -39,19 +39,43 @@ But you probably would need a moment to realize what was going on if you came to
 
 ![tei with text annotations](/assets/tei.png)
 
-But for a computer to understand this, we have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines, as you will learn in the chapter here on Cyborg readers The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with the kinds of systematic 
+But for a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on Cyborg readers. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The *Text Encoding Initiative* (TEI), the result of this work, is an attempt to make abstract humanities concepts legible to machines. TEI applied to the passage, might begin to look something like this:
 
->Yet each man kills the thing he loves
->
->By each let this be heard.
->
->Some do it with a bitter look,
->
->Some with a flattering word.
->
->The coward does it with a kiss,
->
->The brave man with a sword!
+```
+<lg>
+<l>Yet each man kills the thing he loves</l>
 
-Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
+<l>By each let this be heard.</l>
+
+<l>Some do it with a bitter look,</l>
+
+<l>Some with a flattering word.</l>
+
+<l>The coward does it with a kiss,</l>
+
+<l>The brave man with a sword!</l>
+</lg>```
+
+Notice how our concepts like 'stanza' and 'line' have here translated into particular **tags** like <lg> and <l>. Each set of tags has both an opening (<lg>) and a closing (</lg>) tag, the latter of which is almost identical except for a forward slash - /. These framing elements help the computer understand the boundaries of the concepts we are describing, and they help to provide structure to the text. They also have intuitive relationships to the concepts that they represent: <l> corresponds to line, and <lg> corresponds to line group. Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
+
+We can give further details to the poem. For example:
+
+```
+<lg type="stanza">
+  <l>Yet each man kills the thing he loves</l>
+
+  <l>By each let this be heard.</l>
+
+  <l>Some do it with a bitter look,</l>
+
+  <l>Some with a flattering word.</l>
+
+  <l>The coward does it with a kiss,</l>
+
+  <l>The brave man with a sword!</l>
+</lg>
+<lg>
+  <l> A short second stanza that I've made up.
+</lg```
+
 Once a text has been **encoded** in this way, it can be represented more easily in a digital form. This may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. For example, TEI encoding can make it possible to provide nuanced digital editions of a work.
