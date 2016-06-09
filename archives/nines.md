@@ -16,7 +16,14 @@ We have already talked a bit about the functions you can get from TEI,but, after
 
 > What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
 
-One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go that museum in order to read the document. Putting it on the internet entails
+One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go that museum in order to read the document. Putting materials on the internet raises a variety of legal and financial issues. After all, these digital resources require a great deal of time, funding, and energy to produce. 
+
+> Will you make your materials freely available to anyone with an internet connection?
+> Or will you require payment to see them?
+
+If you have ever tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content, you have encountered such **paywalled** materials. Resources like these can be juxtaposed with **open access** materials.
+
+**Open Access** refers to the copyright status of a collection of materials. While there are different levels and variants, open access broadly means that the materials are available with little to no restrictions. 
 
 The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
 
@@ -24,7 +31,7 @@ Preservation
 Sustainability
 
 Accessibility
-**Open Access** refers to the copyright status of a collection of materials. While there are different levels and variants, open access broadly means that the materials are available with little to no restrictions. Open access materials can be juxtaposed with paywalled materials: you may have tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content. 
+
 
 Interoperability
 
