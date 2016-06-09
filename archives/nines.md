@@ -25,9 +25,7 @@ If you have ever tried to access a resource from an online newspaper only to be 
 
 > Keeping materials online requires sustained funding over time. How can open access work be maintained if they are presented for free?
 
-Once materials are put online, it is possible to connect them to a wider, global network of similar digital materials. In the same way that a library gathers information about the materials so that they may be organized in a systematic way (more on this **metadata** topic in our chapter on "Problems with Data."
-
-The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource that attempts to gather archived materials pertaining to the Nineteenth Century.
+Once materials are put online, it is possible to connect them to a wider, global network of similar digital materials. In the same way that a library gathers information about the materials so that they may be organized in a systematic way (more on  **metadata** in our chapter on "Problems with Data), the process has to be overseen carefully in order for this networking to happen. The Networked Infrastructure for Nineteenth-Century Electronic Scholarship ([NINES](https://www.nines.org)) is one such resource that attempts to gather archived materials pertaining to the Nineteenth Century. 
 
 Preservation
 Sustainability
@@ -41,7 +39,3 @@ Academic journals rely on the concept of **peer review** to ensure that scholars
 Digital projects take an extraordinary amount of work and resources, so it makes sense that their contributors want credit for their work. Peer review has become central to how promotion and advancement takes place in the academy: it allows faculty members to assure their colleagues that their work is worthy of funding, among other reasons. Digital projects present unique complications to this process: they require reviewers who understand not only the content but also the technical aspects of a project. Furthermore, it can be difficult to evaluate something like an archive, when a large part of our training focuses on the production and evaluation of essays. 
 
 One of the early missions of NINES was to provide scholars who could perform this service. By assembling digital humanities scholars that could evaluate digital archives and attest to their successes or flaws, project coordinators could better make their work available and understandable to non-digital colleagues.
-
-Walk through NINES
-
-NINES as a federation of archives
