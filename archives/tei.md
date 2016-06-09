@@ -82,7 +82,8 @@ One last one. Remember our rhyme scheme and line numbers? We can encode those to
     <l n="4" rhyme="b">Some with a flattering <rhyme>word</rhyme>.</l>
     <l n="5" rhyme="d">The coward does it with a <rhyme>kiss</rhyme>,</l>
     <l n="6" rhyme="b">The brave man with a <rhyme>sword</rhyme>!</l>
-  </lg>```
+  </lg>
+ ```
 
 I have added attributes to denote the line numbers for each line as well as the rhyme scheme, and then a new <rhyme> tag for each line denotes what word the rhyme is associated with. All of the tags used here can be found in the tutorial on poetry of the [TEI by Example](http://teibyexample.org/modules/TBED04v00.htm) page.
 
