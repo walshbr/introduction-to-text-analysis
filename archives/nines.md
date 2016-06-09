@@ -1,6 +1,6 @@
 # NINES
 
-Once a text is encoded in TEI, the work of a textual scholar has only begun. 
+Once a text is encoded in TEI, the work of a textual scholar has only begun. Most of the peer-reviewed materials in NINES are encoded in TEI, though it might not be clearly apparent at first glance. 
 
 NINES mission: 
 The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
