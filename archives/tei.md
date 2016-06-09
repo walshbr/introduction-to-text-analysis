@@ -72,4 +72,15 @@ We can give further details to the poem. For example:
 
 Here I've added an exta stanza group as well as an outer tag to denote this is, in fact, a poem. We also give **attributes** to certain tags to give more information about them - type="stanza" tells the computer that the contents of this tag refer to a poem. Remember the nested hierarchy we talked about earlier? Notice how we are representing it graphically by indentation. The outer poem element contains two stanzas, which contain some lines, and those have some text. You can run your eye down the text and see the structure. Some programming languages will actually error if you do not pay attention to such things. But, either way, it just helps us keep things clean and easy to read. 
 
+One last one:
+
+  <lg type="stanza">
+    <l rhyme="">Yet each man kills the thing he loves</l>
+    <l rhyme="">By each let this be heard.</l>
+    <l rhyme="">Some do it with a bitter look,</l>
+    <l rhyme="">Some with a flattering word.</l>
+    <l rhyme="">The coward does it with a kiss,</l>
+    <l rhyme="">The brave man with a sword!</l>
+  </lg>
+
 Once a text has been **encoded** in this way, it can be represented more easily in a digital form. This may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. For example, TEI encoding can make it possible to provide nuanced digital editions of a work.
