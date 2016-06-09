@@ -21,9 +21,7 @@ One good reason might be to increase access to the materials. After all, a manus
 > Will you make your materials freely available to anyone with an internet connection?
 > Or will you require payment to see them?
 
-If you have ever tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content, you have encountered such **paywalled** materials. Resources like these can be juxtaposed with **open access** materials.
-
-**Open Access** refers to the copyright status of a collection of materials. While there are different levels and variants, open access broadly means that the materials are available with little to no restrictions. 
+If you have ever tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content, you have encountered such **paywalled** materials. Resources like these can be juxtaposed with **open access** materials. While there are different levels and variants, open access broadly means that the materials are provided available with little to no restrictions. 
 
 The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
 
