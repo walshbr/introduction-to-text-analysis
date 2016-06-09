@@ -1,6 +1,6 @@
 # NINES
 
-Once a text is encoded in TEI, the work of a textual scholar has only begun. Most of the peer-reviewed materials in NINES are encoded in TEI, though it might not be clearly apparent at first glance. 
+Once a text is encoded in TEI, the work of a textual scholar has only begun. Most of the peer-reviewed materials in NINES are encoded in TEI, though it might not be clearly apparent at first glance. You can find the materials of *The Old Bailey Online* by clicking "View as XML" at the bottom of a particular entry (TEI is a version of XML, which is a more general [markup language](https://en.wikipedia.org/wiki/Markup_language)). 
 
 NINES mission: 
 The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
@@ -12,8 +12,6 @@ Accessibility
 **Open Access** refers to the copyright status of a collection of materials. While there are different levels and variants, open access broadly means that the materials are available with little to no restrictions. Open access materials can be juxtaposed with paywalled materials: you may have tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content. 
 
 Interoperability
-
-
 
 Peer review:
 
