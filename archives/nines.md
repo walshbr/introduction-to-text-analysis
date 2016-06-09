@@ -16,7 +16,7 @@ We have already talked a bit about the functions you can get from TEI,but, after
 
 > What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
 
-One good reason might be to increase access to the materials. 
+One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go that museum in order to read the document. Putting it on the internet entails
 
 The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
 
