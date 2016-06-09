@@ -39,7 +39,19 @@ But you probably would need a moment to realize what was going on if you came to
 
 ![tei with text annotations](/assets/tei.png)
 
-The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with the kinds of systematic 
+But for a computer to understand this, we have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines, as you will learn in the chapter here on Cyborg readers The *Text Encoding Initiative* (TEI) is an attempt to join abstract humanities concepts with the kinds of systematic 
+
+>Yet each man kills the thing he loves
+>
+>By each let this be heard.
+>
+>Some do it with a bitter look,
+>
+>Some with a flattering word.
+>
+>The coward does it with a kiss,
+>
+>The brave man with a sword!
 
 Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
 Once a text has been **encoded** in this way, it can be represented more easily in a digital form. This may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. For example, TEI encoding can make it possible to provide nuanced digital editions of a work.
