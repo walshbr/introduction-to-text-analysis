@@ -12,7 +12,7 @@ When you look at the entry on the *Old Bailey Online*, almost all all the tags d
 
 ![Same entry without TEI](/assets/old_bailey_sans_tei.png)
 
-We have already talked a bit about the functions you can get from TEI, but, after all, those might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
+We have already talked a bit about the functions you can get from TEI,but, after all, those might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
 
 What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
 NINES mission: 
