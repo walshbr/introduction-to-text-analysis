@@ -1,10 +1,17 @@
 # NINES
 
-Once a text is encoded in TEI, the work of a textual scholar has only begun. Most of the peer-reviewed materials in NINES are encoded in TEI, though it might not be clearly apparent at first glance. You can find the materials of *The Old Bailey Online* by clicking "View as XML" at the bottom of a particular entry (TEI is a version of XML, which is a more general [markup language](https://en.wikipedia.org/wiki/Markup_language)). If you do so for [this entry](http://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on a robbery case involving mention of Jack the Ripper, you can take a look at their TEI. It might not recognize a lot of the tags (there are *loads* of TEI tags), but the general arrangement of them should look familiar:
+Once a text is encoded in TEI, the work of a textual scholar has only begun. Encoding is the first step in a long process of preparing documents, historical or otherwise, for presentation and distribution on the web. Now that you have some sense of what it takes to begin thinking about putting a document online, let's think more about the stakes. 
+
+When you find a work encoded in TEI online, it might not be clearly apparent at first glance. You can find the TEI materials of *The Old Bailey Online* by clicking "View as XML" at the bottom of a particular entry (TEI is a version of XML, which is a more general [markup language](https://en.wikipedia.org/wiki/Markup_language)). If you do so for [this entry](http://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on a robbery case involving mention of Jack the Ripper, you can take a look at their TEI. It might not recognize a lot of the tags (there are *loads* of TEI tags), but the general arrangement of them should look familiar:
 
 ![Jack the Ripper TEI](/assets/old_bailey_tei.png)
 
-A lot of working with technology like this simply entails 
+Focus on what you do know: the tagging syntax, and where to go to look for help. A lot of working with technology consists of not panicking and then looking up what you don't know. But I digress.
+
+When you look at the entry on the *Old Bailey Online*, almost all of these tags disappear:
+
+![](/assets/old_bailey_sans_tei.png)
+
 NINES mission: 
 The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
 
