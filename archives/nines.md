@@ -8,15 +8,16 @@ When you find a work encoded in TEI online, it might not be clearly apparent at 
 
 Focus on what you do know: the tagging syntax, and where to go to look for help. A lot of working with technology consists of not panicking and then looking up what you don't know. But I digress.
 
-When you look at the entry on the *Old Bailey Online*, almost all all the tags disappear:
+When you look at the entry on the *Old Bailey Online*, almost all the tags disappear:
 
 ![Same entry without TEI](/assets/old_bailey_sans_tei.png)
 
 We have already talked a bit about the functions you can get from TEI,but, after all, those might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
 
 > What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
->
-NINES mission: 
+
+One good reason might be to increase access to the materials. 
+
 The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
 
 Preservation
