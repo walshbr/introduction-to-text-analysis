@@ -4,6 +4,7 @@ Once a text is encoded in TEI, the work of a textual scholar has only begun. Mos
 
 ![Jack the Ripper TEI](/assets/old_bailey_tei.png)
 
+A lot of working with technology like this simply entails 
 NINES mission: 
 The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
 
