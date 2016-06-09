@@ -23,15 +23,14 @@ One good reason might be to increase access to the materials. After all, a manus
 
 If you have ever tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content, you have encountered such **paywalled** materials. Resources like these can be juxtaposed with **open access** materials. While there are different levels and variants, open access broadly means that the materials are provided available with little to no restrictions. For many, the choice is an ethical and a political one. But open access materials do raise serious financial questions:
 
-> How can open access work be funded without 
+> Keeping materials online requires sustained funding over time. How can open access work be maintained if they are presented for free?
 
-The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource. NINES attempts to gather archived materials pertaining to the Nineteenth Century in a way that promotes access and 
+Once materials are put online, it is possible to connect them to a wider, global network of similar digital materials. In the same way that a library gathers information about the materials so that they may be organized in a systematic way (more on this **metadata** topic in our chapter on "Problems with Data."
+
+The Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES) is one such resource that attempts to gather archived materials pertaining to the Nineteenth Century.
 
 Preservation
 Sustainability
-
-Accessibility
-
 
 Interoperability
 
