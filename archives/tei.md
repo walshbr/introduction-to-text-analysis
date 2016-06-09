@@ -43,17 +43,12 @@ But for a computer to understand this, we need an even more delineated way of de
 
 ```
 <lg>
-<l>Yet each man kills the thing he loves</l>
-
-<l>By each let this be heard.</l>
-
-<l>Some do it with a bitter look,</l>
-
-<l>Some with a flattering word.</l>
-
-<l>The coward does it with a kiss,</l>
-
-<l>The brave man with a sword!</l>
+  <l>Yet each man kills the thing he loves</l>
+  <l>By each let this be heard.</l>
+  <l>Some do it with a bitter look,</l>
+  <l>Some with a flattering word.</l>
+  <l>The coward does it with a kiss,</l>
+  <l>The brave man with a sword!</l>
 </lg>```
 
 Notice how our concepts like 'stanza' and 'line' have here translated into particular **tags** like <lg> and <l>. Each set of tags has both an opening (<lg>) and a closing (</lg>) tag, the latter of which is almost identical except for a forward slash - /. These framing elements help the computer understand the boundaries of the concepts we are describing, and they help to provide structure to the text. They also have intuitive relationships to the concepts that they represent: <l> corresponds to line, and <lg> corresponds to line group. Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
@@ -61,21 +56,20 @@ Notice how our concepts like 'stanza' and 'line' have here translated into parti
 We can give further details to the poem. For example:
 
 ```
-<lg type="stanza">
-  <l>Yet each man kills the thing he loves</l>
+<lg type="poem">
+  <lg type="stanza">
+    <l>Yet each man kills the thing he loves</l>
+    <l>By each let this be heard.</l>
+    <l>Some do it with a bitter look,</l>
+    <l>Some with a flattering word.</l>
+    <l>The coward does it with a kiss,</l>
+    <l>The brave man with a sword!</l>
+  </lg>
+  <lg type="stanza">
+    <l> A short second stanza that I've made up.</l>
+  </lg>
+</lg>```
 
-  <l>By each let this be heard.</l>
-
-  <l>Some do it with a bitter look,</l>
-
-  <l>Some with a flattering word.</l>
-
-  <l>The coward does it with a kiss,</l>
-
-  <l>The brave man with a sword!</l>
-</lg>
-<lg>
-  <l> A short second stanza that I've made up.
-</lg```
+Here I've added an exta stanza group as well as an outer tag to denote this is, in fact, a poem. We also give **attributes** to certain tags to give more information about them - type="stanza" tells the computer that the contents of this tag refer to a poem. Remember the nested hierarchy we talked about earlier? Notice how we are representing it graphically by indentation. The outer poem element contains two stanzas, which contain some lines, and those have some text. You can run your eye down the text and see the structure. Some programming languages will actually error if you do not pay attention to such things. But, either way, it just helps us keep things clean and easy to read. 
 
 Once a text has been **encoded** in this way, it can be represented more easily in a digital form. This may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. For example, TEI encoding can make it possible to provide nuanced digital editions of a work.
