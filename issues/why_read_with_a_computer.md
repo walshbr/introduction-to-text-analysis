@@ -24,4 +24,6 @@ The implicit claim in those bullet points is that computers affect the reading p
 * How does reading with technology exacerbate racial, social, and economic inequalities?
 
 
-You will have to decide for yourself the answers to these questions over the course of the book. But before we send you off on the wild world of computer-assisted interpretation, we did want to give you one last term. One way of describing what you are doing here is **digital humanities**
+You will have to decide for yourself the answers to these questions over the course of the book. But before we send you off on the wild world of computer-assisted interpretation, we did want to give you one last term. One way of describing what you are doing here is **digital humanities**. The term means lots of different things to different groups of people, at once everything and nothing. I tend to find Laura Mandell's definition to be useful in an [interview with the LA Review of Books](https://lareviewofbooks.org/article/digital-humanities-interview-laura-mandell/):
+
+>But the best definition of the digital humanities, I think, is bringing digital methods to bear on humanities research and then interrogating the digital humanities by humanities research.
