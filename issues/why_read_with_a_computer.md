@@ -22,4 +22,4 @@ The implicit claim in those bullet points is that computers affect the reading p
 * How does computer-assisted interpretation undermine the very point of reading?
 * Do these techniques show us anything new, or are they all fancy ways to describe what we already know?
 * How does reading with technology exacerbate issues of class, race, and access?
-*
+* 
