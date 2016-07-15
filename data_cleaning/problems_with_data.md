@@ -8,4 +8,3 @@ The process of using software to extract the text from an image of a text is cal
 ![ocr'd sherlock holmes text](/assets/holmes_ocr_text.png)
 Still recognizable 
 as being part of the same text, though there are obvious problems with the text.
-
