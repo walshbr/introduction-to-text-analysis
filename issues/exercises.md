@@ -2,4 +2,4 @@
 2. Take a few minutes and take seriously the following question: how do you read? What happens during the process? Describe it in 3-5 sentences.
 3. What kinds of technologies do you use for reading?
 4. How do you imagine that reading was different in the nineteenth-century than it is today?
-5. Use the Google NGram Viewer to track five different terms. How 
+5. Use the Google NGram Viewer to track two different terms that interest you. How do you interpret the results?
