@@ -10,6 +10,10 @@ The message a form contains, its text in this case, is fundamentally altered by 
 
 This is a book about reading and technology, but not quite in the same way as above. Rather than reading *with* about technology, we are going to discuss how we might read *through* technology. More specifically, we will talk a lot about the process by which we interpret texts, by which we translate ink on a page into meaning in our minds, and about how computers can tamper with and augment that process.
 
-When I was entering graduate school, an older student once said to me that there was a infinite of material that one could read. 
+When I was entering graduate school, an older student once summed up life as a sort of equation:
 
+> There is a infinite of material that one could read.
+> There is a finite amount of time in which you can read.
+
+His lesson was that there are limits to the amount of material that even the most voracious reader can 
 
