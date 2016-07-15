@@ -9,4 +9,3 @@ The process of using software to extract the text from an image of a text is cal
 Still recognizable 
 as being part of the same text, though there are obvious problems with the text.
 
-
