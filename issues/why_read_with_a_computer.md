@@ -12,5 +12,13 @@ This is a book about reading and technology, but not quite in the same way as ab
 
 * How can computers help us understand traditional reading processes in new ways?
 * How can we find new ways of reading through technology?
-* How can technology facilitate new types of collaborative reading?
-* How can computers attempt to understand complicated categories
+* How can machines facilitate new types of collaborative reading?
+* How can we use computers to understand complicated categories like emotions and themes?
+
+
+The implicit claim in those bullet points is that computers affect the reading process positively, but we will also give careful consideration to the wide-ranging and compelling arguments that this is not always the case.
+
+
+* How does computer-assisted interpretation undermine the very point of reading?
+* Do these techniques show us anything new, or are they all fancy ways to describe old news?
+* 
