@@ -1,2 +1,2 @@
-1. What is your own background with computer 
+1. What is your own background with computers? Interpret this question as broadly as you'd like. 
 2. Take a few minutes and take seriously the following question: how do you read? What happens during the process? Describe it in 3-5 sentences.
