@@ -8,12 +8,9 @@ Regardless of how you fall in these debates, it is important to recognize that a
 
 The message a form contains, its text in this case, is fundamentally altered by the technologies that transmit it. And we can think about the message in richer ways by studying the materials that translate them.
 
-This is a book about reading and technology, but not quite in the same way as above. Rather than reading *with* about technology, we are going to discuss how we might read *through* technology. More specifically, we will talk a lot about the process by which we interpret texts, by which we translate ink on a page into meaning in our minds, and about how computers can tamper with and augment that process.
+This is a book about reading and technology, but not quite in the same way as above. Rather than reading *with* about technology, we are going to discuss how we might read *through* technology. More specifically, we will talk a lot about the process by which we interpret texts, by which we translate ink on a page into meaning in our minds, and about how computers can tamper with and augment that process. We will touch on a number of topics and issues:
 
-When I was entering graduate school, an older student once summed up life as a sort of equation:
-
-> There is a infinite of material that one could read.
-> There is a finite amount of time in which you can read.
-
-His lesson was that there are limits to the amount of material that even the most voracious reader can 
-
+* How can computers help us understand traditional reading processes in new ways?
+* How can we find new ways of reading through technology?
+* How can technology facilitate new types of collaborative reading?
+* How can computers attempt to understand complicated categories
