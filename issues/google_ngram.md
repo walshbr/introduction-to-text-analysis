@@ -1,6 +1,6 @@
 The [Google NGram Viewer](https://books.google.com/ngrams) is often the first thing people think of when 
 
-Provide a word or comma-seperated phrase, and the NGram viewer will
+Provide a word or comma-seperated phrase, and the NGram viewer will graph how often those search terms occur over a given corpus for a given number of years. You can specify a number of years as well as a particular google books corpus.
 
 An NGram is another name for a sequence of words of length *n*.
 
