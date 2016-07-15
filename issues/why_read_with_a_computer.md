@@ -6,5 +6,5 @@ Regardless of how you fall in these debates, it is important to recognize that a
 
 > The medium is the message.
 
-The message a form contains, its text in this case, is fundamentally altered by the technologies that transmit it. And we can gain a lot from studying those media. 
+The message a form contains, its text in this case, is fundamentally altered by the technologies that transmit it. And we can think about the message in richer ways
 
