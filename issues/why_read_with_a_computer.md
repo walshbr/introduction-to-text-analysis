@@ -8,7 +8,7 @@ Regardless of how you fall in these debates, it is important to recognize that a
 
 The message a form contains, its text in this case, is fundamentally altered by the technologies that transmit it. And we can think about the message in richer ways by studying the materials that translate them.
 
-This is a book about reading and technology, but not quite in the same way as above. Rather than reading *with* about technology, we are going to discuss how we might read *through* technology. 
+This is a book about reading and technology, but not quite in the same way as above. Rather than reading *with* about technology, we are going to discuss how we might read *through* technology. We will describe how to use technolog
 
 > How do computers
 
