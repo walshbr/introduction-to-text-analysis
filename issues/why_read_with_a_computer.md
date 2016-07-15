@@ -21,5 +21,7 @@ The implicit claim in those bullet points is that computers affect the reading p
 
 * How does computer-assisted interpretation undermine the very point of reading?
 * Do these techniques show us anything new, or are they all fancy ways to describe what we already know?
-* How does reading with technology exacerbate issues of class, race, and access?
-* 
+* How does reading with technology exacerbate racial, social, and economic inequalities?
+
+
+You will have to decide for yourself the answers to these questions over the course of the book. But before we send you off on the wild world of computer-assisted interpretation, we did want to give you one last term. One way of describing what you are doing here is **digital humanities**
