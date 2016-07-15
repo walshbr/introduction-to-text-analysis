@@ -1,0 +1,1 @@
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
