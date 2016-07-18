@@ -46,7 +46,13 @@ We might also want to look at different forms of the same word. After all, the a
 
 That massive spike we see in the use of 'scandal' is not quite matched by other forms of the word. In particular, the adjective form 'scandalous' enjoys more usage until the mid-nineteenth century. Maybe scandal as a noun, as an idea, as a thing unto itself explodes onto the scene in the mid-nineteenth century after which it can become something more a thing attached to other people, places, and events. If I were arguing such things for more than just a demonstration, I would want to back these suggestions up with concrete information about the historical periods. But hopefully the implications will be exciting to you:
 
-> Digital methods can allow us to make observations about vast numbers of textsth
+> Digital methods can allow us to make observations about vast numbers of texts. Far more than you would be able to read yourself.
+
+That last phrase should cause some alarm: we haven't actually read any of these texts, but we are making observations about them nonetheless. I hope you will think deeply about the implications about such an act.
+
+> What does this form of reading lose?
+> What does it gain?
+> How it can it be approached in ways that minimize the former and maximize the latter?
 
 iframe of crime in english
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
