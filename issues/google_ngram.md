@@ -48,7 +48,7 @@ That massive spike we see in the use of 'scandal' is not quite matched by other 
 
 To drill down more deeply into one particular scandal, check out this ngram of 'crime' in the English corpus:
 
-iframe of crime in english <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
 If I were arguing such things for more than just a demonstration, I would want to back these suggestions up with concrete information about the historical periods. After all, language changes over time. A single word might radically change in usage over the centuries in ways that skew our results. But hopefully the implications will be exciting to you nonetheless.
 
