@@ -12,11 +12,13 @@ iframe of scandal
 iframe of scandal, scandals, scandalous
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal%2Cscandals%2Cscandalous&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0%3B.t1%3B%2Cscandals%3B%2Cc0%3B.t1%3B%2Cscandalous%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-The tool allows you to quickly search thousands of texts and, by tracking a few words or phrases, draw inferences about cultural and historical shifts. For example, with a quick search on science and religion, we coulc make the argument
+The tool allows you to quickly search thousands of texts and, by tracking a few words or phrases, draw inferences about cultural and historical shifts. For example, with a quick search on science and religion, we could draw conclusions about their relative importance at various points in last few centuries.
 
 iframe of science and religion
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=science%2Creligion&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscience%3B%2Cc0%3B.t1%3B%2Creligion%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
+Looking at the graph, one could see evidence for a variety of commonly heald arguments about the increasing secularization of society in the last two centuries. 
 
 
 iframe of crime in english
