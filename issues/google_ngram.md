@@ -50,6 +50,8 @@ To drill down more deeply into one particular scandal, check out this ngram of '
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
+iframe of crime in french <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=19&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
+
 If I were arguing such things for more than just a demonstration, I would want to back these suggestions up with concrete information about the historical periods. After all, language changes over time. A single word might radically change in usage over the centuries in ways that skew our results. But hopefully the implications will be exciting to you nonetheless.
 
 > Digital methods can allow us to make observations about vast numbers of texts. Far more than you would be able to read yourself.
@@ -59,10 +61,6 @@ That last phrase should cause some alarm: we haven't actually read any of these 
 > What does this form of reading lose?
 > What does it gain?
 > How it can it be approached in ways that minimize the former and maximize the latter?
-
-iframe of crime in french
-
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=19&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
 ## Interpretation
 
