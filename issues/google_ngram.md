@@ -8,11 +8,12 @@ The tool allows you to quickly search thousands of texts and, by tracking a few 
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=science%2Creligion&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscience%3B%2Cc0%3B.t1%3B%2Creligion%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-Looking at the graph, one could see evidence for a variety of commonly held arguments about the increasing secularization of society in the last two centuries. The steady increase of usage of the word science over the last 200 years accompanied by the precipitous decline of the word religion might provide concrete evidence for what might otherwise be anecdotal. But not so fast: what is actually being measured here? We can ask questions of a number of parts of this graph:
+Looking at the graph, one could see evidence for a variety of commonly held arguments about the increasing secularization of society in the last two centuries. The steady increase of usage of the word science over the last 200 years accompanied by the precipitous decline of the word religion might provide concrete evidence for what might otherwise be anecdotal. But not so fast: what is actually being measured here? We can ask questions of things to trouble this argument:
 
-Corpus
-Methodology
-Technology
+* Corpus
+* Methodology
+* Technology
+* Interpretation
 
 What is the corpus, or set of texts, being used to generate this data?
 Where is this data coming from?
