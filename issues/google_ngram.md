@@ -18,14 +18,18 @@ Looking at the graph, one could see evidence for a variety of commonly held argu
 
 
 ### Corpus
+
 With any large-scale text analysis like this, the underlying data is everything. Imagine running the same word search for 'science' and 'religion' over 1000 texts used in religious schools, services. It would probably look quite different! The same would hold true if we targeted only biology, botany, and physics textbooks over the same time period. While these are fairly stark examples, the same principle holds true: the input affects the output. The texts we choose for a study can skew our concolusions, and it is important for us to think carefully about their selection as a part of the process. 
 
 > What is the corpus, or set of texts, being used to generate this data? 
 
 > Where is this data coming from? 
 
-The Google NGram Viewer offers a dropdown menu where you can select a corpus for study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Books scanning project. This raises a number of difficulties. For one, the corpus only has one copy of each book in its dataset. So things do not get scaled for circulation or popularity. An book that only sells one copy becomes weighted the same as a book that sells a thousand copies: they both become a single copy according to their methods.
+The Google NGram Viewer offers a dropdown menu where you can select a corpus for study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Books scanning project (to see similar visualizations of your corpus you could try working with [Bookworm](http://bookworm.culturomics.org/), a related tool). This raises a number of difficulties. For one, the corpus only has one copy of each book in its dataset. So things do not get scaled for circulation or popularity. An book that only sells one copy becomes weighted the same as a book that sells a thousand copies: they both become a single copy according to their methods. 
 
+The Google Books corpus has also, at times, been criticized for its heavy reliance on poor quality scans of texts to generate their data (more on this in later chapters). The computer can't infer, for example, that the mispelling 'scyience' should be lumped in with the results for 'science.' Any underlying problems in scanning or uploading texts will skew the results. For now, just remember that graphs can appear to express fact when, in fact, the data is murky, subject for debate, or skewed. 
+
+## Methodology
 
 This search only accounts for single words, but there Language changes over time.
 
