@@ -1,3 +1,4 @@
+# Google NGram Viewer
 The [Google NGram Viewer](https://books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves well as a basic introduction into the possibilities of computer-assisted reading. 
 
 ![google ngram splash page](/assets/google_ngram_viewer.png)
@@ -8,12 +9,18 @@ The tool allows you to quickly search thousands of texts and, by tracking a few 
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=science%2Creligion&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscience%3B%2Cc0%3B.t1%3B%2Creligion%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-Looking at the graph, one could see evidence for a variety of commonly held arguments about the increasing secularization of society in the last two centuries. The steady increase of usage of the word science over the last 200 years accompanied by the precipitous decline of the word religion might provide concrete evidence for what might otherwise be anecdotal. But not so fast: what is actually being measured here? We can ask questions of things to trouble this argument:
+Looking at the graph, one could see evidence for a variety of commonly held arguments about the increasing secularization of society in the last two centuries. The steady increase of usage of the word science over the last 200 years accompanied by the precipitous decline of the word religion might provide concrete evidence for what might otherwise be anecdotal. But not so fast: what is actually being measured here? We can ask questions of a number of pieces of this argument:
 
 * Corpus
 * Methodology
 * Technology
 * Interpretation
+
+
+## Corpus
+With any large-scale text analysis like this, the underlying data is everything. Imagine running the same word search for 'science' and 'religion' over 1000 texts used in religious schools, services. It would probably look quite different! The same would hold true if we targeted only biology, botany, and physics textbooks over the same time period. While these are fairly stark examples, the same principle holds true: the input affects the output. The texts we choose for a study can skew our concolusions, and it is important for us to think carefully about their selection as a part of the process. 
+
+Google
 
 What is the corpus, or set of texts, being used to generate this data?
 Where is this data coming from?
