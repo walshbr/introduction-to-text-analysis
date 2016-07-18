@@ -24,8 +24,7 @@ With any large-scale text analysis like this, the underlying data is everything.
 
 > Where is this data coming from? 
 
-The Google NGram Viewer offers a dropdown menu where you can select a corpus for study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Books scanning project.
-
+The Google NGram Viewer offers a dropdown menu where you can select a corpus for study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Books scanning project. This raises a number of difficulties. For one, the corpus only has one copy of each book in its dataset. So things do not get scaled for circulation or popularity. An book that only sells one copy becomes weighted the same as a book that sells a thousand copies: they both become a single copy according to their methods.
 
 
 This search only accounts for single words, but there Language changes over time.
