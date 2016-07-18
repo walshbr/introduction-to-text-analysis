@@ -54,7 +54,9 @@ According to this chart, after a drop during the early-eighteenth century, Engli
 
 iframe of crime in french <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=19&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
 
-If I were arguing such things for more than just a demonstration, I would want to back these suggestions up with concrete information about the historical periods. After all, language changes over time. A single word might radically change in usage over the centuries in ways that skew our results. But hopefully the implications will be exciting to you nonetheless.
+French authors seem to show a similar spike in discussions of crime during this time period, though if you pay careful attention to the y-axis you will note that French authors actually are mentioning far more frequently relative to the rest of the writing at the time. The trends are similar, but the percentage of times 'crime' shows up is much higher in France. In England during this time, things hover around 0.0045. French writing mentioning 'crime' is over double that percentage during the same period, and it will not get around that number until 1880.
+
+If I were arguing such things for more than just a demonstration, I would want to back these suggestions up with concrete information about the historical periods. After all, language changes over time. A single word might radically change in usage over the centuries in ways that skew our results. I would also say a lot more about these interpretations, what they can tell us, and potential problems in my reading. But hopefully the implications of the technology will be exciting to you nonetheless.
 
 > Digital methods can allow us to make observations about vast numbers of texts. Far more than you would be able to read yourself.
 
