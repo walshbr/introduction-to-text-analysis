@@ -1,8 +1,8 @@
-The [Google NGram Viewer](https://books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves well as a basic introduction into the possibilities of computer-assisted reading. The Google NGram Viewer provides a quick and easy way to explore changes in language over the course of many years in many texts.
+The [Google NGram Viewer](https://books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves well as a basic introduction into the possibilities of computer-assisted reading. 
 
 ![google ngram splash page](/assets/google_ngram_viewer.png)
 
-Provide a word or comma-seperated phrase, and the NGram viewer will graph how often those search terms occur over a given corpus for a given number of years. You can specify a number of years as well as a particular google books corpus.
+The Google NGram Viewer provides a quick and easy way to explore changes in language over the course of many years in many texts. Provide a word or comma-seperated phrase, and the NGram viewer will graph how often those search terms occur over a given corpus for a given number of years. You can specify a number of years as well as a particular google books corpus.
 
 An NGram is another name for a sequence of words of length *n*.
 
