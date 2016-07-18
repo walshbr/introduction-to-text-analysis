@@ -20,10 +20,13 @@ Looking at the graph, one could see evidence for a variety of commonly held argu
 ### Corpus
 With any large-scale text analysis like this, the underlying data is everything. Imagine running the same word search for 'science' and 'religion' over 1000 texts used in religious schools, services. It would probably look quite different! The same would hold true if we targeted only biology, botany, and physics textbooks over the same time period. While these are fairly stark examples, the same principle holds true: the input affects the output. The texts we choose for a study can skew our concolusions, and it is important for us to think carefully about their selection as a part of the process. 
 
-Google NGram Viewer
+> What is the corpus, or set of texts, being used to generate this data? 
 
-What is the corpus, or set of texts, being used to generate this data?
-Where is this data coming from?
+> Where is this data coming from? 
+
+The Google NGram Viewer offers a dropdown menu where you can select a corpus for study. 
+
+
 
 This search only accounts for single words, but there Language changes over time.
 
