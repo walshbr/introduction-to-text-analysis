@@ -24,7 +24,7 @@ With any large-scale text analysis like this, the underlying data is everything.
 
 > Where is this data coming from? 
 
-The Google NGram Viewer offers a dropdown menu where you can select a corpus for study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Book scanning project.
+The Google NGram Viewer offers a dropdown menu where you can select a corpus for study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Books scanning project.
 
 
 
