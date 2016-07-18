@@ -44,7 +44,7 @@ We might also want to look at different forms of the same word. After all, the a
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal%2Cscandals%2Cscandalous&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0%3B.t1%3B%2Cscandals%3B%2Cc0%3B.t1%3B%2Cscandalous%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-That massive spike we see in the use of 'scandal' is not quite matched by other forms of the word. In particular, the adjective form 'scandalous' enjoys more usage until the mid-nineteenth century. Maybe scandal as a noun, as an idea, as a thing unto itself explodes onto the scene in the mid-nineteenth century after which it can become something more a thing attached to other people, places, and events. If I were arguing such things for more than just a demonstration, I would want to back these suggestions up with concrete information about the historical periods. But hopefully the implications will be exciting to you:
+That massive spike we see in the use of 'scandal' is not quite matched by other forms of the word. In particular, the adjective form 'scandalous' enjoys more usage until the mid-nineteenth century. Maybe scandal as a noun, as an idea, as a thing unto itself explodes onto the scene in the mid-nineteenth century after which it can become something more a thing attached to other people, places, and events. If I were arguing such things for more than just a demonstration, I would want to back these suggestions up with concrete information about the historical periods. After all, language changes over time. A single word might radically change in usage over the centuries in ways that skew our results. But hopefully the implications will be exciting to you nonetheless.
 
 > Digital methods can allow us to make observations about vast numbers of texts. Far more than you would be able to read yourself.
 
@@ -56,8 +56,6 @@ That last phrase should cause some alarm: we haven't actually read any of these 
 
 iframe of crime in english
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
-
-Language changes over time. 
 
 iframe of crime in french
 
