@@ -2,7 +2,7 @@ The [Google NGram Viewer](https://books.google.com/ngrams) is often the first th
 
 ![google ngram splash page](/assets/google_ngram_viewer.png)
 
-The Google NGram Viewer provides a quick and easy way to explore changes in language over the course of many years in many texts. Provide a word or comma-seperated phrase, and the NGram viewer will graph how often those search terms occur over a given corpus for a given number of years. You can specify a number of years as well as a particular google books corpus. The tool allows you to quickly search thousands of texts and, by tracking a few words or phrases, draw inferences about cultural and historical shifts.
+The Google NGram Viewer provides a quick and easy way to explore changes in language over the course of many years in many texts. Provide a word or comma-seperated phrase, and the NGram viewer will graph how often those search terms occur over a given corpus for a given number of years. You can specify a number of years as well as a particular google books corpus. 
 
 An NGram is another name for a sequence of words of length *n*.
 
@@ -11,6 +11,8 @@ iframe of scandal
 
 iframe of scandal, scandals, scandalous
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal%2Cscandals%2Cscandalous&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0%3B.t1%3B%2Cscandals%3B%2Cc0%3B.t1%3B%2Cscandalous%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
+The tool allows you to quickly search thousands of texts and, by tracking a few words or phrases, draw inferences about cultural and historical shifts. For example, with a quick search on science and religion, we coulc make the argument
 
 iframe of science and religion
 
