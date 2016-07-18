@@ -13,7 +13,6 @@ Looking at the graph, one could see evidence for a variety of commonly held argu
 
 * Corpus
 * Methodology
-* Technology
 * Interpretation
 
 
