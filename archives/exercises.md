@@ -14,10 +14,10 @@ I am, Sir, your obedient servant, A CITY TRADESMAN.
 *letter* in The Times, January 5, 1850
 
 ---
-* If you could create an archive of some nineteenth-century materials, what would interest you and why? 3-5 sentences.
+* If you could create an archive of some nineteenth-century materials, what would interest you and why?
 
-What legal or propietary issues would you have to sort out as part of the project?
+* What legal or propietary issues would you have to sort out as part of the project?
 
-What kinds of groups of people would be interested in your archive?
+* What kinds of groups of people would be interested in your archive?
 
-What kinds of access would you offer your site under?
+* What kinds of access would you offer your site under?
