@@ -3,4 +3,5 @@
 Upload the text for *The String of Pearls* available [here](https://raw.githubusercontent.com/bmw9t/introduction-to-text-analysis/master/assets/the_string_of_pearls_full.txt) into [Voyant](voyant-tools.org). Analyze the results. If things seem particularly slow, you can try working with a smaller chunk of the text.
 
 1. Make an observation about some part of the text. What do you find interesting?
-2. How Voyant to say something about gender 
+2. Use Voyant to examine gender in the text. What kind of words do you need to look at? How would you
+3. Make some sort observations about your findings.
