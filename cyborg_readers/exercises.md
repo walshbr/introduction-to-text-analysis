@@ -7,4 +7,4 @@ Upload the text for *The String of Pearls* available [here](https://raw.githubus
 
 Now upload the text for the various articles on *[Lloyd's Weekly Newspaper about The Hampstead Murders](http://vrchristensen.com/http:/vrchristensen.com/category/newspaper-articles/lloyds-weekly-newspaper/)* to Voyant and analyze them. Each of these texts attempts to build their worlds in different ways: one is an actual Victorian text, and one is pretending to be a historical text. 
 * How does Lloyd's Weekly Newspaper try to create a sense of reality? How does it make you think "wait. is this historical fiction or a historical document?" You can use your own sense of reading the text, but try to find something in Voyant to back up those gut feelings. 3-5 sentences.
-* What is one other thing that you find yourself interested in while reading this text? How might you measure it? 3-5 sentences.
+* What is one other thing that you find yourself interested in while reading this text? How might you measure it? (don't use Voyant - here you are just thinking about what might be possible). 3-5 sentences.
