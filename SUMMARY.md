@@ -38,7 +38,7 @@
     * [Topics over Time](topic_modeling_part_two/topics_over_time.md)
     * [Topic Modeling in the Browser Part Two](topic_modeling_part_two/topic_modeling_part_two.md)
     * [Exercises](topic_modeling_part_two/exercises.md)
-* Sentiment Analysis
+* [Sentiment Analysis](sentiment-analysis.md)
     * [Sentiment Analysis](sentiment_analysis/sentiment_analysis.md)
     * [Prism for Sentiment Analysis](sentiment_analysis/prism_part_three.md)
     * [Exercises](sentiment_analysis/exercises.md)
