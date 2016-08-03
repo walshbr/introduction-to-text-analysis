@@ -28,7 +28,7 @@ Once materials are put online, it is possible to connect them to a wider, global
 
 ![nines splash page](/assets/nines_splash.png)
 
-The **Networked Infrastructure for Nineteenth-Century Electronic Scholarship ([NINES](https://www.nines.org))** is one such digital humanities organization that attempts to facilitate this process and gather archived materials pertaining to the Nineteenth Century. 
+The **Networked Infrastructure for Nineteenth-Century Electronic Scholarship ([NINES](https://www.nines.org))** is one such digital humanities organization that attempts to facilitate this process and gather archived materials pertaining to the Nineteenth Century. You might think of NINES as something like a one-stop shopping for all your nineteenth-century text analysis needs. It gathers together peer-reviewed projects (see below) on nineteenth-century literature and culture, from a project on disability to the letters of Emily Dickinson.
 
 ![nines federation](/assets/nines_federated.png)
 
