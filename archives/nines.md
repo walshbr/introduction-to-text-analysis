@@ -39,6 +39,9 @@ Sounds like a lot of work, but this actually works out well for you. You are up 
 
 One of the early missions of NINES was to provide scholars who could perform this service. By assembling digital humanities scholars that could evaluate digital archives and attest to their successes or flaws, project coordinators could better make their work available and understandable to non-digital colleagues. 
 
-The peer reviewers at NINES had several comments in their feedback for you. They wanted you to make changes before they would accept your project into NINES, but, good news! These comments make your work much stronger anyway, and you are happy to do them (peer review doesn't always go so smoothly). Once reviewed, NINES makes the archival materials available for searching alongside other peer-reviewed projects. You can see an example search of *The Old Bailey Online* [here](http://www.nines.org/search?q=old%20bailey). 
+The peer reviewers at NINES had several comments in their feedback for you. They wanted you to make changes before they would accept your project into NINES, but, good news! These comments make your work much stronger anyway, and you are happy to do them (peer review doesn't always go so smoothly). Once reviewed, NINES makes the archival materials available for searching alongside other peer-reviewed projects. You can see an example search of *The Old Bailey Online* [here](http://www.nines.org/search?q=old%20bailey). Now that your archival materials are part of the archive, a search for 'old bailey' in NINES reveals objects not only in NINES, but also in a wide range of other archives.
 
 ![old bailey federated search results](/assets/nines_old_bailey_search.png)
+
+> What archives do you use on a regular basis?
+> What kinds of work do you imagine went into them?
