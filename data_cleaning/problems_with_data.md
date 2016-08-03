@@ -11,7 +11,7 @@ The process of using software to extract the text from an image of a text is cal
 ![ocr'd sherlock holmes text](/assets/holmes_ocr_text.png)
 Still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! Why does the computer have such a hard time with this?" OCR'ing text is actually a pretty complicated problem for computers. Consider
 
-You can find a more detailed explanation of how OCR workings [here](
+You can find a more detailed explanation of how OCR workings [here](https://www.explainthatstuff.com/how-ocr-works.html)
 
 here are some example edits
 
