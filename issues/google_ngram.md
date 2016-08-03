@@ -58,7 +58,10 @@ French authors seem to show a similar spike in discussions of crime during this 
 
 You will also note a different tragectory to these two N-Grams.  In the English-language corpus, mentions of "crime" go down gradually over the course of the nineteenth century.  In contrast, there is a big spike in the French corpus which starts going down quite dramatically in the 1830s.  When you read portions of Louis Chevalier's __Laboring Classes and Dangerous Classes in Paris during the First Half of the Nineteenth Century_  later in the term, you might get a sense of why this surge of interest in crime emerges in the early nineteenth century -- and maybe even why crime is more of a problem in France than in Britain in this period.
 
-If I were arguing such things for more than just a demonstration, I would want to back these suggestions up with concrete information about the historical periods. After all, language changes over time. A single word might radically change in usage over the centuries in ways that skew our results. I would also say a lot more about these interpretations, what they can tell us, and potential problems in my reading. But hopefully the implications of the technology will be exciting to you nonetheless.
+If I were arguing such things for more than just a demonstration, I would want to do a lot more research and thinking and back my suggestions up with concrete information about the historical periods. For instance, if I was interested in the trajectory of the word "race" over time, I would want to take account of whether the word shifts in its meaning over time, or whether writers in a particular period might have used synonyms for the "term."
+
+
+After all, language changes over time. A single word might radically change in usage over the centuries in ways that skew our results. I would also say a lot more about these interpretations, what they can tell us, and potential problems in my reading. But hopefully the implications of the technology will be exciting to you nonetheless.
 
 > Digital methods can allow us to make observations about vast numbers of texts. Far more than you would be able to read yourself.
 
