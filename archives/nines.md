@@ -12,11 +12,11 @@ When you look at the entry on the *Old Bailey Online*, almost all the tags disap
 
 ![Same entry without TEI](/assets/old_bailey_sans_tei.png)
 
-We have already talked a bit about the functions you can get from TEI,but, after all, those might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
+We have already talked a bit about the functions you can get from TEI, but, after all, those might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
 
 > What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
 
-One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go that museum in order to read the document. Putting materials on the internet raises a variety of legal and financial issues. After all, these digital resources require a great deal of time, funding, and energy to produce. 
+One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go that museum in order to read the document. A digital version online can reach a wider audience than a physical copy. However, putting materials on the internet raises a variety of legal and financial issues. After all, these digital resources require a great deal of time, funding, and energy to produce. 
 
 > Will you make your materials freely available to anyone with an internet connection?
 > Or will you require payment to see them?
@@ -25,7 +25,9 @@ If you have ever tried to access a resource from an online newspaper only to be 
 
 > Keeping materials online requires sustained funding over time. How can open access work be maintained if they are presented for free?
 
-Once materials are put online, it is possible to connect them to a wider, global network of similar digital materials. In the same way that a library gathers information about the materials so that they may be organized in a systematic way (more on  **metadata** in our chapter on "Problems with Data), the process has to be overseen carefully in order for this networking to happen. The Networked Infrastructure for Nineteenth-Century Electronic Scholarship ([NINES](https://www.nines.org)) is one such resource that attempts to gather archived materials pertaining to the Nineteenth Century. Technical standards change (TEI tags can change over time), so they require constant updating.
+Once materials are put online, it is possible to connect them to a wider, global network of similar digital materials. In the same way that a library gathers information about the materials so that they may be organized in a systematic way (more on  **metadata** in our chapter on "Problems with Data), the process has to be overseen carefully in order for this networking to happen.  Sustainability also becomes an issue as technical standards shift (TEI tags can change over time), so archival materials require constant maintenance. If you have ever used a digital archive, you have taken advantage of a vast and often invisible amount of labor happening behind the scenes. The hidden work of librarians, archivists, and 
+
+The ***Networked Infrastructure for Nineteenth-Century Electronic Scholarship ([NINES](https://www.nines.org))*** is one such resource that attempts to gather archived materials pertaining to the Nineteenth Century. It provides this through peer review
 
 TODO: a bit more on interoperability, integrate peer review below. and then expand on what NINES is and what it does. Maybe expand a bit more on McGann and remediating.
 
