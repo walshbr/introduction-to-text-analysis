@@ -29,8 +29,6 @@ Once materials are put online, it is possible to connect them to a wider, global
 
 The ***Networked Infrastructure for Nineteenth-Century Electronic Scholarship ([NINES](https://www.nines.org))*** is one such digital humanities organization that attempts to facilitate this process and gather archived materials pertaining to the Nineteenth Century. Archives submit themselves for affiliation with NINES so that their materials can be searchable alongside other NINES sites, but they must pass a rigorous process of **peer review** first. 
 
-TODO: a bit more on interoperability, integrate peer review below. and then expand on what NINES is and what it does. Maybe expand a bit more on McGann and remediating.
-
 Peer review:
 
 Academic journals rely on the concept of **peer review** to ensure that scholarship meets particular standards of rigor and relevance. The peer review process typically involves submitting an article or book to a series of blind reviewers who, anonymous themselves, write letters in support or rejection of the project. Should the piece pass, it moves onto publication and receives the explicit seal of approval from the publication. 
