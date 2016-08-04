@@ -25,10 +25,74 @@ You probably meant to have a 9 in there, but the computer will have no idea that
 
 ![high fiving cat](/assets/data_cat_high_five.png)
 
-I know
+Did you read it? Don't lie to me.
 
-dirty data
-different formats
+Doyle has a complicated naming history, to say the least. Now iImagine you are putting together a database of authors. You get to Doyle. How will you save his name? I can think of a number of possibilities:
+
+Doyle
+Arthur Doyle
+A.C. Doyle
+Doyle, A.C.
+Doyle, Sir Arthur
+Doyle, Sir Arthur Conan
+Sir Arthur Conan Doyle
+
+You can probably imagine others. All of these are technically correct, and they might serve your purposes just fine. But you need to be consistent. Remember how computers cannot infer anything? Imagine this as part of your database of authors:
+
+```
+Author Name
+---
+Austen, Jane
+James Joyce
+Arthur Conan Doyle
+```
+
+You are working with a number of formats:
+
+```
+Author Name
+---
+Austen, Jane: last_name, first_name
+Arthur Doyle: first_name last_name
+```
+A computer program would need a way to understand what you are giving it, something like: 
+
+1. Look at this 'Author Name' database.
+2. Each Author has a line of its own.
+3. Get the Author's name.
+
+This data would cause all sorts of problems with the third step. To begin, how does the computer get the names? There are two options here:
+
+* Look at the line for a comma. Before the comma, you will find the first name. After, the last name.
+* Look at the line for a space. Before the space, you will find the first name. After, the last name.
+
+The former is the more common way of representing data like this. Using commas to denote the different pieces of data is so popular that the format has its own name: **comma seperated value** or **csv**. It has an advantage over the second format that breaks apart data based on spaces:
+
+```
+Author Names
+---
+Austen Jane
+Arthur Doyle
+Arthur Conan Doyle
+```
+If we used spaces to denote breaks between first name and last name, Arthur Conan Doyle would cause our program to error. It would likely interpret 'Arthur' as the first name and 'Conan' as the last name. 'Doyle' would be an unkown. Reformatting this as a csv allows us to handle Conan Doyle's full name:
+```
+Author Names
+---
+Austen, Jane
+Arthur, Doyle
+Arthur Conan, Doyle
+
+```
+The next problem should be obvious: Jane Austen is in a last_name, first_name format, while the others are in the reverse. So our final version of this dataset would look like this: 
+```
+Author Names
+---
+Austen, Jane
+Doyle, Arthur
+Doyle, Arthur Conan
+```
+This process of not only revising for spelling consistency but also preparing a text 
 **dirty data**
 **data cleaning**
 changing standards
