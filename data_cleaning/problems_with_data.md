@@ -110,7 +110,6 @@ Doyle, Arthur Conan
 ```
 We have two metadata categories here: last_name, and first_name. Each are separated by a comma. We might even think of author_name as being its own metadata category for someone else's list of books! Databases are really these sorts of things at their heart: data and metadata, organized in systematic ways to make them easily usable.
 
-
 Imagine: now that you have started to put together your own table of author names, you notice that your neighbor is putting together one of her own. You want to be able to compare notes and, even more, you want to combine lists. It should be obvious that you will have real problems if you organize things in "first_name last_name" and she organizes things in "last_name, first_name". You would need to do a lot of extra work to reorganize things. It would have been easier if you were working with an accepted standard for how author names should be listed.
 
 glance at LOC and dublin core. and a note about interoperability
