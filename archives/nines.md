@@ -46,13 +46,13 @@ The peer reviewers at NINES had several comments in their feedback for you. They
 
 ![old bailey federated search results](/assets/nines_old_bailey_search.png)
 
-**What does peer review mean for you as a student and\/or user of an archive?**
+**What does peer review mean for you as a user of an archive?**
 
 If you've made it this far in life, you've probably realized that you can't trust everything you find on the internet. In this case, knowing that something is peer reviewed allows you to put more trust in what you find on NINES than what you find elsewhere; you know that other scholars in the field have signed off on this material and think it is worthy of inclusion.
 
 **Why else should I use NINES?**
 
-Beyond the fact that you can have a lot of confidence in the projects you find here, NINES is just going to make it easier for you to find things. For one, you might not have known about all these different projects. NINES has also made sure that these projects "play nice" with each other \(a.k.a. interoperability\), which means you can find references to a particular topic or word across these projects with a simple search. 
+Beyond the fact that you can have a lot of confidence in the projects you find here, NINES is just going to make it easier for you to find things. For one, you might not have known about all these different projects. NINES has also made sure that these projects "play nice" with each other \(a.k.a. interoperability\), which means you can find references to a particular topic or word across these projects with a simple search.
 
 ![](/assets/Screen Shot 2016-08-04 at 10.50.29 AM.png)
 
