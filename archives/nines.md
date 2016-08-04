@@ -52,7 +52,7 @@ If you've made it this far in life, you've probably realized that you can't trus
 
 **Why else should I use NINES?**
 
-Beyond the fact that you can have more confidence in
+Beyond the fact that you can have a lot of confidence in the projects you find here, NINES is just going to make it easier for you to find things. For one, you might not have known about all these different projects. NINES has also made sure that these projects "play nice" with each other \(a.k.a. interoperability\), which means you can find references to a particular topic or word across these projects with a simple search. Doing a search for "crime" gets you all the references to this term in all of the different projects linked to NINES, saving you from having to search each individual one. \(One warning: as you can see here, 
 
 > What archives do you use on a regular basis?
 > 
