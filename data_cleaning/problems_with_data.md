@@ -1,4 +1,6 @@
-OCR, Dirty OCR, standards, metadata
+standards, metadata
+
+# OCR
 
 Take this image taken from a newspaper ad for the [American film *Sherlock Holmes* in 1922](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_(1922)_-_6.jpg):
 
@@ -11,7 +13,7 @@ The process of using software to extract the text from an image of a text is cal
 ![ocr'd sherlock holmes text](/assets/holmes_ocr_text.png)
 Still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! Why does the computer have such a hard time with this?" OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](https://www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. You can find a more detailed explanation of how OCR workings [here](http://www.explainthatstuff.com/how-ocr-works.html). 
 
-Clean text like this is necessary for the data to be useful at all. A computer won't be able to intuit that 'Shrrlock' should be 'Sherlock', so a search through the text 
+Clean text like this is necessary for the data to be useful at all. A computer won't be able to intuit that 'Shrrlock' should be 'Sherlock', so a search through the text for the famous detective would not respond
 
 dirty data
 different formats
