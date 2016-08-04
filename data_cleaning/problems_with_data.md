@@ -49,8 +49,13 @@ Arthur Conan Doyle
 
 You are working with a number of formats:
 
+```
 Austen, Jane: last_name, first_name
-James Joyce:
+James Joyce: first_name last_name
+Arthur Conan Doyle: first_name last_name or first_name middle_name last_name (depending on your reading of the biography)
+```
+A computer program would need a way to understand what you are giving it, so this data would cause all sorts of problems.
+
 dirty data
 different formats
 **dirty data**
