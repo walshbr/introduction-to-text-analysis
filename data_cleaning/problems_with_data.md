@@ -13,7 +13,7 @@ The process of using software to extract the text from an image of a text is cal
 ![ocr'd sherlock holmes text](/assets/holmes_ocr_text.png)
 The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! Why does the computer have such a hard time with this?" OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](https://www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. You can find a more detailed explanation of how OCR workings [here](http://www.explainthatstuff.com/how-ocr-works.html). 
 
-# Standards
+## Standards
 
 Let me say it again, computers cannot infer. Imagine this scenario:
 
@@ -95,6 +95,7 @@ Doyle, Arthur Conan
 This process of not only revising for spelling consistency but also preparing a text 
 **dirty data**
 **data cleaning**
-changing standards
+
+## Metadata
 
 sustainability
