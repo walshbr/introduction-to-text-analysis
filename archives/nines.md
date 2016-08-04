@@ -44,7 +44,9 @@ The peer reviewers at NINES had several comments in their feedback for you. They
 
 ![old bailey federated search results](/assets/nines_old_bailey_search.png)
 
-**What does peer review mean for you as a student and user of an archive?**
+**What does peer review mean for you as a student and\/or user of an archive?**
+
+If you've made it this far in life, you've probably realized that you can't trust everything you find on the internet. In this case, knowing that something is peer reviewed allows you to put more trust in what you find on NINES than what you find elsewhere; you know that other scholars in the field have signed off on this material and think it is worthy of inclusion.
 
 
 
