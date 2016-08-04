@@ -2,7 +2,9 @@ In this class, we'll talk a lot -- and you'll read a lot -- about the **digital 
 
 > But the best definition of the digital humanities, I think, is bringing digital methods to bear on humanities research and then interrogating the digital humanities by humanities research.
 
-We will keep a kindred double definition in mind as we move forward: the digital humanities involves using technology to think critically as well as thinking critically about technology.
+We will keep a kindred double definition in mind as we move forward: the digital humanities involves using technology to think critically as well as thinking critically about technology. 
+
+In this class, we'll primarily be engaging with the digital humanities through text analysis, but there are lots of different ways to be a digital humanist, from creating digital exhibits to online mapping.
 
 But you may be wondering: what is this thing called **the humanities**? At one level, this is just a group of disciplines or fields of study, one that often includes literature, philosophy, history, art history, and religion, distinct from the social sciences \(politics, economics, psychology\) and the natural sciences \(biology, chemistry, physics\). If you go into the internet, you can probably find thousands of different definitions of what unites the students and scholars in these different fields. One that we particularly like is from Daniel Boyarin and Michael Nylan \(in religion and history, respectively\). They propose that the humanities examines:
 
