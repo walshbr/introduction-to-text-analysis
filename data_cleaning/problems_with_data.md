@@ -98,7 +98,7 @@ A common way of referring to data that contains inconsistencies and/or errors is
 
 ## Metadata
 
-**Metadata**, in its most basic sense, is data about data. A text, after all, is more than just the words on the page. We have a whole range of other information that we use to describe the document. The author, its date of publication, its publisher, its copyright status, etc.: we might care deeply about these pieces of information, and we might want you to use them for particular analyses. If you have ever used a library search interface, you have been interacting with metadata categories. 
+**Metadata**, in its most basic sense, is data about data. A text, after all, is more than just the words on the page. We have a whole range of other information that we use to describe the document. The author, its date of publication, its publisher, its copyright status, etc.: we might care deeply about these pieces of information, and we might want you to use them for particular analyses. 
 
 Imagine: now that you have started to put together your own table of author names, you notice that your neighbor is putting together one of her own. You want to be able to compare notes and, even more, you want to combine lists. It should be obvious that you will have real problems if you organize things in "first_name last_name" and she organizes things in "last_name, first_name". You would need to do a lot of extra work to reorganize things. It would have been easier if you were working with an accepted standard for how author names should be listed.
 
