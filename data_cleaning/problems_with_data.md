@@ -25,7 +25,18 @@ You probably meant to have a 9 in there, but the computer will have no idea that
 
 ![high fiving cat](/assets/data_cat_high_five.png)
 
-I know
+Did you read it? Don't lie to me.
+
+Doyle has a complicated naming history, to say the least. Now iImagine you are putting together a database of authors. You get to Doyle. How will you save his name? I can think of a number of possibilities:
+
+Doyle
+A.C. Doyle
+Doyle, A.C.
+Doyle, Sir Arthur
+Doyle, Sir Arthur Conan
+Sir Arthur Conan Doyle
+
+Think about all the different
 
 dirty data
 different formats
