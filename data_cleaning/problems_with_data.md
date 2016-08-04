@@ -50,6 +50,8 @@ Arthur Conan Doyle
 You are working with a number of formats:
 
 ```
+Author Name
+---
 Austen, Jane: last_name, first_name
 Arthur Doyle: first_name last_name
 ```
@@ -64,8 +66,25 @@ This data would cause all sorts of problems with the third step. How does the co
 * Look at the line for a comma. Before the comma, you will find the first name. After, the last name.
 * Look at the line for a space. Before the space, you will find the first name. After, the last name.
 
-The former is the more common way of representing data like this. Using commas to denote the different pieces of data is so popular that the format has its own name: **comma seperated value** or **csv**.
-dirty data
+The former is the more common way of representing data like this. Using commas to denote the different pieces of data is so popular that the format has its own name: **comma seperated value** or **csv**. It has an advantage over the second format that breaks apart data based on spaces:
+
+```
+Author Names
+---
+Jane Austen
+Arthur Doyle
+Arthur Conan Doyle
+```
+If we used spaces to denote breaks between first name and last name, Arthur Conan Doyle would cause our program to error. It would likely interpret 'Arthur' as the first name and 'Conan' as the last name. 'Doyle' would be an unkown. Reformatting this as a csv allows us to handle Conan Doyle's full name:
+```
+Author Names
+---
+Austen, Austen
+Doyle, Arthur
+Doyle, Arthur Conan
+
+```
+
 different formats
 **dirty data**
 **data cleaning**
