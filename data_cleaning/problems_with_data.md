@@ -58,7 +58,7 @@ A computer program would need a way to understand what you are giving it, someth
 
 1. Look at this 'Author Name' database.
 2. Each Author has a line of its own.
-3. For each 
+3. 
 
 So this data would cause all sorts of problems. Reorganizing
 
