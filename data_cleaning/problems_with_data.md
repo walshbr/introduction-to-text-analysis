@@ -52,15 +52,18 @@ You are working with a number of formats:
 ```
 Austen, Jane: last_name, first_name
 James Joyce: first_name last_name
-Arthur Conan Doyle: first_name last_name or first_name middle_name last_name (depending on your reading of the biography)
+Arthur Doyle: first_name last_name
 ```
 A computer program would need a way to understand what you are giving it, something like: 
 
 1. Look at this 'Author Name' database.
 2. Each Author has a line of its own.
-3. 
+3. Get the Author's name.
 
-So this data would cause all sorts of problems. Reorganizing
+This data would cause all sorts of problems with the third step. How does the computer get the names? There are two options here:
+
+* 
+* 
 
 dirty data
 different formats
