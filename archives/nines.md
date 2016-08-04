@@ -28,7 +28,9 @@ Once materials are put online, it is possible to connect them to a wider, global
 
 ![nines splash page](/assets/nines_splash.png)
 
-The **Networked Infrastructure for Nineteenth-Century Electronic Scholarship \(\*\***[NINES](https://www.nines.org)**\*\*\)** is one such digital humanities organization that attempts to facilitate this process and gather archived materials pertaining to the Nineteenth Century. You might think of NINES as something like a one-stop shopping for all your nineteenth-century digital humanities and text analysis needs. It gathers together peer-reviewed projects on nineteenth-century literature and culture; if you go to the site and scroll through "Federated Websites," you'll see the range of projects you can get to from NINES, from one on disability to another featuring the letters of Emily Dickinson. You might also notice that NINES has a relatively expansive view of what the nineteenth century is, since this site includes projects that deal with the late eighteenth and early nineteenth century. Historians often talk of the "long nineteenth century" as the period from the beginning of the French Revolution in 1789 to the outbreak of World War I in 1914. In other words, historians of the nineteenth century like to claim big chunks of other people's time periods.
+The **Networked Infrastructure for Nineteenth-Century Electronic Scholarship \(\*\***[NINES](https://www.nines.org)**\*\*\)** is one such digital humanities organization that attempts to facilitate this process and gather archived materials pertaining to the Nineteenth Century. You might think of NINES as something like a one-stop shopping for all your nineteenth-century digital humanities and text analysis needs. It gathers together peer-reviewed projects on nineteenth-century literature and culture that were put together by different research teams around the globe; some focus on an individual author, others on a genre \(periodicals or "penny dreadfuls"\) or a particular issue \(disability or court cases\). If you go to the site and scroll through "Federated Websites," you'll see the range of projects you can get to from NINES, from one on the eighteenth-century book trade in France to another featuring the letters of Emily Dickinson. These are all different projects that were
+
+You might also notice that NINES has a relatively expansive view of what the nineteenth century is, since this site includes projects that deal with the late eighteenth and early nineteenth century. Historians often talk of the "long nineteenth century" as the period from the beginning of the French Revolution in 1789 to the outbreak of World War I in 1914. In other words, historians of the nineteenth century like to claim big chunks of other people's time periods.
 
 ![nines federation](/assets/nines_federated.png)
 
@@ -46,9 +48,11 @@ The peer reviewers at NINES had several comments in their feedback for you. They
 
 **What does peer review mean for you as a student and\/or user of an archive?**
 
-If you've made it this far in life, you've probably realized that you can't trust everything you find on the internet. In this case, knowing that something is peer reviewed allows you to put more trust in what you find on NINES than what you find elsewhere; you know that other scholars in the field have signed off on this material and think it is worthy of inclusion.
+If you've made it this far in life, you've probably realized that you can't trust everything you find on the internet. In this case, knowing that something is peer reviewed allows you to put more trust in what you find on NINES than what you find elsewhere; you know that other scholars in the field have signed off on this material and think it is worthy of inclusion. 
 
+**Why else should I use NINES?**
 
+Beyond the fact that you can have more confidence in
 
 > What archives do you use on a regular basis?
 > 
