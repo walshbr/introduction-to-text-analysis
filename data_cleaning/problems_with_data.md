@@ -92,9 +92,10 @@ Austen, Jane
 Doyle, Arthur
 Doyle, Arthur Conan
 ```
-This process of not only revising for spelling consistency but also preparing a text 
-**dirty data**
+A common way of referring to data that contains inconsistencies and/or errors is as **dirty data**.
 **data cleaning**
+
+interoperability
 
 ## Metadata
 
