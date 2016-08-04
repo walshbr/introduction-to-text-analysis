@@ -28,7 +28,9 @@ Once materials are put online, it is possible to connect them to a wider, global
 
 ![nines splash page](/assets/nines_splash.png)
 
-The **Networked Infrastructure for Nineteenth-Century Electronic Scholarship \(\*\***[NINES](https://www.nines.org)**\*\*\)** is one such digital humanities organization that attempts to facilitate this process and gather archived materials pertaining to the Nineteenth Century. You might think of NINES as something like a one-stop shopping for all your nineteenth-century digital humanities and text analysis needs. It gathers together peer-reviewed projects on nineteenth-century literature and culture; if you go to the site and scroll through "Federated Websites," you'll see the range of projects you can get to from NINES, from one on disability to another featuring the letters of Emily Dickinson. You might also notice that NINES has a relatively expansive view of what the nineteenth century is, since this site includes projects that deal with the late eighteenth and early nineteenth century. Historians often talk of the "long nineteenth century" as the period from the beginning of the French Revolution in 1789 to the outbreak of World War I in 1914. In other words, historians of the nineteenth century like to claim big chunks of other people's time periods.
+The **Networked Infrastructure for Nineteenth-Century Electronic Scholarship \(\*\***[NINES](https://www.nines.org)**\*\*\)** is one such digital humanities organization that attempts to facilitate this process and gather archived materials pertaining to the Nineteenth Century. You might think of NINES as something like a one-stop shopping for all your nineteenth-century digital humanities and text analysis needs. It gathers together peer-reviewed projects on nineteenth-century literature and culture that were put together by different research teams around the globe; some focus on an individual author, others on a genre \(periodicals or "penny dreadfuls"\) or a particular issue \(disability or court cases\). If you go to the site and scroll through "Federated Websites," you'll see the range of projects you can get to from NINES, from one on the eighteenth-century book trade in France to another featuring the letters of Emily Dickinson. For the purposes of this class, you'll notice that some of the projects will be extremely useful to you, such as the Old Bailey Online, which contains trials records from London's central criminal court. Others, such as a project on the journals of Lewis and Clark, won't be relevant for this class -- but might be for others you are taking.
+
+You might also notice that NINES has a relatively expansive view of what the nineteenth century is, since this site includes projects that deal with the late eighteenth and early nineteenth century. Historians often talk of the "long nineteenth century" as the period from the beginning of the French Revolution in 1789 to the outbreak of World War I in 1914. In other words, historians of the nineteenth century like to claim big chunks of other people's time periods.
 
 ![nines federation](/assets/nines_federated.png)
 
@@ -44,9 +46,17 @@ The peer reviewers at NINES had several comments in their feedback for you. They
 
 ![old bailey federated search results](/assets/nines_old_bailey_search.png)
 
-**What does peer review mean for you as a student and user of an archive?**
+**What does peer review mean for you as a student and\/or user of an archive?**
 
+If you've made it this far in life, you've probably realized that you can't trust everything you find on the internet. In this case, knowing that something is peer reviewed allows you to put more trust in what you find on NINES than what you find elsewhere; you know that other scholars in the field have signed off on this material and think it is worthy of inclusion.
 
+**Why else should I use NINES?**
+
+Beyond the fact that you can have a lot of confidence in the projects you find here, NINES is just going to make it easier for you to find things. For one, you might not have known about all these different projects. NINES has also made sure that these projects "play nice" with each other \(a.k.a. interoperability\), which means you can find references to a particular topic or word across these projects with a simple search. 
+
+![](/assets/Screen Shot 2016-08-04 at 10.50.29 AM.png)
+
+Doing a search for "crime" gets you all the references to this term in all of the different projects linked to NINES, saving you from having to search each individual one. \(One warning: only some of the results you get in the left pane will get you to material from the on-line projects affiliated with NINES. In other cases, NINES is searching library catalogs where the material is not available digitally. In this instance, if you wanted to read the first work, Alexandre Dumas's _Celebrated Crimes_, you would have to drive to Charlottesville and go to UVA's Special Collections Library.\)
 
 > What archives do you use on a regular basis?
 > 
