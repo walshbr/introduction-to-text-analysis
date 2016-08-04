@@ -15,17 +15,22 @@ The material here is still recognizable as being part of the same text, though t
 
 # Standards
 
-Let me say it again, computers cannot infer. If you write:
+Let me say it again, computers cannot infer. Imagine this scenario:
 
 I'm going to count to ten!
 
 1,2,3,4,5,6,7,8,10
 
-The computer will have no idea that you probably mistyped and left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is *messy*. To see what I mean, go check out the Wikipedia section on Sir Arthur Conan Doyle's [name](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle#Name)
+You probably meant to have a 9 in there, but the computer will have no idea that you probably mistyped and left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is *messy*. To see what I mean, go check out the Wikipedia section on Sir Arthur Conan Doyle's [name](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle#Name). I will wait. Here is a picture of a cat in the meantime. Imagine it's a cat high fiving you when you clean up some data.
+
+![high fiving cat](/assets/data_cat_high_five.png)
+
+I know
 
 dirty data
 different formats
-
+**dirty data**
+**data cleaning**
 changing standards
 
 sustainability
