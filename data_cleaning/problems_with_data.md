@@ -64,6 +64,7 @@ This data would cause all sorts of problems with the third step. How does the co
 * Look at the line for a comma. Before the comma, you will find the first name. After, the last name.
 * Look at the line for a space. Before the space, you will find the first name. After, the last name.
 
+The former is the more common way of representing data like this. Using commas to denote the different pieces of data is so popular that the format has its own name: **comma seperated value** or **csv**.
 dirty data
 different formats
 **dirty data**
