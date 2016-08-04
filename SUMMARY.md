@@ -2,7 +2,7 @@
 
 * [Preface](README.md)
 * [Introduction](introduction.md)
-* Issues in Digital Text Analysis
+* [Issues in Digital Text Analysis](issues-in-digital-text-analysis.md)
     * [Why Read with a Computer?](issues/why_read_with_a_computer.md)
     * [Google NGram Viewer](issues/google_ngram.md)
     * [Exercises](issues/exercises.md)
@@ -14,11 +14,11 @@
     * [Crowdsourcing](crowdsourcing/crowdsourcing.md)
     * [Prism Part Two](crowdsourcing/prism_part_two.md)
     * [Exercises](crowdsourcing/exercises.md)
-* Archives
+* [Archives](archives.md)
     * [Text Encoding Initiative](archives/tei.md)
     * [NINES and Digital Archives](archives/nines.md)
     * [Exercises](archives/exercises.md)
-* Data Cleaning
+* [Data Cleaning](data-cleaning.md)
     * [Problems with Data](data_cleaning/problems_with_data.md)
     * [Bookworm](data_cleaning/bookworm.md)
     * [Exercises](data_cleaning/exercises.md)
