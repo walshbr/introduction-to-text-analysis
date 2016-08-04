@@ -112,4 +112,4 @@ We have two metadata categories here: last_name, and first_name. Each are separa
 
 Imagine: now that you have started to put together your own table of author names, you notice that your neighbor is putting together one of her own. You want to be able to compare notes and, even more, you want to combine lists. It should be obvious that you will have real problems if you organize things in "first_name last_name" and she organizes things in "last_name, first_name". You would need to do a lot of extra work to reorganize things. It would have been easier if you were working with an accepted standard for how author names should be listed.
 
-glance at LOC and dublin core. and a note about interoperability
+Such metadata standards exist, and a lot of work goes into maintaining them. glance at LOC and dublin core. and a note about interoperability
