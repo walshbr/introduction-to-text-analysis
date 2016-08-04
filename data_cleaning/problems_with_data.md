@@ -89,10 +89,10 @@ The next problem should be obvious: Jane Austen is in a last_name, first_name fo
 Author Names
 ---
 Austen, Jane
-Arthur, Doyle
-Arthur Conan, Doyle
+Doyle, Arthur
+Doyle, Arthur Conan
 ```
-
+This process of not only revising for spelling consistency but also preparing a text 
 **dirty data**
 **data cleaning**
 changing standards
