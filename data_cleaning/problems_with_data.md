@@ -51,7 +51,6 @@ You are working with a number of formats:
 
 ```
 Austen, Jane: last_name, first_name
-James Joyce: first_name last_name
 Arthur Doyle: first_name last_name
 ```
 A computer program would need a way to understand what you are giving it, something like: 
@@ -62,8 +61,8 @@ A computer program would need a way to understand what you are giving it, someth
 
 This data would cause all sorts of problems with the third step. How does the computer get the names? There are two options here:
 
-* 
-* 
+* Look at the line for a comma. Before the comma, you will find the first name. After, the last name.
+* Look at the line for a space. Before the space, you will find the first name. After, the last name.
 
 dirty data
 different formats
