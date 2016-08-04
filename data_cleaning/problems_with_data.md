@@ -1,6 +1,8 @@
-standards, metadata
+# Problems with Data
 
-# OCR
+So you have a text. You want to do something with it. It might be tempting to dive in and start running it through one of the tools in this book, but you should take a moment to examine the materials you are working with. Not all text is created equal, and your results can have real problems if you don't take care to examine the quality of the materials before you work with them.
+
+## OCR
 
 Take this image taken from a newspaper ad for the [American film *Sherlock Holmes* in 1922](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_(1922)_-_6.jpg):
 
@@ -13,7 +15,7 @@ The process of using software to extract the text from an image of a text is cal
 ![ocr'd sherlock holmes text](/assets/holmes_ocr_text.png)
 The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! Why does the computer have such a hard time with this?" OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](https://www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. You can find a more detailed explanation of how OCR workings [here](http://www.explainthatstuff.com/how-ocr-works.html). 
 
-# Standards
+## Data Cleaning
 
 Let me say it again, computers cannot infer. Imagine this scenario:
 
@@ -92,9 +94,24 @@ Austen, Jane
 Doyle, Arthur
 Doyle, Arthur Conan
 ```
-This process of not only revising for spelling consistency but also preparing a text 
-**dirty data**
-**data cleaning**
-changing standards
+We might go further to associate Arthur Doyle and Arthur Conan Doyle as being representations of the same person, a process known as **authority control**. A common way of referring to data that contains inconsistencies and/or errors is as **dirty data**. To keep the metaphor, then, the process of revising data to remove such problems and prepare it for use is called **data cleaning**.
 
-sustainability
+## Metadata
+
+If you have ever searched for a book using a library search interface, you have interacted with metadata categories. **Metadata**, in its most basic sense, is data about data. A text, after all, is more than just the words on the page. We have a whole range of other information that we use to describe the document. The author, its date of publication, its publisher, its copyright status, etc.: we might care deeply about these pieces of information, and we might want you to use them for particular analyses. These categories allow for more nuance, for us to be able to search for books with particular titles from particular time periods. In our previous example, we were actually working with metadata without realizing.
+
+```
+Author Names
+---
+last_name, first_name
+Austen, Jane
+Doyle, Arthur
+Doyle, Arthur Conan
+```
+We have two metadata categories here: last_name, and first_name. Each are separated by a comma. We might even think of author_name as being its own metadata category for someone else's list of books! Databases are really these sorts of things at their heart: data and metadata, organized in systematic ways to make them easily usable.
+
+Imagine: now that you have started to put together your own table of author names, you notice that your neighbor is putting together one of her own. You want to be able to compare notes and, even more, you want to combine lists. It should be obvious that you will have real problems if you organize things in "first_name last_name" and she organizes things in "last_name, first_name". You would need to do a lot of extra work to reorganize things. It would have been easier if you were working with an accepted standard for how author names should be listed.
+
+Such metadata standards exist, and a lot of work goes into maintaining them (check out [Dublin Core](dublincore.org/specifications) if you are interested in learning more). These standards ensure that anyone producing a new dataset creates work that could easily translate and communicate with other systems. They ensure that your local library's data could eventually be drawn into the [Digial Public Library of America](https://dp.la) and made available on a large scale. The process might seem easy with this basic author name example, but imagine trying to coordinate such metadata standards for all people working on all types of cultural objects, all over the world. The work never ends.
+
+You can fall down a deep pit looking at all the different metadata standards and their uses. For now, I just want you to be familiar with the concepts. 
