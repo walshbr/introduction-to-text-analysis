@@ -61,7 +61,7 @@ A computer program would need a way to understand what you are giving it, someth
 2. Each Author has a line of its own.
 3. Get the Author's name.
 
-This data would cause all sorts of problems with the third step. How does the computer get the names? There are two options here:
+This data would cause all sorts of problems with the third step. To begin, how does the computer get the names? There are two options here:
 
 * Look at the line for a comma. Before the comma, you will find the first name. After, the last name.
 * Look at the line for a space. Before the space, you will find the first name. After, the last name.
@@ -71,7 +71,7 @@ The former is the more common way of representing data like this. Using commas t
 ```
 Author Names
 ---
-Jane Austen
+Austen Jane
 Arthur Doyle
 Arthur Conan Doyle
 ```
@@ -79,13 +79,20 @@ If we used spaces to denote breaks between first name and last name, Arthur Cona
 ```
 Author Names
 ---
-Austen, Austen
-Doyle, Arthur
-Doyle, Arthur Conan
+Austen, Jane
+Arthur, Doyle
+Arthur Conan, Doyle
 
 ```
+The next problem should be obvious: Jane Austen is in a last_name, first_name format, while the others are in the reverse. So our final version of this dataset would look like this: 
+```
+Author Names
+---
+Austen, Jane
+Arthur, Doyle
+Arthur Conan, Doyle
+```
 
-different formats
 **dirty data**
 **data cleaning**
 changing standards
