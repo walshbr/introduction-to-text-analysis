@@ -40,7 +40,7 @@ Sir Arthur Conan Doyle
 You can probably imagine others. All of these are technically correct, and they might serve your purposes just fine. But you need to be consistent. Remember how computers cannot infer anything? Imagine this as part of your database of authors:
 
 ```
-Name
+Author Name
 ---
 Austen, Jane
 James Joyce
@@ -54,7 +54,13 @@ Austen, Jane: last_name, first_name
 James Joyce: first_name last_name
 Arthur Conan Doyle: first_name last_name or first_name middle_name last_name (depending on your reading of the biography)
 ```
-A computer program would need a way to understand what you are giving it, so this data would cause all sorts of problems.
+A computer program would need a way to understand what you are giving it, something like: 
+
+1. Look at this 'Author Name' database.
+2. Each Author has a line of its own.
+3. For each 
+
+So this data would cause all sorts of problems. Reorganizing
 
 dirty data
 different formats
