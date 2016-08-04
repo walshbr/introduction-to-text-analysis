@@ -21,7 +21,7 @@ I'm going to count to ten!
 
 1,2,3,4,5,6,7,8,10
 
-The computer will have no idea that you probably mistyped and left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is *messy*
+The computer will have no idea that you probably mistyped and left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is *messy*. 
 
 dirty data
 different formats
