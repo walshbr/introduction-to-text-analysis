@@ -1,6 +1,6 @@
 # Problems with Data
 
-So you have a text. You want to do something with it. It might be tempting to dive in and start running it through one of the tools in this book, but you should take a moment to examine the materials you are working with. Not all text is created equal.
+So you have a text. You want to do something with it. It might be tempting to dive in and start running it through one of the tools in this book, but you should take a moment to examine the materials you are working with. Not all text is created equal, and your results can have real problems if you don't take care to examine the quality of the materials before you work with them.
 
 ## OCR
 
