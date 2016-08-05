@@ -57,8 +57,4 @@ A computer would not recognize these two terms as being equal. The left side, af
 
 Good catch! You're right, those differences in capitalization often aren't meaningful. It is a fairly common practice to lowercase all the words after you tokenize them. This process is often called **normalizing** the data, since we are smoothing out inconsistencies that might get in the way of our research questions. This whole collection of processes of segmentation, tokenization, and normalization has name as well: **preprocessing**, all those things you do to data before you work with it. Depending on your interests, you might include other steps, such as tagging things for parts of speech or filtering out particular types of words.
 
-tokens and types
-
-**type**
-
 Textual data is messy, and it requires a lot of work to convert it into usable material. But once you get a handle on the fixed set of methods for doing so, a whole world of possibility opens up. After all, the internet is *filled* with unstructured textual data, and we could learn a lot about our world by analyzing it to better understand things. This field of study is referred to as **natural language processing**, and a wide range of careers are built upon these foundations. From the sciences, medicine, government, and many more, the world needs people able to make sense of our textual world. You could be one of them.
