@@ -60,7 +60,6 @@ Good catch! You're right, those differences in capitalization often aren't meani
 tokens and types
 
 **type**
-
 data cleaning
 normalizing
 sanitization 
