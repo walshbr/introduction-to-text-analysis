@@ -27,7 +27,7 @@
     * [How Computers Read Texts](cyborg_readers/computer_reading.md)
     * [Voyant Part One](cyborg_readers/voyant_part_one.md)
     * [Exercises](cyborg_readers/exercises.md)
-* Concordances and Frequency Analyses
+* [Concordances and Frequency Analyses](concordances-and-frequency-analyses.md)
     * [Distant Reading](text_analysis/distant_reading.md)
     * [Voyant Part Two](text_analysis/voyant_part_two.md)
     * [Exercises](text_analysis/exercises.md)
