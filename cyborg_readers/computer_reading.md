@@ -1,6 +1,8 @@
 # How Computers Read Texts
 
-If you have been dutifuly following along until now, it should become clear that computers and humans don't think the same way.  With respect to text analysis, we can say that computers and humans have complementary skills.  Computers are good at doing the things that it would take a long time for a human to do (or that we would find incredibly tedious to do). Computers can easily count and compare and will do so for pretty much as long as you tell them to do so.  In contrast, humans are very good understanding nuance and context.   
+If you have been dutifuly following along until now, it should become clear that computers and humans don't think the same way.  With respect to text analysis, we can say that computers and humans have complementary skills. Computers are good at doing the things that it would take a long time for a human to do (or that we would find incredibly tedious to do). Computers can easily count and compare and will do so for pretty much as long as you tell them to do so. In contrast, humans are very good at understanding nuance and context. Thus, you wouldn't want a computer to do any close reading, or unpack the claims of a primary or secondary text; this is something you are far better at. 
+
+
 
 have a hard time understanding data. They can interact with and use data, but they make very few assumptions and even fewer interpretations about data. Those that they do have been specifically programmed into the computer's software. In the context of text analysis, this means that computers have a hard time reading. Consider the following sentence:
 
