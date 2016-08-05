@@ -30,18 +30,27 @@ But notice that my beginning answer hinged on the ambiguity between strings and 
 
 Programmers over the years have built a variety of functions and tools into different languages to get around some of these difficulties, but they still remain. When processing text by a computer, we have to account for such problems. We generally do this by following very strict guidelines for inputting information. This **syntax** works in much the same way as grammar does for humans - helping the computer to keep track of what we mean and what we want it to do. 
 
-In
+In this case, we can tell something is a string or not by the presence or absence of quotation marks:
 
+8 vs "8"
 
-So to a computer, the following are entirely unrelated:
+The computer looks at those quotation marks and can intuit the difference in datatypes: 
+
+integer vs string
+
+Programming and text analysis more generally are built on such subtle distinctions. A computer needs to have its hand held in order to recognize difference and similarity. To a computer, the following are entirely unrelated:
 
 8 ≠ "8" ≠ "Eight" ≠ "Eighth"
-
-It goes even further: computers think of lowercase and capital letters as different. 
+The computer would not recognize the relationships among those four clearly related words. It goes even further: computers think of lowercase and capital letters as different characters entirely. 
 
 "H" ≠ "h"
 
-They only do what you (or decades of programmers) have taught them to do. In fact, by default, they do not know how to do much of anything. In almost all cases, the computer can only read for the things you tell it to read for. 
+These differences can be extremely frustrating when just beginning to practice text analysis, but don't worry: you don't have to reinvent the wheel. You benefit from years of programmers developing ways to account for these things. In any programming context, you probably have access to a range of utilities to capitalize things, lowercase them, convert integers to strings, convert date timestamps into words, etc. 
+
+But there are advantages to these 
+
+"This is a sentence" ≠ "this" "is" "a" "sentence"
+
 
 tokens and types
 
