@@ -12,10 +12,11 @@ Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the
 
 In the first case, I might be responding with a number of movies that I had seen. In the second, I'm responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and we would be able to distinguish between the two by context. 
 
-Computers cannot make inferences like these, and this fact has serious implications: numbers and words have significantly different uses. Here are two further followups.
+Computers cannot make inferences like these, and this fact has serious implications: numbers and words have significantly different uses. Here are two further extensions of the conversation:
 
 > If you add four to how many movies you saw, what is the result?
-> 
+
+If I was talking about a number of movies, my response would clearly be, 
 
 you can divide the former, but not the latter - programmers have developed conventions for telling computers to distinguish between these **data types**.
 
