@@ -51,11 +51,11 @@ But there are advantages to these rigid restrictions. By following them, we can 
 
 "This is a sentence" ≠ "This" "is" "a" "sentence"
 
-A computer would not recognize these two terms as being equal. The left side, after all, contains spaces, and the right side contains a series of smaller strings. Annoying? Maybe. But also useful! After all, we are rarely interested in whole sentences. We commonly refer to individual words as **tokens**, and the process of breaking sentences into words then becomes called **tokenization**. While we often care about how many times each particular token occurs, we might care about If we have the following document:
+A computer would not recognize these two terms as being equal. The left side, after all, contains spaces, and the right side contains a series of smaller strings. Annoying? Maybe. But also useful! After all, we are rarely interested in whole sentences. We commonly refer to individual words as **tokens**, and the process of breaking sentences into words then becomes called **tokenization**. While we often care about how many times each particular token occurs, we might care about not so much about the numbers of each different word so much as the different kinds of words themselves. So rather than counting all words, we just want to grab an example of each token **type**. If we have the following document:
 
 Test test test sentence sentence
 
-We have five tokens and two types. 
+We have five tokens and two types. Depending on our research questions and interests, statistics like these can help tell us about what the document discusses as well as how it is being discussed.
 
 If sentences are broken up into words, we might care also about breaking documents into sentences first. We have a name for that too: **segmentation**.
 
