@@ -51,7 +51,11 @@ But there are advantages to these rigid restrictions. By following them, we can 
 
 "This is a sentence" ≠ "This" "is" "a" "sentence"
 
-A computer would not recognize these two terms as being equal. The left side, after all, contains spaces, and the right side contains a series of smaller strings. Annoying? Maybe. But also useful! After all, we are rarely interested in whole sentences. We commonly refer to individual words as **tokens**, and the process of breaking sentences into words then becomes called **tokenization**. If sentences are broken up into words, we might care also about breaking documents into sentences first. We have a name for that too: **segmentation**.
+A computer would not recognize these two terms as being equal. The left side, after all, contains spaces, and the right side contains a series of smaller strings. Annoying? Maybe. But also useful! After all, we are rarely interested in whole sentences. We commonly refer to individual words as **tokens**, and the process of breaking sentences into words then becomes called **tokenization**. If we have the following document:
+
+
+
+If sentences are broken up into words, we might care also about breaking documents into sentences first. We have a name for that too: **segmentation**.
 
 "But wait," you say, "computers care about capitalization. So if I tokenize a text and try to compare 'word' and 'Word' it will think they are entirely different things!" 
 
