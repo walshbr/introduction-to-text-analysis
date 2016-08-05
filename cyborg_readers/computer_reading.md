@@ -51,9 +51,11 @@ But there are advantages to these rigid restrictions. By following them, we can 
 
 "This is a sentence" ≠ "This" "is" "a" "sentence"
 
-A computer would not recognize these two terms as being equal. The left side, after all, contains spaces, and the right side contains a series of smaller strings. Annoying? Maybe. But also useful! After all, we are rarely interested in whole sentences. We commonly refer to individual words as **tokens**, and the process of breaking sentences into words then becomes called **tokenization**.
+A computer would not recognize these two terms as being equal. The left side, after all, contains spaces, and the right side contains a series of smaller strings. Annoying? Maybe. But also useful! After all, we are rarely interested in whole sentences. We commonly refer to individual words as **tokens**, and the process of breaking sentences into words then becomes called **tokenization**. If sentences are broken up into words, we might care also about breaking documents into sentences first. We have a name for that too: **segmentation**.
 
-If sentences are broken up into words, we might care also about breaking documents into sentences first. We have a name for that too: **segmentation**.
+"But wait," you say, "computers care about capitalization. So if I tokenize a text and try to compare 'word' and 'Word' it will think they are entirely different things!" 
+
+Good catch! You're right, those differences in capitalization often aren't meaningful. It is a fairly common practice to lowercase all the words after you tokenize them. This process is often called **normalizing** the data, since we are smoothing out inconsistencies that might get in the way of our research questions.
 
 tokens and types
 
