@@ -59,7 +59,7 @@ We have five tokens and two types. Depending on our research questions and inter
 
 If sentences are broken up into words, we might care also about breaking documents into sentences first. We have a name for that too: **segmentation**.
 
-"But wait," you say, "computers care about capitalization. So if I tokenize a text and try to compare 'word' and 'Word' it will think they are entirely different things!" 
+> "But wait," you say, "computers care about capitalization. So if I tokenize a text and try to compare 'word' and 'Word' it will think they are entirely different things!" 
 
 Good catch! You're right, those differences in capitalization often aren't meaningful. It is a fairly common practice to lowercase all the words after you tokenize them. This process is often called **normalizing** the data, since we are smoothing out inconsistencies that might get in the way of our research questions. This whole collection of processes of segmentation, tokenization, and normalization has name as well: **preprocessing**, all those things you do to data before you work with it. Depending on your interests, you might include other steps, such as tagging things for parts of speech or filtering out particular types of words.
 
