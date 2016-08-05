@@ -47,12 +47,19 @@ The computer would not recognize the relationships among those four clearly rela
 
 These differences can be extremely frustrating when just beginning to practice text analysis, but don't worry: you don't have to reinvent the wheel. You benefit from years of programmers developing ways to account for these things. In any programming context, you probably have access to a range of utilities to capitalize things, lowercase them, convert integers to strings, convert date timestamps into words, etc. 
 
-But there are advantages to these 
+But there are advantages to these rigid restrictions. By following them, we can get very detailed information about texts that we might otherwise gloss over. The first part of any text analysis project involves converting complex language into organized data that the computer can understand. 
 
-"This is a sentence" ≠ "this" "is" "a" "sentence"
+"This is a sentence" ≠ "This" "is" "a" "sentence"
 
+A computer would not recognize these two terms as being equal. The left side, after all, contains spaces, and the right side contains a series of smaller strings. Annoying? Maybe. But also useful! After all, we are rarely interested in whole sentences. We commonly refer to individual words as **tokens**, and the process of breaking sentences into words then becomes called **tokenization**.
 
 tokens and types
 
-**Tokens**
+
 **type**
+
+data cleaning
+normalizing
+sanitization 
+
+Textual data is messy, and it requires a lot of work to convert it into usable material. But once you get a handle on the fixed set of methods for doing so, a whole world of possibility opens up. After all, the internet is *filled* with unstructured textual data, and we could learn a lot about our world by analyzing it to better understand things. This field of study is referred to as **natural language processing**, and a wide range of careers are built upon these foundations. From the sciences, medicine, government, and many more, the world needs people able to make sense of our textual world. You could be one of them.
