@@ -1,18 +1,23 @@
 # How Computers Read Texts
 
-When preparing for text analysis, this becomes im 
-Consider the following sentence:
+If you have been dutifuly following along until now, it should become clear that computers have a hard time understanding data. They can interact with and use data, but they make very few assumptions and even fewer interpretations about data. Those that they do have been specifically programmed into the computer's software. In the context of text analysis, this means that computers have a hard time reading. Consider the following sentence:
 
 "I saw 8<sup>1/2</sup>."
 
 Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the question to which I might be responding, and I can think of two possible questions with very different contexts:
 
-"How many movies did you see?
-"What movie did you see?"
+> "How many movies did you see?
 
-In the first case, I might be responding with a number of movies that I had seen. In the second, I'm responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and we would be able to distinguish between the two by context.
+> "What movie did you see?"
 
-Computers cannot make inferences like these. Since numbers and words have significant differences - you can divide the former, but not the latter - programmers have developed conventions for telling computers to distinguish between these **data types**.
+In the first case, I might be responding with a number of movies that I had seen. In the second, I'm responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and we would be able to distinguish between the two by context. 
+
+Computers cannot make inferences like these, and this fact has serious implications: numbers and words have significantly different uses. Here are two further followups.
+
+> If you add four to how many movies you saw, what is the result?
+> 
+
+you can divide the former, but not the latter - programmers have developed conventions for telling computers to distinguish between these **data types**.
 
 **String**: characters, the stuff of words
 

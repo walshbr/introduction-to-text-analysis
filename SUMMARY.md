@@ -23,7 +23,7 @@
     * [Problems with Data](data_cleaning/problems_with_data.md)
     * [Bookworm](data_cleaning/bookworm.md)
     * [Exercises](data_cleaning/exercises.md)
-* Cyborg Readers
+* [Cyborg Readers](cyborg-readers.md)
     * [How Computers Read Texts](cyborg_readers/computer_reading.md)
     * [Voyant Part One](cyborg_readers/voyant_part_one.md)
     * [Exercises](cyborg_readers/exercises.md)
