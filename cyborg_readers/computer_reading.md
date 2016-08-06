@@ -1,6 +1,10 @@
 # How Computers Read Texts
 
-If you have been dutifuly following along until now, it should become clear that computers have a hard time understanding data. They can interact with and use data, but they make very few assumptions and even fewer interpretations about data. Those that they do have been specifically programmed into the computer's software. In the context of text analysis, this means that computers have a hard time reading. Consider the following sentence:
+If you have been dutifuly following along until now, it should become clear that computers and humans don't think the same way.  With respect to text analysis, we can say that computers and humans have complementary skills. Computers are good at doing the things that it would take a long time for a human to do (or that we would find incredibly tedious to do). Computers can easily count and compare and will do so for pretty much as long as you tell them to do so. In contrast, humans are very good at understanding nuance and context. Thus, you wouldn't want a computer to do any close reading, or unpack the claims of a primary or secondary text; this is something you are far better at. 
+
+If that's the case, you may be wondering why we're teaching a class on text analysis. The answer is that there are a lot of instances where you can combine what humans are good at with what computers are good at to look at texts in new and creative ways. In particular, you can make computers do a lot of the repetitive work that you might find tedious.
+
+To do so, though, you need to know a bit about how computers process texts. It should be clear from what we've said so far that they have a hard time understanding data. They can interact with and use data, but they make very few assumptions and even fewer interpretations about data. Those that they do have been specifically programmed into the computer's software. In the context of text analysis, this means that computers have a hard time reading. Consider the following sentence:
 
 "I saw 8<sup>1/2</sup>."
 
@@ -10,7 +14,7 @@ Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the
 
 > "What movie did you see?"
 
-In the first case, I might be responding with a number of movies that I had seen. In the second, I'm responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and we would be able to distinguish between the two by context. 
+In the first case, I might be responding with a number of movies that I had seen. In the second, I'm responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and since we're good at understanding context, we would easily be able to distinguish between the two. 
 
 Computers cannot make inferences like these, and this fact has serious implications: numbers and words have significantly different uses. Here are two further extensions of the conversation:
 
