@@ -9,7 +9,6 @@
     * [Exercises](issues/exercises.md)
 * [Close Reading](close-reading.md)
     * [Close Reading](close_reading/close_reading.md)
-    * [Contexts and claims](contexts-and-claims.md)
     * [Prism Part One](close_reading/prism_part_one.md)
     * [Exercises](close_reading/exercises.md)
 * Crowdsourcing
