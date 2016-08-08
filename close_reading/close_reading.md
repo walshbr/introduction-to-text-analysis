@@ -80,6 +80,8 @@ For instance, take the following passage from the first paragraph of the _Anecdo
 
 At one level, this work is giving an account of how Louis XV and the Countess du Barry began their liaison. But these sentences also have an implicit message: the king's sexual desire for women was natural and indeed necessary to his well-being. This view that the king needed to have a mistress for the sake of his health may be surprising to you and it certainly reveals a set of assumptions about extra-marital activity at the time. So if we can't take this primary source as an accurate representation of the relationship between du Barry and the king, it does serve as a fascinating window into into the culture of late eighteenth-century France.
 
+## Digital Reading
+
 Interrogating sources in this fashion is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves. Our primary motivation in this book, then, is how the process can be changed with the introduction of technology. You might start by asking a series of questions about how close reading might interact with digital tools.
 
 Can we still read closely if the computer is doing the reading for us?
