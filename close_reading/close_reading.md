@@ -25,9 +25,11 @@ Is the note just old? Was your roommate in a hurry and actually asking you to wa
 
 **Text**: Take a look at that question mark. And then the curt second sentence. Your roommate put those things there on purpose to be rude.
 
-The list could go on and on. We employ a similar range of skills when we read anything, be it fiction, poetry, historical documents. Close reading tends to refer to the last category, and might be best described as an activity in which a reader simply lets no detail of the text go unquestioned. The best way at approaching a good close reading is by asking \(and attempting to answer\) questions of every piece of a text? Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ similar to the ones that you read about in Sarah Maza's “The Diamond Necklace Affair Revisited: The Case of the Missing Queen.” Mme du Barry was a prostitute who was Louis XV's last mistress.  
+The list could go on and on. We employ a similar range of skills when we read anything, be it fiction, poetry, historical documents. Close reading tends to refer to the last category, and might be best described as an activity in which a reader simply lets no detail of the text go unquestioned. The best way at approaching a good close reading is by asking \(and attempting to answer\) questions of every piece of a text? 
 
-> To Sherlock Holmes she is always _the_ woman.
+Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ \(which you can find [here](http://chnm.gmu.edu/revolution/d/261/)\) similar to the ones that you read about in Sarah Maza's “The Diamond Necklace Affair Revisited: The Case of the Missing Queen.” Mme du Barry was a prostitute who was Louis XV's mistress at the end of his reign \(1715-1774\). Here is how the Count du Barry tells one of Louis XV's courtiers that he has a woman in mind for the king:
+
+> "I’ve got your business for you. You know I don’t lack taste. Trust me: you come to dinner at my house and tell me that I’m a cad if I don’t give you the most beautiful woman, the most fresh, the most seductive; a true morsel for a king."
 
 In beginning a close reading here, I might ask:
 
