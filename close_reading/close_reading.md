@@ -45,10 +45,11 @@ If you read the rest of the text, you'll see that most of the language in this e
 * You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage. This evidence then becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
 
 In addition to reading texts closely, you also want to think about what the text is and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [Here](http://umb.libguides.com/c.php?g=351019&p=2367357) is a good set of definitions:
+
 > **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it.
 > **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis.
 
-In the context of this week's reading, Maza's article is a secondary text, whereas the _Anedcotes_, discussed above, is a primary text. 
+In the context of this week's reading, Maza's article is a secondary text, whereas the _Anedcotes_, discussed above, is a primary text.
 
 Reading primary texts is absolutely invaluable to how you, as a historian, work. There is no better way to understand events in the past than by examining the sources – whether journals, newspaper articles, letters, court case records, novels, artworks, music or autobiographies – that people from that period left behind. However, you need to approach primary sources with care and as something other than a 100% accurate representation of the truth. For instance, in reading the _Anecdotes_, you ask: did the author actually witness the events he or she was describing? Probably not. In that case, this document is a better window into views about Mme du Barry and Louis XV at the time than to the what actually happened.
 
@@ -56,7 +57,7 @@ Thus, you want to read primary sources with a series of questions in mind. The f
 
 1. What was the author's message or argument? What was he\/she trying to get across? Are these messages explicit or are there implicit messages as well? What does the author choose NOT to talk about?
 
-2. What do you know about the author? How might his or her beliefs or background have affected the writing of and views in this document? 
+2. What do you know about the author? How might his or her beliefs or background have affected the writing of and views in this document?
 
 3. Who constituted the intended audience? Was this source meant for one person's eyes, or for the public? How does that affect the source?
 
@@ -69,7 +70,9 @@ Thus, you want to read primary sources with a series of questions in mind. The f
 7. What assumptions do you see being made? What surprises you about this text?
 
 
+For instance, take the following sentences from the first paragraph of the _Anecdotes_:
 
+Advancing age and the ability of a great prince to satisfy all his passions had dulled his attraction towards women. But this need, though diminished, continued; and the courtiers judged it necessary to distract His Majesty from the long and grievous spectacle which the illness of the Queen had created. The doctors assured the King that it was dangerous to give up so abruptly a pleasure necessary for his existence.
 
 Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves.
 
