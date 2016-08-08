@@ -33,7 +33,7 @@ Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ 
 
 In beginning a close reading here, I might ask:
 
-* What adjectives and nouns describe Mme du Barry here? 
+* What adjectives and nouns describe Mme du Barry here?
 
 * More specifically, what does it mean that she is compared to a "business" or a "morsel"?
 
@@ -46,8 +46,8 @@ In beginning a close reading here, I might ask:
 
 You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage. This evidence then becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
 
-
 In addition to reading texts closely, you also want to think about what the text is and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [Here](http://umb.libguides.com/c.php?g=351019&p=2367357) is a good set of definitions:
+
 > **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it.
 > **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis.
 
@@ -78,7 +78,7 @@ For instance, take the following passage from the first paragraph of the _Anecdo
 
 At one level, this work is giving an account of how Louis XV and the Countess du Barry began their liaison. But these sentences also have an implicit message: the king's sexual desire for women was natural and indeed necessary to his well-being. This view that the king needed to have a mistress for the sake of his health may be surprising to you and it certainly reveals a set of assumptions about extra-marital activity at the time. So if we can't take this primary source as an accurate representation of the relationship between du Barry and the king, it does serve as a fascinating window into into the culture of late eighteenth-century France.
 
-Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves.
+Interrogating a source in this fashion are just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves.
 
 You might start by asking a series of questions about how close reading might interact with digital tools.
 
