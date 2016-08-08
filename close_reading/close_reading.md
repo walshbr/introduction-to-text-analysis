@@ -40,11 +40,38 @@ If she is a piece of food, what does that mean about the relationship she might 
 
 Why is she not named here?
 
-If you read the rest of the text, you'll see that most of the language in this excerpt is flowery -- but not the Count du Barry's words. What does that suggest about him? 
+If you read the rest of the text, you'll see that most of the language in this excerpt is flowery -- but not the Count du Barry's words. What does that suggest about him?
 
 * You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage. This evidence then becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
 
-Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves. 
+In addition to reading texts closely, you also want to think about what the text is and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [Here](http://umb.libguides.com/c.php?g=351019&p=2367357) is a good set of definitions:
+> **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it.
+> **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis.
+
+In the context of this week's reading, Maza's article is a secondary text, whereas the _Anedcotes_, discussed above, is a primary text. 
+
+Reading primary texts is absolutely invaluable to how you, as a historian, work. There is no better way to understand events in the past than by examining the sources – whether journals, newspaper articles, letters, court case records, novels, artworks, music or autobiographies – that people from that period left behind. However, you need to approach primary sources with care and as something other than a 100% accurate representation of the truth. For instance, in reading the _Anecdotes_, you ask: did the author actually witness the events he or she was describing? Probably not. In that case, this document is a better window into views about Mme du Barry and Louis XV at the time than to the what actually happened.
+
+Thus, you want to read primary sources with a series of questions in mind. The following is adapted from this [guide](http://apps.carleton.edu/curricular/history/study/):
+
+1. What was the author's message or argument? What was he\/she trying to get across? Are these messages explicit or are there implicit messages as well? What does the author choose NOT to talk about?
+
+2. What do you know about the author? How might his or her beliefs or background have affected the writing of and views in this document? 
+
+3. Who constituted the intended audience? Was this source meant for one person's eyes, or for the public? How does that affect the source?
+
+4. Is it prescriptive \(telling you what people thought should happen\) or descriptive \(telling you what people thought did happen\)?
+
+5. Does it tell you about the beliefs\/actions of the elite, or of “ordinary” people? From whose perspective?
+
+6. What historical questions can you answer using this source? What questions can this source NOT help you answer? What are the limitations of this type of source? What historical perspectives are left out of this source?
+
+7. What assumptions do you see being made? What surprises you about this text?
+
+
+
+
+Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves.
 
 You might start by asking a series of questions about how close reading might interact with digital tools.
 
