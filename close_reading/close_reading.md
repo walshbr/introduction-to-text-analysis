@@ -34,20 +34,19 @@ Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ 
 In beginning a close reading here, I might ask:
 
 What adjectives and nouns describe Mme du Barry here? 
-More specifically, what does it mean that she is compared to a "business" or a "morsel"? If she is a piece of food, what does that mean about the relationship she might have with Louis XV?
+More specifically, what does it mean that she is compared to a "business" or a "morsel"?
+
+If she is a piece of food, what does that mean about the relationship she might have with Louis XV?
 
 Why is she not named here?
 
+If you read the rest of the text, you'll see that most of the language in this excerpt is flowery -- but not the Count du Barry's words. What does that suggest about him? 
 
-Why is 'the' italicized?
-Why is this passage in the present tense?
-Why does the sentence have a sense of balance, with a phrase about Holmes and a phrase about the woman?
-Why are there no punctuation marks other than the period here?
+* You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage. This evidence then becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
 
-* You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage. This evidence then becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about Sherlock Holmes above, I might make the argument that the first sentence of the text sets up an opposition between Holmes and the unnamed woman. Right away, the text makes women second-class characters. Even if the reader might eventually learn who the woman is, to Holmes she will only ever be one thing. Nothing more or less than her gender.
+Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves. 
 
-
-Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves. You might start by asking a series of questions about how close reading might interact with digital tools.
+You might start by asking a series of questions about how close reading might interact with digital tools.
 
 Can we still read closely if the computer is doing the reading for us?
 
