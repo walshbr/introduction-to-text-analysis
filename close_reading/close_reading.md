@@ -70,9 +70,11 @@ Thus, you want to read primary sources with a series of questions in mind. The f
 7. What assumptions do you see being made? What surprises you about this text?
 
 
-For instance, take the following sentences from the first paragraph of the _Anecdotes_:
+For instance, take the following passage from the first paragraph of the _Anecdotes_:
 
-Advancing age and the ability of a great prince to satisfy all his passions had dulled his attraction towards women. But this need, though diminished, continued; and the courtiers judged it necessary to distract His Majesty from the long and grievous spectacle which the illness of the Queen had created. The doctors assured the King that it was dangerous to give up so abruptly a pleasure necessary for his existence.
+> Advancing age and the ability of a great prince to satisfy all his passions had dulled his attraction towards women. But this need, though diminished, continued ... The doctors assured the King that it was dangerous to give up so abruptly a pleasure necessary for his existence.
+
+At one level, this work is giving an account of how Louis XV and the Countess du Barry began their liaison. But these sentences also have an implicit message: the king's sexual desire for women was natural and healthy. 
 
 Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves.
 
