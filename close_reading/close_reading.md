@@ -46,6 +46,8 @@ In beginning a close reading here, I might ask:
 
 You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage. This evidence then becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
 
+## Primary and Secondary Texts for Historical Analysis
+
 In addition to reading texts closely, you also want to think about what the text is and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [Here](http://umb.libguides.com/c.php?g=351019&p=2367357) is a good set of definitions:
 
 > **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it.
@@ -53,7 +55,7 @@ In addition to reading texts closely, you also want to think about what the text
 
 Sarah Maza's article is a secondary text, whereas the _Anedcotes_, discussed above, is a primary text.
 
-Reading primary texts is absolutely invaluable to how you, as a historian, work. There is no better way to understand events in the past than by examining the sources – whether journals, newspaper articles, letters, court case records, novels, artworks, music or autobiographies – that people from that period left behind. However, you need to approach primary sources with care and as something other than a 100% accurate representation of the truth. For instance, in reading the _Anecdotes_, you might ask: did the author actually witness the events he or she was describing? Probably not. In that is the case, what can this document help us understand? And what can't we use it to do?
+Reading primary texts is absolutely invaluable, particularly in the study of history. There is no better way to understand events in the past than by examining the sources – whether journals, newspaper articles, letters, court case records, novels, artworks, music or autobiographies – that people from that period left behind. However, you need to approach primary sources with care and as something other than a 100% accurate representation of the truth. For instance, in reading the _Anecdotes_, you might ask: did the author actually witness the events he or she was describing? Probably not. In that is the case, what can this document help us understand? And what can't we use it to do?
 
 Thus, you want to read primary sources with a series of questions in mind. The following is adapted from this [guide](http://apps.carleton.edu/curricular/history/study/):
 
@@ -78,9 +80,7 @@ For instance, take the following passage from the first paragraph of the _Anecdo
 
 At one level, this work is giving an account of how Louis XV and the Countess du Barry began their liaison. But these sentences also have an implicit message: the king's sexual desire for women was natural and indeed necessary to his well-being. This view that the king needed to have a mistress for the sake of his health may be surprising to you and it certainly reveals a set of assumptions about extra-marital activity at the time. So if we can't take this primary source as an accurate representation of the relationship between du Barry and the king, it does serve as a fascinating window into into the culture of late eighteenth-century France.
 
-Interrogating a source in this fashion are just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves.
-
-You might start by asking a series of questions about how close reading might interact with digital tools.
+Interrogating sources in this fashion is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves. Our primary motivation in this book, then, is how the process can be changed with the introduction of technology. You might start by asking a series of questions about how close reading might interact with digital tools.
 
 Can we still read closely if the computer is doing the reading for us?
 
