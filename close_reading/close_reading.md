@@ -27,31 +27,33 @@ Is the note just old? Was your roommate in a hurry and actually asking you to wa
 
 The list could go on and on. We employ a similar range of skills when we read anything, be it fiction, poetry, historical documents. Close reading tends to refer to the last category, and might be best described as an activity in which a reader simply lets no detail of the text go unquestioned. The best way at approaching a good close reading is by asking \(and attempting to answer\) questions about every piece of a text.
 
-Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ \(which you can find [here](http://chnm.gmu.edu/revolution/d/261/)\) similar to the ones that you read about in Sarah Maza's “The Diamond Necklace Affair Revisited: The Case of the Missing Queen.” Mme du Barry was a prostitute who was Louis XV's mistress at the end of his reign \(1715-1774\). Here is how the Count du Barry tells one of Louis XV's courtiers that he has a woman in mind for the king:
+Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ \(which you can find [here](http://chnm.gmu.edu/revolution/d/261/)\) similar to the ones discussed in Sarah Maza's “The Diamond Necklace Affair Revisited: The Case of the Missing Queen.” Mme du Barry was a prostitute who was Louis XV's mistress at the end of his reign \(1715-1774\). Here is how the Count du Barry tells one of Louis XV's courtiers that he has a woman in mind for the king:
 
 > "I’ve got your business for you. You know I don’t lack taste. Trust me: you come to dinner at my house and tell me that I’m a cad if I don’t give you the most beautiful woman, the most fresh, the most seductive; a true morsel for a king."
 
 In beginning a close reading here, I might ask:
 
-What adjectives and nouns describe Mme du Barry here? 
-More specifically, what does it mean that she is compared to a "business" or a "morsel"?
+* What adjectives and nouns describe Mme du Barry here? 
 
-If she is a piece of food, what does that mean about the relationship she might have with Louis XV?
+* More specifically, what does it mean that she is compared to a "business" or a "morsel"?
 
-Why is she not named here?
+* If she is a piece of food, what does that mean about the relationship she might have with Louis XV?
 
-If you read the rest of the text, you'll see that most of the language in this excerpt is flowery -- but not the Count du Barry's words. What does that suggest about him?
+* Why is she not named here?
 
-* You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage. This evidence then becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
+* If you read the rest of the text, you'll see that most of the language in this excerpt is flowery -- but not the Count du Barry's words. What does that suggest about who he is and what his character is like?
+
+
+You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage. This evidence then becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
+
 
 In addition to reading texts closely, you also want to think about what the text is and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [Here](http://umb.libguides.com/c.php?g=351019&p=2367357) is a good set of definitions:
-
 > **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it.
 > **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis.
 
-In the context of this week's reading, Maza's article is a secondary text, whereas the _Anedcotes_, discussed above, is a primary text.
+Sarah Maza's article is a secondary text, whereas the _Anedcotes_, discussed above, is a primary text.
 
-Reading primary texts is absolutely invaluable to how you, as a historian, work. There is no better way to understand events in the past than by examining the sources – whether journals, newspaper articles, letters, court case records, novels, artworks, music or autobiographies – that people from that period left behind. However, you need to approach primary sources with care and as something other than a 100% accurate representation of the truth. For instance, in reading the _Anecdotes_, you ask: did the author actually witness the events he or she was describing? Probably not. In that case, this document is a better window into views about Mme du Barry and Louis XV at the time than to the what actually happened.
+Reading primary texts is absolutely invaluable to how you, as a historian, work. There is no better way to understand events in the past than by examining the sources – whether journals, newspaper articles, letters, court case records, novels, artworks, music or autobiographies – that people from that period left behind. However, you need to approach primary sources with care and as something other than a 100% accurate representation of the truth. For instance, in reading the _Anecdotes_, you might ask: did the author actually witness the events he or she was describing? Probably not. In that is the case, what can this document help us understand? And what can't we use it to do?
 
 Thus, you want to read primary sources with a series of questions in mind. The following is adapted from this [guide](http://apps.carleton.edu/curricular/history/study/):
 
@@ -59,7 +61,7 @@ Thus, you want to read primary sources with a series of questions in mind. The f
 
 2. What do you know about the author? How might his or her beliefs or background have affected the writing of and views in this document?
 
-3. Who constituted the intended audience? Was this source meant for one person's eyes, or for the public? How does that affect the source?
+3. Who constituted the intended audience? Was this source meant for one person's eyes or for the public? How does that affect the nature of the source?
 
 4. Is it prescriptive \(telling you what people thought should happen\) or descriptive \(telling you what people thought did happen\)?
 
@@ -74,7 +76,7 @@ For instance, take the following passage from the first paragraph of the _Anecdo
 
 > Advancing age and the ability of a great prince to satisfy all his passions had dulled his attraction towards women. But this need, though diminished, continued ... The doctors assured the King that it was dangerous to give up so abruptly a pleasure necessary for his existence.
 
-At one level, this work is giving an account of how Louis XV and the Countess du Barry began their liaison. But these sentences also have an implicit message: the king's sexual desire for women was natural and indeed necessary to his well-being. This view that the king needed to have a mistress for the sake of his health may be surprising to you and it certain reveals a set of assumptions about extra-marital activity at the time. So if we can't take this primary source as an accurate representation of the relationship between du Barry and the king, it does serve as a fascinating window into into the culture of late eighteenth-century France.
+At one level, this work is giving an account of how Louis XV and the Countess du Barry began their liaison. But these sentences also have an implicit message: the king's sexual desire for women was natural and indeed necessary to his well-being. This view that the king needed to have a mistress for the sake of his health may be surprising to you and it certainly reveals a set of assumptions about extra-marital activity at the time. So if we can't take this primary source as an accurate representation of the relationship between du Barry and the king, it does serve as a fascinating window into into the culture of late eighteenth-century France.
 
 Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves.
 
