@@ -55,7 +55,7 @@ Reading primary texts is absolutely invaluable to how you, as a historian, work.
 
 Thus, you want to read primary sources with a series of questions in mind. The following is adapted from this [guide](http://apps.carleton.edu/curricular/history/study/):
 
-1. What was the author's message or argument? What was he\/she trying to get across? Are these messages explicit or are there implicit messages as well? What does the author choose NOT to talk about?
+1. What implicit and explicit messages does this text contain? What did the author choose NOT to talk about?
 
 2. What do you know about the author? How might his or her beliefs or background have affected the writing of and views in this document?
 
@@ -74,7 +74,7 @@ For instance, take the following passage from the first paragraph of the _Anecdo
 
 > Advancing age and the ability of a great prince to satisfy all his passions had dulled his attraction towards women. But this need, though diminished, continued ... The doctors assured the King that it was dangerous to give up so abruptly a pleasure necessary for his existence.
 
-At one level, this work is giving an account of how Louis XV and the Countess du Barry began their liaison. But these sentences also have an implicit message: the king's sexual desire for women was natural and healthy. 
+At one level, this work is giving an account of how Louis XV and the Countess du Barry began their liaison. But these sentences also have an implicit message: the king's sexual desire for women was natural and healthy -- and indeed necessary to his well-being. 
 
 Close reading is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves.
 
