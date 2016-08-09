@@ -18,7 +18,7 @@ Word clouds like these have been made popular in recent years by [Wordle](http:/
 
 Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](http://www.historyofinformation.com/expanded.php?id=2321) begun on punch cards in the 1940's and 50's was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
 
-Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot simply by counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character. 
+Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot simply by counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character.
 
 Notice the words that you do not see on this list: words like 'a' or 'the.' Words like these, **stopwords** are _so_ common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right:
 
@@ -36,23 +36,21 @@ Return to the word cloud. Using the slider below the word cloud, you can reduce 
 
 ![voyant word clouse dense](/assets/voyant_word_cloud_dense.png)
 
-Just like the stopword list can be used to adjust the filters that help to give you meaningful results, this slider adjusts the visualization that you get. It should become clear as you play with both options that different filters and different visualizations can give you radically different readings. The results are far from objective: your own reading, the tool itself and how you use it all shape the data as it comes to be known. 
+Just like the stopword list can be used to adjust the filters that help to give you meaningful results, this slider adjusts the visualization that you get. It should become clear as you play with both options that different filters and different visualizations can give you radically different readings. The results are far from objective: your own reading, the tool itself and how you use it all shape the data as it comes to be known.
 
-This is a good reminder that you should not think of digital tools as gateways to fixed and clear truths, either about historical periods or individual texts. Voyant may seem somehow objective in that it produces mathematical calculations and data visualizations, but now you've seen that you can easily alter the results. These techniques of "distant reading" are same as the models of "close reading" we talked about earlier in that both only lead to asking more questions and positing more interpretations. 
+This is a good reminder that you should not think of digital tools as gateways to fixed and clear truths, either about historical periods or individual texts. Voyant may seem somehow objective in that it produces mathematical calculations and data visualizations, but now you've seen that you can easily alter the results. These techniques of "distant reading" are same as the models of "close reading" we talked about earlier in that both only lead to asking more questions and positing more interpretations.
 
 That is a good thing.
 
 ## Interpreting Word Clouds
 
-Given that what's important about word clouds is not producing visualizations so much as the interpreting Voyant helps you come up with, you might ask: what does this help us learn about _The String of Pearls_? 
+Given that what's important about word clouds is not producing visualizations so much as the interpreting Voyant helps you come up with, you might ask: what does this help us learn about _The String of Pearls_?
 
 For one, looking at these word clouds suggests that much of the vocabulary of this novel either refers to or exists in the context of speech.  One of the most prominent words is "said," but you also see "say" and "speak" and words like "yes," "I'll," and "oh" which probably -- although not necessarily -- come from written dialog.
 
-Looking at these counts, you could argue that these relatively 'simple' words might reflect the audience of the text: penny dreadfuls like _The String of Pearls_ were aimed at working class audiences. In order to substantiate such a claim, we would probably want to look at other publications of the period to see whether or not such a list of frequently used words was typical or not.
+Additionally, most of the words are relatively short and most are only one or two syllables long.  Penny dreadfuls like _The String of Pearls_ were aimed at working class audiences: could the prevalence of these relatively 'simple' words reflect the audience of the text? In order to substantiate such a claim, we would probably want to look at other publications of the period to see whether or not such a list of frequently used words was typical or not.
 
-
-
-update with some more analysis and language.
+If we load Arthur Conan Doyle's "A Scandal in Bohemia" into Voyant, you can see that we get quite different results.
 
 give it three more instances of analysis for sweeney \(the concordance is only half fleshed out right now\).
 patterns \(say more about this\), noise in visualizations \(say more\)
