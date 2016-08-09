@@ -56,7 +56,7 @@ If we load Arthur Conan Doyle's "A Scandal in Bohemia" into Voyant, you can see 
 
 A quick glance shows that the most common words tend to be longer in length than those in _A String of Pearls_, with the three syllable "photograph" being one of the most frequently used terms in this short story, one written for a middle-class as opposed to lower-class audience. So maybe the simple vocabulary of the penny dreadful is related to the nature of its readership.
 
-
+But let's not stop there! You may also notice that the word cloud for "A Scandal in Bohemia" has a lot of words related to status: "king," "magesty," "gentleman," and "lady," for instance. In contrast, with the possible exception of the word "sir" in _A String of Pearls_, 
 
 give it three more instances of analysis for sweeney \(the concordance is only half fleshed out right now\).
 patterns \(say more about this\), noise in visualizations \(say more\)
