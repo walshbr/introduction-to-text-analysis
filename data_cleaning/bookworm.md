@@ -75,12 +75,13 @@ By default, Zotero just assumes you are trying to grab the webpage itself. When 
 
 ![zotero input from web](/assets/zotero_input_from_web.png)
 
-Well, not quite. We won't get lost in the weeds of explaining the technical details of how this works, as that is a subject for a different class. For now, just know that Zotero is interacting with hidden information on the webpage that provides information to programs like it. The average user never knows that these webpages contain information like this, but Zotero can leverage that data into powerful content to make your life easier.
+Well, not quite. We won't get lost in the weeds of explaining the technical details of how this works, as that is a subject for a different class. For now, just know that Zotero is interacting with hidden information on the webpage that provides information to programs like it. The average user never knows that these webpages contain information like this, but Zotero can leverage that invisible data into powerful content to make your life easier.
 
+Now that we have our metadata, the fun begins.
 
-
-Grab information from a webpage
-It can take an ISBN and fill in all the rest of a book's metadata for you.
 insert citations in a text.
 Create an automatically updating bibliography.
 Share your bibliography with others.
+
+Zotero is much more. 
+Built on an open-source ethos. 
