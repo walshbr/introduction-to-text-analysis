@@ -102,6 +102,8 @@ Et voila! Your citation appears in the text in just the same way as if you were 
 * 'cmd + down arrow' will bring up additional options like adding page numbers once you have a citation selected in the add citation input field.
 ![zotero example citation[(/assets/zotero_example_citation.png)
 
+Get the hang of these commands, and you'll save loads of time. 
+
 insert citations in a text.
 Create an automatically updating bibliography.
 Share your bibliography with others.
