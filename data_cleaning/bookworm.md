@@ -91,7 +91,13 @@ Next pops up an input field that asks you to give some information so that it ca
 
 ![zotero searching for citation](/assets/zotero_searching_for_citation.png)
 
+The input field now shows how the citation will show up. In most cases, however, we want to customize it. To do so, click on the citation to bring up some more options. Here you can add page numbers or, importantly suppress the author name depending on whether you only need the page numbers themselves. Let's give this entry the page numbers 45-7. Hit return to accept your changes.
+
 ![zotero give page numbers to citation](/assets/zotero_give_page_numbers_to_citation.png)
+
+Et voila! Your citation appears in the text 
+
+![zotero example citation[(/assets/zotero_example_citation.png)
 
 insert citations in a text.
 Create an automatically updating bibliography.
