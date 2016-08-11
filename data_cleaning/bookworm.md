@@ -63,9 +63,11 @@ Zotero now knows about our citation and we could use it for any number of things
 
 ![magic wand ISBN input](/assets/zotero_magic_wand.png)
 
-Try entering this one: 0520221680.
+Try entering this one: 0520221680. Zotero will automatically go out and grab the metadata for its associated book: *Spectacular Realities* by Vanessa Schwartz.
 
 ![input by isbn](/assets/zotero_input_by_isbn.png)
+
+Magic! But wait - there's more. Visit the page for [Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography](https://www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
