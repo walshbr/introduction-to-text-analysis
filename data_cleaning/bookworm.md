@@ -104,7 +104,9 @@ Et voila! Your citation appears in the text in just the same way as if you were 
 
 Get the hang of these commands, and you'll save loads of time. 
 
-But adding citations is only one part of the process. You also want to add a bibliography to your document based on those citations. Zotero can do this too! From the Zotero menu in Word, select 'Add Bibliography'. Zotero will magically format the metadata you're using into bibliographical entries. Then format those into a bibliography based on the citation style you have chosen for the document. By default, the bibliography will appear wherever your cursor was. So you'll need to move it around to put it in a location that works for you. For me, 
+But adding citations is only one part of the process. You also want to add a bibliography to your document based on those citations. Zotero can do this too! From the Zotero menu in Word, select 'Add Bibliography'. Zotero will magically format the metadata you're using into bibliographical entries. Then format those into a bibliography based on the citation style you have chosen for the document. By default, the bibliography will appear wherever your cursor was. So you'll need to move it around to put it in a location that works for you. Add a couple more citations using the other things we added to Zotero and see if you can get it looking reasonable. Here is what I came up with: 
+
+![zotero text with bibliography](/assets/zotero_document_with_bibliography.png)
 
 Create an automatically updating bibliography.
 Share your bibliography with others.
