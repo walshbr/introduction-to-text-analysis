@@ -67,7 +67,11 @@ Try entering this one: 0520221680. Zotero will automatically go out and grab the
 
 ![input by isbn](/assets/zotero_input_by_isbn.png)
 
-Magic! But wait - there's more. Visit the page for [Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography](https://www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)
+Magic! But wait - there's more. Visit the Amazon webpage for *[Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography](https://www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)*. If you pay careful attention to your toolbars at the top of the webpage, you may have noticed a new one for Zotero (fourth from the left in this image from Brandon's computer). 
+
+![zotero download from chrome](/assets/zotero_download_from_chrome.png)
+
+When you visit a page with a citation you can download, the zotero
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
