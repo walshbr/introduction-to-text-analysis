@@ -65,6 +65,7 @@ Zotero now knows about our citation and we could use it for any number of things
 
 Try entering this one: 0520221680.
 
+![input by isbn](/assets/zotero_input_by_isbn.png)
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
