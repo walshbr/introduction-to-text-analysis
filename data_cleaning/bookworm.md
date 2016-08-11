@@ -59,7 +59,10 @@ Doing so will shift your Zotero pane so that you can enter the metadata for Cron
 
 ![adding crone citation](/assets/zotero_editing_pane.png)
 
-Zotero now knows about our citation and we could use it for any number of things. But before we move on, let's cover two other ways to add citation information. Every book is given an an identifying number, an **International Standard Book Number (ISBN)**
+Zotero now knows about our citation and we could use it for any number of things. But before we move on, let's cover two other ways to add citation information. Every book is given an an identifying number, an **International Standard Book Number (ISBN)**. This number is unique to every book. Zotero can map these numbers to their associated metadata. Clicking on the magic wand at the top of the Zotero Standalone pane will give you a place to enter an ISBN:
+
+0520221680
+
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
