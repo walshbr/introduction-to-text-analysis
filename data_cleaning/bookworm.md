@@ -77,7 +77,7 @@ By default, Zotero just assumes you are trying to grab the webpage itself. When 
 
 Well, not quite. We won't get lost in the weeds of explaining the technical details of how this works, as that is a subject for a different class. For now, just know that Zotero is interacting with hidden information on the webpage that provides information to programs like it. The average user never knows that these webpages contain information like this, but Zotero can leverage that invisible data into powerful content to make your life easier.
 
-Now that we have our metadata, the fun begins.
+Now that we have our metadata, the fun begins. If you use Microsoft Word, strap in and buckle up. Go to the Zotero menu and select Preferences. From the 'Cite' menu, 
 
 insert citations in a text.
 Create an automatically updating bibliography.
