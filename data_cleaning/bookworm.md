@@ -69,7 +69,7 @@ Try entering this one: 0520221680. Zotero will automatically go out and grab the
 
 ![input by isbn](/assets/zotero_input_by_isbn.png)
 
-Magic! But wait - there's more. Visit the Amazon webpage for [_Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography_](https://www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965). If you pay careful attention to your toolbars at the top of the webpage, you may have noticed a new one for Zotero \(fourth from the left in this image from Brandon's computer\).
+Magic! But wait - there's more. Visit the Amazon webpage for _[Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography](https://www.amazon.com/Sara-Baartman-Hottentot-Venus-Biography/dp/0691147965)_. If you pay careful attention to your toolbars at the top of the webpage, you may have noticed a new one for Zotero \(fourth from the left in this image from Brandon's computer\).
 
 ![zotero download from chrome](/assets/zotero_download_from_chrome.png)
 
@@ -79,7 +79,7 @@ By default, Zotero just assumes you are trying to grab the webpage itself. When 
 
 Well, not quite. We won't get lost in the weeds of explaining the technical details of how this works, as that is a subject for a different class. For now, just know that Zotero is interacting with hidden information on the webpage that provides information to programs like it. The average user never knows that these webpages contain information like this, but Zotero can leverage that invisible data into powerful content to make your life easier.
 
-
+That being said, you need to remember the principle of Garbage In, Garbage Out. In some cases, the webpage you are grabbing the citation from might not have complete \(or entirely accurate\) metadata. In that case, you will need to edit the citation in your Zotero library by clicking in the relevant fields and adding what's missing or correcting any mistakes. Alternately, the format that libraries use to store metadata is different from typical citation formats.  Go back up to the record for _Spectacular Realities_ and look at the title. You'll notice that the capitalization is different from what you might expect: the first word is capitalized, as are any proper nouns \("Paris," in this case\). But if you were using this in a bibliography or citation \(which we'll show you in a second\), you'd want to correct the capitalization. You would also need to change "Univ. of California Press" to "University of California Press." This is all to say that although Zotero makes things much, much _easier_, it doesn't necessarily make them _automatic_.
 
 ## Zotero for Citation Management in Microsoft Word
 
@@ -119,5 +119,5 @@ We hope you see how powerful this is. Zotero saves a lot of time, and it can hel
 
 Zotero is much more that just a way to produce citations and bibliographies. It also allows you to share the fruits of your labor with others. The tool is free to use because its creators believe in the open and accessible sharing of knowledge. Even its underlying code is **open source**, meaning that it is free \(and anyone can contribute to it\). This open ethos of sharing pervades the use of the tool as well. Once you get a handle for putting together your own collections of resources, you can use Zotero for examining the collections of other people as well. Zotero allows people to organize themselves into groups and share metadata among all their members. These groups are frequently open for new members and visible by all, which means that, if you are a member of the right groups, you can easily find your way towards a variety of resources relevant to your interests. We will not cover these aspects of Zotero in this lesson, but we encourange you to explore them on your own.
 
-Zotero isn't perfect, and sometimes you have to fiddle with citations in order to get them to format correctly. Sometimes, an error might occur, and you might have to wrestle with your text a bit. But the payoff is worth it. Save your work often. Back things up. And use Zotero without fear.
+Zotero isn't perfect. Sometimes, an error might occur, and you might have to wrestle with your text a bit. But the payoff is worth it. Save your work often. Back things up. And use Zotero without fear.
 
