@@ -31,4 +31,16 @@ We know the formula for an MLA citation like this:
 
 Author. Title. Book. Editor. Location: Publisher, Data. Format. Series. 
 
-The formula will vary slightly depending on the type of item you are citing, but, if we have a full metadata listing for each text, we could theoretically just 
+The formula will vary slightly depending on the type of item you are citing, but, if we have a full metadata listing for each text, we could imagine a tool that would put fill in the metadata and format it to our recipe. We could imagine software that would spit out a bibliography for us. 
+
+If you have ever used something like [easybib.com](https://www.easybib.com) to produce a bibliography, you have done exactly the process that I am describing. You fill in the metadata you want, and easybib spits out a citation. 
+
+You might have felt like you were cheating when using a tool like this as a shortcut for your citations, but we're here to let you in on a secret. Your instructors rely on similar tools. If you think putting together a bibliography for your 5 page essay is irritating, imagine doing one for a 300 page book manuscript. And at the end of the process, your publisher decides that you have to use Chicago style rather than MLA. No one wants to do any of this manually. 
+
+To deal with citation situations like this, the academic community has developed their own tool: [zotero](https://www.zotero.org). Zotero can do everything I've desecribed so far in a snap, but it also does things you might not have dreamed of. 
+
+Grab information from a webpage
+It can take an ISBN and fill in all the rest of a book's metadata for you.
+insert citations in a text.
+Create an automatically updating bibliography.
+Share your bibliography with others.
