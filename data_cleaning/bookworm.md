@@ -49,7 +49,9 @@ Once you download all those, open up Zotero Standalone. It should look something
 
 ![zotero standalone screen](/assets/zotero_standalone.png)
 
-Your Zotero installation will look different from Brandon's, because his is full of materials related to things he has written. Let's grab some metadata to store it in Zotero.
+Your Zotero installation will look different from Brandon's, because his is full of materials related to things he has written. Let's grab some metadata to store it in Zotero. We will do this three different ways.
+
+First, let's enter information manually. Pull let's pull out our copy of Rosalind Crone's *Violent Victorians* (you can find the relevant metadata [here]()
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
