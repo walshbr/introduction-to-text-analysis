@@ -91,6 +91,8 @@ Next pops up an input field that asks you to give some information so that it ca
 
 ![zotero searching for citation](/assets/zotero_searching_for_citation.png)
 
+![zotero give page numbers to citation](/assets/zotero_give_page_numbers_to_citation.png)
+
 insert citations in a text.
 Create an automatically updating bibliography.
 Share your bibliography with others.
