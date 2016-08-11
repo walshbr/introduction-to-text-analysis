@@ -6,8 +6,6 @@
 
 3. Add a Zotero bibliography at the end of your document.
 
-4. For your final group projects, create a Zotero group to share resources that you all can contribute to.
-
-5. Use Zotero for your final group projects.
+4. [Register](https://www.zotero.org/user/register/) with Zotero to create an account. This will allow you to participate in groups, which you will do for your final projects. 
 
 
