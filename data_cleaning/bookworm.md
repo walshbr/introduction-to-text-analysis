@@ -39,7 +39,9 @@ You might have felt like you were cheating when using a tool like this as a shor
 
 To deal with citation situations like this, the academic community has developed their own tool: [Zotero](https://www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously.
 
-First visit the [Zotero download page](https://www.zotero.org/download). You can run Zotero out of Firefox, which allows you to capture and manage your citations without leaving the browser. But we like to separate the process of collecting citations from managing  and using them.
+First visit the [Zotero download page](https://www.zotero.org/download). You can run Zotero out of Firefox, which allows you to capture and manage your citations without leaving the browser. But we like to separate the process of collecting citations from managing  and using them. Download "Zotero Standalone" from the right window pane:
+
+![zotero download](/assets/zotero_download.png)
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
