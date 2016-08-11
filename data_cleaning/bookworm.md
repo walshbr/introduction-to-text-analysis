@@ -102,11 +102,14 @@ Et voila! Your citation appears in the text in just the same way as if you were 
 * 'cmd + down arrow' will bring up additional options like adding page numbers once you have a citation selected in the add citation input field.
 ![zotero example citation[(/assets/zotero_example_citation.png)
 
-Get the hang of these commands, and you'll save loads of time. Zotero isn't perfect, and sometimes you have to fiddle with citations in order to 
+Get the hang of these commands, and you'll save loads of time. 
 
-insert citations in a text.
+But adding citations is only one part of the process. You also want to add a bibliography to your document based on those citations. Zotero can do this too! From the Zotero menu in Word, select 
+
 Create an automatically updating bibliography.
 Share your bibliography with others.
 
 Zotero is much more. 
 Built on an open-source ethos. 
+
+Zotero isn't perfect, and sometimes you have to fiddle with citations in order to get them to format correctly. Sometimes, an error might occur, and you might have to wrestle with your text a bit. But the payoff is worth it. Save your work often. Back things up. And use Zotero without fear.
