@@ -43,7 +43,13 @@ First visit the [Zotero download page](https://www.zotero.org/download). You can
 
 ![zotero download](/assets/zotero_download.png)
 
-This will download an application to your desktop that, if you're like me, you'll want to put in a place where you'll have quick and easy access to it. While you're at it, you will need to add at least one of the browser extensions by clicking on the button in the same pane. I recommend you just add the extension to every browser that you have on your computer: this little download is what will allow you to pull information down off of
+This will download an application to your desktop that, if you're like me, you'll want to put in a place where you'll have quick and easy access to it. While you're at it, you will need to add at least one of the browser extensions by clicking on the button in the same pane. I recommend you just add the extension to every browser that you have on your computer: this little download is what will allow you to pull citation information down off a webpage. 
+
+Once you download all those, open up Zotero Standalone. It should look something like this:
+
+![zotero standalone screen](/assets/zotero_standalone.png)
+
+Your Zotero installation will look different from Brandon's, because his is full of materials related to things he has written. Let's grab some metadata to store it in Zotero.
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
