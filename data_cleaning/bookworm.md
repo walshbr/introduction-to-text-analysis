@@ -53,9 +53,11 @@ Your Zotero installation will look different from Brandon's, because his is full
 
 First, let's enter information manually. Pull let's pull out our copy of Rosalind Crone's *Violent Victorians* (you can find the relevant metadata [here](https://www.amazon.com/dp/071908685X/?tag=mh0b-20&hvadid=4965340066&hvqmt=p&hvbmt=bp&hvdev=c&ref=pd_sl_6usflqlo9o_p) if you don't have your own copy. By clicking on the plus sign at the top, you can select the type of object you are adding to your collection. This is a book, so let's select that.
 
+![adding a book citation](/assets/zotero_add_citation.png)
+
 Doing so will shift your Zotero pane so that you can enter the metadata for Crone's book on the right. Go ahead and do that.
 
-![adding crone citation](/assets/zotero_add_citation.png)
+![adding crone citation](/assets/zotero_editing_pane.png)
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
