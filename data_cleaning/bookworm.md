@@ -71,7 +71,13 @@ Magic! But wait - there's more. Visit the Amazon webpage for *[Sara Baartman and
 
 ![zotero download from chrome](/assets/zotero_download_from_chrome.png)
 
-When you visit a page with a citation you can download, the zotero
+By default, Zotero just assumes you are trying to grab the webpage itself. When you visit a page with a citation you can download, however, the Zotero icon will change accordingly as it recognizes the metadata embedded in the page. Zotero will suck down the metadata on the page and store them in your Standalone App so that you can use them later. Magic! 
+
+![zotero input from web](/assets/zotero_input_from_web.png)
+
+Well, not quite. We won't get lost in the weeds of explaining the technical details of how this works, as that is a subject for a different class. For now, just know that Zotero is interacting with hidden information on the webpage that provides information to programs like it. The average user never knows that these webpages contain information like this, but Zotero can leverage that data into powerful content to make your life easier.
+
+
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
