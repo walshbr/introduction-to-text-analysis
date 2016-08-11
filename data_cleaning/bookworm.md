@@ -108,10 +108,14 @@ But adding citations is only one part of the process. You also want to add a bib
 
 ![zotero text with bibliography](/assets/zotero_document_with_bibliography.png)
 
-Create an automatically updating bibliography.
+I put the bibliography at the end of the text and hit return a few times after the last sentence to give it space (you often might insert a page break to put it on its own page). I gave it a centered heading. And I inserted a couple other citations to flesh things out. 
+
+We hope you see how powerful this is. Zotero saves a lot of time, and it can help organize your workflow neatly and naturally. Now, when you read something new that you think could be useful, in addition to taking notes you will also add it to Zotero. Later, when you go to write, that information can be easily added to your document without much of a hassle.
+
 Share your bibliography with others.
 
-Zotero is much more. 
+Zotero is much more that just a way to produce citations and bibliographies. It also allows you to share the fruits of your labor with others. The tool is free to use because its creators believe in the open and accessible sharing of knowledge. Even its underlying code is **open source**, meaning that it is free (and anyone can contribute to it). This open ethos of sharing pervades the use of the tool as well. Once you get a handle for putting together your own collections of resources, you can use Zotero for examining the collections of other people as well. Zotero allows people to organize themselves into groups and share metadata among all their members. These groups are frequently open for new members and visible by all, which means that, if you are a member of the right groups, you can easily find your way towards a variety of resources relevant to your interests. We will not cover these aspects of Zotero in this lesson, but we encourange you 
+
 Built on an open-source ethos. 
 
 Zotero isn't perfect, and sometimes you have to fiddle with citations in order to get them to format correctly. Sometimes, an error might occur, and you might have to wrestle with your text a bit. But the payoff is worth it. Save your work often. Back things up. And use Zotero without fear.
