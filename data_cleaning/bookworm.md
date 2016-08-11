@@ -37,7 +37,9 @@ If you have ever used something like [easybib.com](https://www.easybib.com) to p
 
 You might have felt like you were cheating when using a tool like this as a shortcut for your citations, but we're here to let you in on a secret. Your instructors rely on similar tools. If you think putting together a bibliography for your 5 page essay is irritating, imagine doing one for a 300 page book manuscript. And at the end of the process, your publisher decides that you have to use Chicago style rather than MLA. No one wants to do any of this manually. 
 
-To deal with citation situations like this, the academic community has developed their own tool: [zotero](https://www.zotero.org). Zotero can do everything we've described so far in a snap, but it also does things that 
+To deal with citation situations like this, the academic community has developed their own tool: [Zotero](https://www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously
+
+First visit the [Zotero download page](https://www.zotero.org/download).
 
 Grab information from a webpage
 It can take an ISBN and fill in all the rest of a book's metadata for you.
