@@ -1,4 +1,4 @@
-# Close Reading
+# Close Reading and Sources
 
 Text analysis is something that we all engage in, whether we realize it or not. The term is broad and capacious and encapsulates a variety of different activities. We might recognize any of the following, related activities as being kinds of text analysis:
 
