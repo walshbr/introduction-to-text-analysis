@@ -2,9 +2,11 @@
 
 So you have a text. You want to do something with it. It might be tempting to dive in and start running it through one of the tools in this book, but you should take a moment to examine the materials you are working with. Not all text is created equal, and your results can have real problems if you don't take care to examine the quality of the materials before you work with them.
 
+The basic principle to remember is "GIGO," or "garbage in, garbage out:" you are not going to get good results unless you have good data to begin with.
+
 ## OCR
 
-Take this image taken from a newspaper ad for the [American film *Sherlock Holmes* in 1922](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_(1922)_-_6.jpg):
+Take this image taken from a newspaper ad for the [American film ](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_(1922)_[Sherlock Holmes](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_(1922)_[ in 1922](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_(1922)\_-\_6.jpg\):
 
 ![sherlock holmes article clipping](/assets/holmes.png)
 
@@ -13,7 +15,9 @@ By default, the computer has no idea that there is text inside of this image. Fo
 The process of using software to extract the text from an image of a text is called **optical character recognition** or OCR. There are many tools that can do this, and some are proprietary. All of these tools are only so good at the process. Running this image through tesseract, a common tool for OCR'ing text, I get something like this:
 
 ![ocr'd sherlock holmes text](/assets/holmes_ocr_text.png)
-The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! Why does the computer have such a hard time with this?" OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](https://www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. You can find a more detailed explanation of how OCR workings [here](http://www.explainthatstuff.com/how-ocr-works.html). 
+The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! I learned to read in first grade \[or whenever you learned to read\]. I can even read things written in cursive! Why does the computer have such a hard time with this?" This is one of those instances where what is really easy for you is really hard for a computer. Humans are great at pattern recognition, which is essentially what OCR is. Computers, not so much.
+
+OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](https://www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. You can find a more detailed explanation of how OCR workings [here](http://www.explainthatstuff.com/how-ocr-works.html).
 
 ## Data Cleaning
 
@@ -23,7 +27,7 @@ I'm going to count to ten!
 
 1,2,3,4,5,6,7,8,10
 
-You probably meant to have a 9 in there, but the computer will have no idea that you probably mistyped and left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is *messy*. To see what I mean, go check out the Wikipedia section on Sir Arthur Conan Doyle's [name](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle#Name). I will wait. Here is a picture of a cat in the meantime. Imagine it's a cat high fiving you when you clean up some data.
+You probably meant to have a 9 in there, but the computer will have no idea that you probably mistyped and left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is _messy_. To see what I mean, go check out the Wikipedia section on Sir Arthur Conan Doyle's [name](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle#Name). I will wait. Here is a picture of a cat in the meantime. Imagine it's a cat high fiving you when you clean up some data.
 
 ![high fiving cat](/assets/data_cat_high_five.png)
 
@@ -57,7 +61,8 @@ Author Name
 Austen, Jane: last_name, first_name
 Arthur Doyle: first_name last_name
 ```
-A computer program would need a way to understand what you are giving it, something like: 
+
+A computer program would need a way to understand what you are giving it, something like:
 
 1. Look at this 'Author Name' database.
 2. Each Author has a line of its own.
@@ -77,7 +82,9 @@ Austen Jane
 Arthur Doyle
 Arthur Conan Doyle
 ```
+
 If we used spaces to denote breaks between first name and last name, Arthur Conan Doyle would cause our program to error. It would likely interpret 'Arthur' as the first name and 'Conan' as the last name. 'Doyle' would be an unkown. Reformatting this as a csv allows us to handle Conan Doyle's full name:
+
 ```
 Author Names
 ---
@@ -86,7 +93,9 @@ Arthur, Doyle
 Arthur Conan, Doyle
 
 ```
-The next problem should be obvious: Jane Austen is in a last_name, first_name format, while the others are in the reverse. So our final version of this dataset would look like this: 
+
+The next problem should be obvious: Jane Austen is in a last\_name, first\_name format, while the others are in the reverse. So our final version of this dataset would look like this:
+
 ```
 Author Names
 ---
@@ -94,7 +103,8 @@ Austen, Jane
 Doyle, Arthur
 Doyle, Arthur Conan
 ```
-We might go further to associate Arthur Doyle and Arthur Conan Doyle as being representations of the same person, a process known as **authority control**. A common way of referring to data that contains inconsistencies and/or errors is as **dirty data**. To keep the metaphor, then, the process of revising data to remove such problems and prepare it for use is called **data cleaning**.
+
+We might go further to associate Arthur Doyle and Arthur Conan Doyle as being representations of the same person, a process known as **authority control**. A common way of referring to data that contains inconsistencies and\/or errors is as **dirty data**. To keep the metaphor, then, the process of revising data to remove such problems and prepare it for use is called **data cleaning**.
 
 ## Metadata
 
@@ -108,10 +118,12 @@ Austen, Jane
 Doyle, Arthur
 Doyle, Arthur Conan
 ```
-We have two metadata categories here: last_name, and first_name. Each are separated by a comma. We might even think of author_name as being its own metadata category for someone else's list of books! Databases are really these sorts of things at their heart: data and metadata, organized in systematic ways to make them easily usable.
 
-Imagine: now that you have started to put together your own table of author names, you notice that your neighbor is putting together one of her own. You want to be able to compare notes and, even more, you want to combine lists. It should be obvious that you will have real problems if you organize things in "first_name last_name" and she organizes things in "last_name, first_name". You would need to do a lot of extra work to reorganize things. It would have been easier if you were working with an accepted standard for how author names should be listed.
+We have two metadata categories here: last\_name, and first\_name. Each are separated by a comma. We might even think of author\_name as being its own metadata category for someone else's list of books! Databases are really these sorts of things at their heart: data and metadata, organized in systematic ways to make them easily usable.
 
-Such metadata standards exist, and a lot of work goes into maintaining them (check out [Dublin Core](dublincore.org/specifications) if you are interested in learning more). These standards ensure that anyone producing a new dataset creates work that could easily translate and communicate with other systems. They ensure that your local library's data could eventually be drawn into the [Digial Public Library of America](https://dp.la) and made available on a large scale. The process might seem easy with this basic author name example, but imagine trying to coordinate such metadata standards for all people working on all types of cultural objects, all over the world. The work never ends.
+Imagine: now that you have started to put together your own table of author names, you notice that your neighbor is putting together one of her own. You want to be able to compare notes and, even more, you want to combine lists. It should be obvious that you will have real problems if you organize things in "first\_name last\_name" and she organizes things in "last\_name, first\_name". You would need to do a lot of extra work to reorganize things. It would have been easier if you were working with an accepted standard for how author names should be listed.
 
-You can fall down a deep pit looking at all the different metadata standards and their uses. For now, I just want you to be familiar with the concepts. 
+Such metadata standards exist, and a lot of work goes into maintaining them \(check out [Dublin Core](dublincore.org/specifications) if you are interested in learning more\). These standards ensure that anyone producing a new dataset creates work that could easily translate and communicate with other systems. They ensure that your local library's data could eventually be drawn into the [Digial Public Library of America](https://dp.la) and made available on a large scale. The process might seem easy with this basic author name example, but imagine trying to coordinate such metadata standards for all people working on all types of cultural objects, all over the world. The work never ends.
+
+You can fall down a deep pit looking at all the different metadata standards and their uses. For now, I just want you to be familiar with the concepts.
+
