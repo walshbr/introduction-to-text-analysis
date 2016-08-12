@@ -11,7 +11,7 @@
     * [Close Reading](close_reading/close_reading.md)
     * [Prism Part One](close_reading/prism_part_one.md)
     * [Exercises](close_reading/exercises.md)
-* Crowdsourcing
+* [Crowdsourcing](crowdsourcing.md)
     * [Crowdsourcing](crowdsourcing/crowdsourcing.md)
     * [Prism Part Two](crowdsourcing/prism_part_two.md)
     * [Exercises](crowdsourcing/exercises.md)
