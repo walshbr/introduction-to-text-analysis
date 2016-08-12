@@ -15,7 +15,7 @@
     * [Crowdsourcing](crowdsourcing/crowdsourcing.md)
     * [Prism Part Two](crowdsourcing/prism_part_two.md)
     * [Exercises](crowdsourcing/exercises.md)
-* [Archives](archives.md)
+* [Digital Archives](archives.md)
     * [Text Encoding Initiative](archives/tei.md)
     * [NINES and Digital Archives](archives/nines.md)
     * [Exercises](archives/exercises.md)
