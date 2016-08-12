@@ -78,6 +78,6 @@ That last phrase should cause some alarm: we haven't actually read any of these 
 
 ## Interpretation
 
-Of course, these graphs mean nothing on their own. It is our job to look at the results and describe them in meaningful ways. But be critical of what you see. You might find something interesting, but you might be looking at nonsense. It is your job to tell the difference. Beware of **apophenia**, the all to human urge to look at random data and find meaningful patterns in it. You can find wild patterns in relationships in anything if [you look hard enough](http://tylervigen.com/spurious-correlations). After all, visualizations can confuse as much as clarify. Numbers and graphs do not carry object meaning.![apophenia illustrated - noise illustration](/assets/visual_clarity.png)
+Of course, these graphs mean nothing on their own. It is our job to look at the results and describe them in meaningful ways. But be critical of what you see. You might find something interesting, but you might be looking at nonsense. It is your job to tell the difference. Beware of **apophenia**, the all to human urge to look at random data and find meaningful patterns in it. You can find wild patterns in relationships in anything if [you look hard enough](http://tylervigen.com/spurious-correlations). After all, visualizations can confuse as much as clarify. Numbers and graphs do not carry object meaning.![apophenia illustrated - noise illustration](/assets/visual-clarity.png)
 
 Always think. Never let a graph think for you.
