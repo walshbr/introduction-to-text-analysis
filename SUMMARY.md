@@ -35,7 +35,7 @@
     * [Bags of Words](topic_modeling/bags_of_words.md)
     * [Topic Modeling in the Browser Part One](topic_modeling/topic_modeling_part_one.md)
     * [Exercises](topic_modeling/exercises.md)
-* Topic Modeling Part Two
+* [Supervised Classifiers](topic-modeling-part-two.md)
     * [Topics over Time](topic_modeling_part_two/topics_over_time.md)
     * [Topic Modeling in the Browser Part Two](topic_modeling_part_two/topic_modeling_part_two.md)
     * [Exercises](topic_modeling_part_two/exercises.md)
