@@ -1,4 +1,4 @@
-ƒ# Voyant Part One
+# Voyant Part One
 
 We will be using a tool called [Voyant](http://voyant-tools.org/) to introduce some basic topics in text analysis using distant reading tools.
 
