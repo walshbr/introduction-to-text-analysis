@@ -21,7 +21,7 @@
     * [Exercises](archives/exercises.md)
 * [Data Cleaning](data-cleaning.md)
     * [Problems with Data](data-cleaning/problems-with-data.md)
-    * [Zotero](data-cleaning/bookworm.md)
+    * [Zotero](data-cleaning/zotero.md)
     * [Exercises](data-cleaning/exercises.md)
 * [Cyborg Readers](cyborg-readers.md)
     * [How Computers Read Texts](cyborg-readers/computer-reading.md)
