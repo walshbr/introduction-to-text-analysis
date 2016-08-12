@@ -33,7 +33,7 @@ Think about all the annotations that you put on your own pages as you read them.
 
 And we can represent it graphically, like so, where black denotes the stanza boundaries, horizontal blue the lines, and the rotating colors under the final words describe a rhyme scheme:
 
-![marking up poem by hand graphically](/assets/tei_graphic.png)
+![marking up poem by hand graphically](/assets/tei-graphic.png)
 
 But you probably would need a moment to realize what was going on if you came to this having not highlighted things yourself. We can perform a similar function with text annotations, which gets closer to a meaning that we could understand without having any prompting:
 

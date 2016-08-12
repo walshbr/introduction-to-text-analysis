@@ -4,7 +4,7 @@ How many tokens are in the following sentence? How many types?
 
 'Speak!' cried Todd, 'speak! and speak the truth, or your last hour is come!
 
-Upload the text for *The String of Pearls* available [here](https://raw.githubusercontent.com/bmw9t/introduction-to-text-analysis/master/assets/the_string_of_pearls_full.txt) into *[Voyant](voyant-tools.org)*. Analyze the results. If things seem particularly slow, you can try working with a smaller chunk of the text.
+Upload the text for *The String of Pearls* available [here](https://raw.githubusercontent.com/bmw9t/introduction-to-text-analysis/master/assets/the-string-of-pearls-full.txt) into *[Voyant](voyant-tools.org)*. Analyze the results. If things seem particularly slow, you can try working with a smaller chunk of the text.
 
 * Use Voyant to examine gender in the text. What kind of words do you need to look at? Which parts of Voyant? Make some sort observations about your findings (3-5 sentences). Feel free to include a screenshot of the visualizations to help describe your observations.
 * How would you measure moments of heightened suspense in the text? Take a spin at doing it if you think have a solid idea. Or simply theorize in 3-5 sentences.
