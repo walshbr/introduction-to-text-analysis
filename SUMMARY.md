@@ -31,7 +31,7 @@
     * [Distant Reading](text_analysis/distant_reading.md)
     * [Voyant Part Two](text_analysis/voyant_part_two.md)
     * [Exercises](text_analysis/exercises.md)
-* Topic Modeling
+* [Topic Modeling](topic-modeling.md)
     * [Bags of Words](topic_modeling/bags_of_words.md)
     * [Topic Modeling in the Browser Part One](topic_modeling/topic_modeling_part_one.md)
     * [Exercises](topic_modeling/exercises.md)
