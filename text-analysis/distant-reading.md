@@ -26,7 +26,7 @@ It might appear as though distant reading is less critical: after all, you could
 
 It is easy to think that the results given to you by the computer are correct, to take them at their word. After all, how could numbers lie? The truth is, however, that statistics are the results of the biases of the people who produced them.
 
-![bad visualization](/assets/graphs.png)
+![bad visualization](/assets/distant-reading-graphs.png)
 
 ## Word Frequencies
 In the last chapter, we worked with concordances, stopwords, and frequency analyses. We were mostly interested in the numbers of times that particular words or phrases didn't appear over the course of our corpus.
