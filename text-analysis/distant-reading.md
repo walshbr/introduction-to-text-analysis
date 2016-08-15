@@ -1,11 +1,11 @@
 # Distant Reading
 
-When I was entering graduate school, an older student once summed up life as a sort of equation: 
+When Brandon was entering graduate school, an older student once summed up life as a sort of equation: 
 > There is a infinite of material that one could read. 
 
 > There is a finite amount of time in which you can read. 
 
-His lesson was that there are limits to the amount of material that even the most voracious reader can take in. One's eyes can only move so quickly, one's mind only process so much.
+His lesson was that there are limits to the amount of material that even the most voracious reader can take in. One's eyes can only move so quickly, one's mind only process so much. This might sound depressing, but it can also be freeing: if you cannot read everything, why feel the need to do so? Instead, focus on what you ca
 
 Computers have limitations of their own, but scale is not one of them. 
 
@@ -15,7 +15,7 @@ It might appear as though distant reading is less critical: after all, you could
 
 #### Patterns
 
-Moretti Tweet embed
+You could ask yourself a number of question when look 
 
 Are there any clear outliers? 
 
@@ -32,3 +32,5 @@ It is easy to think that the results given to you by the computer are correct, t
 
 #### Word Frequencies
 In the last chapter, we worked with concordances, stopwords, and frequency analyses. We were mostly interested in the numbers of times that particular words or phrases didn't appear over the course of our corpus.
+
+You cannot read everything. Instead, focus on what humans are good at: reading with care and offering interpre
