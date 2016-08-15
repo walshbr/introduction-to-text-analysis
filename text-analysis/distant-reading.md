@@ -22,6 +22,7 @@ It might appear as though distant reading is less critical: after all, you could
 > What trends do you see in the data? Is anything clearly decreasing or increasing over time?
 
 > What surprises you?
+
 > What makes you want to investigate more in a particular direction?
 
 It is easy to think that the results given to you by the computer are correct, to take them at their word. After all, how could numbers lie? The truth is, however, that statistics are the results of the biases of the people who produced them. Seemingly good statistics can cover over a lack of thought:
