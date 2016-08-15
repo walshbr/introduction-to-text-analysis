@@ -13,9 +13,9 @@ It might appear as though distant reading is less critical: after all, you could
 
 ## Patterns
 
-> You could ask yourself a number of question when look 
+When looking at the results of distant reading, you are, more than anything else, looking for patterns and outliers. You could ask yourself a number of question when looking at a graph:
 
-> Are there any clear outliers? 
+> Does anything clearly not belong or not make sense?
 
 > For example, if four of the top five words in a text are male names or male pronouns, that might say something about female representation in the text.
 
@@ -33,6 +33,6 @@ And a flashy visualization can just as easily show nothing:
 
 ![bad visualization](/assets/distant-reading-graphs.png)
 
-The point being: you don't need to know anything about statistics or computer science in order to be able to say something meaningful about texts through distant reading. Knowledge about both of these fields can go a long way and give you more meaningful and interesting things to say, but we believe that 
+The point being: you don't need to know anything about statistics or computer science in order to be able to say something meaningful about texts through distant reading. Knowledge about both of these fields can go a long way and give you more meaningful and interesting things to say, but these tools, methods, and ideas should not be beyond anyone. Take a tool out for a sping and see what happens.
 
 You cannot read everything. Instead, focus on what humans are good at: reading with care and offering interpretation. The computer can work with big numbers much quicker than you. Your job is to help it do so in a meaningful way.
