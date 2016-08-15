@@ -25,7 +25,9 @@ It might appear as though distant reading is less critical: after all, you could
 
 > What makes you want to investigate more in a particular direction?
 
-It is easy to think that the results given to you by the computer are correct, to take them at their word. After all, how could numbers lie? The truth is, however, that statistics are the results of the biases of the people who produced them. Seemingly good statistics can cover over a lack of thought:
+It is easy to think that the results given to you by the computer are correct, to take them at their word. After all, how could numbers lie? The truth is, however, that statistics are the results of the biases of the people who produced them. Seemingly good statistics can make anything seem like objective truth when there might not be anything more than a pretty picture:
+
+![bad statistics make a dinosaur](/assets/distant-reading-dinosaur.png)
 
 And a flashy visualization can just as easily show nothing:
 
