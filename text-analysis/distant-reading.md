@@ -15,7 +15,7 @@ It might appear as though distant reading is less critical: after all, you could
 
 One way to begin thinking about developing approaches to using tools and methods like these is to take a step back. When looking at the results of distant reading, you are, more than anything else, looking for patterns and outliers. You could ask yourself a number of question when looking at the results of tools like the ones we have described in this book:
 
-> Does anything clearly not belong or not make sense?
+> Does anything clearly not belong or not make sense? What surprises you?
 
 If you know your text is about the American south, 
 
