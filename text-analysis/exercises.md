@@ -1,3 +1,5 @@
+# Exercises
+
 Below you have three projects that take distant reading approaches of various kinds:
 
 1. [Quantifying Kissinger](http://www.quantifyingkissinger.com/)
