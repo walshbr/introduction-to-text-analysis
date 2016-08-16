@@ -14,23 +14,19 @@ It might appear as though distant reading is less critical: after all, you could
 
 ## Patterns
 
-One way to begin thinking about developing approaches to using tools and methods like these is to take a step back. When looking at the results of distant reading, you are, more than anything else, looking for patterns and outliers. You could ask yourself a number of question when looking at the results of tools like the ones we have described in this book.
+One way to begin thinking about developing approaches to using tools and methods like these is to take a step back. When looking at the results of distant reading, you are, more than anything else, looking for patterns and outliers. You could ask yourself a number of question when looking at the results of tools like Voyant.
 
 > Does anything clearly not belong or not make sense? What surprises you?
 
-If you know your text is about the American South, and you find that the fourth most common token is 'France,' that probably says something interesting. You might need to revise your expectations and your research questions, and that is perfectly fine. The most interesting thing about a project is rarely the first thing we think it will be.
+If you know your text is about the American South, and you find that the fourth most common token is 'France,' that probably says something interesting. You might need to revise your expectations and your research questions, and that is perfectly fine. This is actually part of the research process; if you don't revise your analysis, that means you aren't responding to what you are encountering in your sources. The most interesting thing about a project is rarely the first thing we think it will be.
 
 > How do the numbers that the tool spits out at you connect with underlying concepts in the text?
 
-Our reading experience, our interpretations of a text, the way it makes it feel: these are the result of may things, but language plays a role in constructing all of them. Words form the basis for everything we get out of reading, so we can work backwards from word to concept. Think about what underlying concepts might be taking shape as a result of particular words. For example, if four of the top five words in a text are male names or male pronouns, that might say something about gender representation in the text. Personal pronouns might say something about what it means to be a self in your text. Four times more exclamation points than periods? That might say something about the rhetorical impression the author wants to convey.
+Our reading experience, our interpretations of a text, the way it makes us feel: these are the result of may things, but language plays a role in constructing all of them. Words form the basis for everything we get out of reading, so we can work backwards from word to concept. Think about what underlying concepts might be taking shape as a result of particular words. For example, if four of the top five words in a text are male names or male pronouns, that might say something about gender representation in the text. Personal pronouns might say something about what it means to be a self in your text. Four times more exclamation points than periods? That might say something about the rhetorical impression the author wants to convey.
 
 > What trends do you see in the data? Is anything clearly decreasing or increasing over time?
 
-If you have a corpus where the dates are known, you can begin to draw inferences based around language use over time. The Google NGram tool is built on such assumptions, though you should take care to think about how changes in language itself might affect your results \(the classic example of this is the [long s](https://en.wikipedia.org/wiki/Long_s), which computers frequently read as an 'f' in older texts\). How do the trends you see relate to your understanding of what happens historically over the same time period? What's more, we experience individual texts over time, and we can exploit this with the computer. How does the use of a concept change from the beginning of a text to the end? Does this map onto your understanding of how that text unfolds?
-
-> What makes you want to investigate more in a particular direction?
-
-You might need to revise your expectations and your research questions, and that is perfectly fine. The most interesting thing about a project is rarely the first thing we think it will be.
+If you have a corpus where the dates are known, you can begin to draw inferences based around language use over time. The Google NGram tool is built on such assumptions, though you should take care to think about how changes in language itself might affect your results \(the classic example of this is the [long s](https://en.wikipedia.org/wiki/Long_s), which computers frequently read as an 'f' in older texts\). How do the trends you see relate to your understanding of what happens historically over the same time period? Alternatively, since we experience individual texts over time and we can examine how the use of a concept change from the beginning of a text to the end? What does this tell you about how this text unfolds?
 
 > Does something just look plain wrong?
 
