@@ -25,8 +25,6 @@ Our reading experience, our interpretations of a text, the way it makes it feel:
 
 > What trends do you see in the data? Is anything clearly decreasing or increasing over time?
 
-
-
 > What makes you want to investigate more in a particular direction?
 
 >
