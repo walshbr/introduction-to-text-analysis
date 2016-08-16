@@ -25,7 +25,11 @@ Our reading experience, our interpretations of a text, the way it makes it feel:
 
 > What trends do you see in the data? Is anything clearly decreasing or increasing over time?
 
+
+
 > What makes you want to investigate more in a particular direction?
+
+You might need to revise your expectations and your research questions, and that is perfectly fine. The most interesting thing about a project is rarely the first thing we think it will be.
 
 It is easy to think that the results given to you by the computer are correct, to take them at their word. After all, how could numbers lie? The truth is, however, that statistics are the results of the biases of the people who produced them. Seemingly good statistics can make anything seem like objective truth when there might not be anything more than a pretty picture:
 
