@@ -1,6 +1,4 @@
-What are some situations in which you might to find trigrams where words occur in particular places?
-
-1. Below you have three projects that take distant reading approaches of various kinds:
+Below you have three projects that take distant reading approaches of various kinds:
 
 1. [Quantifying Kissinger](http://www.quantifyingkissinger.com/)
 
