@@ -2,7 +2,12 @@
 
 When we read, our eyes move in sequence across the page and take in phrase after phrase in the order in which they were intended. This sense of chronology integral to how we, as human readers, understand texts. But it is possible to imagine other ways of reading. Have you ever skimmed over a page backwards looking at every other word? You probably still got the gist of the text even though you didn't read in order, even though you missed many of the words.
 
-Take this letter from the *Pall Mall Gazette* published on September 28, 1888:
+Take this exercept from a letter about the Jack the Ripper murders from the *Pall Mall Gazette* published on September 28, 1888:
+
+
+> I will, for the sake of argument, assume that the information given to the coroner by the officer of one of the medical schools is correct, and that Dr. Phillips is right in considering that the character of the mutilation in question justifies the assumption that the perpetrator was probably one who possessed some knowledge of anatomy. But that the inference which has been deduced is warranted, any one who is the least acquainted with medical science and practice will unhesitatingly deny and indignantly repudiate. That a lunatic may have desired to obtain possession of certain organs for some insane purpose is very possible, and the theory of the murdering fiend being a madman only derives confirmation from the information obtained by the coroner. But that the parts of the body carried off were wanted for any quasi scientific publication, or any other more or less legitimate purpose, no one having any knowledge of medical science will for a moment believe. 
+
+
 
 
 
