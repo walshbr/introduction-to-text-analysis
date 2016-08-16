@@ -1,6 +1,7 @@
 # Distant Reading
 
 When Brandon was entering graduate school, an older student once summed up life as a sort of equation: 
+
 > There is a infinite of material that one could read. 
 
 > There is a finite amount of time in which you can read. 
@@ -13,7 +14,7 @@ It might appear as though distant reading is less critical: after all, you could
 
 ## Patterns
 
-One way to begin thinking about developing approaches to using tools and methods like these is to take a step back. When looking at the results of distant reading, you are, more than anything else, looking for patterns and outliers. You could ask yourself a number of question when looking at the results of tools like the ones we have described in this book:
+One way to begin thinking about developing approaches to using tools and methods like these is to take a step back. When looking at the results of distant reading, you are, more than anything else, looking for patterns and outliers. You could ask yourself a number of question when looking at the results of tools like the ones we have described in this book.
 
 > Does anything clearly not belong or not make sense? What surprises you?
 
@@ -30,6 +31,8 @@ If you have a corpus where the dates are known, you can begin to draw inferences
 > What makes you want to investigate more in a particular direction?
 
 You might need to revise your expectations and your research questions, and that is perfectly fine. The most interesting thing about a project is rarely the first thing we think it will be.
+
+> Does something just look plain wrong?
 
 It is easy to think that the results given to you by the computer are correct, to take them at their word. After all, how could numbers lie? The truth is, however, that statistics are the results of the biases of the people who produced them. Seemingly good statistics can make anything seem like objective truth when there might not be anything more than a pretty picture:
 
