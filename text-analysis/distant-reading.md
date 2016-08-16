@@ -42,7 +42,7 @@ And a flashy visualization can just as easily show nothing:
 
 ![bad visualization](/assets/distant-reading-graphs.png)
 
-Your own results
+Your own results might be the result of some setting that you have configured just slightly incorrectly. Or maybe you uploaded the wrong text. Or maybe you are misunderstanding how the tool works in the first place. If something has you scratching your head, 
 
 > But wait! I don't know enough about X to be able to do this kind of work.
 
