@@ -25,7 +25,8 @@ Our reading experience, our interpretations of a text, the way it makes it feel:
 
 > What trends do you see in the data? Is anything clearly decreasing or increasing over time?
 
-Much of science relies on taking 
+If you have a corpus where the dates are known, you can begin to draw inferences based around language use over time. The Google NGram tool is built on such assumptions, though you should take care to think about how changes in language itself might affect your results (the classic example of this is the [long s](https://en.wikipedia.org/wiki/Long_s)
+, which computers frequently read as an 'f' in older texts). We experience individual texts over time, and one dimension is 
 
 > What makes you want to investigate more in a particular direction?
 
