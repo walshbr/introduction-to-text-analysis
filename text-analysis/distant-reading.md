@@ -42,6 +42,8 @@ And a flashy visualization can just as easily show nothing:
 
 ![bad visualization](/assets/distant-reading-graphs.png)
 
+> But wait! I don't know enough about X to be able to do this kind of work.
+
 The point being: you don't need to know anything about statistics or computer science in order to be able to say something meaningful about texts through distant reading. Knowledge about both of these fields can go a long way and give you more meaningful and interesting things to say, but these tools, methods, and ideas should not be beyond anyone. Take a tool out for a spin and see what happens.
 
 You cannot read everything. Instead, focus on what humans are good at: reading with care and offering interpretation. The computer can work with big numbers much quicker than you. Your job is to help it do so in a meaningful way.
