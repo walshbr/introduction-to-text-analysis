@@ -1,14 +1,19 @@
 What are some situations in which you might to find trigrams where words occur in particular places?
 
-Below you have three projects that take distant reading approaches of various kinds. 
+1. Below you have three projects that take distant reading approaches of various kinds:
 
-[Quantifying Kissinger](http://www.quantifyingkissinger.com/)
+1. [Quantifying Kissinger](http://www.quantifyingkissinger.com/)
 
-[Viral Texts](http://viraltexts.org/)
+2. [Viral Texts](http://viraltexts.org/)
 
-[Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/)
+3. [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
 
-[Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
+Select one of the projects and familiarize yourself with it. Answer the following questions:
 
+* What is their object of study? What is their corpus?
+* What research questions are they interested in answering?
+* What methodologies do they use?
+* Select one visualization from the project. Screenshot it, and explain what is going on in the image.
+* What do you think about the project? What are some questions that you have about it?
 
 They may incorporate methodologies, tools, or programming languages that we have not covered in this book. Don't worry! You are not expected to understand everything.
