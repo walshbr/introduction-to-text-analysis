@@ -30,7 +30,7 @@
 * [Reading at Scale](reading-at-scale.md)
     * [Distant Reading](reading-at-scale/distant-reading.md)
     * [Voyant Part Two](reading-at-scale/voyant-part-two.md)
-    * [Exercises](text-analysis/exercises.md)
+    * [Exercises](reading-at-scale/exercises.md)
 * [Topic Modeling](topic-modeling.md)
     * [Bags of Words](topic-modeling/bags-of-words.md)
     * [Topic Modeling Case Studies](topic-modeling/topic-modeling-case-studies.md)
