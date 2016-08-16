@@ -4,7 +4,7 @@ Below you have three projects that take distant reading approaches of various ki
 
 [Quantifying Kissinger](http://www.quantifyingkissinger.com/)
 
-[Viral Texts(http://viraltexts.org/)
+[Viral Texts](http://viraltexts.org/)
 
 [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/)
 
