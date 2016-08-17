@@ -12,7 +12,7 @@ In the bottom-right pane Voyant provides with a series of options for examining 
 
 In this list of the first ten uses of 'said', two of them are closely joined with a name: 'Sweeney Todd.' If we look back at the word cloud for the text, we can see that these two words occur with high frequency in the text itself. Given this information, we might become interested in a series of related questions: How often is he talking? What is he talking about? Who is he talking to?
 
-When we start to move beyond particular words towards an interest in clusters of phrases, we introduce a number of new concepts: **ngrams** and **collocates**.
+Moving away from particular words towards clusters of phrases introduces us to the concepts of **ngrams** and **collocates**.
 
 You may have heard of **ngrams** from [the Google Ngram Viewer](https://books.google.com/ngrams), which allows users to search large corpora for specified words or phrases. An ngram is a sequence of words that occurs next to each other of a particular length: the 'n' becomes a stand-in for the specified length of phrase. So take the following sentence:
 
@@ -24,7 +24,9 @@ You may have heard of **ngrams** from [the Google Ngram Viewer](https://books.go
 
 ![voyant collocates](/assets/voyant-collocates.png)
 
-In this case, it helps to know that the 'context' slider allows you to find sentences where two words occur near each other. So setting a context of three for 'sweeney' and 'todd' will give you all the three word phrases in which those two words occur: they do not need to be contiguous. So in this case "Sweeney Todd said" would match as would "Sweeney said Todd." Each row tells you how often those words appear within a certain distance from each other.
+In this case, it helps to know that the 'context' slider allows you to find sentences where two words occur near each other. So setting a context of three for 'sweeney' and 'todd' will give you all the three word phrases in which those two words occur: they do not need to be contiguous. So in this case "Sweeney Todd said" would match, as would "Sweeney said Todd." Each row tells you how often those words appear within a certain distance from each other.
+
+
 
 Click on the row that lists 'said sweeney 52'. Many of the windows in Voyant are interactive, and selecting something will modify the visualizations and options available to you elsewhere in the tool. Selecting a row here will modify line graph that shares a space with the collocates table. You'll need to select 'Trends' at the top of the pane in order to switch back to the line graph.
 
