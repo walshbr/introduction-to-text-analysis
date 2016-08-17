@@ -26,7 +26,7 @@ You may have heard of **ngrams** from [the Google Ngram Viewer](https://books.go
 
 In this case, it helps to know that the 'context' slider allows you to find sentences where two words occur near each other. So setting a context of three for 'sweeney' and 'todd' will give you all the three word phrases in which those two words occur: they do not need to be contiguous. So in this case "Sweeney Todd said" would match, as would "Sweeney said Todd." Each row tells you how often those words appear within a certain distance from each other.
 
-
+Looking at this data on collocations can lead to interpretive questions you might want to pursue. For one, a lot of the collocations are men's names \(Sweeney Todd, Mr. Oakley, Mr Lupin, Mr. Fogg, etc.\), whereas no female characters appear in the list of most frequent collocations. What might that tell you about the nature of the text and the way the author was shaping it to appeal to an intended male audience?  
 
 Click on the row that lists 'said sweeney 52'. Many of the windows in Voyant are interactive, and selecting something will modify the visualizations and options available to you elsewhere in the tool. Selecting a row here will modify line graph that shares a space with the collocates table. You'll need to select 'Trends' at the top of the pane in order to switch back to the line graph.
 
