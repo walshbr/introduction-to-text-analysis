@@ -40,24 +40,7 @@ If we normalize them and remove stopwords, we lowercase them and get rid of punc
 ]
 ```
 
-A bag of words model generates a list of words that occur in the corpus as a whole, and then often.
-
-This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. Topic modeling, instead, wants you to think about reading in a different way. It wants you to think through a different epistemology of reading. 
-
-Topic modeling 
-
-**Latent Dirichlet Allocation (LDA)**
-
-not dependent on location - just looking at all the different words that show up in a document.
-
-The topic modeling algorithm looks for statistically significant clusters of words. For each document in your corpus, it will look 
-
-We call this an **unsupervised classifier** because we are asking the computer to analyze and mark a text without giving it any clear directions. We just say, "here is some text. Do your thing and tell me what you find." A **supervised classifier** would take information from us to help it make decisions. We might say, "read this text. If it has more than fifty uses of the word 'crime' mark it as 'detective fiction.' If it has fifty uses of the word 'sex,' mark it as 'romance.'
-
-Until now, we have stressed approaching text analysis with a clear sense of your interests and the research questions that drive them. Topic modeling works a little differently: it is more useful for exploratory work.
-
-Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](http://www.matthewjockers.net/macroanalysisbook/lda/)".
-
+A bag of words model generates a list of words that occur in the corpus as a whole, and then often. This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. Topic modeling, instead, wants you to think about reading in a different way. It wants you to think through a different epistemology of reading. 
 
 
 
