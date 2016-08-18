@@ -19,7 +19,7 @@ blue: murder
 
 We might further abstract this outwards to say that each of these topics represents a different kind of discourse at work in the text. In any given conversation about medicine, certain words are more likely to occur than others. The word 'lunatic' might appear in such a conversation, but it is far more likely that a word like 'anatomy' would suggest you are in a conversation about medicine. So each text is made up of some mix of discourses like these. 
 
-Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "LDA Buffet: A Topic Modeling Fable [](http://www.matthewjockers.net/macroanalysisbook/lda/).
+Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](http://www.matthewjockers.net/macroanalysisbook/lda/)".
 
 
 
