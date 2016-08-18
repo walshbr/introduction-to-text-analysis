@@ -4,7 +4,7 @@ You might be thinking to yourself, "I can't believe you made me read an entire s
 
 ![dog in blanket photo](/assets/data-cleaning/dog-blanket.jpeg)
 
-Let's just pretend you something on the order of, "metadata is all well and good, but how am I going to use this in my everyday life beyond library searches?"
+Let's just pretend you said something on the order of, "metadata is all well and good, but how am I going to use this in my everyday life beyond library searches?"
 
 We're glad you asked! In fact, metadata is something you deal with all the time. It is all around us, structuring our lives. If you go to a store and go to a particular section to grab cereal, that's metadata where the category is "cereal." If you give your phone number to someone else, metadata. If you hear about the latest romantic comedy and decide to go see it, metadata. You get the idea.
 
