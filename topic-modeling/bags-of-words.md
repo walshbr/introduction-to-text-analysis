@@ -42,14 +42,6 @@ If we normalize them and remove stopwords, we lowercase them and get rid of punc
 
 A bag of words model generates a list of words that occur in the corpus as a whole, and then often. This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. Topic modeling, instead, wants you to think about reading in a different way. It wants you to think through a different epistemology of reading. 
 
-
-
-
-
-
 > How does this work?
 
 
-
-
-So you've topic modeled! The results are…confusing. Let's take a look at them.
