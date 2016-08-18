@@ -1,6 +1,14 @@
 # Topic Modeling Case Studies
 
-In the last lesson we discussed topics, discourses, and the bag of words model for reading texts. These are all backgrounds and framing contexts for **topic modeling**, a machine learning technique that allows you to discover the topics that construct a text. Executing topic modeling projects yourself takes more hands-on programming than we want to introduce in this coursebook. So instead of exercising the techniques themselves or offering a tool for doing so, we are going to attempt to describe what topic modeling is and how to interpret results from it using a case study. Come talk to either of us in person if you want to go further and explore topic modeling on your own.
+These are all backgrounds and framing contexts for **topic modeling**, a machine learning technique that allows you to discover the topics that construct a text. 
+
+## From Bags to Topics
+
+In the previous section, we described how a single text could be broken up into a list of word frequencies, and we also suggested that these word frequencies could point us towards the underlying discourses our topics that composed a text. T 
+
+Executing topic modeling projects yourself takes more hands-on programming than we want to introduce in this coursebook. So instead of exercising the techniques themselves or offering a tool for doing so, we are going to attempt to describe what topic modeling is and how to interpret results from it using a case study. Come talk to either of us in person if you want to go further and explore topic modeling on your own.
+
+
 
 Topic modeling looks for words that tend
 
