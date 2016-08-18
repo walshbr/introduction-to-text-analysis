@@ -1,4 +1,4 @@
-# Introduction to Text Analysis
+# Preface
 
 *(Note: this book is still in progress. Check back in later for updates!)*
 
