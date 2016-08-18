@@ -20,8 +20,7 @@ The topic modeling algorithm looks for statistically significant clusters of wor
 
 We call this an **unsupervised classifier** because we are asking the computer to analyze and mark a text without giving it any clear directions. We just say, "here is some text. Do your thing and tell me what you find." A **supervised classifier** would take information from us to help it make decisions. We might say, "read this text. If it has more than fifty uses of the word 'crime' mark it as 'detective fiction.' If it has fifty uses of the word 'sex,' mark it as 'romance' (more on supervised classifieres in the next chapter). Unsupervised classifiers like topic modeling instead no very little about the underlying texts that they are examining. Instead, they process them based on an underlying model.
 
-In the last lesson we called the **bag of words** model an epistimelogy of texts, a way of understanding texts that might be different from what you were familiar with. In the case of the kind of topic modeling we have been discussing, that model could further be called **Latent Dirichlet Allocation (LDA)**. No need to panic over the fancy terms, but just know that LDA means you are assuming that there a variety of different topic discourses make up a text.
-
+In the last lesson we called the **bag of words** model an epistimelogy of texts, a way of understanding texts that might be different from what you were familiar with. In the case of the kind of topic modeling we have been discussing, that model could further be called **Latent Dirichlet Allocation (LDA)**. We won't go into too much detail about the specifics of LDA, but it is important to know that this is the model you are working with. LDA is a model that assumes that there are a text is constructed from a small number of topics.
 
 # How to interpret
 
