@@ -44,7 +44,7 @@ If we normalize them and remove stopwords, we lowercase them and get rid of punc
 A bag of words model generates a list of words that occur in the corpus as a whole, and then how often. So a bag of words model for the following two sentences might produce something like the following:
 
 Sentence 1: "Barbara is doing fine, thank you."
-Sentence 2: "Thank you, Dave. Doing fine."
+Sentence 2: "Thank you, Dave. I am doing fine."
 
 ```
 Words
@@ -52,12 +52,20 @@ Words
     "Barbara",
     "is",
     "doing",
-    
-
+    "fine",
+    "thank",
+    "you",
+    "Dave,
+    "I",
+    "am"
 ]
 
+Sentence 1
+[1, 1, 1, 1, 1, 1, 0, 0, 0]
+Sentence 2
+[0, 0, 1, 1, 1, 1, 1, 1, 1]
 ```
-
+In addition to the list of the total words in all our documents, we also have two lists, one for each sentence, of the number of times each of those terms occur. 
 You might feel like this goes against everything that you've ever known about reading. This might feel like destroying a text. You're not wrong. This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. This approach, instead, wants you to think about reading in a different way, to develop a new epistemology for the process. We lose something in the process, the sense of a text as it unfolds over time. 
 
 But we also gain the ability to think about a text in new ways. If we can 
