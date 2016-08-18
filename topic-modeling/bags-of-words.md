@@ -9,8 +9,8 @@ Take this passage:
 The excerpt is from a letter about the Jack the Ripper murders from the *Pall Mall Gazette* published on September 28, 1888. Even without knowing anything about the context, you can probably infer rough senses of the topic of the text: murder. We might further say that there are a number of overlapping in the text: murder, evidence, medicine, and many more. But how did you know this? Besides reading the whole text, you could probably skim and get a sense from certain words that strongly indicate these topics to you. Here is the same passage with one representation of how reading might have taken place for you using *[Prism](https://prism.scholarslab.org)*. We have highlighted various words associated with particular categories as such:
 ```
 red: evidence
-green:
-blue:
+green: medicine
+blue: murder
 ```
 
 ![topic modeling highlights](/assets/topic-modeling/topic-modeling-highlights.jpg)
