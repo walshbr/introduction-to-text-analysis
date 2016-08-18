@@ -1,4 +1,6 @@
-Topic modeling
+Topic modeling looks for words that tend
+
+as Andrew Goldstone and Ted Underwood put it in their article on topic modeling *[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)*, "a 'topic' is neither more nor less than a pattern of co-occurring word"
 
 
 
