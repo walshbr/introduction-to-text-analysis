@@ -4,17 +4,17 @@ We will be using a tool called [Voyant](http://voyant-tools.org/) to introduce s
 
 Upon arriving at Voyant you will encounter a space where you can upload texts. For the following graphs, we have uploaded the full text of _The String of Pearls_, the 1846-7 penny dreadful that featured Sweeney Todd, the demon barber of Fleet Street. Feel free to [download that dataset](/assets/the-string-of-pearls-full.txt) and use it to produce the same results for following along, or upload your own texts using the window provided.
 
-![Voyant splash page and text uploader](/assets/voyant-splash-page.png)
+![Voyant splash page and text uploader](/assets/cyborg-readers/voyant-splash-page.png)
 After Voyant processes your text you'll get a series of window panes with lots of information. Voyant packages several features into one tight digital package: each pane offers you different means of interacting with the text.
 
-![default view of string of pearls in voyant](/assets/voyant-overview.png)
+![default view of string of pearls in voyant](/assets/cyborg-readers/voyant-overview.png)
 
 Voyant gives you lots of options, so do not be overwhelmed. Voyant provides great documentation for working through their interface, and we will not rehearse them all again [here](http://docs.voyant-tools.org/start/). Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
 
-![voyant default wordcloud of string of pearls](/assets/voyant-word-cloud-default.png)
+![voyant default wordcloud of string of pearls](/assets/cyborg-readers/voyant-word-cloud-default.png)
 Word clouds like these have been made popular in recent years by [Wordle](http://www.wordle.net/). They do nothing more than count the different words in a text: the more frequent a particular word appears, the larger its presence in the word cloud. In fact, Voyant allows you to see the underlying frequencies that it is using to generate the cloud if you click the "Corpus Terms" button above the word cloud.
 
-![underlying corpus term frequency](/assets/voyant-term-frequencies.png)
+![underlying corpus term frequency](/assets/cyborg-readers/voyant-term-frequencies.png)
 
 Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](http://www.historyofinformation.com/expanded.php?id=2321) begun on punch cards in the 1940's and 50's was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
 
