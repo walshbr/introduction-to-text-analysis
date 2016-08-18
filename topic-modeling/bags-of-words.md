@@ -17,7 +17,7 @@ blue: murder
 
 ![topic modeling highlights](/assets/topic-modeling/topic-modeling-highlights.jpg)
 
-We might further abstract this outwards to say that 
+We might further abstract this outwards to say that each of these topics represents a different kind of discourse at work in the text. Evidence, medicine, murder: they each represent
 
 > How does this work?
 
