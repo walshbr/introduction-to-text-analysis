@@ -22,7 +22,7 @@ Until now, we have stressed approaching text analysis with a clear sense of your
 
 
 
-Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](http://www.matthewjockers.net/macroanalysisbook/lda/)".
+
 
 
 
