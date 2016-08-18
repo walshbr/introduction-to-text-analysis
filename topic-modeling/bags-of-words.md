@@ -47,7 +47,7 @@ Sentence 1: "Barbara is doing fine, thank you."
 Sentence 2: "Thank you, Dave. I am doing fine."
 
 ```
-Words
+Words in Corpus
 [
     "Barbara",
     "is",
