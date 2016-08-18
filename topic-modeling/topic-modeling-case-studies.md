@@ -1,16 +1,12 @@
 # Topic Modeling Case Studies
 
-
+In the last lesson we discussed topics, discourses, and the bag of words model for reading texts. These are all backgrounds and framing contexts for **topic modeling**, a machine learning technique
 
 Topic modeling looks for words that tend
 
 
 
 as Andrew Goldstone and Ted Underwood put it in their article on topic modeling *[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)*, "a 'topic' is neither more nor less than a pattern of co-occurring words"
-
-
-
-**Latent Dirichlet Allocation (LDA)**
 
 
 
@@ -26,7 +22,7 @@ We call this an **unsupervised classifier** because we are asking the computer t
 
 > any effective procedure that pursues the solution of a problem by means of a predetermined sequence of actions, or steps.
 
-In the last lesson we called the **bag of words** model an epistimelogy of texts, a way of understanding texts that might be different from what you were familiar with. You might think about an algorithm like an applied epistemology. We take this way of understanding texts and use it to produce some readings or results. More specifically, we write a program that takes this way of reading texts and gives us something that we can then interpret.
+In the last lesson we called the **bag of words** model an epistimelogy of texts, a way of understanding texts that might be different from what you were familiar with. You might think about an algorithm like an applied epistemology. We take this way of understanding texts and use it to produce some readings or results. More specifically, we write a program that takes this way of reading texts and gives us something that we can then interpret. In the case of the kind of topic modeling we will focus on, that algorithm is usually **Latent Dirichlet Allocation (LDA)**
 
 
 # How to interpret
