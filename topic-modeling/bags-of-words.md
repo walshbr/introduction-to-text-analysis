@@ -60,12 +60,13 @@ Words
     "am"
 ]
 
-Sentence 1
+Counts for Sentence 1
 [1, 1, 1, 1, 1, 1, 0, 0, 0]
-Sentence 2
+Counts for Sentence 2
 [0, 0, 1, 1, 1, 1, 1, 1, 1]
 ```
-In addition to the list of the total words in all our documents, we also have two lists, one for each sentence, of the number of times each of those terms occur. 
+In addition to the list of the total words in all our documents, we also have two lists, one for each sentence, of the number of times each of those terms occur. So the first element of the Counts list for Sentence 1 is 1, because "Barbara" occurs 1 time. Sentence 2 has 0 in that same position because the word "Barbara does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple short sentences, but imagine being able to break apart whole texts like this. 
+
 You might feel like this goes against everything that you've ever known about reading. This might feel like destroying a text. You're not wrong. This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. This approach, instead, wants you to think about reading in a different way, to develop a new epistemology for the process. We lose something in the process, the sense of a text as it unfolds over time. 
 
-But we also gain the ability to think about a text in new ways. If we can 
+But we also gain the ability to think about a text in new ways. If we have lists of words for each text as well as for the corpus as a whole, we can actually work backwards towards those topics we were talking about a moment ago. We
