@@ -8,7 +8,7 @@ The basic principle to remember is "GIGO," or "garbage in, garbage out:" you are
 
 Take this image taken from a newspaper ad for the [American film ](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_(1922)_[Sherlock Holmes](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_(1922)_[ in 1922](https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_(1922)\_-\_6.jpg\):
 
-![sherlock holmes article clipping](/assets/data-cleaning/holmes.png)
+![sherlock holmes article clipping](/data-cleaning/assets/holmes.png)
 
 By default, the computer has no idea that there is text inside of this image. For a computer, an image is just an image, and you can only do image-y things to it. The computer could rotate it, crop it, zoom in, or paint over parts of it, but your machine cannot read the text there - unless you tell it how to do so. The computer requires a little extra help to pull out the text information from the image.
 
