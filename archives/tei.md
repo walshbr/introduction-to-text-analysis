@@ -33,11 +33,11 @@ Think about all the annotations that you put on your own pages as you read them.
 
 And we can represent it graphically, like so, where black denotes the stanza boundaries, horizontal blue the lines, and the rotating colors under the final words describe a rhyme scheme:
 
-![marking up poem by hand graphically](/assets/archives/tei-graphic.png)
+![marking up poem by hand graphically](/assets/archives/tei-graphic.jpg)
 
 But you probably would need a moment to realize what was going on if you came to this having not highlighted things yourself. We can perform a similar function with text annotations, which gets closer to a meaning that we could understand without having any prompting:
 
-![tei with text annotations](/assets/archives/tei.png)
+![tei with text annotations](/assets/archives/tei.jpg)
 
 But for a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on Cyborg readers. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The *Text Encoding Initiative* (TEI), the result of this work, is an attempt to make abstract humanities concepts legible to machines. TEI applied to the passage, might begin to look something like this:
 

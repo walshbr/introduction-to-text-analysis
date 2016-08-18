@@ -32,11 +32,11 @@ If you have a corpus where the dates are known, you can begin to draw inferences
 
 It is easy to think that the results given to you by the computer are correct, to take them at their word. After all, how could numbers lie? The truth is, however, that statistics are the results of the biases of the people who produced them. Seemingly good statistics can make anything seem like objective truth when there might not be anything more than a pretty picture:
 
-![bad statistics make a dinosaur](/assets/reading-at-scale/distant-reading-dinosaur.png)
+![bad statistics make a dinosaur](/assets/reading-at-scale/distant-reading-dinosaur.jpg)
 
 And a flashy visualization can just as easily show nothing:
 
-![bad visualization](/assets/reading-at-scale/distant-reading-graphs.png)
+![bad visualization](/assets/reading-at-scale/distant-reading-graphs.jpg)
 
 Your own results might be the result of some setting that you have configured just slightly incorrectly. Or maybe you uploaded the wrong text. Or maybe you are misunderstanding how the tool works in the first place. If something has you scratching your head, take a step back and see if there is something wrong with your setup.
 
