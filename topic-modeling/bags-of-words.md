@@ -21,7 +21,9 @@ When you read at a glance, you probably intuit the presence of such words as ind
 
 We are beginning to float a different kind of reading. Let's take one more step back. 
 
-If we take the words in a text as being indicative of its underlying topics, we actually don't need to worry about word order so much. We just care about whether the words are there or not, not the order they come in. Our previous examples have preserved the sense of narrative time in a text - when we counted words with *Voyant*, we then graphed them over time. But we can find out interesting things about texts if we are a little more flexible if we think about them not as things that unfold over time but rather as pure token counts, as **bags of words**. In a bag of words model, word order becomes irrelevant. Take the following two sentences:
+If we take the words in a text as being indicative of its underlying topics, we actually don't need to worry about word order so much. We just care about whether the words are there or not, not the order they come in. Our previous examples have preserved the sense of narrative time in a text - when we counted words with *Voyant*, we then graphed them over time. But we can find out interesting things about texts if we are a little more flexible if we think about them not as things that unfold over time but rather as pure token counts, as **bags of words**. In a bag of words model, word order becomes irrelevant. All we care about is what words occur and how often they do so. Pretty straight forward, right?
+
+Take the following two sentences:
 
 "Fine. How are you doing?"
 "How are you doing? Fine?"
