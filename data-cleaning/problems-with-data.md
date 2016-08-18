@@ -38,11 +38,22 @@ DoyleArthur DoyleA.C. DoyleDoyle, A.C.Doyle, Sir ArthurDoyle, Sir Arthur ConanSi
 
 You can probably imagine others. All of these are technically correct, and they might serve your purposes just fine. But you need to be consistent. Remember how computers cannot infer anything? Imagine this as part of your database of authors:
 
-```Author Name---Austen, JaneJames JoyceArthur Conan Doyle```
+```
+Author Name
+---
+Austen, Jane
+James Joyce
+Arthur Conan Doyle
+```
 
 You are working with a number of formats:
 
-```Author Name---Austen, Jane: last_name, first_nameArthur Doyle: first_name last_name```
+```
+Author Name
+---
+Austen, Jane: last_name, first_name
+Arthur Doyle: first_name last_name
+```
 
 A computer program would need a way to understand what you are giving it, something like:
 
@@ -54,12 +65,22 @@ This data would cause all sorts of problems with the third step. To begin, how d
 
 The former is the more common way of representing data like this. Using commas to denote the different pieces of data is so popular that the format has its own name: **comma seperated value** or **csv**. It has an advantage over the second format that breaks apart data based on spaces:
 
-```Author Names---Austen JaneArthur DoyleArthur Conan Doyle```
+```
+Author Names
+---
+Austen Jane
+Arthur Doyle
+Arthur Conan Doyle
+```
 
 If we used spaces to denote breaks between first name and last name, Arthur Conan Doyle would cause our program to error. It would likely interpret 'Arthur' as the first name and 'Conan' as the last name. 'Doyle' would be an unkown. Reformatting this as a csv allows us to handle Conan Doyle's full name:
 
-```Author Names---Austen, JaneArthur, DoyleArthur Conan, Doyle
-
+```
+Author Names
+---
+Austen, Jane
+Arthur, Doyle
+Arthur Conan, Doyle
 ```
 
 The next problem should be obvious: Jane Austen is in a last\_name, first\_name format, while the others are in the reverse. So our final version of this dataset would look like this:
@@ -72,7 +93,14 @@ We might go further to associate Arthur Doyle and Arthur Conan Doyle as being re
 
 If you have ever searched for a book using a library search interface, you have interacted with metadata categories. **Metadata**, in its most basic sense, is data about data. A text, after all, is more than just the words on the page. We have a whole range of other information that we use to describe the document. The author, its date of publication, its publisher, its copyright status, etc.: we might care deeply about these pieces of information, and we might want you to use them for particular analyses. These categories allow for more nuance, for us to be able to search for books with particular titles from particular time periods. In our previous example, we were actually working with metadata without realizing.
 
-```Author Names---last_name, first_nameAusten, JaneDoyle, ArthurDoyle, Arthur Conan```
+```
+Author Names
+---
+last_name, first_name
+Austen, Jane
+Doyle, Arthur
+Doyle, Arthur Conan
+```
 
 We have two metadata categories here: last\_name, and first\_name. Each are separated by a comma. We might even think of author\_name as being its own metadata category for someone else's list of books! Databases are really these sorts of things at their heart: data and metadata, organized in systematic ways to make them easily usable.
 
