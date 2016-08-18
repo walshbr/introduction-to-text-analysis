@@ -22,11 +22,11 @@ Busa's work took years. We can now carry out similar searches in seconds, and we
 
 Notice the words that you do not see on this list: words like 'a' or 'the.' Words like these, **stopwords** are _so_ common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right:
 
-![voyant settings](/assets/voyant-settings.png)
+![voyant settings](/assets/cyborg-readers/voyant-settings.png)
 
 Use the dropdown list to switch from 'auto-detect' to none. Now the concordance will show you the actual word frequencies in the text. Notice that 'said', the number one result in the original graph, does not even come close to the frequent usage of articles, prepositions, and pronouns.
 
-![concordance with no stopwords](/assets/stopword-free-concordance.png)
+![concordance with no stopwords](/assets/cyborg-readers/stopword-free-concordance.png)
 
 Words like these occur with such frequency that we often need to remove them entirely in order to get meaningful results. But the list of words that we might want to remove might change depending on the context. For example, language does not remain stable over time. Different decades and centuries have different linguistic patterns for which you might need to account. Shakespearean scholars might want to use an [early modern stopword list](file.path/assets/early-modern-stopwords.txt) provided by Stephen Wittek. You can use this same area of _Voyant_ to edit the stoplist used by your analyis.
 
@@ -34,7 +34,7 @@ There are some instances in which we might care a lot about just these words. Th
 
 Return to the word cloud. Using the slider below the word cloud, you can reduce or expand the number of terms visible in the visualization. Slide it all the way to the left to include the maximum number of words.
 
-![voyant word clouse dense](/assets/voyant-word-cloud-dense.png)
+![voyant word clouse dense](/assets/cyborg-readers/voyant-word-cloud-dense.png)
 
 Just like the stopword list can be used to adjust the filters that help to give you meaningful results, this slider adjusts the visualization that you get. It should become clear as you play with both options that different filters and different visualizations can give you radically different readings. The results are far from objective: your own reading, the tool itself and how you use it all shape the data as it comes to be known.
 
@@ -52,7 +52,7 @@ Additionally, most of the words are relatively short and most are only one or tw
 
 If we load Arthur Conan Doyle's "A Scandal in Bohemia" into Voyant, you can see that we get quite different results. \(Again, feel free to follow along!\)
 
-![](/assets/Screen Shot 2016-08-09 at 11.47.16 AM.png)
+![scandal in bohemia word cloud](/assets/cyborg-readers/scandal-in-bohemia-word-cloud.png)
 
 A quick glance shows that the most common words tend to be longer in length than those in _A String of Pearls_, with the three syllable "photograph" being one of the most frequently used terms in this short story, one written for a middle-class as opposed to lower-class audience. So maybe the simple vocabulary of the penny dreadful is related to the nature of its readership.
 

@@ -14,7 +14,7 @@ The exercept is from a letter about the Jack the Ripper murders from the *Pall M
 
 Now let's take the same materials but highlight for each word. REWORKS  THIS PIECE
 
-![topic modeling highlights](/assets/topic-modeling-highlights.png)
+![topic modeling highlights](/assets/topic-modeling/topic-modeling-highlights.png)
 
 > How does this work?
 
