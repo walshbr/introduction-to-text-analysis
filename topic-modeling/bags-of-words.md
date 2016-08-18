@@ -71,7 +71,7 @@ You might feel like this goes against everything that you've ever known about re
 
 But we also gain the ability to think about a text in new ways. If we have lists of words for each text as well as for the corpus as a whole, we can actually work backwards towards those topics we were talking about a moment ago. Instead of skimming a paragraph to determine its basic topic, we could scan full texts. Lots of them (Brandon's record is about 1.8 million texts in a corpus). And rather than trying to get a sense of 1-3 topics, we could break our text apart into 15-20 different topics. Now we are cooking with gas, and we're talking about topic modeling.
 
-Further Resources:
+## Further Resources
 * The [Wikipedia page on the Bag of Words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
  was helpful for putting this lesson together. 
 * While we haven't quite gotten to topic modeling yet, Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](http://www.matthewjockers.net/macroanalysisbook/lda/)."
