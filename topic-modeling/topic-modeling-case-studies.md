@@ -1,9 +1,6 @@
 # Topic Modeling Case Studies
 
-In the previous section, we described how a single text could be broken up into a list of word frequencies, and we also suggested that these word frequencies could point us towards the underlying discourses our topics that composed a text. T 
-
-**topic modeling**, a machine learning technique that allows you to discover the topics that construct a text.
-
+In the previous section, we described how a single text could be broken up into a list of word frequencies, and we also suggested a single text might be composed of any number of discourses or topics. The different words in a text draw from these topics, so, given lists of word frequencies, we can infer the underlying topics. This process is called **topic modeling**, a machine learning technique that allows you to discover the topics that construct a text. Topic modeling does so by exercising a variety of statistical protocols over and over again.
 
 Executing topic modeling projects yourself takes more hands-on programming than we want to introduce in this coursebook. So instead of exercising the techniques themselves or offering a tool for doing so, we are going to attempt to describe what topic modeling is and how to interpret results from it using a case study. Come talk to either of us in person if you want to go further and explore topic modeling on your own.
 
