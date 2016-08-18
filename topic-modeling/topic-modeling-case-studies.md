@@ -20,8 +20,7 @@ We call this an **unsupervised classifier** because we are asking the computer t
 
 > any effective procedure that pursues the solution of a problem by means of a predetermined sequence of actions, or steps.
 
-
-
+In the last lesson we called the **bag of words** model an epistimelogy of texts, a way of understanding texts that might be different from what you were familiar with. You might think about an algorithm like an applied epistemology. We take this way of understanding texts and use it to produce some readings or results. We write a program that interacts with texts
 
 Until now, we have stressed approaching text analysis with a clear sense of your interests and the research questions that drive them. Topic modeling works a little differently: it is more useful for exploratory work.
 
