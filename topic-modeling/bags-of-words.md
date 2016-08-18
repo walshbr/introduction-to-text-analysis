@@ -17,7 +17,9 @@ blue: murder
 
 ![topic modeling highlights](/assets/topic-modeling/topic-modeling-highlights.jpg)
 
-We might further abstract this outwards to say that each of these topics represents a different kind of discourse at work in the text. In any given conversation about medicine, certain words are more likely to occur than others. The word 'lunatic' might appear in such a conversation, but it is far more likely that a word like 'anatomy' would suggest you are in a conversation about medicine. So each text is made up of some mix of discourses like these. 
+When you read at a glance, you probably intuit the presence of such words as indicative of the topic in a text. We might further abstract this outwards to say that each of these topics represents a different kind of discourse at work in the text. In any given conversation about medicine, certain words are more likely to occur than others. The word 'lunatic' might appear in such a conversation, but it is far more likely that a word like 'anatomy' would suggest you are in a conversation about medicine. So each text is made up of some mix of discourses like these; each text is the result of some number of topics, of some number of discourses.
+
+We are beginning to float a different kind of reading.
 
 Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](http://www.matthewjockers.net/macroanalysisbook/lda/)".
 
