@@ -46,7 +46,7 @@ If we remove normalize them and remove stopwords, we lowercase them and get rid 
 
 A bag of words model generates a list of words that occur in the corpus as a whole, and then often.
 
-This concept is pretty far removed from how we tend to read, since we tend read in sequence across the page. Topic modeling, instead, wants you to think about reading in a different way. It wants you to think through a different epistemology of reading. 
+This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. Topic modeling, instead, wants you to think about reading in a different way. It wants you to think through a different epistemology of reading. 
 
 Topic modeling 
 
