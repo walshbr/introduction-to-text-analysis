@@ -17,6 +17,8 @@ blue: murder
 
 ![topic modeling highlights](/assets/topic-modeling/topic-modeling-highlights.jpg)
 
+We might further abstract this outwards to say that 
+
 > How does this work?
 
 Our previous examples have preserved the sense of narrative time in a text - when we counted words with *Voyant*, we then graphed them over time. But we can find out interesting things about texts if we are a little more flexible if we think about them not as things that unfold over time but rather as **bags of words**. In a bag of words model, word order becomes irrelevant. Take the following two sentences:
