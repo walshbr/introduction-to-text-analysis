@@ -74,4 +74,4 @@ But we also gain the ability to think about a text in new ways. If we have lists
 Further Resources:
 * The [Wikipedia page on the Bag of Words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
  was helpful for putting this lesson together. 
-* While we haven't quite gotten to topic modeling yet, Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](http://www.matthewjockers.net/macroanalysisbook/lda/)".
+* While we haven't quite gotten to topic modeling yet, Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](http://www.matthewjockers.net/macroanalysisbook/lda/)."
