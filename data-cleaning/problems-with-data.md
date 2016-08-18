@@ -6,7 +6,9 @@ The basic principle to remember is "GIGO," or "garbage in, garbage out:" you are
 
 ## OCR
 
-Take this image taken from a newspaper ad for the [American film version of Sherlock Holmes]:
+Take this image taken from a newspaper ad for the [American film version of Sherlock Holmes]
+
+:
 
 ![sherlock holmes article clipping](/assets/data-cleaning/holmes.png)
 
