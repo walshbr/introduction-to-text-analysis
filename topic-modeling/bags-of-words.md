@@ -41,18 +41,18 @@ If we normalize them and remove stopwords, we lowercase them and get rid of punc
 ]
 ```
 
-A bag of words model generates a list of words that occur in the corpus as a whole, and then how often. So a bag of words model for the following two sentences might produce a list of the 
+A bag of words model generates a list of words that occur in the corpus as a whole, and then how often. So a bag of words model for the following two sentences might produce something like the following:
 
 Sentence 1: "Barbara is doing fine, thank you."
 Sentence 2: "Thank you, Dave. Doing fine."
 
 ```
-Sentence 1
+Words
 [
- 
-]
-Sentence 2
-[
+    "Barbara",
+    "is",
+    "doing",
+    
 
 ]
 
