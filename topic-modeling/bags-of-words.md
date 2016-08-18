@@ -69,4 +69,4 @@ In addition to the list of the total words in all our documents, we also have tw
 
 You might feel like this goes against everything that you've ever known about reading. This might feel like destroying a text. You're not wrong. This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. This approach, instead, wants you to think about reading in a different way, to develop a new epistemology for the process. We lose something in the process, the sense of a text as it unfolds over time. 
 
-But we also gain the ability to think about a text in new ways. If we have lists of words for each text as well as for the corpus as a whole, we can actually work backwards towards those topics we were talking about a moment ago. We
+But we also gain the ability to think about a text in new ways. If we have lists of words for each text as well as for the corpus as a whole, we can actually work backwards towards those topics we were talking about a moment ago. Instead of skimming a paragraph to determine whether or not 
