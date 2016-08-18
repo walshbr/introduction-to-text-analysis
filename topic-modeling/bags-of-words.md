@@ -28,7 +28,7 @@ Take the following two sentences:
 "Fine. How are you doing?"
 "How are you doing? Fine?"
 
-If we remove normalize them and remove stopwords, we lowercase them and get rid of punctuation. A bag of words model of each text would be the same:
+If we normalize them and remove stopwords, we lowercase them and get rid of punctuation. A bag of words model of each text would be the same:
 
 ```
 [
