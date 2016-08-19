@@ -15,7 +15,7 @@
 [NLTK book](http://www.nltk.org/book/)
 
 ## R
-
+* Arnold, Taylor and Lauren Tilton. [Humanities Data in R](http://www.humanitiesdata.org/)
 
 
 ## Other
