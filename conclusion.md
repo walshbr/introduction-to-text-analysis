@@ -4,4 +4,4 @@
 
 * [Further Resources](/conclusion/further-resources.md)
 
-* [Adapting this Book](/conclusion/adapting-this-book.md)
+* [Adapting This Book](/conclusion/adapting-this-book.md)
