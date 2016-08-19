@@ -16,7 +16,9 @@ They are hard even for two different people to agree on. Try to guess whether th
 "I am very happy."
 "She is so sad."
 
-Those were easy ones: good and bad. Hot and cold. How about these:
+Those were easy ones: good and bad. Hot and cold. 
+
+How about these:
 
 "It was the best of times, it was the worst of times…"
 
@@ -25,6 +27,7 @@ Those were easy ones: good and bad. Hot and cold. How about these:
 The first sentence, by Dickens, is probably a bit hard to parse in such a polarized reading. If it is both good and bad, it probably comes out as neutral, right? We would probably need some system for determining what to do in such situations. The second sentence, by Jane Austen, complicates matters even further. An avid reader of Austen would know that her texts come loaded with satire. It is unlikely she actually means her words to be taken at face value. Virtually no truthes actually are *universally* acknowledged to be true, so the sentence winks at the reader that it is not mean to be taken in full seriousness. 
 
 
+But how would you deal with "I am not happy"? A human would recognize that
 
 But that doesn't mean that researchers don't try. The process is difficult and riddled with error, but also intellectually interesting in a number of ways.
 
@@ -33,7 +36,7 @@ But that doesn't mean that researchers don't try. The process is difficult and r
 > What can sentiment analysis like this tell us about the objects that we study?
 
 As with any form of text analysis, the potential uses range as widely as your imagination. One compelling recent [use of sentiment analysis](http://varianceexplained.org/r/trump-tweets/)
- sought to gauge the degree of 
+ sought to gauge the degree of control that Donald Trump's campaign had over his Twitter account. By 
 
 
 
@@ -41,7 +44,6 @@ As with any form of text analysis, the potential uses range as widely as your im
 
 Rotten Tomatoes
 difficulty of having computers read
-'I am not happy' example
 Swafford and Jockers
 
 ## Further Resources
