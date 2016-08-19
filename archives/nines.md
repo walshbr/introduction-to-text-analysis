@@ -1,4 +1,4 @@
-# NINES
+# NINES and Digital Archives
 
 Once a text is encoded in TEI, the work of a textual scholar has only begun. Encoding is the first step in a long process of preparing documents, historical or otherwise, for presentation and distribution on the web. Now that you have some sense of what it takes to begin thinking about putting a document online, let's think more about the stakes.
 
