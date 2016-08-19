@@ -30,7 +30,12 @@ But that doesn't mean that researchers don't try. The process is difficult and r
 
 > How do we map complicated abstract ideas like emotion in a way that computers could understand them?
 
-Why would you want to do these things?
+> What can learning about 
+
+
+
+http://varianceexplained.org/r/trump-tweets/
+
 
 
 Rotten Tomatoes
