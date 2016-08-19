@@ -96,15 +96,11 @@ We get clear spikes in the German topic from September to December 2014, and sli
 
 > Why do these languages spike at these particular times?
 
-as Andrew Goldstone and Ted Underwood put it in their article on topic modeling *[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)*, "a 'topic' is neither more nor less than a pattern of co-occurring words"
 
 
 
 
 
-talk about topic weighting. link to 
-
-http://www.scottbot.net/HIAL/index.html@p=221.html
 
 
 
@@ -117,6 +113,7 @@ In the last lesson we called the **bag of words** model an epistimelogy of texts
 Until now, we have stressed approaching text analysis with a clear sense of your interests and the research questions that drive them. Topic modeling works a little differently: it is more useful for exploratory work.
 
 
+as Andrew Goldstone and Ted Underwood put it in their article on topic modeling *[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)*, "a 'topic' is neither more nor less than a pattern of co-occurring words"
 
 
 
