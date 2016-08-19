@@ -103,11 +103,13 @@ In the last lesson we called the **bag of words** model an epistemology of texts
 Don't be alarmed if topic modeling probably seems much more abstract than the material we have covered until now. To really understand how topic modeling works under the hood, you will need to have a grasp of a variety of different topics in machine learning and statistics. We are not so concerned that you understand these specifics. We care, instead, that you understand the idea behind it, have some sense of how to read make sense of other topic modeling projects, and be able to explain them to others in general terms.
 
 ## Further Resources
-as Andrew Goldstone and Ted Underwood put it in their article on topic modeling *[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)*, "a 'topic' is neither more nor less than a pattern of co-occurring words"
+* Andrew Goldstone and Ted Underwood put it in their article on topic modeling *[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)*, "a 'topic' is neither more nor less than a pattern of co-occurring words"
 
 
 
-http://programminghistorian.org/lessons/topic-modeling-and-mallet
+* The Programming Historian has a [good introduction](http://programminghistorian.org/lessons/topic-modeling-and-mallet) for executing topic modeling yourself using Mallet. Will get technical, but the early surveys of what TM is can be very helpful.
+
+
 
 
 
