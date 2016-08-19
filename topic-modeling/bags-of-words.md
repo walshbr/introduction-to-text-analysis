@@ -4,26 +4,32 @@ When we read, our eyes move in sequence across the page and take in phrase after
 
 Take this passage:
 
-
 > I will, for the sake of argument, assume that the information given to the coroner by the officer of one of the medical schools is correct, and that Dr. Phillips is right in considering that the character of the mutilation in question justifies the assumption that the perpetrator was probably one who possessed some knowledge of anatomy. But that the inference which has been deduced is warranted, any one who is the least acquainted with medical science and practice will unhesitatingly deny and indignantly repudiate. That a lunatic may have desired to obtain possession of certain organs for some insane purpose is very possible, and the theory of the murdering fiend being a madman only derives confirmation from the information obtained by the coroner. But that the parts of the body carried off were wanted for any quasi scientific publication, or any other more or less legitimate purpose, no one having any knowledge of medical science will for a moment believe. 
 
+The excerpt is from a letter about the Jack the Ripper murders from the *Pall Mall Gazette* published on September 28, 1888. Even without knowing anything about the context, you can probably infer rough senses of the topic of the text: murder. We might further say that there are a number of overlapping in the text: evidence, medicine, murder, and many more. But how did you know this? Besides reading the whole text, you could probably skim and get a sense from certain words that strongly indicate these topics to you. Here is the same passage with one representation of how reading might have taken place for you using *[Prism](https://prism.scholarslab.org)*. We have highlighted various words associated with particular categories as such:
 
-Even without knowing anything about the context, you can probably infer rough senses of the topic of the text: murder. We might further say that there are a number of overlapping in the text: murder, evidence, medicine, and many more. But how did you know this? Besides reading the whole, you could probably skim and get a sense from certain words that strongly indicate the topic to you. Here is the same passage marked for those
-
-The exercept is from a letter about the Jack the Ripper murders from the *Pall Mall Gazette* published on September 28, 1888
-
-Now let's take the same materials but highlight for each word. REWORKS  THIS PIECE
+```
+Highlight Color: Topic
+---
+red: evidence
+green: medicine
+blue: murder
+```
 
 ![topic modeling highlights](/assets/topic-modeling/topic-modeling-highlights.jpg)
 
-> How does this work?
+When you read at a glance, you probably intuit the presence of such words as indicative of the topic in a text. We might further abstract this outwards to say that each of these topics represents a different kind of discourse at work in the text. In any given conversation about medicine, certain words are more likely to occur than others. The word 'lunatic' might appear in such a conversation, but it is far more likely that a word like 'anatomy' would suggest you are in a conversation about medicine. So each text is made up of some mix of discourses like these; each text is the result of some number of topics, of some number of discourses. Here we started with a few topics and then located words that supported our sense that they appeared in the text. But wouldn't it be interesting if we could somehow see the whole web of topics that occur in a text?
 
-Our previous examples have preserved the sense of narrative time in a text - when we counted words with *Voyant*, we then graphed them over time. But we can find out interesting things about texts if we are a little more flexible if we think about them not as things that unfold over time but rather as **bags of words**. In a bag of words model, word order becomes irrelevant. Take the following two sentences:
+We are beginning to float a different kind of reading. Let's take one more step back. 
+
+If we take the words in a text as being indicative of its underlying topics, we actually don't need to worry about word order so much. We just care about whether the words are there or not, not the order they come in. Our previous examples have preserved the sense of narrative time in a text - when we counted words with *Voyant*, we then graphed them over time. But we can find out interesting things about texts if we are a little more flexible if we think about them not as things that unfold over time but rather as pure token counts, as **bags of words**. In a bag of words model, word order becomes irrelevant. All we care about is what words occur and how often they do so. Pretty straight forward, right?
+
+Take the following two sentences:
 
 "Fine. How are you doing?"
 "How are you doing? Fine?"
 
-If we remove normalize them and remove stopwords, we lowercase them and get rid of punctuation. A bag of words model of each text would be the same:
+If we normalize them and remove stopwords, we lowercase them and get rid of punctuation. A bag of words model of each text would be the same:
 
 ```
 [
@@ -35,20 +41,37 @@ If we remove normalize them and remove stopwords, we lowercase them and get rid 
 ]
 ```
 
-A bag of words model generates a list of words that occur in the corpus as a whole, and then often.
+A bag of words model generates a list of words that occur in the corpus as a whole, and then how often. So a bag of words model for the following two sentences might produce something like the following:
 
-This concept is pretty far removed from how we tend to read, since we tend read in sequence across the page. Topic modeling, instead, wants you to think about reading in a different way. It wants you to think through a different epistemology of reading. 
+Sentence 1: "Barbara is doing fine, thank you."
+Sentence 2: "Thank you, Dave. I am doing fine."
 
-Topic modeling 
+```
+Words in Corpus
+[
+    "Barbara",
+    "is",
+    "doing",
+    "fine",
+    "thank",
+    "you",
+    "Dave,
+    "I",
+    "am"
+]
 
-**Latent Dirichlet Allocation (LDA)**
+Counts for Sentence 1
+[1, 1, 1, 1, 1, 1, 0, 0, 0]
+Counts for Sentence 2
+[0, 0, 1, 1, 1, 1, 1, 1, 1]
+```
+In addition to the list of the total words in all our documents, we also have two lists, one for each sentence, of the number of times each of those terms occur. So the first element of the Counts list for Sentence 1 is 1, because "Barbara" occurs 1 time. Sentence 2 has 0 in that same position because the word "Barbara does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple short sentences, but imagine being able to break apart whole texts like this. 
 
-not dependent on location - just looking at all the different words that show up in a document.
+You might feel like this goes against everything that you've ever known about reading. This might feel like destroying a text. You're not wrong. This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. This approach, instead, wants you to think about reading in a different way, to develop a new epistemology for the process. We lose something in the process, the sense of a text as it unfolds over time. 
 
-The topic modeling algorithm looks for statistically significant clusters of words. For each document in your corpus, it will look 
+But we also gain the ability to think about a text in new ways. If we have lists of words for each text as well as for the corpus as a whole, we can actually work backwards towards those topics we were talking about a moment ago. Instead of skimming a paragraph to determine its basic topic, we could scan full texts. Lots of them (Brandon's record is about 1.8 million texts in a corpus). And rather than trying to get a sense of 1-3 topics, we could break our text apart into 15-20 different topics. Now we are cooking with gas, and we're talking about topic modeling.
 
-We call this an **unsupervised classifier** because we are asking the computer to analyze and mark a text without giving it any clear directions. We just say, "here is some text. Do your thing and tell me what you find." A **supervised classifier** would take information from us to help it make decisions. We might say, "read this text. If it has more than fifty uses of the word 'crime' mark it as 'detective fiction.' If it has fifty uses of the word 'sex,' mark it as 'romance.'
-
-Until now, we have stressed approaching text analysis with a clear sense of your interests and the research questions that drive them. Topic modeling works a little differently: it is more useful for exploratory work.
-
-So you've topic modeled! The results are…confusing. Let's take a look at them.
+## Further Resources
+* The [Wikipedia page on the Bag of Words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
+ was helpful for putting this lesson together. 
+* While we haven't quite gotten to topic modeling yet, Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](http://www.matthewjockers.net/macroanalysisbook/lda/)."
