@@ -94,7 +94,7 @@ We get clear spikes in the German topic from September to December 2014, and sli
 
 > What kinds of conversations are they having?
 
-> Why does 
+> Why do these languages spike at these particular times?
 
 as Andrew Goldstone and Ted Underwood put it in their article on topic modeling *[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)*, "a 'topic' is neither more nor less than a pattern of co-occurring words"
 
