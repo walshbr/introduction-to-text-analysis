@@ -1,4 +1,4 @@
-# TEI
+# Text Encoding Initiative
 
 
 >Yet each man kills the thing he loves
