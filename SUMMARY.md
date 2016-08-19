@@ -44,7 +44,7 @@
     * [Prism for Sentiment Analysis](sentiment-analysis/prism-part-three.md)
     * [Exercises](sentiment-analysis/exercises.md)
 * [Conclusion](conclusion.md)
-    * [Where to go Next](conclusion/where-to-go.md)
+    * [Where to Go Next](conclusion/where-to-go.md)
     * [Further Resources](conclusion/resources.md)
     * [Adapting This Book](conclusion/adapting.md)
 
