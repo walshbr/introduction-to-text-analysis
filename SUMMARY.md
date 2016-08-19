@@ -33,7 +33,7 @@
     * [Exercises](reading-at-scale/exercises.md)
 * [Topic Modeling](topic-modeling.md)
     * [Bags of Words](topic-modeling/bags-of-words.md)
-    * [Topic Modeling Case Study](topic-modeling/topic-modeling-case-studies.md)
+    * [Topic Modeling Case Study](topic-modeling/topic-modeling-case-study.md)
     * [Exercises](topic-modeling/exercises.md)
 * [Classifiers](classifiers.md)
     * [Supervised Classifiers](classifiers/supervised-classifiers.md)
