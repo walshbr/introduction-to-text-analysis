@@ -32,7 +32,7 @@ But that doesn't mean that researchers don't try. The process is difficult and r
 
 > What can sentiment analysis like this tell us about the objects that we study?
 
-As with any form of text analysis, the potential uses range as widely as your imagination.
+As with any form of text analysis, the potential uses range as widely as your imagination. One compelling recent use 
 
 
 
