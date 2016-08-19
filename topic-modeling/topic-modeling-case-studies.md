@@ -8,8 +8,13 @@ So when you run topic modeling software, it looks for words that occur near each
 
 After running over the whole corpus, the results of topic modeling will look something like this:
 
+example one from librivox
 
-The program spits out a series of topics, each of which consists of a series of words that tend to occur in documents together with statistical significance. You can think of these as the latent topics or discourses that contribute vocabulary to a document. Notice that the computer does not know anything about these topics at all. The real work of topic modeling involves interpreting these topics in ways to make them meaningful to readers. Take
+The program spits out a series of topics, each of which consists of a series of words that tend to occur in documents together with statistical significance. You can think of these as the latent topics or discourses that contribute vocabulary to a document. Notice that the computer does not know anything about these topics at all. The real work of topic modeling involves interpreting these topics in ways to make them meaningful to readers. Take this example
+
+example two from librivox
+
+Topic modeling will also spit out, for each document in the corpus, a matrix showing what percentage each topic is likely to contribute to that text. So if we know the 
 
 We will do a lot of statistical handwaving in what follows, but have some extra resources at the bottom of the page if you are interested in learning more about the mechanics of how topic modeling works.
 
