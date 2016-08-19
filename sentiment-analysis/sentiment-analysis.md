@@ -22,7 +22,9 @@ Those were easy ones: good and bad. Hot and cold. How about these:
 
 "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
 
-The first sentence, by Dickens, is probably a bit hard to parse in such a polarized reading. If it is both good and bad, it probably comes out as neutral, right? But we would probably need some system for determining what to do in such situations. The second sentence, by Jane Austen, complicates matters even further. An avid reader of Austen would know that her texts come loaded with satire. It is unlikely she actually means her words to be taken at face value. Virtually no truthes actually are *universally* acknowledged to be true, so the sentence winks at the reader that it is not mean to be taken in full seriousness. 
+The first sentence, by Dickens, is probably a bit hard to parse in such a polarized reading. If it is both good and bad, it probably comes out as neutral, right? We would probably need some system for determining what to do in such situations. The second sentence, by Jane Austen, complicates matters even further. An avid reader of Austen would know that her texts come loaded with satire. It is unlikely she actually means her words to be taken at face value. Virtually no truthes actually are *universally* acknowledged to be true, so the sentence winks at the reader that it is not mean to be taken in full seriousness. 
+
+
 
 But that doesn't mean that researchers don't try. The process is difficult and riddled with error, but also intellectually interesting in a number of ways.
 
