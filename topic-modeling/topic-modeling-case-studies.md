@@ -2,21 +2,46 @@
 
 In the previous section, we described how a single text could be broken up into a list of word frequencies, and we also suggested a single text might be composed of any number of discourses or topics. The different words in a text draw from these topics, so, given lists of word frequencies, we can infer the underlying topics. This process is called **topic modeling**, a machine learning technique that allows you to discover the topics that construct a text. Topic modeling does so by exercising a variety of statistical protocols over and over again. Executing topic modeling projects yourself takes more hands-on programming than we want to introduce in this coursebook. So instead of exercising the techniques themselves or offering a tool for doing so, we are going to attempt to describe what topic modeling is and how to interpret results from it using a case study. Come talk to either of us in person if you want to go further and explore topic modeling on your own.
 
-We began by walking through a paragraph and suggesting that by skimming it you can infer the types of topics that a paragraph deals with. Topic modeling works in a similar way: the software looks for words that tend to occur next to each in statistically significant ways. As humans, though, we have an upper limit to how much we can hold in our head to compare to each other: a few topics, a few texts. A computer doesn't have that same problem. Topic modeling software can process hundreds of thousands of texts. Over and over again. refining its sense of how all the pieces fit together. 
+We will do a lot of statistical handwaving in what follows, but have some extra resources at the bottom of the page if you are interested in learning more about the mechanics of how topic modeling works. We began by walking through a paragraph and suggesting that by skimming it you can infer the types of topics that a paragraph deals with. Topic modeling works in a similar way: the software looks for words that tend to occur next to each in statistically significant ways. As humans, though, we have an upper limit to how much we can hold in our head to compare to each other: a few topics, a few texts. A computer doesn't have that same problem. Topic modeling software can process hundreds of thousands of texts. Over and over again. refining its sense of how all the pieces fit together. 
 
-So when you run topic modeling software, it looks for words that occur near each other in texts in meaningful ways over the course of the corpus. In most cases, it looks for words the occur in documents together. But you might occassionally **chunk** larger documents into a series of paragraphs so that the software thinks about them each as separate documents for finer granularity.
+So when you run topic modeling software, it looks for words that occur near each other in texts in meaningful ways over the course of the corpus. In most cases, it looks for words the occur in documents together. Remember, these words are not dependent on location *within* the document. Topic modeling in this way works on a bag of words model that only cares about whether or not the words occur within the text itself, not their position within the text. But you might occassionally **chunk** larger documents into a series of paragraphs so that the software thinks about them each as separate documents for finer granularity.
 
-After running over the whole corpus, the results of topic modeling will look something like this:
+After running over the whole corpus, the results of topic modeling will give you a series of results files. The first, a topic/term matrix, will contain lines that look something like this:
 
-example one from librivox
+```
+0 2.5 librivox httpupload mp orgshareupload duration mb het de heres van ik size een je en dat te bart voor
 
-The program spits out a series of topics, each of which consists of a series of words that tend to occur in documents together with statistical significance. You can think of these as the latent topics or discourses that contribute vocabulary to a document. Notice that the computer does not know anything about these topics at all. The real work of topic modeling involves interpreting these topics in ways to make them meaningful to readers. Take this example
+1 2.5 file volume audacity problem db files upload edit fix version check dont track click change bit open id computer
 
-example two from librivox
+2 2.5 text word read words dont make question change made pronunciation didnt point names doesnt understand makes sense long sentence
 
+5 2.5 recording project end librivox post files file number thread section read link completed sections title book complete seconds silence
+
+7 2.5 english years life world language history people american school accent books german french work interesting literature live book written
+
+8 2.5 project page catalog httplibrivox found files link archive audio complete added add cover list links readers google put site
+```
+
+The program spits out a series of topics, each of which consists of a series of words that tend to occur in documents together with statistical significance. In each of these examples, I have selected a few topics to highlight out of the total nunmber. Each line consists of a topic number, a WHAT IS THIS, and the series of words that make up that topic. You can think of these as the latent topics or discourses that contribute vocabulary to a document. Notice that the computer does not know anything about these topics at all. The real work of topic modeling involves interpreting these topics in ways to make them meaningful to readers. Some of them are noise, artifacts of words that tend to occur next to each other. But others make more sense. Based on topics 1 and 5 you might be able to infer that these particular texts came from sound recordings of some kind. Topic 2 might suggest that we are talking about reading texts. Much of the work of topic modeling involves trying to make assumptions about what kinds of discourses are implied by these clusters of words. In this case, the corpus under question is about 1.8 million forum posts from [librivox.org](https://www.librivox.org), a site that produces public domain audiobooks.
+
+```
+11 2.5 recording librivox post test find make start wanted record forum minute thread fun check link listeners things readers give
+
+12 2.5 noise sound recording good bit sounds hear mic voice background microphone record volume silence editing quality loud dont recordings
+
+13 2.5 part read act line parts missing lines play great wrotei id editing role character narrator todd put dramatic edit
+
+14 2.5 section pl mw sections ready uploaded notes fixed corrected updated maryann repeat betty wrotehi wrotesection spot reuploaded pling phil
+
+15 2.5 de la le je les pour pas en vous ne est si ce dans du des merci il mais
+
+17 2.5 ich die und der ist das du von es nicht den auch ein im noch zu wenn kapitel aber
+
+19 2.5 reading read great book listening books reader listen love recordings enjoy forward wonderful listened proof job voice work enjoyed
+```
 Topic modeling will also spit out, for each document in the corpus, a matrix showing what percentage each topic is likely to contribute to that text. So if we know the 
 
-We will do a lot of statistical handwaving in what follows, but have some extra resources at the bottom of the page if you are interested in learning more about the mechanics of how topic modeling works.
+
 
 
 
@@ -24,11 +49,6 @@ as Andrew Goldstone and Ted Underwood put it in their article on topic modeling 
 
 
 
-not dependent on location - just looking at all the different words that show up in a document.
-
-
-
-The topic modeling algorithm looks for statistically significant clusters of words. For each document in your corpus, it will look
 
 
 talk about topic weighting. link to 
