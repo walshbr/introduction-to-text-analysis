@@ -107,4 +107,4 @@ Don't be alarmed if topic modeling probably seems much more abstract than the ma
 
 * The Programming Historian has a [good introduction](http://programminghistorian.org/lessons/topic-modeling-and-mallet) for executing topic modeling yourself using Mallet. Will get technical, but the early surveys of what TM is can be very helpful.
 
-* For a more thorough explanation of how the algorithm behind topic modeling works, you might take a look at Lisa Rhody's [class exercise for teaching lDA](https://github.com/lmrhody/topicmodelgame).
+* For a more thorough explanation of how the algorithm behind topic modeling works, you might take a look at Lisa Rhody's [class exercise for teaching LDA](https://github.com/lmrhody/topicmodelgame).
