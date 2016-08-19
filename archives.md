@@ -1,5 +1,5 @@
 # Digital Archives
 
-* [Text Encoding Initiative](/digital-archives/tei.md)
+* [Text Encoding Initiative](/archives/tei.md)
 
-* [NINES and Digital Archives](/digital-archives/nines.md)
+* [NINES and Digital Archives](/archives/nines.md)
