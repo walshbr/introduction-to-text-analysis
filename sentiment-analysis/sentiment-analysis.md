@@ -11,6 +11,8 @@ The idea makes enough sense as Vonnegut presents it: at certain times in a story
 
 If you have been following dutifuly along, you should know that computers can't do much of anything without being explicitly told how. They can do very little in the way of understanding data without a human to guide them. Trying to extract complicated information like the sentiment of a text, how we are meant to feel about a sentence, or how an author intended us to feel: these are extremely complicated questions that computers have a difficult time with.
 
+They are hard even for two different people to agree on. 
+
 But that doesn't mean that researchers don't try. The process is difficult and riddled with error, but also intellectually interesting in a number of ways.
 
 > How do we map complicated abstract ideas like emotion in a way that computers could understand them?
