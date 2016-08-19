@@ -5,11 +5,14 @@
 
 ## Secondary Readings
 
-Leary, Patrick. "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)."
-Moretti, Franco. *Graphs, Maps, Trees.*
-Kirsch, Adam. "[Technology is Taking Over English Departments: The False Promise of the Digital Humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)."
+* Cordell, Ryan. "[Qitjb the Raven](http://ryancordell.org/research/qijtb-the-raven/)."
 
-Cordell, Ryan. "[Qitjb the Raven](http://ryancordell.org/research/qijtb-the-raven/)."
+
+
+
+* Leary, Patrick. "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)."
+* Moretti, Franco. *Graphs, Maps, Trees.*
+* Kirsch, Adam. "[Technology is Taking Over English Departments: The False Promise of the Digital Humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)."
 
 
 
