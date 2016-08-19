@@ -1,7 +1,7 @@
 # Resources
 
 ## Tutorials
-[The Programming Historian](http://programminghistorian.org/)
+* [The Programming Historian](http://programminghistorian.org/)
 
 ## Secondary Readings
 
