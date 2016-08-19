@@ -8,10 +8,14 @@ The idea makes enough sense as Vonnegut presents it: at certain times in a story
 
 [Maya Eilam has represented Vonnegut's theory about shapes in a variety of infographics](http://www.mayaeilam.com/2012/01/01/the-shapes-of-stories-a-kurt-vonnegut-infographic/).
 
+If you have been following dutifuly along, you should know that computers can't do much of anything without being explicitly told how. They can do very little in the way of understanding data without a human to guide them.
 
-http://io9.gizmodo.com/the-universal-shapes-of-stories-according-to-kurt-vonn-1526559996
 
 Rotten Tomatoes
 difficulty of having computers read
 'I am not happy' example
 Swafford and Jockers
+
+## Further Resources
+
+* [The Universal Shapes of Stores, According to Kurt Vonnegut](http://io9.gizmodo.com/the-universal-shapes-of-stories-according-to-kurt-vonn-1526559996)
