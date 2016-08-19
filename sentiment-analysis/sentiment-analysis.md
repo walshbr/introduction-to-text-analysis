@@ -30,7 +30,9 @@ But that doesn't mean that researchers don't try. The process is difficult and r
 
 > How do we map complicated abstract ideas like emotion in a way that computers could understand them?
 
-> What can learning about 
+> What can sentiment analysis like this tell us about the objects that we study?
+
+As
 
 
 
