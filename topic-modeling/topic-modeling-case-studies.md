@@ -42,11 +42,51 @@ The program spits out a series of topics, each of which consists of a series of 
 
 So looking at these topics, we might see that a number of them deal with aspects of sound recording. The texts often tend to talk about the act of producing these recordings. Topics 15 and 17 are also notable, as they represent French and German language topics. In any large corpus that is primarily one language, texts written in other languages will tend to group together. If we assumed before that medical language would tend to occur next to each other, this makes sense. French vocabulary is far more likely to appear next to other French vocabulary, in a text that is entirely French.
 
-Information like this can be very useful, because topic modeling also spits out, for each document in the corpus, a matrix showing what percentage each topic is likely to contribute to that text. So if we know the 
+Information like this can be very useful, because topic modeling also spits out, for each document in the corpus, a matrix showing what percentage each topic is likely to contribute to that text. It might contain hundreds of thousands of segments that look something like this (modified slightly for readability):
 
+```
+0 httpsforum.librivox.orgviewtopic.phpf23t2 
+12 0.14788732394366197 
+1 0.13380281690140844 
+11 0.07746478873239436 
+2 0.06338028169014084 
+19 0.04929577464788732 
+18 0.035211267605633804 
+17 0.035211267605633804 
+16 0.035211267605633804 
+15 0.035211267605633804 
+14 0.035211267605633804 
+13 0.035211267605633804 
+10 0.035211267605633804 
+9 0.035211267605633804 
+8 0.035211267605633804 
+7 0.035211267605633804 
+6 0.035211267605633804 
+5 0.035211267605633804 
+4 0.035211267605633804 
+3 0.035211267605633804 
+0 0.035211267605633804 
 
+```
 
+The first line here contains information about the document, an ID for the document and then a name for it. In this case, each forum post has its own URL, so we are using the URL for the ID.
 
+```
+0 httpsforum.librivox.orgviewtopic.phpf23t2
+```
+What follows is a list of each topic produced by our topic modeling software and the weight of each topic for that document:
+
+```
+12 0.14788732394366197
+1 0.13380281690140844
+11 0.07746478873239436
+17 0.035211267605633804
+15 0.035211267605633804
+
+```
+So topics 12, 1, and 11, in that order, are the three most prominent topics in the document. Topic 12 has a weight of 14% in the document, and so on. Using this information, if we know the dates that each text was published, we can actually determine the rise and fall in prominence of different topics over time. Remember topics 15 and 17, our German and French language topics? They aren't especially prominant in this first text (an English one). But we can get a sense of where French and German texts are likely to occur by charting the ebb and flow of this topic over time:
+
+![topic modeling french and german topics over time](/assets/topic-modeling/topic-modeling-french-german.jpg)
 
 as Andrew Goldstone and Ted Underwood put it in their article on topic modeling *[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)*, "a 'topic' is neither more nor less than a pattern of co-occurring words"
 
@@ -72,9 +112,5 @@ Until now, we have stressed approaching text analysis with a clear sense of your
 
 
 
-
-So you've topic modeled! The results are…confusing. Let's take a look at them.
-
-
-
+http://programminghistorian.org/lessons/topic-modeling-and-mallet
 
