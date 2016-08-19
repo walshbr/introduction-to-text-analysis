@@ -106,3 +106,5 @@ Don't be alarmed if topic modeling probably seems much more abstract than the ma
 * Andrew Goldstone and Ted Underwood have a great case study of [topic modeling *PMLA*](https://andrewgoldstone.com/blog/2012/12/13/pmla/) that also includes lots of useful introductions to topic modeling.
 
 * The Programming Historian has a [good introduction](http://programminghistorian.org/lessons/topic-modeling-and-mallet) for executing topic modeling yourself using Mallet. Will get technical, but the early surveys of what TM is can be very helpful.
+
+* 
