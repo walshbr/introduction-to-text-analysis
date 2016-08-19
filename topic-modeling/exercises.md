@@ -11,5 +11,8 @@ Analyze your project according to the following questions.
 2. Describe their topic modeling methodology. Do they say anything special about how they are dividing up their texts?
 3. What kind of corpus are they working with?
 4. What kind of assumptions or research questions do they have for their texts?
+5. Look at the graphs/data for a few topics. What do *you* notice?
+6. What name might you give to a given topic? Give the list of words as well as the topic name.
+7. What kinds of 
 
  
