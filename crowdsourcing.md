@@ -4,4 +4,4 @@
 
 * [Prism Part Two](/crowdsourcing/prism-part-two.md)
 
-* [Exercises](/exercises/exercises.md)
+* [Exercises](/crowdsourcing/exercises.md)
