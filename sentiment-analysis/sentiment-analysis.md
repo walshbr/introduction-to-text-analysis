@@ -11,7 +11,17 @@ The idea makes enough sense as Vonnegut presents it: at certain times in a story
 
 If you have been following dutifuly along, you should know that computers can't do much of anything without being explicitly told how. They can do very little in the way of understanding data without a human to guide them. Trying to extract complicated information like the sentiment of a text, how we are meant to feel about a sentence, or how an author intended us to feel: these are extremely complicated questions that computers have a difficult time with.
 
-They are hard even for two different people to agree on. 
+They are hard even for two different people to agree on. Try to guess whether these two sentences would be classified as good or bad:
+
+"I am very happy."
+"She is so sad."
+
+Those were easy ones. How about these:
+"While not the happiest, I am not the saddest."
+"It was the best of times, it was the worst of times…"
+
+
+"This is an example sentence."
 
 But that doesn't mean that researchers don't try. The process is difficult and riddled with error, but also intellectually interesting in a number of ways.
 
