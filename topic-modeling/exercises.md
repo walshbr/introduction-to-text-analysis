@@ -13,6 +13,5 @@ Analyze your project according to the following questions.
 4. What kind of assumptions or research questions do they have for their texts?
 5. Look at the graphs/data for a few topics. What do *you* notice?
 6. What name might you give to a given topic? Give the list of words as well as the topic name.
-7. What kinds of 
-
+7. What kinds of  opportunities for future work do you see as a result of the project? What might you want to look at more.
  
