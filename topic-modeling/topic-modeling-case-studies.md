@@ -39,7 +39,10 @@ The program spits out a series of topics, each of which consists of a series of 
 
 19 2.5 reading read great book listening books reader listen love recordings enjoy forward wonderful listened proof job voice work enjoyed
 ```
-Topic modeling will also spit out, for each document in the corpus, a matrix showing what percentage each topic is likely to contribute to that text. So if we know the 
+
+So looking at these topics, we might see that a number of them deal with aspects of sound recording. The texts often tend to talk about the act of producing these recordings. Topics 15 and 17 are also notable, as they represent French and German language topics. In any large corpus that is primarily one language, texts written in other languages will tend to group together. If we assumed before that medical language would tend to occur next to each other, this makes sense. French vocabulary is far more likely to appear next to other French vocabulary, in a text that is entirely French.
+
+Information like this can be very useful, because topic modeling also spits out, for each document in the corpus, a matrix showing what percentage each topic is likely to contribute to that text. So if we know the 
 
 
 
