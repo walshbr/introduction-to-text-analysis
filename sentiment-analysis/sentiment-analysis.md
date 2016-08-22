@@ -29,21 +29,17 @@ How about these:
 
 "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
 
-The first sentence, by Dickens, is probably a bit hard to parse in such a polarized reading. If it is both good and bad, it probably comes out as neutral, right? We would probably need some system for determining what to do in such situations. The second sentence, by Jane Austen, complicates matters even further. An avid reader of Austen would know that her texts come loaded with satire. It is unlikely she actually means her words to be taken at face value. Virtually no truthes actually are *universally* acknowledged to be true, so the sentence winks at the reader that it is not mean to be taken in full seriousness. 
+"I could be happier."
 
+The first sentence, by Dickens, is probably a bit hard to parse in such a polarized reading. If it is both good and bad, it probably comes out as neutral, right? We would probably need some system for determining what to do in such situations. The second sentence, by Jane Austen, complicates matters even further. An avid reader of Austen would know that her texts come loaded with satire. It is unlikely she actually means her words to be taken at face value. Virtually no truthes actually are *universally* acknowledged to be true, so the sentence winks at the reader that it is not mean to be taken in full seriousness. The third suggests some happiness. Or does it? 
 
-But how would you deal with "I am not happy"? A human would recognize that
-
-But that doesn't mean that researchers don't try. The process is difficult and riddled with error, but also intellectually interesting in a number of ways.
+Sentiment analysis is tricky, but that doesn't mean that researchers don't try. The process is difficult and riddled with error, but also intellectually interesting in a number of ways.
 
 > How do we map complicated abstract ideas like emotion in a way that computers could understand them?
 
 > What can sentiment analysis like this tell us about the objects that we study?
 
 As with any form of text analysis, the potential uses range as widely as your imagination. One compelling recent [use of sentiment analysis](http://varianceexplained.org/r/trump-tweets/) by David Robinson sought to gauge the degree of control that Donald Trump's campaign had over his Twitter account. Given reporting that Trump tends to use a Samsung Galaxy to tweet, Robinson wanted to determine if tweets from different techonologies might have different characteristics. If so, one could reasonably separate out his personal persona on Twitter from the one curated by his campaign stuff.
-
-difficulty of having computers read
-Swafford and Jockers
 
 ## Further Resources
 
