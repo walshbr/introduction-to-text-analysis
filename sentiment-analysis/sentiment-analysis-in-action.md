@@ -20,9 +20,8 @@ Now the text is converted into a series of values that represent the sentiment o
 
 ![plot trajectory in portrait](/assets/sentiment-analysis/jockers-portrait.jpg)
 
-So measuring sentiment computationally in this way, at its core, relies on solid training data. The computer needs to learn how to map emotion-laden words and phrases onto some sort of numerical system. 
+So measuring sentiment computationally in this way, at its core, relies on solid training data. The computer needs to learn how to map emotion-laden words and phrases onto some sort of numerical system. The robustness of your training set can strengthen or complicate your results. Getting a good training set can be difficult, however, since assembling them takes a great deal of time and labor. It takes a long time to manually label single words with positive or negative valence.
 
+Another interesting use of sentiment analysis is [EmojiSentiment](http://www.emojisentiment.com/#About). The project approaches the problem from a different angle: rather than trying to analyze textual content for sentiment, the site postulates that emojis embedded in tweets might be a good predictor of their sentiment. Rather than try to tag thousands of words before running an analysis, there are only around 2000 emoji. And only a small subset would have actual emotional valences to them. Based on this, they can reasonably determine the sentiment for a given hashtag overall, rather than for any particular tweet. So EmojiSentiment reads #friday as being relatively positive:
 
-Might be better called sentiment analysis in action?
-
-http://www.emojisentiment.com/#About
+![friday sentiment](/assets/sentiment-analysis/emoji-sentiment-friday.jpg)
