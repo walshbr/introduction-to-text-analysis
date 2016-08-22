@@ -1,6 +1,5 @@
 # Summary
 
-* [Preface](README.md)
 * [Introduction](introduction.md)
     * [For Instructors](/introduction/for-instructors.md)
     * [For Students](/introduction/for-students.md)
