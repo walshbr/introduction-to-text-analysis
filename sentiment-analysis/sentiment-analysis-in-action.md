@@ -1,6 +1,6 @@
 # Sentiment Analysis in Action
 
-To illustrate how sentiment analysis works, let's walk through a couple different projects.
+To illustrate how sentiment analysis works, let's walk through a couple different projects. We will do a fair amount of handwaving at technical details, but hopefully you will get a sense of the kind of work that goes into sentiment analysis projects.
 
 # Jockers and Syuzhet
 
