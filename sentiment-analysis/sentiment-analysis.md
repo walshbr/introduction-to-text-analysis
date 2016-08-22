@@ -6,7 +6,8 @@ We have repeatedly stressed the interplay of computation and interpretation: whe
 
 But you have probably also noticed in the last few chapters that the kinds of readings we are using our computers for have become more sophisticated. When we use software to discover the latent thematic discourses in a text or to identify anonymous authors, we are not quite having them read in the same mode as a person would. But we are getting closer. These techniques aim to get a richer sense of a text, and they do so in quite sophisticated ways. We will close with a somewhat simpler problem, but one that is profoundly difficult for computers: is a particular text good or bad? For that matter, is a sentence? A word?
 
-This type of analysis that tries to capture the emotional resonance of a text is called **sentiment analysis**.
+This type of analysis that tries to capture the emotional resonance of a text is called **sentiment analysis**. You've probably engaged with this kind of work without realizing it. If you've ever been to Rotten Tomatoes[
+(https://www.rottentomatoes.com/)
 
 Sentiment analysis can also offer interesting opportunities for textual analysis. Check out this clip of a lecture by Kurt Vonnegut:
 
