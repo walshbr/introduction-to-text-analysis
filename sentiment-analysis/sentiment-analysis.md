@@ -6,11 +6,13 @@ We have repeatedly stressed the interplay of computation and interpretation: whe
 
 But you have probably also noticed in the last few chapters that the kinds of readings we are using our computers for have become more sophisticated. When we use software to discover the latent thematic discourses in a text or to identify anonymous authors, we are not quite having them read in the same mode as a person would. But we are getting closer. These techniques aim to get a richer sense of a text, and they do so in quite sophisticated ways. We will close with a somewhat simpler problem, but one that is profoundly difficult for computers: is a particular text good or bad? For that matter, is a sentence? A word?
 
+Check out this clip of Kurt Vonnegut talking:
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/oP3c1h8v2ZQ" frameborder="0" allowfullscreen></iframe>
 
 The idea makes enough sense as Vonnegut presents it: at certain times in a story, things are varying degrees of good or bad. The principle applies to more than just fiction: if you have ever been to 
 
-[Maya Eilam has represented Vonnegut's theory about shapes in a variety of infographics](http://www.mayaeilam.com/2012/01/01/the-shapes-of-stories-a-kurt-vonnegut-infographic/).
+
 
 If you have been following dutifuly along, you should know that computers can't do much of anything without being explicitly told how. They can do very little in the way of understanding data without a human to guide them. Trying to extract complicated information like the sentiment of a text, how we are meant to feel about a sentence, or how an author intended us to feel: these are extremely complicated questions that computers have a difficult time with.
 
@@ -50,3 +52,5 @@ Swafford and Jockers
 ## Further Resources
 
 * [The Universal Shapes of Stores, According to Kurt Vonnegut](http://io9.gizmodo.com/the-universal-shapes-of-stories-according-to-kurt-vonn-1526559996)
+
+* [Maya Eilam has represented Vonnegut's theory about shapes in a variety of infographics](http://www.mayaeilam.com/2012/01/01/the-shapes-of-stories-a-kurt-vonnegut-infographic/).
