@@ -45,8 +45,6 @@ From a literary perspective, Matt Jockers has been working on using [sentiment a
 
 Jockers's bold claim has since come under serious critique by Joanna Swafford, who argues that the shapes are the results of fundamental configurations in Jockers's software (also a recurrent theme throughout this book!). But the very idea of measure sentiment computationally is provocative. Computers might not be able to feel, but perhaps we can train them to know what emotions look like.
 
-> In the next section, we will talk in a bit more technical detail of how Jockers' Swafford took place.
-
 ## Further Resources
 
 * [The Universal Shapes of Stores, According to Kurt Vonnegut](http://io9.gizmodo.com/the-universal-shapes-of-stories-according-to-kurt-vonn-1526559996)
