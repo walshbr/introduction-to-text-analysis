@@ -9,9 +9,13 @@ So, first, Jockers needed training data. In order to for his software to read se
 1. "I am happy!", positive
 2. "I am sad!", negative
 
-Marking a given text for sentiment, then, imagine that the computer encounters sentence 1 again. The computer could look in its bank of knowledge and remember that it knows how it should be marked: positive. But this classifier would not work very well: it only knows the sentiment for two specific sentences. When it encounters new sentences that we haven't pre-marked, it would not know what to do! In practice, we want to train it on as much as data as possible to maximize its ability to handle new information. And we probably won't train it on full sentences. After all, computers distinguish between sentences and individual words in quite profound ways. Depending on how thorough we want to be, we might give the computer vocabulary and phrases marked for sentiment instead. And rather then a binary positive/negative, we might mark for a continuum. After all, good is less positive than exuberant. 
+Marking a given text for sentiment, then, imagine that the computer encounters sentence 1 again. The computer could look in its bank of knowledge and remember that it knows how it should be marked: positive. But this classifier would not work very well: it only knows the sentiment for two specific sentences. When it encounters new sentences that we haven't pre-marked, it would not know what to do! In practice, we want to train it on as much as data as possible to maximize its ability to handle new information. And we probably won't train it on full sentences. After all, computers distinguish between sentences and individual words in quite profound ways. Depending on how thorough we want to be, we might give the computer vocabulary and phrases marked for sentiment instead. And rather then a binary positive/negative, we might mark for a continuum. After all, 'good' is less positive than 'exuberant'. 
 
-You can find information on the training sets used by Jockers [here](https://github.com/mjockers/syuzhet#references)
+You can find information on the training sets used by Jockers [here](https://github.com/mjockers/syuzhet#references). He uses a training lexicon of his own but gives the option to categorize sentiment using other training sets. The software reads in a text, looks at its memory of the training corpus to determine how positive or negative a sentence or word is, then converts the text into a series of values like this:
+
+```
+## [1] 2.50 0.60 0.00 -0.25 0.00 0.00
+```
 
 > Do you remember the difference?
 
