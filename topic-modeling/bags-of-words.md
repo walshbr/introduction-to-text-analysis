@@ -14,6 +14,8 @@ Highlight Color: Topic
 red: evidence
 green: medicine
 blue: murder
+black: words where two or more topics were marked the same amount.
+grey: no topic marked
 ```
 
 ![topic modeling highlights](/assets/topic-modeling/topic-modeling-highlights.jpg)
