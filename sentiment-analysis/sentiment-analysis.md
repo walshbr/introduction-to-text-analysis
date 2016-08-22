@@ -16,7 +16,7 @@ The idea makes enough sense as Vonnegut presents it: at certain times in a story
 
 > What kind of emotions does the author employ in the text? When?
 
-> How do emotions map onto other categories, like narrative structure?
+> How do emotions map onto other aesthetic categories, like narrative structure?
 
 If you have been following dutifuly along, however, you should know that computers can't do much of anything without being explicitly told how. They can do very little in the way of understanding data without a human to guide them. Trying to extract complicated information like the sentiment of a text, how we are meant to feel about a sentence, or how an author intended us to feel: these are extremely complicated questions that computers have a difficult time with.
 
