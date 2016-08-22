@@ -8,5 +8,5 @@ Try to answer the following questions about this project.
 2. What kind of assumptions or research questions does he have for these texts?
 3. What general conclusions does he draw from topic modelling? 
 4. What conclusions could not be reached through close reading of these texts? In other words, what is the unique contribution of topic modelling to our understanding of the Civil War?
-5. Look at the graphs\/data for the other topics in the _Richmond Dispatch_. You can find the full list \[here\]\(https:\/\/dsl.richmond.edu\/dispatch\/Topics\). What do _you_ notice?
+5. Look at the graphs\/data for the other topics in the Richmond Dispatch. You can find the full list \[here\] \(https:\/\/dsl.richmond.edu\/dispatch\/Topics\). What do _you_ notice?
 
