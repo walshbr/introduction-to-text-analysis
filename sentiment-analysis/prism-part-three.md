@@ -20,7 +20,7 @@ Now the text is converted into a series of values that represent the sentiment o
 
 ![plot trajectory in portrait](/assets/sentiment-analysis/jockers-portrait.jpg)
 
-So measuring sentiment computationally in this way, at its core, relies on solid training data. The computer needs to learn how to map emotion-laden words and phrases onto some sort of numerical system. The robustness of your training set can strengthen or complicate your results. Getting a good training set can be difficult, however, since assembling them takes a great deal of time and labor. 
+So measuring sentiment computationally in this way, at its core, relies on solid training data. The computer needs to learn how to map emotion-laden words and phrases onto some sort of numerical system. The robustness of your training set can strengthen or complicate your results. Getting a good training set can be difficult, however, since assembling them takes a great deal of time and labor. It takes a long time to manually label single words with positive or negative valence.
 
 
 http://www.emojisentiment.com/#About
