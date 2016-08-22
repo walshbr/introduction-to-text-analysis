@@ -2,7 +2,8 @@
 
 * [Preface](README.md)
 * [Introduction](introduction.md)
-    * [Digital Humanities](digital-humanities.md)
+    * [For Instructors](/introduction/for-instructors.md)
+    * [For Students](/introduction/for-students.md)
 * [Issues in Digital Text Analysis](issues-in-digital-text-analysis.md)
     * [Why Read with a Computer?](issues/why-read-with-a-computer.md)
     * [Google NGram Viewer](issues/google-ngram.md)
