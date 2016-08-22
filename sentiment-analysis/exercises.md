@@ -12,6 +12,6 @@
 
 * Now try marking the same text on [our class Prism](http://prism.scholarslab.org/prisms/84f15902-686a-11e6-905c-005056b3784e/highlight?locale=en).
 
-* 
+* Do you notice any differences/similarities to how the computer marked things? Which was more accurate?
 
 * What does all this say about what humans are better at? Computers?
