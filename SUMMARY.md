@@ -42,7 +42,7 @@
     * [Exercises](classifiers/exercises.md)
 * [Sentiment Analysis](sentiment-analysis.md)
     * [Sentiment Analysis](sentiment-analysis/sentiment-analysis.md)
-    * [Prism for Sentiment Analysis](sentiment-analysis/prism-part-three.md)
+    * [Sentiment Analysis in Action](sentiment-analysis/sentiment-analysis-in-action.md)
     * [Exercises](sentiment-analysis/exercises.md)
 * [Conclusion](conclusion.md)
     * [Where to Go Next](conclusion/where-to-go.md)
