@@ -2,7 +2,7 @@
 
 To illustrate how sentiment analysis works, let's walk through a couple different projects. We will do a fair amount of handwaving at technical details, but hopefully you will get a sense of the kind of work that goes into sentiment analysis projects.
 
-# Jockers and Syuzhet
+## Jockers and Syuzhet
 
 Matt Jockers uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. To find a more technical explanation you can look at Jockers's "[Introduction to the Syuzhet Package](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html)".
 
