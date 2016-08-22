@@ -1,6 +1,10 @@
 # Introduction to Text Analysis
 
-This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis (or examples of text analysis based on that concept), and then provides a series of disciplinary exercises to practice the new skills. The book was designed with three key goals in mind.
+This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis (or examples of text analysis based on that concept), and then provides a series of disciplinary exercises to practice the new skills. 
+
+# A Note for Other Instructors
+
+The book was designed with three key goals in mind.
 
 First, we wanted to provide materials for a text analysis course that do not require extensive training in programming. Courses in text analysis with R or Python are valubale and have their place, but we wanted to explore the possibility of carrying out the same ends using a tools-based approach to allow for the exploration of more disciplinary material than such a course might otherwise permit. Accordingly, here we introduce concepts and methods gradually and in the course of the term, and, while some of these tools are more difficult to use than others, the book requires minimal prior experience with programming to work through these materials. If anything, we imagine this book to provide a taste of what can be gained from further study that *does* use programming.
 
