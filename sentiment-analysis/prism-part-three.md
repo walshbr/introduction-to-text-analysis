@@ -1,6 +1,6 @@
 # Prism for Sentiment Analysis
 
-To illustrate how sentiment analysis works, let's walk through how Jockers carried out his project. He uses a sophisticated software package that he constructed in the [R programming language](/conclusion
+To illustrate how sentiment analysis works, let's walk through how Jockers carried out his project. He uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md
 He did this by combining supervised classifiers and unsupervised classifiers.
 
 > Do you remember the difference?
