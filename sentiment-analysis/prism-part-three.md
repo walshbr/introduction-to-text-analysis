@@ -2,7 +2,14 @@
 
 To illustrate how sentiment analysis works, let's walk through how Jockers carried out his project. He uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. 
 
-Jockers's project combines supervised classifiers and unsupervised classifiers. Remember: supervised classifiers rely on training data to tell them how to interpret and classify data. Unsupervised classifiers are not based on any prior training data. Instead, they rely on underlying assumptions and algorithms to categorize texts (in the case of topic modeling, this means that the unsupervised classifiers make assumptions about the relation between texts and statstics. 
+Jockers's project combines supervised classifiers and unsupervised classifiers. Remember: supervised classifiers rely on training data to tell them how to interpret and classify data. Unsupervised classifiers are not based on any prior training data. Instead, they rely on underlying assumptions and algorithms to categorize texts (in the case of topic modeling, this means that the unsupervised classifiers make assumptions about the relation between texts and statstics.
+
+So, first, Jockers needed training data. In order to for his software to read sentiment in sentences, it needed example sentences that had already been marked for emotions. By providing the software with example sentences, the software will be able to categorize related sentences in the future. So imagine that we train our computer with these sentences:
+
+1. "I am happy!", positive
+2. "I am sad!", negative
+
+Marking a given text for sentiment, then, imagine that the computer encounters sentence 1 again. The computer could look in its bank of knowledge and remember that it knows how it should be marked: positive. But this classifier would not work very well: it only knows the sentiment for two specific sentences. When it encounters new sentences that we haven't pre-marked, it would not know what to do! In practice, we want to train it on as much as data as possible to maximize its ability to handle new information. And we probably won't train it on full sentences. After all, computers distinguish between sentences and individual words in quite profound ways. Depending on how thorough we want to be, we might give the computer a body of vocabulary marked for sentiment, a body of words 
 
 > Do you remember the difference?
 
