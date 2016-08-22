@@ -53,4 +53,4 @@ Swafford and Jockers
 
 * [The Universal Shapes of Stores, According to Kurt Vonnegut](http://io9.gizmodo.com/the-universal-shapes-of-stories-according-to-kurt-vonn-1526559996)
 
-* [Maya Eilam has represented Vonnegut's theory about shapes in a variety of infographics](http://www.mayaeilam.com/2012/01/01/the-shapes-of-stories-a-kurt-vonnegut-infographic/).
+* Maya Eilam has represented Vonnegut's theory about shapes in [a variety of infographics](http://www.mayaeilam.com/2012/01/01/the-shapes-of-stories-a-kurt-vonnegut-infographic/).
