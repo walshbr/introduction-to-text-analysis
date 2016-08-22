@@ -1,5 +1,16 @@
-https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
+# Prism for Sentiment Analysis
 
-http://varianceexplained.org/r/trump-tweets/
 
-http://nlp.stanford.edu:8080/sentiment/rntnDemo.html
+He did this by combining supervised classifiers and unsupervised classifiers.
+
+> Do you remember the difference?
+
+First, Jockers trained his
+
+
+
+Read the instructions
+
+Might be better called sentiment analysis in action?
+
+http://www.emojisentiment.com/#About
