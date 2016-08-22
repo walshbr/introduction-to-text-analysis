@@ -14,11 +14,13 @@ Highlight Color: Topic
 red: evidence
 green: medicine
 blue: murder
+black: words where two or more topics were marked the same amount.
+grey: no topic marked
 ```
 
 ![topic modeling highlights](/assets/topic-modeling/topic-modeling-highlights.jpg)
 
-In this example, each of these colors represents a different kind of topic that the text is dealing wit: a language associated with proving things, one connected to medicine and one about crime. But you could also think that other newspaper articles about Jack the Ripper might feature a different set of topics. Probably most deal with crime, but you might have read texts that focus on the victims or on the police investigation into the murders. Alternately, certain words might be really good indicators that a particular topic was being discussed, whereas others are more loosely related to the topic. For instance, although the word 'practice' might appear in such a conversation, a word like 'anatomy' is more closely indicative of the topic of medicine. So each text is made up of some mix of topics like these, and you could distinguish between texts by finding out what topics they discuss and to what degree they discuss them. Wouldn't it be interesting if we could somehow see the whole web of topics that occur in a text? And to think about how different topics appear in different texts?
+In this example, each of these colors represents a different kind of topic that the text is dealing with: a language associated with proving things, one connected to medicine and one about crime. But you could also think that other newspaper articles about Jack the Ripper might feature a different set of topics. Probably most deal with crime, but you might have read texts that focus on the victims or on the police investigation into the murders. Alternately, certain words might be really good indicators that a particular topic was being discussed, whereas others are more loosely related to the topic. For instance, although the word 'practice' might appear in such a conversation, a word like 'anatomy' is more closely indicative of the topic of medicine. So each text is made up of some mix of topics like these, and you could distinguish between texts by finding out what topics they discuss and to what degree they discuss them. Wouldn't it be interesting if we could somehow see the whole web of topics that occur in a text? And to think about how different topics appear in different texts?
 
 One problem with using \_Prism \_to do this work is that it depends on someone setting up these categories beforehand, and thus in essence knowing \(or guessing\) something about the text before we started the process of text analysis. But maybe there are some "hidden" topics in the text that we don't even know to look for. So what if we could use computers not just to distinguish between texts based the topics they discuss, but also to find the very topics themselves?
 

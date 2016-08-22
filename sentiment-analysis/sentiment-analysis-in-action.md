@@ -1,4 +1,4 @@
-# Prism for Sentiment Analysis
+# Sentiment Analysis in Action
 
 To illustrate how sentiment analysis works, let's walk through how Jockers carried out his project. He uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. To find a more technical explanation you can look at Jockers's "[Introduction to the Syuzhet Package](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html)".
 
@@ -20,12 +20,8 @@ Now the text is converted into a series of values that represent the sentiment o
 
 ![plot trajectory in portrait](/assets/sentiment-analysis/jockers-portrait.jpg)
 
+So measuring sentiment computationally in this way, at its core, relies on solid training data. The computer needs to learn how to map emotion-laden words and phrases onto some sort of numerical system. 
 
-First, Jockers trained his
-
-
-
-Read the instructions
 
 Might be better called sentiment analysis in action?
 
