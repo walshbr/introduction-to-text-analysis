@@ -9,7 +9,9 @@ So, first, Jockers needed training data. In order to for his software to read se
 1. "I am happy!", positive
 2. "I am sad!", negative
 
-Marking a given text for sentiment, then, imagine that the computer encounters sentence 1 again. The computer could look in its bank of knowledge and remember that it knows how it should be marked: positive. But this classifier would not work very well: it only knows the sentiment for two specific sentences. When it encounters new sentences that we haven't pre-marked, it would not know what to do! In practice, we want to train it on as much as data as possible to maximize its ability to handle new information. And we probably won't train it on full sentences. After all, computers distinguish between sentences and individual words in quite profound ways. Depending on how thorough we want to be, we might give the computer a body of vocabulary marked for sentiment, a body of words 
+Marking a given text for sentiment, then, imagine that the computer encounters sentence 1 again. The computer could look in its bank of knowledge and remember that it knows how it should be marked: positive. But this classifier would not work very well: it only knows the sentiment for two specific sentences. When it encounters new sentences that we haven't pre-marked, it would not know what to do! In practice, we want to train it on as much as data as possible to maximize its ability to handle new information. And we probably won't train it on full sentences. After all, computers distinguish between sentences and individual words in quite profound ways. Depending on how thorough we want to be, we might give the computer vocabulary and phrases marked for sentiment instead. And rather then a binary positive/negative, we might mark for a continuum. After all, good is less positive than exuberant. 
+
+You can find information on the training sets used by Jockers [here](https://github.com/mjockers/syuzhet#references)
 
 > Do you remember the difference?
 
