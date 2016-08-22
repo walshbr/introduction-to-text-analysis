@@ -43,7 +43,9 @@ As with any form of text analysis, the potential uses range as widely as your im
 
 From a literary perspective, Matt Jockers has been working on using [sentiment analysis to discover plot trajectories in fiction](http://www.matthewjockers.net/2015/02/02/syuzhet/)in just the same terms as the Vonnegut video above. By taking thousands of texts and classifying their sentences for sentiment, he has developed a software procedure for tracing plot trajectories and [observed](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/) that there were only six or seven different plot shapes based on this type of analysis. 
 
-Jockers's bold claim has since come under serious critique by Joanna Swafford, who argues that the shapes are the results of fundamental configurations in Jockers's software (also a recurrent theme throughout this book!). But the very idea of measure sentiment computationally is provocative. Computers might not be able to feel, but perhaps we can train them to know what emotions look like.
+Jockers's bold claim has since come under serious critique by Joanna Swafford, who argues that the shapes are the results of fundamental configurations in Jockers's software (also a recurrent theme throughout this book!). But the very idea of measure sentiment computationally is provocative. 
+
+Computers might not be able to feel, but perhaps we can train them to know what emotions look like.
 
 ## Further Resources
 
