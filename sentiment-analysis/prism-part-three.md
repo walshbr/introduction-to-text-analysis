@@ -3,7 +3,7 @@
 To illustrate how sentiment analysis works, let's walk through how Jockers carried out his project. He uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. 
 
 
-Jockers's project combines supervised classifiers and unsupervised classifiers.
+Jockers's project combines supervised classifiers and unsupervised classifiers. If you don't remember the difference, 
 
 > Do you remember the difference?
 
