@@ -22,4 +22,4 @@ Now the text is converted into a series of values that represent the sentiment o
 
 So measuring sentiment computationally in this way, at its core, relies on solid training data. The computer needs to learn how to map emotion-laden words and phrases onto some sort of numerical system. The robustness of your training set can strengthen or complicate your results. Getting a good training set can be difficult, however, since assembling them takes a great deal of time and labor. It takes a long time to manually label single words with positive or negative valence.
 
-Another interesting use of sentiment analysis is [emojisentiment.com](http://www.emojisentiment.com/#About)
+Another interesting use of sentiment analysis is [emojisentiment.com](http://www.emojisentiment.com/#About). The project approaches the problem from a different angle: rather than trying to analyze textual content for sentiment, the site postulates that emojis embedded in tweets might be a good predictor of their sentiment. This 
