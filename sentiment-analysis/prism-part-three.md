@@ -22,7 +22,7 @@ Now the text is converted into a series of values that represent the sentiment o
 
 So measuring sentiment computationally in this way, at its core, relies on solid training data. The computer needs to learn how to map emotion-laden words and phrases onto some sort of numerical system. 
 
+Getting a good training set can be difficult, however, since 
 
-Might be better called sentiment analysis in action?
 
 http://www.emojisentiment.com/#About
