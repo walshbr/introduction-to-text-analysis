@@ -20,9 +20,7 @@ Now the text is converted into a series of values that represent the sentiment o
 
 ![plot trajectory in portrait](/assets/sentiment-analysis/jockers-portrait.jpg)
 
-
-First, Jockers trained his
-
+So measuring sentiment computationally in this way, at its core, relies on solid training data. The computer needs to learn how to map emotion-laden words and phrases onto 
 
 
 Read the instructions
