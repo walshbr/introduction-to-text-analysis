@@ -1,10 +1,5 @@
 # Exercises
-
-Pick one of these topic modeling projects.
-
-* [Topic-Modeling PMLA](https://agoldst.github.io/dfr-browser/demo/), more information [here](https://andrewgoldstone.com/blog/2012/12/13/pmla/)
-
-* [Mining the Dispatch](http://dsl.richmond.edu/dispatch/pages/intro)
+Explore the [Mining the Dispatch](http://dsl.richmond.edu/dispatch/pages/intro) project.
 
 
 Analyze your project according to the following questions.
