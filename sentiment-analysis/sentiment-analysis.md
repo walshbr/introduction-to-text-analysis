@@ -6,7 +6,9 @@ We have repeatedly stressed the interplay of computation and interpretation: whe
 
 But you have probably also noticed in the last few chapters that the kinds of readings we are using our computers for have become more sophisticated. When we use software to discover the latent thematic discourses in a text or to identify anonymous authors, we are not quite having them read in the same mode as a person would. But we are getting closer. These techniques aim to get a richer sense of a text, and they do so in quite sophisticated ways. We will close with a somewhat simpler problem, but one that is profoundly difficult for computers: is a particular text good or bad? For that matter, is a sentence? A word?
 
-Check out this clip of Kurt Vonnegut talking:
+This type of analysis that tries to capture the emotional resonance of a text is called **sentiment analysis**
+
+Sentiment analysis can also offer interesting opportunities for textual analysis. Check out this clip of a lecture by Kurt Vonnegut:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/oP3c1h8v2ZQ" frameborder="0" allowfullscreen></iframe>
 
@@ -42,10 +44,6 @@ But that doesn't mean that researchers don't try. The process is difficult and r
 
 As with any form of text analysis, the potential uses range as widely as your imagination. One compelling recent [use of sentiment analysis](http://varianceexplained.org/r/trump-tweets/) by David Robinson sought to gauge the degree of control that Donald Trump's campaign had over his Twitter account. Given reporting that Trump tends to use a Samsung Galaxy to tweet, Robinson wanted to determine if tweets from different techonologies might have different characteristics. If so, one could reasonably separate out his personal persona on Twitter from the one curated by his campaign stuff.
 
-
-
-
-Rotten Tomatoes
 difficulty of having computers read
 Swafford and Jockers
 
