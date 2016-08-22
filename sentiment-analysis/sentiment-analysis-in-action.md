@@ -1,6 +1,10 @@
 # Sentiment Analysis in Action
 
-To illustrate how sentiment analysis works, let's walk through how Jockers carried out his project. He uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. To find a more technical explanation you can look at Jockers's "[Introduction to the Syuzhet Package](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html)".
+To illustrate how sentiment analysis works, let's walk through a couple different projects. We will do a fair amount of handwaving at technical details, but hopefully you will get a sense of the kind of work that goes into sentiment analysis projects.
+
+## Jockers and Syuzhet
+
+Matt Jockers uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. To find a more technical explanation you can look at Jockers's "[Introduction to the Syuzhet Package](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html)".
 
 Jockers's project combines supervised classifiers and unsupervised classifiers. Remember: supervised classifiers rely on training data to tell them how to interpret and classify data. Unsupervised classifiers are not based on any prior training data. Instead, they rely on underlying assumptions and algorithms to categorize texts (in the case of topic modeling, this means that the unsupervised classifiers make assumptions about the relation between texts and statstics.
 
@@ -22,6 +26,18 @@ Now the text is converted into a series of values that represent the sentiment o
 
 So measuring sentiment computationally in this way, at its core, relies on solid training data. The computer needs to learn how to map emotion-laden words and phrases onto some sort of numerical system. The robustness of your training set can strengthen or complicate your results. Getting a good training set can be difficult, however, since assembling them takes a great deal of time and labor. It takes a long time to manually label single words with positive or negative valence.
 
+## EmojiSentiment
+
 Another interesting use of sentiment analysis is [EmojiSentiment](http://www.emojisentiment.com/#About). The project approaches the problem from a different angle: rather than trying to analyze textual content for sentiment, the site postulates that emojis embedded in tweets might be a good predictor of their sentiment. Rather than try to tag thousands of words before running an analysis, there are only around 2000 emoji. And only a small subset would have actual emotional valences to them. Based on this, they can reasonably determine the sentiment for a given hashtag overall, rather than for any particular tweet. So EmojiSentiment reads #friday as being relatively positive:
 
 ![friday sentiment](/assets/sentiment-analysis/emoji-sentiment-friday.jpg)
+
+The three most dominant emoji are fire, police sirens, and flowers, which might seem a bit unusual. Note that we're only getting 32 emoji in the last 1000 tweets - these might just be artifacts of whatever happens to be going right now, and the project can't handle more volume than that (it's a student projec. Yay students!). If #friday got a relatively happy average sentiment, #angry is much more negative:
+
+![angry sentiment](/assets/sentiment-analysis/emoji-sentiment-angry.jpg)
+
+Note how even #angry just barely dips below 50 to be predominantly negative. I actually had to search around for a while to find a hashtag that read as predominantly negative. Could this be a function of language - are people just happier than they are sad? Certainly not. More likely that I just didn't know what hashtag to look for or, even more likely, that sentiment analysis by way of computation is imprecise at best.
+
+> What might you imagine using sentiment analysis for?
+
+> What kinds of texts lend themselves especially well to reading for emotion?
