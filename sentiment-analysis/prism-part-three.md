@@ -16,8 +16,8 @@ You can find information on the training sets used by Jockers [here](https://git
 ```
 2.50 0.60 0.00 -0.25 0.00 0.00
 ```
+Now the text is converted into a series of values that represent the sentiment of the text. From there, he can then plot
 
-> Do you remember the difference?
 
 First, Jockers trained his
 
