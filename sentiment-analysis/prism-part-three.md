@@ -6,5 +6,7 @@
 
 * Correct the model to have a more accurate reading.
 
-* Why do you think the Stanford tool has problems with these sentences? (Hint: you will need to read about the project [here]((http://nlp.stanford.edu/sentiment/index.html)
+* Why do you think the Stanford tool has problems with these sentences? (You will need to read about the project [here]((http://nlp.stanford.edu/sentiment/index.html). Hint: what did you learn about supervised classifiers?)
+
+
 Read the instructions
