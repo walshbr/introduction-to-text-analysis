@@ -29,3 +29,5 @@ Another interesting use of sentiment analysis is [EmojiSentiment](http://www.emo
 The three most dominant emoji are fire, police sirens, and flowers, which might seem a bit unusual. Note that we're only getting 32 emoji in the last 1000 tweets - these might just be artifacts of whatever happens to be going right now, and the project can't handle more volume than that (it's a student projec. Yay students!). If #friday got a relatively happy average sentiment, #angry is much more negative:
 
 ![angry sentiment](/assets/sentiment-analysis/emoji-sentiment-angry.jpg)
+
+Note how even #angry just barely dips below 50 to be predominantly negative. I actually had to search around for a while to find a hashtag that read as predominantly negative. Could this be a function of language - are people just happier than they are sad? Certainly not. More likely that I just didn't know what hashtag to look for or, even more likely, that sentiment analysis by way of computation is imprecise at best.
