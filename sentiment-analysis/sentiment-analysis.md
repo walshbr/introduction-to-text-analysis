@@ -4,9 +4,7 @@ We began this book by talking about interpretation on a micro level: close readi
 
 We have repeatedly stressed the interplay of computation and interpretation: when the computer spits some results at you, your work has only begun. The computer can supply evidence, but you must use that data yourself. The computer does not really read. You do. And the kind of reading we are suggesting here is one that reads with the computer.
 
-But you have probably also noticed in the last few chapters that the kinds of readings we are using our computers for have become more sophisticated. When we use software to discover the latent thematic discourses in a text or to identify anonymous authors, we are not quite having them read in the same mode as a person would. But we are getting closer. These techniques aim to get a richer computational sense of a text 
-
-When we look at a text purely based on word counts, as a bag of words with no sense of sequence, we lose a sense of its context. We gain the ability to make generalizations about the text
+But you have probably also noticed in the last few chapters that the kinds of readings we are using our computers for have become more sophisticated. When we use software to discover the latent thematic discourses in a text or to identify anonymous authors, we are not quite having them read in the same mode as a person would. But we are getting closer. These techniques aim to get a richer sense of a text, and they do so in quite sophisticated ways. We will close with a somewhat simpler problem, but one that is profoundly difficult for computers: is a particular text good or bad? For that matter, is a sentence? A word?
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/oP3c1h8v2ZQ" frameborder="0" allowfullscreen></iframe>
 
