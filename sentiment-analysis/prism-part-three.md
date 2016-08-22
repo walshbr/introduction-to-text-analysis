@@ -1,6 +1,8 @@
 # Prism for Sentiment Analysis
 
-To illustrate how sentiment analysis works, let's walk through how Jockers carried out his project. He uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. To find a more technical explanation you can look at Jockers's "Introduction to the Syuzhet Package"
+To illustrate how sentiment analysis works, let's walk through how Jockers carried out his project. He uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. To find a more technical explanation you can look at Jockers's "Introduction to the Syuzhet Package" 
+
+[](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html)
 
 Jockers's project combines supervised classifiers and unsupervised classifiers. Remember: supervised classifiers rely on training data to tell them how to interpret and classify data. Unsupervised classifiers are not based on any prior training data. Instead, they rely on underlying assumptions and algorithms to categorize texts (in the case of topic modeling, this means that the unsupervised classifiers make assumptions about the relation between texts and statstics.
 
