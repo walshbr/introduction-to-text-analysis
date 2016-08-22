@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-We began this book by talking about interpretation on a micro level: close reading asks you to pay attention to every small detail in a text to produce analysis. We have sense zoomed out to think about what we could gain from macro reading, where comptuers enable us to understand texts in new ways from the statistical significane 
+We began this book by talking about interpretation on a micro level: close reading asks you to pay attention to every small detail in a text to produce analysis. We have sense zoomed out to think about what we could gain from macro reading, where computers enable us to understand texts in new ways from word frequencies,  
 
 When we look at a text purely based on word counts, as a bag of words with no sense of sequence, we lose a sense of its context. We gain the ability to make generalizations about the text
 
