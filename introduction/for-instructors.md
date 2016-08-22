@@ -1,8 +1,6 @@
-# Introduction to Text Analysis
+# Introduction to Text Analysis for Instructors
 
 This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis (or examples of text analysis based on that concept), and then provides a series of disciplinary exercises to practice the new skills. 
-
-# A Note for Other Instructors
 
 The book was designed with three key goals in mind.
 
