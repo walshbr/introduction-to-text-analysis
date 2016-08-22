@@ -1,4 +1,4 @@
-# Digital Humanities
+# For Students
 
 In this class, we'll talk a lot -- and you'll read a lot -- about the **digital humanities**. Essentially, this refers to the ways in which we are using computers and new technology in the humanities. The term means lots of different things to different groups of people, at once everything and nothing. I tend to find Laura Mandell's definition in an [interview with the LA Review of Books](https://lareviewofbooks.org/article/digital-humanities-interview-laura-mandell/) to be useful:
 
