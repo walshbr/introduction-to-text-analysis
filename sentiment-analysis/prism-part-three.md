@@ -16,7 +16,9 @@ You can find information on the training sets used by Jockers [here](https://git
 ```
 2.50 0.60 0.00 -0.25 0.00 0.00
 ```
-Now the text is converted into a series of values that represent the sentiment of the text. From there, he can then plot
+Now the text is converted into a series of values that represent the sentiment of the text. As the numbers of the text becomes negative or positive, we also get a sense of the trends in how the classifier reads the sentiment in it. From there, it is just a matter of plotting numbers to get a better representation of the sentiment trends over time, to get something like this, taken from Jockers's explanation of the software:
+
+![](/assets/sentiment-analysis/jockers-portrait.jpg)
 
 
 First, Jockers trained his
