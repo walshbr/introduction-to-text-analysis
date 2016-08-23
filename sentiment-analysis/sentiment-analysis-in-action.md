@@ -29,7 +29,7 @@ Measuring sentiment computationally in this way, at its core, relies on solid tr
 
 ## EmojiSentiment
 
-Another interesting use of sentiment analysis is [EmojiSentiment](http://www.emojisentiment.com/#About). The project approaches the problem from a different angle: rather than trying to analyze textual content for sentiment, the site postulates that emojis embedded in tweets might be a good predictor of their sentiment. Rather than try to tag thousands of words before running an analysis, there are only around 2000 emoji. And only a small subset would have actual emotional valences to them. Based on this, they can reasonably determine the sentiment for a given hashtag overall, rather than for any particular tweet. So EmojiSentiment reads \#friday as being relatively positive:
+Another interesting use of sentiment analysis is [EmojiSentiment](http://www.emojisentiment.com/#About). The project approaches the problem from a different angle: rather than trying to analyze textual content for sentiment, the site postulates that emojis embedded in tweets might be a good predictor of their sentiment. There are only around 2000 emoji. And only a small subset would have actual emotional valences to them. Based on this, they can reasonably determine the sentiment for a given hashtag overall, rather than for any particular tweet. So EmojiSentiment reads \#friday as being relatively positive:
 
 ![friday sentiment](/assets/sentiment-analysis/emoji-sentiment-friday.jpg)
 
