@@ -6,6 +6,8 @@ Stop right there! We've got one ready to go for you:
 
 ![non-diegetic owl photo](/assets/classifiers/owl.jpg)
 
+Now that you're book and not going anywhere, your point is a good one. We wanted to stay relatively simple so that you could get a handle on the basics of supervised classification.
+
 The [NLTK book](http://www.nltk.org/book/ch06.html)
  lists some common text classification tasks:
 
