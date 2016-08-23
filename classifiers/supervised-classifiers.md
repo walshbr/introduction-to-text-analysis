@@ -8,4 +8,4 @@ Let's try another example. Imagine you have a bag with apples, oranges, and bana
 
 Now imagine, instead, that I give you a slightly different exercise. I give you a bag filled with dragon fruit, star fruit, and durian. Imagine that you don't know anything about these fruit. I say, "find me all the durian." If you don't know anything about durian, you won't be able to do so. So first I bring in ten examples of durian for you to study. I say, "Look at them. Study them. Pay attention to these characteristics: they have spikes, they are big, and they are yellow-ish." Now, you pull a fruit. No spikes. So you start a pile called not durian. The next one has spikes. Durian! You keep going until you have two piles, ones that you think are durian and ones that are not. 
 
-This kind of classification is called **supervised classification** You might not have been perfectly correct: 
+This kind of classification is called **supervised classification**. You had to be taught what the fruit look You might not have been perfectly correct: 
