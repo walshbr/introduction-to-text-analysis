@@ -40,3 +40,4 @@ This might all seem a bit removed from the kinds of work that we have been doing
 
 ## Further Resources
 * The NLTK book has [a good section](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) on naive Bayes classifiers. The book is a Python tutorial, though, so it will quickly get technical.
+* 
