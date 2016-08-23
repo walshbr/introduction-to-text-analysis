@@ -1,5 +1,9 @@
 # Classifying Texts
 
+"Supervised classification is all well and good, but how does this relate to text analysis? I'm going to go back to googling for cat images."
+
+Stop right there! We've got one ready to go for you:
+
 The [NLTK book](http://www.nltk.org/book/ch06.html)
  lists some common text classification tasks:
 
