@@ -4,6 +4,8 @@
 
 Stop right there! We've got one ready to go for you:
 
+![non-diegetic owl photo](/assets/classifiers/owl.jpg)
+
 The [NLTK book](http://www.nltk.org/book/ch06.html)
  lists some common text classification tasks:
 
