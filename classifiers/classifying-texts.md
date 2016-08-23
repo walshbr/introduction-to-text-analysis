@@ -13,7 +13,10 @@ Now that you're book and not going anywhere, your point is a good one. We wanted
 * Deciding what the topic of a news article is, from a fixed list of topic areas such as "sports," "technology," and "politics."
 * Deciding whether a given occurrence of the word bank is used to refer to a river bank, a financial institution, the act of tilting to the side, or the act of depositing something in a financial institution.
 
-Remember, a supervised classifier relies on labeled data for a training set. You have to give it lots of example data.
+Remember, a supervised classifier relies on labeled data for a training set. You have to give it lots of example data. So you could work backwards, and figure out what kind of training data you would need from the question you are interested in:
+
+* To decide whether an email is spam, you will need lots of examples of junk email.
+* 
 For now, let's consider a supervised approach to a common problem in text analysis: authorship attribution.
 
 http://aicbt.com/authorship-attribution/online-software/
