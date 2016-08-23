@@ -6,8 +6,6 @@
 
 * Do you see problems with how the Stanford model analyses the sentiment of your sentences? What are they?
 
-* Correct the model to have a more accurate reading.
-
 * Why do you think the Stanford tool has problems with these sentences? (You will need to read about the project [here]((http://nlp.stanford.edu/sentiment/index.html). Hint: what did you learn about supervised classifiers?)
 
 * Now try marking the same text on [our class Prism](http://prism.scholarslab.org/prisms/84f15902-686a-11e6-905c-005056b3784e/highlight?locale=en).
