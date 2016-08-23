@@ -39,4 +39,4 @@ We have trained ourselves to classify fruit, and we could replicate that same pr
 This might all seem a bit removed from the kinds of work that we have been doing elsewhere in the book, but we wanted you to get a firm foundation in what classification is before we modeled an example relative to text analysis. 
 
 ## Further Resources
-* The NLTK book has [a good section](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) on naive Bayes classifiers. 
+* The NLTK book has [a good section](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) on naive Bayes classifiers. The book is a Python tutorial, though, so it will quickly get technical.
