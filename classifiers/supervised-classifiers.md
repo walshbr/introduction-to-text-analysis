@@ -1,3 +1,3 @@
 # Supervised Classifiers
 
-Review unsupervised classifiers
+In the lesson on topic modeling, we talked about unsupervised classifiers. We explored about topic modeling could explore texts to find the underlying discourses at work within them. But our input data, our texts, were not really labeled in any way. We did not say, "topic modeler, go out and search for a topic called, 'medicine.' It looks like this. let me know what you find!" Instead, we trusted the topic modeling software to 
