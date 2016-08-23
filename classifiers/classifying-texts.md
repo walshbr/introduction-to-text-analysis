@@ -1,6 +1,6 @@
 # Classifying Texts
 
-"Supervised classification is all well and good, but how does this relate to text analysis? I'm going to go back to googling for cat images."
+"Supervised classification is all well and good, but how does this relate to text analysis? I'm going to go back to googling for animal photos."
 
 Stop right there! We've got one ready to go for you:
 
