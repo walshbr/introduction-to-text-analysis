@@ -36,4 +36,7 @@ So we have been developing a series of tests for fruit types, but you might not 
 
 We have trained ourselves to classify fruit, and we could replicate that same process on durian at a later date. If a master fruit vendor comes along, he could probably tell us how accurate we were. We could then compare our accuracy to another person trained to classify fruit, and we could figure out who is the better classifier.
 
-This might all seem a bit removed from 
+This might all seem a bit removed from the kinds of work that we have been doing elsewhere in the book, but we wanted you to get a firm foundation in what classification is before we modeled an example relative to text analysis. 
+
+## Further Resources
+* The NLTK book has [a good section](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) on naive Bayes classifiers. 
