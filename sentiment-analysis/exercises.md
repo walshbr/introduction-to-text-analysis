@@ -6,15 +6,7 @@
 
 * Now take the same text and process it on the live demo for [Stanford's sentiment analysis software](http://nlp.stanford.edu:8080/sentiment/rntnDemo.html). \(Note that each sentence is it's own tree and that the demo color codes individual words as very negative, negative, neutral, positive or very positive\).
 
-* Do you see problems with how the Stanford model analyses the sentiment of your sentences? What are they?
-
-* Correct the model to have a more accurate reading.
-
-* Why do you think the Stanford tool has problems with these sentences? \(You will need to read about the project [here]((http://nlp.stanford.edu/sentiment/index.html). Hint: what did you learn about supervised classifiers?\)
-
-* Now try marking the same text on 
-
-* Do you notice any differences\/similarities to how the computer marked things? Which was more accurate?
+* What are the differences between how the emotions are marked in the Prism versus how they are marked in Stanford's tool? 
 
 * What does all this say about what humans are better at? Computers?
 
