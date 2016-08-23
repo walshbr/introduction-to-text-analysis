@@ -8,4 +8,10 @@ Let's try another example. Imagine you have a bag with apples, oranges, and bana
 
 Now imagine, instead, that I give you a slightly different exercise. I give you a bag filled with dragon fruit, star fruit, and durian. Imagine that you don't know anything about these fruit. I say, "find me all the durian." If you don't know anything about durian, you won't be able to do so. So first I bring in ten examples of durian for you to study. I say, "Look at them. Study them. Pay attention to these characteristics: they have spikes, they are big, and they are yellow-ish." Now, you pull a fruit. No spikes. So you start a pile called not durian. The next one has spikes. Durian! You keep going until you have two piles, ones that you think are durian and ones that are not. 
 
-This kind of classification is called **supervised classification**. You had to be taught what the fruit look You might not have been perfectly correct: 
+This kind of classification is called **supervised classification**. You had to be taught what the durian looked like before you could really do anything. We would call these a featureset, and it might look something like this:
+
+```
+
+```
+
+Even then, you could only work in binaries: the fruit was either a durian or not. Your not-durian pile had star fruit and dragon fruit in it, since you weren't really able to distinguish between the two in this thought experiment. You might not have been perfectly correct: after all, durian are not the only fruit that are large spikey and yellow-ish. A kiwano melon could have gotten thrown into the mix, and you might have incorrectly identified it as a durian. Or you might have gotten an unripe (green) durian, which you incorrectly tossed in the wrong pile. So we could better characterize our two piles as "probably not durian" and "probably durian." If a master fruit vendor comes along, he could probably tell us how accurate we were. 
