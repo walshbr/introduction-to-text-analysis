@@ -12,9 +12,9 @@ This kind of classification is called **supervised classification**. You had to 
 
 ```
 feature_set = {
-has_spikes: True,
-size: 'big',
-color: 'yellow-ish'
+'has_spikes': True,
+'size': 'big',
+'color': 'yellow-ish'
 }
 ```
 
