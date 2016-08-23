@@ -30,7 +30,8 @@ Or this if we were looking at a star fruit.
 fruit.is_durian?
 >>> True
 ```
+So the test is actually pretty simple in its results, even if the feature set that leads to them is more nuanced. True and False are referred to as **boolean data types** in programming, and these boolean values are used to test or represent whether something is just that - true or false. 
 
-True and False are referred to as **boolean data types** in programming, and they are used to test whether something is just that - true or false. So we have been developing a series of tests for 
+So we have been developing a series of tests for fruit types, but you might not have been perfectly correct: after all, durian are not the only fruit that are large spikey and yellow-ish. A kiwano melon could have gotten thrown into the mix, and you might have incorrectly identified it as a durian. Or you might have gotten an unripe (green) durian, which you incorrectly tossed in the wrong pile. So we could better characterize our two piles as "probably not durian" and "probably durian." 
 
-You might not have been perfectly correct: after all, durian are not the only fruit that are large spikey and yellow-ish. A kiwano melon could have gotten thrown into the mix, and you might have incorrectly identified it as a durian. Or you might have gotten an unripe (green) durian, which you incorrectly tossed in the wrong pile. So we could better characterize our two piles as "probably not durian" and "probably durian." If a master fruit vendor comes along, he could probably tell us how accurate we were. 
+If a master fruit vendor comes along, he could probably tell us how accurate we were. 
