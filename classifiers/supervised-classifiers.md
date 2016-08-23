@@ -11,7 +11,13 @@ Now imagine, instead, that I give you a slightly different exercise. I give you 
 This kind of classification is called **supervised classification**. You had to be taught what the durian looked like before you could really do anything. We would call these a featureset, and it might look something like this:
 
 ```
-
+feature_set = {
+has_spikes: True,
+size: 'big',
+color: 'yellow-ish'
+}
 ```
+
+Don't worry too much about the brackets, equals sign, etc. These are just a common way of organizing the information so that the computer can read them. Using this feature set, we can reasonably
 
 Even then, you could only work in binaries: the fruit was either a durian or not. Your not-durian pile had star fruit and dragon fruit in it, since you weren't really able to distinguish between the two in this thought experiment. You might not have been perfectly correct: after all, durian are not the only fruit that are large spikey and yellow-ish. A kiwano melon could have gotten thrown into the mix, and you might have incorrectly identified it as a durian. Or you might have gotten an unripe (green) durian, which you incorrectly tossed in the wrong pile. So we could better characterize our two piles as "probably not durian" and "probably durian." If a master fruit vendor comes along, he could probably tell us how accurate we were. 
