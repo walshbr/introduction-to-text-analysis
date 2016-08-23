@@ -2,7 +2,7 @@
 
 "Supervised classification is all well and good, but how does this relate to text analysis? I'm going to go back to googling for animal photos."
 
-Stop right there! We've got one ready to go for you:
+Stop right there! We've got one for you:
 
 ![non-diegetic owl photo](/assets/classifiers/owl.jpg)
 
