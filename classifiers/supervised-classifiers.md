@@ -18,6 +18,19 @@ color: 'yellow-ish'
 }
 ```
 
-Don't worry too much about the brackets, equals sign, etc. These are just a common way of organizing the information so that the computer can read them. Using this feature set, we can reasonably
+Don't worry too much about the brackets, equals sign, etc. These are just a common way of organizing the information so that the computer can read them. Using this feature set, we reasonably guessed whether or not it was a durian. Notice how you could only work in binaries: the fruit was either a durian or not. Your not-durian pile had star fruit and dragon fruit in it, since you weren't really able to distinguish between the two in this thought experiment. We could only answer something like the following if we looked at star fruit: 
 
-Even then, you could only work in binaries: the fruit was either a durian or not. Your not-durian pile had star fruit and dragon fruit in it, since you weren't really able to distinguish between the two in this thought experiment. You might not have been perfectly correct: after all, durian are not the only fruit that are large spikey and yellow-ish. A kiwano melon could have gotten thrown into the mix, and you might have incorrectly identified it as a durian. Or you might have gotten an unripe (green) durian, which you incorrectly tossed in the wrong pile. So we could better characterize our two piles as "probably not durian" and "probably durian." If a master fruit vendor comes along, he could probably tell us how accurate we were. 
+```
+fruit.is_durian?
+>>> False
+```
+
+Or this if we were looking at a star fruit.
+```
+fruit.is_durian?
+>>> True
+```
+
+True and False are referred to as **boolean data types** in programming, and they are used to test whether something is just that - true or false. So we have been developing a series of tests for 
+
+You might not have been perfectly correct: after all, durian are not the only fruit that are large spikey and yellow-ish. A kiwano melon could have gotten thrown into the mix, and you might have incorrectly identified it as a durian. Or you might have gotten an unripe (green) durian, which you incorrectly tossed in the wrong pile. So we could better characterize our two piles as "probably not durian" and "probably durian." If a master fruit vendor comes along, he could probably tell us how accurate we were. 
