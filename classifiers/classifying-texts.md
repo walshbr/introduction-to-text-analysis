@@ -17,7 +17,10 @@ Remember, a supervised classifier relies on labeled data for a training set. You
 
 * To decide whether an email is spam, you will need lots of examples of junk email.
 * To tag a news article as belonging to a particular category, you will need examples of articles from each of those categories.
-* 
+* To determine the use of the word 'bank', you will need examples of it used in all possible contexts. 
+
+
+
 For now, let's consider a supervised approach to a common problem in text analysis: authorship attribution.
 
 http://aicbt.com/authorship-attribution/online-software/
