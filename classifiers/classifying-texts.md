@@ -29,7 +29,16 @@ In each case, it's not enough to just dump data at the classifier. You would als
 * You might decide that word choice is indicative of spam: "Buy now! Click this link to see an urgent message!". So you'd need to break up your representative spam texts into tokenized lists of vocabulary and work from there to give the classifier a sense of those words likely to result in unwanted messages.
 * You might notice that all your spam notifications come from similar emails. You could train the classifier to identify certain email addresses, pull out those which have known spam addresses, and tag them as spam.
 
-You could certainly come up with others. In any case, you would need to take a large question and break it down into smaller steps. 
+You could certainly come up with others. In any case, you would need to step through a series of questions common to all text analysis projects: 
+
+* What is my research question?
+* How can my large question be broken down into smaller pieces?
+* Which of those can be measured by the computer?
+* What kind of example data do I have that I can for this problem?
+
+Going through these questions can be difficult at first, but, with practice, you will yourself able to separate feasible digital humanities questions from those that are impossible to answer. You will start to gain a sense of what could be measured and analyzed as well as whether or not you might want to do so at all.
+
+take a large question and break it down into smaller steps. 
 
 For now, let's consider a supervised approach to a common problem in text analysis: authorship attribution.
 
