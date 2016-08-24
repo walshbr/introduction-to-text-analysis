@@ -64,6 +64,12 @@ So looking at these measures, for a successful classifier we would want the arro
 
 Note how these measures of authorship overlap with other things we have studied in this book. Remember stopwords, those words that are so common in a text that they are frequently removed before text analysis? In cases, like this one, we might actually care a lot about those simple stopwords. Two of the three measures for authorship here deal with just those words that we might otherwise throw away: punctuation, articles, etc. These words might not tell you much about what a text talks about, but they can tell you an awful lot about *how* a text discusses them. They make up the verbal tissue in ways and can very frequently serve as identifying thumbprints. 
 
+Similar processes have been used for a variety of authorship attribution cases. The most famous one in recent times is probably that of Robert Galbraith, who came out with *The Cuckoo's Calling* in 2013. 
 
+Patrick Juola 
 
 Here we have just barely scratched the surface of the field of **stylometry**, or the study of linguistic style using a variety of statistical metrics. You can carry this research process out by means of a variety of programming languages, so you might take a look at our concluding chapter on [Where to Go Next](/conclusion/where-to-go.md) if you are interested in learning how to implement these sorts of experiments yourself.
+
+## Further Resources
+
+* [Patrick Juola on the process of linking J.K. Rowling and Robert Galbraith](http://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)
