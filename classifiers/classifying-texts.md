@@ -8,7 +8,7 @@ Stop right there! We've got not one, but two for you:
 
 \(What do you think this owl thinks about supervised classifiers?\)
 
-![](/assets/sleepingstarbuck.jpg)
+![](/assets/classifiers/sleepingstarbuck.jpg)
 
 \(Or perhaps you feel like crawling under the covers and sleeping like this dog here.\)
 
@@ -44,14 +44,6 @@ Now, let's practice on a supervised approach to a common problem in text analysi
 As an experiment, I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), I gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so my training set included about double the number of pieces by Bowler as by Glenn. With this body of training data for each author, I uploaded the texts to this great online [authorship attribution tool](http://aicbt.com/authorship-attribution/online-software/)
 by AICBT. The tool allows you to upload sample data for two authors. With this set, you can then upload a text by an unknown author, and the software will try to guess who wrote it. In this case, the mystery text was [Freedom, Justice, and John Legend](http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend) by Bowler. Author 1 is Glenn, and Author 2 is Bowler. The tool attempted to identify the author of the mystery text as follows:
 
-mystery article - [Opinion: Freedom, Justice, and John Legend](http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend)
-
-
-
-I then took one article that I knew I wanted to identify.
-
-[http:\/\/aicbt.com\/authorship-attribution\/online-software\/](http://aicbt.com/authorship-attribution/online-software/)
-
-More technical version here - [http:\/\/www.aicbt.com\/authorship-attribution\/](http://www.aicbt.com/authorship-attribution/)
-
-
+![authorship function](/assets/classifiers/authorship-function.jpg)
+![authorship lexical](/assets/classifiers/authorship-lexical.jpg)
+![authorship diversity](/assets/classifiers/authorship-punctuation.jpg)
