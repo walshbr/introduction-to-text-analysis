@@ -45,9 +45,12 @@ I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their
 
 Bowler
 
-[Saartjie Baartman Is Not 'the Original Booty Queen](http://ewn.co.za/2014/11/17/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen)
+* [Saartjie Baartman Is Not 'the Original Booty Queen](http://ewn.co.za/2014/11/17/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen)
 
-[Opinion: The Death of Sandra Bland and History's Echoes](http://ewn.co.za/2015/07/21/OPINION-Danielle-Bowler-The-death-of-Sandra-Bland-and-historys-echoes)
+* [Opinion: The Death of Sandra Bland and History's Echoes](http://ewn.co.za/2015/07/21/OPINION-Danielle-Bowler-The-death-of-Sandra-Bland-and-historys-echoes)
+
+* [Opinion: Other Images](http://ewn.co.za/2015/01/19/OPINION-Danielle-Bowler-Other-Images)
+* [The Endings and Beginnings of a New Year](http://ewn.co.za/2015/01/07/OPINION-The-endings-and-beginnings-of-a-new-year)
 
 Glenn
 * [I'm Really Tired of Married Men Flirting with Me Online](http://www.xojane.com/issues/married-men-flirting-online)
