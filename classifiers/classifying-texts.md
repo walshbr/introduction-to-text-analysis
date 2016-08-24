@@ -47,3 +47,5 @@ by AICBT. The tool allows you to upload sample data for two authors. With this s
 ![authorship function](/assets/classifiers/authorship-function.jpg)
 ![authorship lexical](/assets/classifiers/authorship-lexical.jpg)
 ![authorship diversity](/assets/classifiers/authorship-punctuation.jpg)
+
+So looking at these measures, for a successful classifier we would want the arrow to point towards the right (this text is actually by author 2). You'll immediately see that we have some success, but also some failure! Function word analysis is a slight indicator of the correct author, lexical analysis is virtually useless, and punctuation analysis is way *wrong*. 
