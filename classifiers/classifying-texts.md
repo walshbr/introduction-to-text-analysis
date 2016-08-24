@@ -38,9 +38,8 @@ You could certainly come up with others. In any case, you would need to step thr
 
 Going through these questions can be difficult at first, but, with practice, you will yourself able to separate feasible digital humanities questions from those that are impossible to answer. You will start to gain a sense of what could be measured and analyzed as well as whether or not you might want to do so at all.
 
-take a large question and break it down into smaller steps. 
 
-For now, let's consider a supervised approach to a common problem in text analysis: authorship attribution.
+Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution.
 
 [http:\/\/aicbt.com\/authorship-attribution\/online-software\/](http://aicbt.com/authorship-attribution/online-software/)
 
