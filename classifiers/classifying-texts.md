@@ -23,7 +23,8 @@ In each case, it's not enough to just dump data at the classifier. You would als
 
 * You might decide that word choice is indicative of spam: "Buy now! Click this link to see an urgent message!". So you'd need to break up your representative spam texts into tokenized lists of vocabulary and work from there to give the classifier a sense of those words likely to result in unwanted messages.
 * You might notice that all your spam notifications come from similar emails. You could train the classifier to identify certain email addresses, pull out those which have known spam addresses, and tag them as spam.
-* f
+
+You could certainly come up with others. In any case, you would need to take a large question and break it down into smaller steps. 
 
 For now, let's consider a supervised approach to a common problem in text analysis: authorship attribution.
 
