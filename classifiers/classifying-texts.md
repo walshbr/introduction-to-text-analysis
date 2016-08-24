@@ -41,9 +41,24 @@ Going through these questions can be difficult at first, but, with practice, you
 
 Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution. Sometimes texts come down to us with no authors at all attributed to them. You could approach this in a variety of unsupervised ways, graphing the similarity or difference of particular authors based on a number of algorithsm. But if you have a pretty good guess as to whom the author of a particular text might be, you can take a supervised approach to the problem. At other times, a single text might be written under a pseudonym, but you might have a good guess as to whom might be the author. 
 
-I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn)
-. Bowler tends to write shorter pieces than Glenn, so this was what my training set looked like:
+I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), I gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so this was what my training set looked like:
 
+Bowler
+
+[Saartjie Baartman Is Not 'the Original Booty Queen](http://ewn.co.za/2014/11/17/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen)
+
+[Opinion: The Death of Sandra Bland and History's Echoes](http://ewn.co.za/2015/07/21/OPINION-Danielle-Bowler-The-death-of-Sandra-Bland-and-historys-echoes)
+
+Glenn
+* [I'm Really Tired of Married Men Flirting with Me Online](http://www.xojane.com/issues/married-men-flirting-online)
+
+* [I Just Had a Kickass Birth Chart Reading and Intuitive Session and Now I'm Down with Astrology](http://www.xojane.com/newagey/i-just-had-a-birth-chart-reading-and-it-was-amazing)
+
+mystery article - http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend
+
+
+
+I then took one article that I knew I wanted to identify.
 
 [http:\/\/aicbt.com\/authorship-attribution\/online-software\/](http://aicbt.com/authorship-attribution/online-software/)
 
