@@ -41,7 +41,8 @@ Going through these questions can be difficult at first, but, with practice, you
 
 Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution. Sometimes texts come down to us with no authors at all attributed to them. You could approach this in a variety of unsupervised ways, graphing the similarity or difference of particular authors based on a number of algorithsm. But if you have a pretty good guess as to whom the author of a particular text might be, you can take a supervised approach to the problem. At other times, a single text might be written under a pseudonym, but you might have a good guess as to whom might be the author. 
 
-I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) Bowler tends to write shorter pieces than Glenn, so this was what my training set looked like:
+I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn)
+. Bowler tends to write shorter pieces than Glenn, so this was what my training set looked like:
 
 
 [http:\/\/aicbt.com\/authorship-attribution\/online-software\/](http://aicbt.com/authorship-attribution/online-software/)
