@@ -62,6 +62,6 @@ by AICBT. The tool allows you to upload sample data for two authors. With this s
 
 So looking at these measures, for a successful classifier we would want the arrow to point towards the right (this text is actually by author 2). You'll immediately see that we have some success, but also some failure! Function word analysis is a slight indicator of the correct author, lexical analysis is virtually useless, and punctuation analysis is way *wrong*. In a real classification project, we would want use the success or failure of our classifier to revise our sense of which features are useful for our particular project. In this case, punctuation is not a good measure at all, so we would throw that out. We might focus, instead, on function words as an indicator of authorship. We can tweak our approach accordingly.
 
-You can carry this research process out by means of a variety of programming languages, so you might take a look at our concluding chapter on [Where to Go Next](/conclusion/where-to-go.md) if you are interesting in learning how to implement these sorts of experiments yourself.
+You can carry this research process out by means of a variety of programming languages, so you might take a look at our concluding chapter on [Where to Go Next](/conclusion/where-to-go.md) if you are interested in learning how to implement these sorts of experiments yourself.
 
 Note how these measures of authorship rely.
