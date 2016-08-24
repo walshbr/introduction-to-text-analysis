@@ -19,7 +19,11 @@ Remember, a supervised classifier relies on labeled data for a training set. You
 * To tag a news article as belonging to a particular category, you will need examples of articles from each of those categories.
 * To determine the use of the word 'bank', you will need examples of it used in all possible contexts. 
 
-In each case, it's not enough to just dump data at the classifier. You would also have to decide what feature sets you want to examine for the training sets for each task.
+In each case, it's not enough to just dump data at the classifier. You would also have to decide what feature sets you want to use for each task. Take the task of building a spam filter. To determine whether or not a text is spam, you would need to decide what features you find to be indicative of junk mail. And you have many options! Here are just a few:
+
+* You might decide that word choice
+* f
+* f
 
 For now, let's consider a supervised approach to a common problem in text analysis: authorship attribution.
 
