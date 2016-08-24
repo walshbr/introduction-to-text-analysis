@@ -39,7 +39,10 @@ You could certainly come up with others. In any case, you would need to step thr
 Going through these questions can be difficult at first, but, with practice, you will yourself able to separate feasible digital humanities questions from those that are impossible to answer. You will start to gain a sense of what could be measured and analyzed as well as whether or not you might want to do so at all.
 
 
-Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution. Sometimes texts come down to us with no authors at all attributed to them. At other times, they might be
+Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution. Sometimes texts come down to us with no authors at all attributed to them. You could approach this in a variety of unsupervised ways, graphing the similarity or difference of particular authors based on a number of algorithsm. But if you have a pretty good guess as to whom the author of a particular text might be, you can take a supervised approach to the problem. At other times, a single text might be written under a pseudonym, but you might have a good guess as to whom might be the author. 
+
+I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) Bowler tends to write shorter pieces than Glenn, so this was what my training set looked like:
+
 
 [http:\/\/aicbt.com\/authorship-attribution\/online-software\/](http://aicbt.com/authorship-attribution/online-software/)
 
