@@ -8,7 +8,7 @@ Stop right there! We've got not one, but two for you:
 
 \(What do you think this owl thinks about supervised classifiers?\)
 
-![](/assets/classifiers/sleepingstarbuck.jpg)
+![sarah's sleeping dog](/assets/classifiers/sleepingstarbuck.jpg)
 
 \(Or perhaps you feel like crawling under the covers and sleeping like this dog here.\)
 
