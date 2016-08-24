@@ -39,13 +39,29 @@ You could certainly come up with others. In any case, you would need to step thr
 Going through these questions can be difficult at first, but, with practice, you will yourself able to separate feasible digital humanities questions from those that are impossible to answer. You will start to gain a sense of what could be measured and analyzed as well as whether or not you might want to do so at all.
 
 
-Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution. Sometimes texts come down to us with no authors at all attributed to them. You could approach this in a variety of unsupervised ways, graphing the similarity or difference of particular authors based on a number of algorithms. But if you have a pretty good guess as to whom the author of a particular text might be, you can take a supervised approach to the problem. At other times, a single text might be written under a pseudonym, but you might have a good guess as to whom might be the author. 
+Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution. Sometimes texts come down to us with no authors at all attributed to them. You could approach this in a variety of unsupervised ways, graphing the similarity or difference of particular authors based on a number of algorithms. But if you have a pretty good guess as to whom the author of a particular text might be, you can take a supervised approach to the problem. At other times, a single text might be written under a pseudonym, but you might have a good guess as to whom might be the author. To step through our same list of steps:
 
-As an experiment, I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), I gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so my training set included about double the number of pieces by Bowler as by Glenn. With this body of training data for each author, I uploaded the texts to this great online [authorship attribution tool](http://aicbt.com/authorship-attribution/online-software/)
+* What is my research question?
+    * I want to be able to identify the unknown author of a text.
+
+* How can my large question be broken down into smaller pieces?
+    * I have a reasonable guess as to some possible authors, so I can use those as objects of study. I also am assuming that authorship can be associated with style.
+
+* Which of those can be measured by the computer?
+    * Well, style is the sum total of vocabulary, punctuation, and rhetorical patterns, among other things. Those can all be counted!
+
+* What kind of example data do I have that I can for this problem?
+    * I have the unknown text. And I also have several texts by my potential authors that I can compare against it.
+
+To illustrate this experiment, I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), I gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so my training set included about double the number of pieces by Bowler as by Glenn. With this body of training data for each author, I uploaded the texts to this great online [authorship attribution tool](http://aicbt.com/authorship-attribution/online-software/)
 by AICBT. The tool allows you to upload sample data for two authors. With this set, you can then upload a text by an unknown author, and the software will try to guess who wrote it. In this case, the mystery text was [Freedom, Justice, and John Legend](http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend) by Bowler. Author 1 is Glenn, and Author 2 is Bowler. The tool attempted to identify the author of the mystery text as follows. You can also find AICBT's helpful explanation of the different metrics that they are using to analyze the unknown text.
 
 ![authorship function](/assets/classifiers/authorship-function.jpg)
 ![authorship lexical](/assets/classifiers/authorship-lexical.jpg)
 ![authorship diversity](/assets/classifiers/authorship-punctuation.jpg)
 
-So looking at these measures, for a successful classifier we would want the arrow to point towards the right (this text is actually by author 2). You'll immediately see that we have some success, but also some failure! Function word analysis is a slight indicator of the correct author, lexical analysis is virtually useless, and punctuation analysis is way *wrong*. 
+So looking at these measures, for a successful classifier we would want the arrow to point towards the right (this text is actually by author 2). You'll immediately see that we have some success, but also some failure! Function word analysis is a slight indicator of the correct author, lexical analysis is virtually useless, and punctuation analysis is way *wrong*. In a real classification project, we would want use the success or failure of our classifier to revise our sense of which features are useful for our particular project. In this case, punctuation is not a good measure at all, so we would throw that out. We might focus, instead, on function words as an indicator of authorship. We can tweak our approach accordingly.
+
+You can carry this research process out by means of a variety of programming languages, so you might take a look at our concluding chapter on [Where to Go Next](/conclusion/where-to-go.md) if you are interesting in learning how to implement these sorts of experiments yourself.
+
+Note how these measures of authorship rely.
