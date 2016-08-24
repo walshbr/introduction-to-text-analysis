@@ -27,7 +27,3 @@ For now, let's consider a supervised approach to a common problem in text analys
 
 More technical version here - [http:\/\/www.aicbt.com\/authorship-attribution\/](http://www.aicbt.com/authorship-attribution/)
 
-
-
-This is a test
-
