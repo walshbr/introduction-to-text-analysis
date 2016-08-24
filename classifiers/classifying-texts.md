@@ -21,7 +21,7 @@ Remember, a supervised classifier relies on labeled data for a training set. You
 
 In each case, it's not enough to just dump data at the classifier. You would also have to decide what feature sets you want to use for each task. Take the task of building a spam filter. To determine whether or not a text is spam, you would need to decide what features you find to be indicative of junk mail. And you have many options! Here are just a few:
 
-* You might decide that word choice
+* You might decide that word choice is indicative of spam: "Buy now! Click this link to see an urgent message!". So you'd need to break up your representative spam texts into vocabulary lists and work from there to give the classifier a sense of those words likely to result in unwanted message.
 * f
 * f
 
