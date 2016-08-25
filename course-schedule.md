@@ -111,7 +111,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 * “The Hampstead Murders,” available from http:\/\/vrchristensen.com\/http:\/vrchristensen.com\/category\/newspaper-articles\/lloyds-weekly-newspaper\/
 
-* Find an article on a 19th century murder from the _Times_ from the “Dictionary of Victorian London,” available at http:\/\/www.victorianlondon.org\/index-2012.htm 
+* Find an article on a 19th century murder from the _Times_ from the “Dictionary of Victorian London,” available at http:\/\/www.victorianlondon.org\/index-2012.htm
 
 
 ### Week 7
@@ -120,12 +120,12 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Vanessa Schwartz, _Spectacular Realities_, Chapter 1
 
-
 #### The Spectacle of the City, Part II
 
-* Vanessa Schwartz, _Spectacular Realities_, Chapters 2 and 3 
+* Vanessa Schwartz, _Spectacular Realities_, Chapters 2 and 3
 
 * "Reading at Scale" in this book
+
 
 ### Week 8
 
@@ -133,8 +133,16 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Judith Walkowitz, “Male Vice and Feminist Virtue: Feminism and the Politics of Prostitution in Nineteenth-Century Britain”
 
-* W.T. Stead, “The Maiden Tribute of Modern Babylon”
+* W.T. Stead, “The Maiden Tribute of Modern Babylon"
 
-*  
 
+#### Sex and Death in the City
+
+* Judith Walkowitz, “Jack the Ripper and the Myth of Male Violence”
+
+* Find two articles from http:\/\/www.casebook.org\/press\_reports\/ on Jack the Ripper 
+
+* "Topic Modeling" in this book
+
+* 
 
