@@ -4,5 +4,6 @@
 
 * What articles from the _Pall Mall Gazette_ did you choose? Why did you choose them?
 * What excerpts from Cook and Stead's writing did you choose? Why did you choose those excerpts?
-* What did you find using the attribution tool? 
+* What did you find using the attribution tool? Are you coming up with clear results for either article?
+* How confident are you that you can attribute either article to Cook or Stead? Why or why not?
 
