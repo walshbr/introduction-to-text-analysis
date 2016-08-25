@@ -85,3 +85,4 @@ Always think. Never let a graph think for you.
 ## Further Resources
 
 * Ted Underwood on [How not to do things with words](https://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/)
+* [Danny Sulivan on When OCR Goes Bad: Google's Ngram Viewer & The F-Word](http://searchengineland.com/when-ocr-goes-bad-googles-ngram-viewer-the-f-word-59181_)
