@@ -6,7 +6,7 @@ As such, text analysis is often understood as one of the methodologies of the **
 
 > But the best definition of the digital humanities, I think, is bringing digital methods to bear on humanities research and then interrogating the digital humanities by humanities research.
 
-We will keep a kindred double definition in mind as we move forward: the digital humanities involves using technology to think critically as well as thinking critically about technology.
+Ted Underwood in the [same interview series](https://lareviewofbooks.org/article/digital-humanities-interview-ted-underwood/) describes digital humanities as "a vague interest in technology." We will keep a kindred definition in mind as we move forward: the digital humanities involves using technology to think critically as well as thinking critically about technology. We will use new tools to think about old texts, and we will think critically about those new methods.
 
 Although we'll primarily be engaging with the digital humanities through text analysis in this class, there are lots of different ways to be a digital humanist, from creating digital exhibits to online mapping.
 
