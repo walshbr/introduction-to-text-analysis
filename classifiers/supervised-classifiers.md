@@ -42,10 +42,7 @@ Likewise, maybe you want to figure out a classification system to sort bagels. S
 
 Only this dog fits all the criteria for a plain bagel, but is definitely not a bagel. Our classifier can say, at best, "probably bagel" or "probably not bagel" But sometimes it's wrong. Sometimes life gives you a dog, and all you can see is a bagel.
 
-The use of the word "probably" should be a clue here - we have drifted into probability and statistics.
-
-
-What we have developed above are very basic **naive Bayes classifiers**. Thomas Bayes was an eighteenth-century statistician, and this classifier relies on his underlying [theory of statistics](https://en.wikipedia.org/wiki/Bayesian_statistics). There are other types of classifiers, but this kind assumes that each feature \(size, color, spikiness in the fruit example; shape and dotted-ness in the bagel example\) in our feature set will have some say in determining how to classify something that is unknown. 
+The use of the word "probably" should be a clue here - we have drifted into probability and statistics. What we have developed above are very basic **naive Bayes classifiers**. Thomas Bayes was an eighteenth-century statistician, and this classifier relies on his underlying [theory of statistics](https://en.wikipedia.org/wiki/Bayesian_statistics). There are other types of classifiers, but this kind assumes that each feature \(size, color, spikiness in the fruit example; shape and dotted-ness in the bagel example\) in our feature set will have some say in determining how to classify something that is unknown. 
 
 In the fruit example, the classifier combines these likelihoods with the total number of times that durian actually occurred in our example set of fruit to determine the probability of each label. In this case, our labels are durian or not-durian, true or false, though you could have more than just two labels. The classifier then picks the label with the highest likelihood. We have trained ourselves to classify fruit, and we could replicate that same process on durian at a later date. If a master fruit vendor comes along, he could probably tell us how accurate we were. We could then compare our accuracy to another person trained to classify fruit, and we could figure out who is the better classifier.
 
