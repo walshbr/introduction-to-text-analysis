@@ -1,6 +1,6 @@
 # For Instructors
 
-This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis (or examples of text analysis based on that concept), and then provides a series of disciplinary exercises to practice the new skills. This book was written with students who had no background in text analysis (or digital humanities) in mind.
+This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis (or case studies based on the associated concept), and then provides a series of disciplinary exercises to practice the new skills. This book was written with students who had no background in text analysis (or digital humanities) in mind.
 
 The book was designed with three key goals in mind.
 
