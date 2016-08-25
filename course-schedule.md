@@ -10,9 +10,9 @@ The following is the course schedule as set up at the beginning of the term. It'
 
 ## Description
 
-This course examines the intersection between scandal, crime and spectacle in 19th-century France and Britain. We will discuss the nature of scandals, the connection between scandals and political change, and how scandals and ideas about crime were used to articulate new ideas about class, gender and sexuality. In addition, this class will cover the rise of new theories of criminality in the 19th century and the popular fascination with crime and violence. Crime and scandal also became interwoven into the fabric of the city as sources of urban spectacle. Lastly, we will have an opportunity to discuss how issues of crime, scandal and spectacle resonate in the 21st century. Some of the particular events and trends this class will cover include the Diamond Necklace Affair, the trial of Oscar Wilde, the Jack the Ripper murders, and the birth of detective fiction. 
+This course examines the intersection between scandal, crime and spectacle in 19th-century France and Britain. We will discuss the nature of scandals, the connection between scandals and political change, and how scandals and ideas about crime were used to articulate new ideas about class, gender and sexuality. In addition, this class will cover the rise of new theories of criminality in the 19th century and the popular fascination with crime and violence. Crime and scandal also became interwoven into the fabric of the city as sources of urban spectacle. Lastly, we will have an opportunity to discuss how issues of crime, scandal and spectacle resonate in the 21st century. Some of the particular events and trends this class will cover include the Diamond Necklace Affair, the trial of Oscar Wilde, the Jack the Ripper murders, and the birth of detective fiction.
 
-Through this course, students will be introduced to text analysis and data mining for the humanities. This course assumes no prior knowledge of these skills, but asks: how can newly developed technologies that allow computers to “read” large quantities of text shed light on the past? Students will work in groups throughout the course of the term to complete a digital history project that analyzes an element of the 19th century fascination with crime and scandal. 
+Through this course, students will be introduced to text analysis and data mining for the humanities. This course assumes no prior knowledge of these skills, but asks: how can newly developed technologies that allow computers to “read” large quantities of text shed light on the past? Students will work in groups throughout the course of the term to complete a digital history project that analyzes an element of the 19th century fascination with crime and scandal.
 
 ## Schedule
 
@@ -28,13 +28,14 @@ Through this course, students will be introduced to text analysis and data minin
 
 * "Introduction" and "Issues in Digital Text Analysis" in this book
 
+
 ### Week 2
 
 #### Scandal and Monarchy, Part I
 
 * Sarah Maza, “The Diamond Necklace Affair Revisited: The Case of the Missing Queen”
 
-* _ Historical Essays on the Life of Marie–Antoinette of Austria_, available from  [http:\/\/chnm.gmu.edu\/revolution\/d\/262\/](http://chnm.gmu.edu/revolution/d/262/) 
+* _ Historical Essays on the Life of Marie–Antoinette of Austria_, available from  [http:\/\/chnm.gmu.edu\/revolution\/d\/262\/](http://chnm.gmu.edu/revolution/d/262/)
 
 
 #### Scandal and Monarchy, Part II
@@ -45,6 +46,61 @@ Through this course, students will be introduced to text analysis and data minin
 
 * "Close Reading" in this book
 
-   
+
+### Week 3
+
+#### Scandal and Sexuality, Continued
+
+* Ari Adut, _On Scandal_, Chapter 2
+* Transcripts of Oscar Wilde’s Libel Trial, available at [http:\/\/law2.umkc.edu\/faculty\/projects\/ftrials\/wilde\/Wildelibeltranscript.html](http://law2.umkc.edu/faculty/projects/ftrials/wilde/Wildelibeltranscript.html) 
+
+
+#### The Spectacle of Punishment
+
+* Michel Foucault, _Discipline and Punish_, selections 
+
+* "Crowdsourcing" in this book
+
+### Week 4
+
+#### Crime and the City
+
+* Louis Chevalier, _Working Classes, Dangerous Classes_, selections
+
+* Henry Mayhew, _The London Underworld_, selections
+
+
+#### Female Criminality
+
+* Lisa Downing, “Murder in the Feminine: Marie Lafarge and the Sexualization of the Nineteenth-Century Criminal Woman” 
+
+* Cesare Lombroso, _Criminal Woman, the Prostitute and the Normal Woman_, selections
+
+* "Digital Archives" in this book
+
+### Week 5
+
+#### Detection in the 19th Century
+
+* Simon Cole, _Suspect Identities_, Chapters 1 and 2 
+
+
+#### The Rise of Detective Fiction
+
+* Michael Saler, “’Clap if You Believe in Sherlock Holmes’: Mass Culture and the Re-Enchantment of Modernity, c. 1890-1940"
+
+* Arthur Conan Doyle, “A Scandal in Bohemia,” available at http:\/\/www.gutenberg.org\/files\/1661\/1661-h\/1661-h.htm\#
+
+* "Data Cleaning" in this book
+
+### Week 6
+
+#### Violence and Entertainment, Part I
+
+* Rosalind Crone, _Violent Victorians_, Chapters 1 and 3
+
+* _The String of Pearls_, Chapters 36-39, available from [http:\/\/www.victorianlondon.org\/mysteries\/sweeney\_todd-00.htm](http://www.victorianlondon.org/mysteries/sweeney_todd-00.htm)
+
+* Franco Moretti, “Graphs” from _Graphs, Maps, Trees_
 
 
