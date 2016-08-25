@@ -2,7 +2,7 @@
 
 ## For Instructors
 
-We are providing you with the course schedule so that you can get a sense of the material it covers and the pacing.
+What follows is an outline of the course schedule so that you can get a sense of the material it covers, the assignments and the pacing.
 
 ## For Students in History 211
 
@@ -47,6 +47,8 @@ Through this course, students will be introduced to text analysis and data minin
 * "Close Reading" in this book
 
 
+#### First Paper Due: Analysis of a Scandal
+
 ### Week 3
 
 #### Scandal and Sexuality, Continued
@@ -78,6 +80,8 @@ Through this course, students will be introduced to text analysis and data minin
 
 * "Digital Archives" in this book
 
+
+#### Second Paper Due: Analysis of a Nineteeth-Century Archive
 
 ### Week 5
 
@@ -114,6 +118,8 @@ Through this course, students will be introduced to text analysis and data minin
 * Find an article on a 19th century murder from the _Times_ from the “Dictionary of Victorian London,” available at http:\/\/www.victorianlondon.org\/index-2012.htm
 
 
+#### Final Group Project Proposals Due
+
 ### Week 7
 
 #### The Spectacle of the City, Part I
@@ -145,6 +151,8 @@ Through this course, students will be introduced to text analysis and data minin
 * "Topic Modeling" in this book
 
 
+#### Annotated Bibliography Due
+
 ### Week 9
 
 #### The Spectacle of Race, Part I
@@ -158,13 +166,14 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Chapter 6
 
-* Cleuci de Oliveira, “Saartjie Baartman: The Original Booty Queen,” available at http:\/\/jezebel.com\/saartje-baartman-the-original-booty-queen-1658569879 
+* Cleuci de Oliveira, “Saartjie Baartman: The Original Booty Queen,” available at http:\/\/jezebel.com\/saartje-baartman-the-original-booty-queen-1658569879
 
 * Pia Glenn, “You Can’t Ignore the Degradation of Saartjie Baartman to Connect Her to Kim Kardashian. You Just Can’t,” available at http:\/\/www.xojane.com\/issues\/saartjie-baartman-kim-kardashian
 
-* Danielle Bowler, “Saartjie Baartman is not ‘The Original Booty Queen,’” available at http:\/\/ewn.co.za\/2014\/11\/17\/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen 
+* Danielle Bowler, “Saartjie Baartman is not ‘The Original Booty Queen,’” available at http:\/\/ewn.co.za\/2014\/11\/17\/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen
 
 * "Classifiers" in this book
+
 
 ### Week 10
 
@@ -173,6 +182,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Michael Burns, _France and the Dreyfus Affair_, selections
 
 * "Sentiment Analysis" in this book
+
 
 #### Scandals and Contemporary Media
 
@@ -183,26 +193,32 @@ Through this course, students will be introduced to text analysis and data minin
 * Adam Kirsch, “Technology is Taking Over English Departments: The False Promise of the Digital Humanities” available from [https:\/\/newrepublic.com\/article\/117428\/limits-digital-humanities-adam-kirsch](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
 
 
+#### Draft of Final Project Due
+
 ### Week 11
 
 #### Meetings with Professors about Final Projects
 
 * no class
 
-
 #### Crime, Scandal and Politics in the Present Day
 
 * Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, “Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks,” ProPublica, available from https:\/\/www.propublica.org\/article\/machine-bias-risk-assessments-in-criminal-sentencing
 
-* Matt Bai, “How Gary Hart’s Downfall Forever Changed American Politics,” _New York Times Magazine_, available online 
+* Matt Bai, “How Gary Hart’s Downfall Forever Changed American Politics,” _New York Times Magazine_, available online
 
 * "Conclusion" in this book
+
 
 ### Week 12
 
 #### Class Presentations
 
 #### Wrap-Up and Class Presentations
+
+### Exam Week
+
+#### Final Project and Process Paper Due
 
 * 
 
