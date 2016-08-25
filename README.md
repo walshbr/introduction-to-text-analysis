@@ -2,7 +2,7 @@
 
 *(Note: this book is still in progress. Check back in later for updates!)*
 
-This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis, and a series of exercises to practice the new skills. In some cases, case studies of particular projects are presented instead of tools. 
+This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis, and a series of exercises to practice the new skills. In some cases, studies of particular projects are presented instead of tools. 
 
 The materials here are meant to form the basis for a digital text analysis course that does not require extensive training in programming. The book is written with student readers, particularly those without training in programming, in mind. Originally developed for use in a course on Nineteenth-Century Scandal, Crime, and Spectacle, this workbook draws from these course materials for its datasets and prompts. The book is intended to be modularized enough that it could be used in conjunction with other courses. The tripartite structure of each chapter means that sections can be easily removed and replaced with different tools or content. In particular, we envision our course-specific exercises in the third section of each chapter to be removable. For more guidance on how to remix the work for your own ends, jump right to ["Adapting This Book for Another Course."](/conclusion/adapting.md)
 
