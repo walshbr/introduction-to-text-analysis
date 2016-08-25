@@ -54,12 +54,12 @@ Through this course, students will be introduced to text analysis and data minin
 * Ari Adut, _On Scandal_, Chapter 2
 * Transcripts of Oscar Wilde’s Libel Trial, available at [http:\/\/law2.umkc.edu\/faculty\/projects\/ftrials\/wilde\/Wildelibeltranscript.html](http://law2.umkc.edu/faculty/projects/ftrials/wilde/Wildelibeltranscript.html) 
 
-
 #### The Spectacle of Punishment
 
-* Michel Foucault, _Discipline and Punish_, selections 
+* Michel Foucault, _Discipline and Punish_, selections
 
 * "Crowdsourcing" in this book
+
 
 ### Week 4
 
@@ -72,18 +72,18 @@ Through this course, students will be introduced to text analysis and data minin
 
 #### Female Criminality
 
-* Lisa Downing, “Murder in the Feminine: Marie Lafarge and the Sexualization of the Nineteenth-Century Criminal Woman” 
+* Lisa Downing, “Murder in the Feminine: Marie Lafarge and the Sexualization of the Nineteenth-Century Criminal Woman”
 
 * Cesare Lombroso, _Criminal Woman, the Prostitute and the Normal Woman_, selections
 
 * "Digital Archives" in this book
+
 
 ### Week 5
 
 #### Detection in the 19th Century
 
 * Simon Cole, _Suspect Identities_, Chapters 1 and 2 
-
 
 #### The Rise of Detective Fiction
 
@@ -92,6 +92,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Arthur Conan Doyle, “A Scandal in Bohemia,” available at http:\/\/www.gutenberg.org\/files\/1661\/1661-h\/1661-h.htm\#
 
 * "Data Cleaning" in this book
+
 
 ### Week 6
 
@@ -102,5 +103,38 @@ Through this course, students will be introduced to text analysis and data minin
 * _The String of Pearls_, Chapters 36-39, available from [http:\/\/www.victorianlondon.org\/mysteries\/sweeney\_todd-00.htm](http://www.victorianlondon.org/mysteries/sweeney_todd-00.htm)
 
 * Franco Moretti, “Graphs” from _Graphs, Maps, Trees_
+
+
+#### Violence and Entertainment, Part II
+
+* Rosalind Crone, _Violent Victorians_, Chapter 6
+
+* “The Hampstead Murders,” available from http:\/\/vrchristensen.com\/http:\/vrchristensen.com\/category\/newspaper-articles\/lloyds-weekly-newspaper\/
+
+* Find an article on a 19th century murder from the _Times_ from the “Dictionary of Victorian London,” available at http:\/\/www.victorianlondon.org\/index-2012.htm 
+
+
+### Week 7
+
+#### The Spectacle of the City, Part I
+
+* Vanessa Schwartz, _Spectacular Realities_, Chapter 1
+
+
+#### The Spectacle of the City, Part II
+
+* Vanessa Schwartz, _Spectacular Realities_, Chapters 2 and 3 
+
+* "Reading at Scale" in this book
+
+### Week 8
+
+#### Sex and the City
+
+* Judith Walkowitz, “Male Vice and Feminist Virtue: Feminism and the Politics of Prostitution in Nineteenth-Century Britain”
+
+* W.T. Stead, “The Maiden Tribute of Modern Babylon”
+
+*  
 
 
