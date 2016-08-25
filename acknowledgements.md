@@ -1,6 +1,6 @@
 # Acknowledgements
 
-Eric Rochester
-Mackenzie Brooks
-Julie Kane
-Students from the course
+* Eric Rochester
+* Mackenzie Brooks
+* Julie Kane
+* Students from the course
