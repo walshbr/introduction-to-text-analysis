@@ -10,7 +10,7 @@ Stop right there! We've got not one, but two for you:
 
 ![sarah's sleeping dog](/assets/classifiers/sleepingstarbuck.jpg)
 
-\(Do you feel like crawling under the covers and sleeping like this dog here?\)
+\(Do you feel like crawling under the covers and sleeping like this dog here? She sometimes gets tired of impersonating a bagel.\)
 
 Now that you're back and not going anywhere, your point is a good one. We wanted to stay relatively simple so that you could get a handle on the basics of supervised classification, but let's think about the ways you could apply this method to texts. The [NLTK book](http://www.nltk.org/book/ch06.html) \(which is a great one to check out if you want to go into more depth into text analysis\) lists some common text classification tasks:
 
@@ -80,9 +80,10 @@ For the purposes of this demonstration, let's assume that we know that Rymer wro
 
 ![](/assets/Screen Shot 2016-08-25 at 10.34.08 AM.png)
 
-Here, it looks like the tool is trending towards Rymer as the author of the Chapter, but we're mainly dealing with uncertainty. But that uncertainty itself is pretty interesting! Maybe what this is showing us is that the authors had a pretty similar style. We might want to investigate the uses of puncutation in different chapters or the lexical diversity, word length and sentence length in much more detail. 
-> Are other penny dreadfuls similar to _The String of Pearls_ in these respects? 
+Here, it looks like the tool is trending towards Rymer as the author of the Chapter, but we're mainly dealing with uncertainty. But that uncertainty itself is pretty interesting! Maybe what this is showing us is that the authors had a pretty similar style. We might want to investigate the uses of puncutation in different chapters or the lexical diversity, word length and sentence length in much more detail.
 
+> Are other penny dreadfuls similar to _The String of Pearls_ in these respects?
+> 
 > If so, what differentiates the style of these works from other types of serial novels?
 
 Similar processes have been used for a variety of authorship attribution cases. The most famous one in recent times is probably that of Robert Galbraith, who came out with _The Cuckoo's Calling_ in 2013. Using a similar process of measuring linguistic similarity, Patrick Juola was able to test a hypothesis that J.K. Rowling had released the detective novel under a pseudonym. You can read more about the process [here](http://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/).
