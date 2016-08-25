@@ -38,7 +38,7 @@ So we have been developing a series of tests for fruit types, but they might not
 
 Likewise, maybe you want to figure out a classification system to sort bagels. So you ask: is it round? Yes. Then it's a bagel. Does it have black dots? Then it's a poppy-seed bagel. Does it have white dots? Then it's a sesame-seed bagel. Neither one? Mainly one color? Then it's a plain bagel.
 
-![](/assets/bagel2.jpg)
+![bagel dog](/assets/bagel2.jpg)
 
 Only this dog fits all the criteria for a plain bagel, but is definitely not a bagel. 
 
