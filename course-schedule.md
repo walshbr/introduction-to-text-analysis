@@ -151,10 +151,58 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Introduction, Chapters 3 and 4
 
-* Tressie McMillan Cottom, “When Your \(Brown\) Body is a \(White\) Wonderland,” http:\/\/tressiemc.com\/2013\/08\/27\/when-your-brown-body-is-a-white-wonderland\/ 
+* Tressie McMillan Cottom, “When Your \(Brown\) Body is a \(White\) Wonderland,” http:\/\/tressiemc.com\/2013\/08\/27\/when-your-brown-body-is-a-white-wonderland\/
 
 
 #### The Spectacle of Race, Part II
+
+* Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Chapter 6
+
+* Cleuci de Oliveira, “Saartjie Baartman: The Original Booty Queen,” available at http:\/\/jezebel.com\/saartje-baartman-the-original-booty-queen-1658569879 
+
+* Pia Glenn, “You Can’t Ignore the Degradation of Saartjie Baartman to Connect Her to Kim Kardashian. You Just Can’t,” available at http:\/\/www.xojane.com\/issues\/saartjie-baartman-kim-kardashian
+
+* Danielle Bowler, “Saartjie Baartman is not ‘The Original Booty Queen,’” available at http:\/\/ewn.co.za\/2014\/11\/17\/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen 
+
+* "Classifiers" in this book
+
+### Week 10
+
+#### Politics, National Identity and Scandal
+
+* Michael Burns, _France and the Dreyfus Affair_, selections
+
+* "Sentiment Analysis" in this book
+
+#### Scandals and Contemporary Media
+
+* Anita Sarkeesian Interview: ‘The word “troll” feels too childish. This is abuse’ available from http:\/\/www.theguardian.com\/technology\/2015\/aug\/29\/anita-sarkeesian-gamergate-interview-jessica-valenti
+
+* “NSA Files Decoded” available from http:\/\/www.theguardian.com\/world\/interactive\/2013\/nov\/01\/snowden-nsa-files-surveillance-revelations-decoded
+
+* Adam Kirsch, “Technology is Taking Over English Departments: The False Promise of the Digital Humanities” available from [https:\/\/newrepublic.com\/article\/117428\/limits-digital-humanities-adam-kirsch](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
+
+
+### Week 11
+
+#### Meetings with Professors about Final Projects
+
+* no class
+
+
+#### Crime, Scandal and Politics in the Present Day
+
+* Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, “Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks,” ProPublica, available from https:\/\/www.propublica.org\/article\/machine-bias-risk-assessments-in-criminal-sentencing
+
+* Matt Bai, “How Gary Hart’s Downfall Forever Changed American Politics,” _New York Times Magazine_, available online 
+
+* "Conclusion" in this book
+
+### Week 12
+
+#### Class Presentations
+
+#### Wrap-Up and Class Presentations
 
 * 
 
