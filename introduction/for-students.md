@@ -18,5 +18,5 @@ They also suggest that what unites the humanities is a common methodology:
 
 > The primary method for the study of humans through the investigation of their cultural products is _interpretation_....I would say that the greatest difference, as far as I understand scientific method, is that for us hypotheses emerge from the data as we study and interpret, and are constantly being modified and corrected, while the natural sciences seem to begin with hypotheses that they test.
 
-This class is taught by an English professor and a History professor.  You'll probably notice that we have slightly different approaches and knowledge bases and occassionally use a somewhat different terminology to describe the same things. But broadly speaking, we work in many of the same ways: reading and analyzing texts and thinking about meaning and cultural context.
+This class is taught by an English professor and a History professor.  You'll probably notice that we have slightly different approaches and knowledge bases and occassionally use a somewhat different terminology to describe the same things. But broadly speaking, we work in many of the same ways: reading and analyzing texts and thinking about meaning and cultural context. You do too, whether you realize or not, and this class aims to help you do so in different ways.
 
