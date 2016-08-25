@@ -140,9 +140,21 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Judith Walkowitz, “Jack the Ripper and the Myth of Male Violence”
 
-* Find two articles from http:\/\/www.casebook.org\/press\_reports\/ on Jack the Ripper 
+* Find two articles from http:\/\/www.casebook.org\/press\_reports\/ on Jack the Ripper
 
 * "Topic Modeling" in this book
+
+
+### Week 9
+
+#### The Spectacle of Race, Part I
+
+* Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Introduction, Chapters 3 and 4
+
+* Tressie McMillan Cottom, “When Your \(Brown\) Body is a \(White\) Wonderland,” http:\/\/tressiemc.com\/2013\/08\/27\/when-your-brown-body-is-a-white-wonderland\/ 
+
+
+#### The Spectacle of Race, Part II
 
 * 
 
