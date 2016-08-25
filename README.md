@@ -1,6 +1,6 @@
 # Preface
 
-*(Note: this book is still in progress. Check back in later for updates!)*
+*(Note: this book is complete, but still undergoing revision. If you find an error, want a piece clarified more, or find deep problems with particular explanations, drop us a line on our GitHub issues page)*
 
 This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis, and a series of exercises to practice the new skills. In some cases, studies of particular projects are presented instead of tools. 
 
