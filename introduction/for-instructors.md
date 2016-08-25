@@ -11,6 +11,3 @@ Second, we wanted to provide a set of materials that could be resuable in other 
 Third, the book is an experiment in open, versioned, collaborative writing.
 
 The workbook is not meant to exhaust the topic of digital text analysis: quite the contrary. In its initial use, the workbook was envisioned as the textbook for the rough equivalent of a one-credit lab course taught in close conjunction with a three-credit disciplinary course. 
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/80x15.png" /></a><br />Introduction to Text Analysis</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/index.html" property="cc:attributionName" rel="cc:attributionURL">Brandon Walsh and Sarah Horowitz</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
