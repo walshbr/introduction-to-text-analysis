@@ -1,10 +1,6 @@
 # Course Schedule
 
-## For Instructors
-
-What follows is an outline of the course schedule so that you can get a sense of the material it covers, the assignments and the pacing.
-
-## For Students in History 211
+## Note for Students in History 211: 
 
 The following is the course schedule as set up at the beginning of the term. It's very likely that we will change it during the course of the term, but will not update the schedule here. Please consult Sakai for the official schedule.
 
@@ -113,9 +109,9 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Rosalind Crone, _Violent Victorians_, Chapter 6
 
-* “The Hampstead Murders,” available from http:\/\/vrchristensen.com\/http:\/vrchristensen.com\/category\/newspaper-articles\/lloyds-weekly-newspaper\/
+* “The Hampstead Murders,” available from [http:\/\/vrchristensen.com\/http:\/vrchristensen.com\/category\/newspaper-articles\/lloyds-weekly-newspaper\/](http://vrchristensen.com/http:/vrchristensen.com/category/newspaper-articles/lloyds-weekly-newspaper/)
 
-* Find an article on a 19th century murder from the _Times_ from the “Dictionary of Victorian London,” available at http:\/\/www.victorianlondon.org\/index-2012.htm
+* Find an article on a 19th century murder from the _Times_ from the “Dictionary of Victorian London,” available at [http:\/\/www.victorianlondon.org\/index-2012.htm](http://www.victorianlondon.org/index-2012.htm)
 
 
 #### Final Group Project Proposals Due
@@ -146,7 +142,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Judith Walkowitz, “Jack the Ripper and the Myth of Male Violence”
 
-* Find two articles from http:\/\/www.casebook.org\/press\_reports\/ on Jack the Ripper
+* Find two articles from [http:\/\/www.casebook.org\/press\_reports\/](http://www.casebook.org/press_reports/) on Jack the Ripper
 
 * "Topic Modeling" in this book
 
@@ -159,18 +155,18 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Introduction, Chapters 3 and 4
 
-* Tressie McMillan Cottom, “When Your \(Brown\) Body is a \(White\) Wonderland,” http:\/\/tressiemc.com\/2013\/08\/27\/when-your-brown-body-is-a-white-wonderland\/
+* Tressie McMillan Cottom, “When Your \(Brown\) Body is a \(White\) Wonderland,” [http:\/\/tressiemc.com\/2013\/08\/27\/when-your-brown-body-is-a-white-wonderland\/](http://tressiemc.com/2013/08/27/when-your-brown-body-is-a-white-wonderland/)
 
 
 #### The Spectacle of Race, Part II
 
 * Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Chapter 6
 
-* Cleuci de Oliveira, “Saartjie Baartman: The Original Booty Queen,” available at http:\/\/jezebel.com\/saartje-baartman-the-original-booty-queen-1658569879
+* Cleuci de Oliveira, “Saartjie Baartman: The Original Booty Queen,” available at [http:\/\/jezebel.com\/saartje-baartman-the-original-booty-queen-1658569879](http://jezebel.com/saartje-baartman-the-original-booty-queen-1658569879)
 
-* Pia Glenn, “You Can’t Ignore the Degradation of Saartjie Baartman to Connect Her to Kim Kardashian. You Just Can’t,” available at http:\/\/www.xojane.com\/issues\/saartjie-baartman-kim-kardashian
+* Pia Glenn, “You Can’t Ignore the Degradation of Saartjie Baartman to Connect Her to Kim Kardashian. You Just Can’t,” available a[t http:\/\/www.xojane.com\/issues\/saartjie-baartman-kim-kardashian](/t http://www.xojane.com/issues/saartjie-baartman-kim-kardashian)
 
-* Danielle Bowler, “Saartjie Baartman is not ‘The Original Booty Queen,’” available at http:\/\/ewn.co.za\/2014\/11\/17\/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen
+* Danielle Bowler, “Saartjie Baartman is not ‘The Original Booty Queen,’” available at[ http:\/\/ewn.co.za\/2014\/11\/17\/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen](/ http://ewn.co.za/2014/11/17/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen)
 
 * "Classifiers" in this book
 
@@ -186,9 +182,9 @@ Through this course, students will be introduced to text analysis and data minin
 
 #### Scandals and Contemporary Media
 
-* Anita Sarkeesian Interview: ‘The word “troll” feels too childish. This is abuse’ available from http:\/\/www.theguardian.com\/technology\/2015\/aug\/29\/anita-sarkeesian-gamergate-interview-jessica-valenti
+* Anita Sarkeesian Interview: ‘The word “troll” feels too childish. This is abuse’ available from [http:\/\/www.theguardian.com\/technology\/2015\/aug\/29\/anita-sarkeesian-gamergate-interview-jessica-valenti](http://www.theguardian.com/technology/2015/aug/29/anita-sarkeesian-gamergate-interview-jessica-valenti)
 
-* “NSA Files Decoded” available from http:\/\/www.theguardian.com\/world\/interactive\/2013\/nov\/01\/snowden-nsa-files-surveillance-revelations-decoded
+* “NSA Files Decoded” available from [http:\/\/www.theguardian.com\/world\/interactive\/2013\/nov\/01\/snowden-nsa-files-surveillance-revelations-decoded](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)
 
 * Adam Kirsch, “Technology is Taking Over English Departments: The False Promise of the Digital Humanities” available from [https:\/\/newrepublic.com\/article\/117428\/limits-digital-humanities-adam-kirsch](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
 
@@ -203,9 +199,9 @@ Through this course, students will be introduced to text analysis and data minin
 
 #### Crime, Scandal and Politics in the Present Day
 
-* Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, “Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks,” ProPublica, available from https:\/\/www.propublica.org\/article\/machine-bias-risk-assessments-in-criminal-sentencing
+* Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, “Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks,” ProPublica, available from [https:\/\/www.propublica.org\/article\/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-* Matt Bai, “How Gary Hart’s Downfall Forever Changed American Politics,” _New York Times Magazine_, available online
+* Matt Bai, “How Gary Hart’s Downfall Forever Changed American Politics,” _New York Times Magazine_, available from [http:\/\/www.nytimes.com\/2014\/09\/21\/magazine\/how-gary-harts-downfall-forever-changed-american-politics.html](http://www.nytimes.com/2014/09/21/magazine/how-gary-harts-downfall-forever-changed-american-politics.html)
 
 * "Conclusion" in this book
 
