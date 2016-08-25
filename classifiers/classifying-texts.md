@@ -74,11 +74,11 @@ Take a text that we've talked a lot about in this course: _The String of Pearls_
 
 For the purposes of this demonstration, let's assume that we know that Rymer wrote Chapter One and Prest wrote Chapter Two. So which one wrote Chapter Thirty-Three? If we go back to our author attribution tool and copy Chapter One into the box for Author 1 and Chapter Two into the box for Author 2, here's what we get for Chapter Thirty-Three:
 
-![](/assets/Screen Shot 2016-08-25 at 10.33.39 AM.png)
+![](/assets/Screen Shot 2016-08-25 at 10.33.39 AM.jpg)
 
-![](/assets/Screen Shot 2016-08-25 at 10.33.54 AM.png)
+![](/assets/Screen Shot 2016-08-25 at 10.33.54 AM.jpg)
 
-![](/assets/Screen Shot 2016-08-25 at 10.34.08 AM.png)
+![](/assets/Screen Shot 2016-08-25 at 10.34.08 AM.jpg)
 
 Here, it looks like the tool is trending towards Rymer as the author of the Chapter, but we're mainly dealing with uncertainty. But that uncertainty itself is pretty interesting! Maybe what this is showing us is that the authors had a pretty similar style. We might want to investigate the uses of puncutation in different chapters or the lexical diversity, word length and sentence length in much more detail.
 
