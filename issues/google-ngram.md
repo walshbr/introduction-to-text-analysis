@@ -30,7 +30,11 @@ The Google Books corpus has also, at times, been criticized for its heavy relian
 
 ## Methodology
 
-Even with a perfect corpus, our choices can make a big difference in the results we produce. The above search only accounts for single words, but there are more nuanced ways of using the NGram Viewer. An NGram is another name for a sequence of words of length *n*. Take this sentence: 'a test sentence.' We have three n-grams of length 1, two n-grams of length 2, and 1 n-gram of length 3. Or, we could use shorthand: we have 3 **unigrams** or **tokens**, 2 **bigrams**, and 1 **trigram**. These are just fancy ways to describe different ways of chunking up a piece of text so that we can work with it. And we can do the same thing in the NGram Viewer. Take this NGram for the token 'scandal' in an English corpus:
+Even with a perfect corpus, our choices can make a big difference in the results we produce. The above search only accounts for single words, but there are more nuanced ways of using the NGram Viewer. An NGram is another name for a sequence of words of length *n*. Take this short phrase: 
+
+'a test sentence.' 
+
+We have three n-grams of length 1, two n-grams of length 2, and 1 n-gram of length 3. Or, we could use shorthand: we have 3 **unigrams** or **tokens**, 2 **bigrams**, and 1 **trigram**. These are just fancy ways to describe different ways of chunking up a piece of text so that we can work with it. And we can do the same thing in the NGram Viewer. Take this NGram for the token 'scandal' in an English corpus:
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
 
