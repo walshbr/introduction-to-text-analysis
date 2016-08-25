@@ -70,7 +70,7 @@ So looking at these measures, for a successful classifier we would want the arro
 
 Note also how these measures of authorship overlap with other things we have studied in this book. Remember stopwords, those words that are so common in a text that they are frequently removed before text analysis? In cases, like this one, we might actually care a lot about those simple stopwords. Two of the three measures for authorship here deal with just those words that we might otherwise throw away: punctuation, articles, etc. These words might not tell you much about what a text talks about, but they can tell you an awful lot about _how_ a text discusses them. They make up the verbal tissue in ways and can very frequently serve as identifying thumbprints.
 
-Or, take a text that we've talked a lot about in this course: _The String of Pearls_. This penny dreadful was published in weekly installments and was written \(we think\) by James Malcolm Rymer and Thomas Peckett Prest. But the work was published anonymously, so we don't know which author wrote which chapter \(or even if Rymer and Prest wrote the novel\).
+Take a text that we've talked a lot about in this course: _The String of Pearls_. This penny dreadful was published in weekly installments and was written \(we think\) by James Malcolm Rymer and Thomas Peckett Prest. But the work was published anonymously, so we don't know which author wrote which chapter \(or even if Rymer and Prest wrote the novel\).
 
 For the purposes of this demonstration, let's assume that we know that Rymer wrote Chapter One and Prest wrote Chapter Two. So which one wrote Chapter Thirty-Three? If we go back to our author attribution tool and copy Chapter One into the box for Author 1 and Chapter Two into the box for Author 2, here's what we get for Chapter Thirty-Three:
 
@@ -80,7 +80,10 @@ For the purposes of this demonstration, let's assume that we know that Rymer wro
 
 ![](/assets/Screen Shot 2016-08-25 at 10.34.08 AM.png)
 
-Here, it looks like the tool is trending towards Rymer as the author of the Chapter, but we're mainly dealing with uncertainty. But that uncertainty itself is pretty interesting! Maybe what this is showing us is that the authors had a pretty similar style. We might want to investigate the uses of puncutation in different chapters or the lexical diversity, word length and sentence length in much more detail. Are other penny dreadfuls similar to _The String of Pearls_ in these respects? If so, what differentiates the style of these works from other types of serial novels?
+Here, it looks like the tool is trending towards Rymer as the author of the Chapter, but we're mainly dealing with uncertainty. But that uncertainty itself is pretty interesting! Maybe what this is showing us is that the authors had a pretty similar style. We might want to investigate the uses of puncutation in different chapters or the lexical diversity, word length and sentence length in much more detail. 
+> Are other penny dreadfuls similar to _The String of Pearls_ in these respects? 
+
+> If so, what differentiates the style of these works from other types of serial novels?
 
 Similar processes have been used for a variety of authorship attribution cases. The most famous one in recent times is probably that of Robert Galbraith, who came out with _The Cuckoo's Calling_ in 2013. Using a similar process of measuring linguistic similarity, Patrick Juola was able to test a hypothesis that J.K. Rowling had released the detective novel under a pseudonym. You can read more about the process [here](http://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/).
 
