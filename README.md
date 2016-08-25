@@ -1,6 +1,7 @@
 # Preface
 
-*(Note: this book is drafted but still undergoing revisions. If you find an error, want a piece clarified more, or find deep problems with particular explanations, drop us a line on our [GitHub issues page](https://github.com/bmw9t/introduction-to-text-analysis/issues). We'll be grateful and list you in our acknowledgements section!)*
+*(Note: this book is drafted but still undergoing revisions. If you find an error, want a piece clarified more, or find deep problems with particular explanations, drop us a line on our [GitHub issues page](https://github.com/bmw9t/introduction-to-text-analysis/issues). We'll be grateful and list you in our [acknowledgements](acknowledgments.md
+)!)*
 
 This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces students to a concept, a tool for digital text analysis, and a series of exercises for practicing the new skills. In some cases, studies of particular projects are presented instead of tools in the third section of each unit. 
 
