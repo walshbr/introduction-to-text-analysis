@@ -30,7 +30,7 @@ The Google Books corpus has also, at times, been criticized for its heavy relian
 
 ## Methodology
 
-Even with a perfect corpus, our choices can make a big difference in the results we produce. The above search only accounts for single words, but there are more nuanced ways of using the NGram Viewer. An NGram is another name for a sequence of words of length *n*. Take this short phrase: 
+Even with a perfect corpus, our choices can make a big difference in the results we produce. The above search only accounts for single words, but there are more nuanced ways of using the NGram Viewer. An **n-gram** is another name for a sequence of words of length *n*. Take this short phrase: 
 
 'a test sentence.' 
 
