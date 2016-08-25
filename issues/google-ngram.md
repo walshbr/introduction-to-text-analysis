@@ -40,7 +40,7 @@ We have three n-grams of length 1, two n-grams of length 2, and 1 n-gram of leng
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
 
-![scandal ngram](/assets/google-ngram-viewer/scandal.md)
+![scandal ngram](/assets/google-ngram-viewer/scandal.jpg)
 
 It appears like something fairly dramatic happened around 1660 that caused a massive spike in the usage of 'scandal.' This in itself could be significant, but we might be interested in more nuanced readings of this data. We might want to see, say, bigrams containing scandal like 'political scandal' and 'religious scandal' to observe when certain types of scandals come into prominence. The NGram Viewer allows for a number of nuanced searches that you can read about [here](https://books.google.com/ngrams/info). For now, let's try out a wildcard search - '* scandal':
 
