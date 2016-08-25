@@ -34,9 +34,17 @@ fruit.is_durian?
 
 The test is actually pretty simple in its results, even if the feature set that leads to them is more nuanced. True and False are referred to as **boolean data types** in programming, and these boolean values are used to test or represent whether something is just that - true or false.
 
-So we have been developing a series of tests for fruit types, but they might not be perfectly correct: after all, there are other fruits that are large, spikey and yellow-ish. A kiwano melon could have gotten thrown into the mix, and you might have incorrectly identified it as a durian. Or you might have gotten an unripe \(green\) durian, which you incorrectly tossed in the wrong pile. So we could better characterize our two piles as "probably not durian" and "probably durian." The use of the word "probably" should be a clue here - we have drifted into probability and statistics. Don't worry too much about that for now, but you should know that what we have developed here is a very basic **naive Bayes classifier**. Thomas Bayes was an eighteenth-century statistician, and this classifier relies on his underlying [theory of statistics](https://en.wikipedia.org/wiki/Bayesian_statistics). There are other types of classifiers, but this kind assumes that each feature \(size, color, spikiness\) in our feature set will have some say in determining whether or not the unknown fruit is a durian. The classifier combines these likelihoods with the total number of times that durian actually occurred in our example set of fruit to determine the probability of each label. In this case, our labels are durian or not-durian, true or false, though you could have more than just two labels. The classifier then picks the label with the highest likelihood.
+So we have been developing a series of tests for fruit types, but they might not be perfectly correct: after all, there are other fruits that are large, spikey and yellow-ish. A kiwano melon could have gotten thrown into the mix, and you might have incorrectly identified it as a durian. Or you might have gotten an unripe \(green\) durian, which you incorrectly tossed in the wrong pile. So we could better characterize our two piles as "probably not durian" and "probably durian." The use of the word "probably" should be a clue here - we have drifted into probability and statistics. 
 
-We have trained ourselves to classify fruit, and we could replicate that same process on durian at a later date. If a master fruit vendor comes along, he could probably tell us how accurate we were. We could then compare our accuracy to another person trained to classify fruit, and we could figure out who is the better classifier.
+Likewise, maybe you want to figure out a classification system to sort bagels. So you ask: is it round? Yes. Then it's a bagel. Does it have black dots? Then it's a poppy-seed bagel. Does it have white dots? Then it's a sesame-seed bagel. Neither one? Mainly one color? Then it's a plain bagel.
+
+![](/assets/bagel2.jpg)
+
+Only this dog fits all the criteria for a plain bagel, but is definitely not a bagel. 
+
+We have developed here are very basic **naive Bayes classifiers**. Thomas Bayes was an eighteenth-century statistician, and this classifier relies on his underlying [theory of statistics](https://en.wikipedia.org/wiki/Bayesian_statistics). There are other types of classifiers, but this kind assumes that each feature \(size, color, spikiness in the fruit example; shape and dotted-ness in the bagel example\) in our feature set will have some say in determining how to classify something that is unknown. 
+
+In the fruit example, the classifier combines these likelihoods with the total number of times that durian actually occurred in our example set of fruit to determine the probability of each label. In this case, our labels are durian or not-durian, true or false, though you could have more than just two labels. The classifier then picks the label with the highest likelihood. We have trained ourselves to classify fruit, and we could replicate that same process on durian at a later date. If a master fruit vendor comes along, he could probably tell us how accurate we were. We could then compare our accuracy to another person trained to classify fruit, and we could figure out who is the better classifier.
 
 This might all seem a bit removed from the kinds of work that we have been doing elsewhere in the book, but we wanted you to get a firm foundation in what classification is before we modeled an example relative to text analysis.
 
@@ -45,3 +53,5 @@ This might all seem a bit removed from the kinds of work that we have been doing
 * The NLTK book has [a good section](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) on naive Bayes classifiers. The book is a Python tutorial, though, so it will quickly get technical.
 
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+
