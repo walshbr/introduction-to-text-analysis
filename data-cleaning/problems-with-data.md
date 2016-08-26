@@ -92,7 +92,13 @@ Arthur Conan, Doyle
 
 The next problem should be obvious: Jane Austen is in a last\_name, first\_name format, while the others are in the reverse. So our final version of this dataset would look like this:
 
-```Author Names---Austen, JaneDoyle, ArthurDoyle, Arthur Conan```
+```
+Author Names
+---
+Austen, Jane
+Doyle, Arthur
+Doyle, Arthur Conan
+```
 
 We might go further to associate Arthur Doyle and Arthur Conan Doyle as being representations of the same person, a process known as **authority control**. A common way of referring to data that contains inconsistencies and\/or errors is as **dirty data**. To keep the metaphor, then, the process of revising data to remove such problems and prepare it for use is called **data cleaning**.
 
