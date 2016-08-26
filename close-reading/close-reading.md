@@ -25,7 +25,7 @@ Next to the note: dirty dishes. Was your roommate in a hurry and actually asking
 
 **Text**: Take a look at that question mark. And then the curt second sentence. Your roommate put those things there on purpose to be rude.
 
-The list could go on and on. We employ a similar range of skills when we read anything, be it fiction, poetry, or historical documents. Close reading tends to refer to the last category, and might be best described as an activity in which a reader simply lets no detail of the text go unquestioned. The best way at approaching a good close reading is by asking \(and attempting to answer\) questions about every piece of a text.
+The list could go on and on. We employ a similar range of skills when we read anything, be it fiction, poetry, or historical documents. Close reading might be best described as an activity in which a reader simply lets no detail of the text go unquestioned. The best way at approaching a good close reading is by asking \(and attempting to answer\) questions about every piece of a text.
 
 Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ \(which you can find [here](http://chnm.gmu.edu/revolution/d/261/)\) similar to the ones discussed in Sarah Maza's “The Diamond Necklace Affair Revisited: The Case of the Missing Queen.” Mme du Barry was a prostitute who was Louis XV's mistress at the end of his reign \(1715-1774\). Here is how the Count du Barry tells one of Louis XV's courtiers that he has a woman in mind for the king:
 
