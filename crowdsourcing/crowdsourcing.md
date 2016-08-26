@@ -1,6 +1,6 @@
 # Crowdsourcing
 
-Think of a common scenario: you are buying something online and, before the system will allow you to check out, you have to enter some text, transcribe some audio, or otherwise prove that you are not a robot. Doing so only takes a few seconds of your time, but such transactions happen millions of times everyday on the internet. The combined energy wasted on such a simple interaction is astounding.
+Think of a common scenario: you are buying something online and, before the system will allow you to check out, you have to enter some text, transcribe some audio, or otherwise prove that you are not a robot. Doing so only takes a few seconds of your time, but such transactions happen millions of times everyday on the internet. The combined energy wasted on such simple interactions is astounding.
 
 Now imagine that you could take all those hours of human labor and put them to something useful. [reCAPTCHA](https://www.google.com/recaptcha/intro/index.html) aims to do just that, and you've probably unwittingly used it. Those human-validation tasks we described in the last paragraph? The chances are pretty high that, when you carried one out, you may have unwittingly corrected an image transcription, helped provide a test set for artificial intelligence, or helped to make Google Maps more precise. The next time you fill out a text box to prove that you are a human, you might take a closer look at what you are doing and ask, "what is my work being used for?"
 
