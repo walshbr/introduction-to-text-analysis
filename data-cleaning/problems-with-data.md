@@ -34,7 +34,14 @@ Did you read it? Don't lie to me.
 
 Doyle has a complicated naming history, to say the least. Now iImagine you are putting together a database of authors. You get to Doyle. How will you save his name? I can think of a number of possibilities:
 
-DoyleArthur DoyleA.C. DoyleDoyle, A.C.Doyle, Sir ArthurDoyle, Sir Arthur ConanSir Arthur Conan Doyle
+```
+Doyle Arthur Doyle
+A.C. Doyle
+Doyle, A.C.
+Doyle, Sir Arthur
+Doyle, Sir Arthur Conan
+Sir Arthur Conan Doyle
+```
 
 You can probably imagine others. All of these are technically correct, and they might serve your purposes just fine. But you need to be consistent. Remember how computers cannot infer anything? Imagine this as part of your database of authors:
 
