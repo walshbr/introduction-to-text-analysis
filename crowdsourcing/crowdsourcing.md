@@ -32,6 +32,6 @@ These are open questions with no clear answers, but they are worth keeping in mi
 > What happens when we give control of the project over to the crowd?
 
 ## Further Resources
-* Brandon Walsh, et al. have a piece on Prism and crowdsourcing with a useful bibliography for pointing to other crowdsourcing projects.
-(http://llc.oxfordjournals.org/content/29/3/379.full)
-* Mia Ridge, [Crowdsourcing our Cultural Heritage](http://www.worldcat.org/title/crowdsourcing-our-cultural-heritage/oclc/883391279)
+* Brandon Walsh, et al. have a [piece on Prism](http://llc.oxfordjournals.org/content/29/3/379.full) and crowdsourcing with a useful bibliography for pointing to other crowdsourcing projects.
+
+* Mia Ridge's book on [Crowdsourcing our Cultural Heritage](http://www.worldcat.org/title/crowdsourcing-our-cultural-heritage/oclc/883391279) is fantastic on crowdsouring in a cultural context
