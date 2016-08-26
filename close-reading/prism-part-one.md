@@ -8,11 +8,9 @@ The transparency game crystallizes a very basic element of textual analysis:
 
 The game asks you to make graphic representations of these decisions, to identify the words that make you think or feel a certain way. By lifting the transparency off the text, you are left with a series of colors that correspond to your reading of the document. You have traced the broad outlines of your interpretation onto the page.
 
-
-
 ![prism splash page](/assets/close-reading/prism-splash-page.jpg)
 
-*Prism* is a digital version of the same game. Given a choice between a few predetermined categories, *Prism* asks you to highlight a given text. In this *Prism *example, readers are asked to mark an excerpt from Edgar Allan Poe's *The Raven*. By selecting one of the buttons next to the categories on the right, your cursor will change into a colored highlighter. Clicking and dragging across the text will highlight it in the same way that you might if you were reading a print version.
+*Prism* is a digital version of the same game. Given a choice between a few predetermined categories, *Prism* asks you to highlight a given text. In this *Prism *example, readers are asked to mark an excerpt from Edgar Allan Poe's "The Raven." By selecting one of the buttons next to the categories on the right, your cursor will change into a colored highlighter. Clicking and dragging across the text will highlight it in the same way that you might if you were reading a print version.
 
 ![prism highlights of the raven](/assets/close-reading/prism-raven-highlights.jpg)
 
