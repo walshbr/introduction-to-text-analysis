@@ -30,3 +30,6 @@ These are open questions with no clear answers, but they are worth keeping in mi
 
 > Can the crowd do more?
 > What happens when we give control of the project over to the crowd?
+
+## Further Resources
+* 
