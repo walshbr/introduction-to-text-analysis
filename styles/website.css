@@ -8,7 +8,7 @@ height: 320px;
 width: 900px;
 }
 
-#iframe-image-sub{
+.iframe-image-sub{
 
  display:none;
 
@@ -19,7 +19,7 @@ width: 900px;
     iframe{
         display:none;
     }
-    #iframe-image-sub{
+    .iframe-image-sub{
         display: inline;
     }
 }
