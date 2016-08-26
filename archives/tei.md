@@ -20,7 +20,7 @@ This book studies texts and the things that computers can do with them. But, as 
 
 > How does it mean?
 
-Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures, and, even then, only know about those structures that someone has told it about. For example, if I were to say to a computer, "Hey! Find me the poem in this lesson!" It would have no idea what I was talking about: I have to let find some way of telling it where it can find the poem. Right now it just thinks the text up there is no different from the other lines of text on this page.
+Computers have a hard with abstract concepts like this. They tend to work in hierarchies and clear-cut structures, and, even then, only know about those structures that someone has told it about. For example, if we were to say to a computer, "Hey! Find me the poem in this lesson!" It would have no idea what we were talking about: we have to let find some way of telling it where it can find the poem. Right now it just thinks the text up there is no different from the other lines of text on this page.
 
 A computer program looking at the above passage from Oscar Wilde's *The Ballad of Reading Gaol* would, most likely, not even recognize those six lines as related in any way. Nor it would understand anything about how the internal components of those lines relate to each other. There are a number of ways to do this, and we can get towards one that works for a computer by working through a few that you might use on your own. 
 
@@ -66,7 +66,7 @@ We can give further details to the poem. For example:
     <l>The brave man with a sword!</l>
   </lg>
   <lg type="stanza">
-    <l> A short second stanza that I've made up.</l>
+    <l> A short second stanza that we've made up.</l>
   </lg>
 </lg>```
 
@@ -85,7 +85,7 @@ One last one. Remember our rhyme scheme and line numbers? We can encode those to
   </lg>
  ```
 
-I have added attributes to denote the line numbers for each line as well as the rhyme scheme, and then a new <rhyme> tag for each line denotes what word the rhyme is associated with. All of the tags used here can be found in the tutorial on poetry of the [TEI by Example](http://teibyexample.org/modules/TBED04v00.htm) page.
+We have added attributes to denote the line numbers for each line as well as the rhyme scheme, and then a new <rhyme> tag for each line denotes what word the rhyme is associated with. All of the tags used here can be found in the tutorial on poetry of the [TEI by Example](http://teibyexample.org/modules/TBED04v00.htm) page.
 
 Once a text has been **encoded** in this way, it can be represented more easily in a digital form. This work may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. TEI encoding can make it possible to provide nuanced digital editions of a work. We could actually say to a program, pull out all the rhyming words in a poem. Make them appear differently on a webpage. Change them all to "TEI is the best."
 

@@ -31,7 +31,7 @@ Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ 
 
 > "I’ve got your business for you. You know I don’t lack taste. Trust me: you come to dinner at my house and tell me that I’m a cad if I don’t give you the most beautiful woman, the most fresh, the most seductive; a true morsel for a king."
 
-In beginning a close reading here, I might ask:
+In beginning a close reading here, we might ask:
 
 * What adjectives and nouns describe Mme du Barry here?
 
@@ -43,7 +43,7 @@ In beginning a close reading here, I might ask:
 
 * If you read the rest of the text, you'll see that most of the language in this excerpt is flowery -- but not the Count du Barry's words. What does that suggest about who he is and what his character is like?
 
-You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage, but how you use them depends on you. This evidence becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
+You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage, but how you use them depends on you. This evidence becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, we might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. We might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
 
 ## Primary and Secondary Texts for Historical Analysis
 

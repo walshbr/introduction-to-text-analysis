@@ -1,6 +1,6 @@
 # Exercises
 
-* I want you to spend some time reading this short passage from [Historical Essays on the Life of Marie–Antoinette of Austria](http://chnm.gmu.edu/revolution/d/262/)
+* We want you to spend some time reading this short passage from [Historical Essays on the Life of Marie–Antoinette of Austria](http://chnm.gmu.edu/revolution/d/262/)
  and then describing the process in as great detail as you can manage. What kinds of things do you notice about the passage? Are you looking for particular things? What goes through your head? Then read the passage two more times and repeat the same exercise, describing in detail what goes through your head. Your passage to work from: 
 
 > The public calls the hero wicked, and the wicked a hero; it also calls the virtuous a harlot and a harlot virtuous. . . . So were the Countess Du Barry and Marie Antoinette. Through her dissolute and revolting debauchery, Du Barry amazed the universe in the alleys, and the crossroads of Paris. She did all these things in evil ways. The same debauchery and agitation of passions were observed in Marie Antoinette's life. Men, women, everything was as she liked. She was satisfied with everything. Her clumsiness as well as her careless mistakes involuntarily gave her behavior the publicity du Barry sought. These two famous women were much alike when it came to misleading and degrading the one they owed respect to. Until his death, du Barry fooled Louis XV. She would sleep with any valet as well as with courtiers. Marie Antoinette also was unfaithful to Louis XVI and fooled him too....
@@ -17,6 +17,6 @@ Now do the same activity with [our class Prism](http://prism.scholarslab.org/pri
 
 * Say something interesting about the results that Prism gives you. What new interpretations does it give you about the text?
 
-* Think more critically about the categories I have chosen for you to highlight. What assumptions do you think I have about them? How does putting them against each other in this way make you think about them differently?
+* Think more critically about the categories we have chosen for you to highlight. What assumptions do you think we have about them? How does putting them against each other in this way make you think about them differently?
 
 
