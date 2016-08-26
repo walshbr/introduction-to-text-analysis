@@ -15,7 +15,7 @@ width: 900px;
 }
 
 
-@media only screen and(max-width: 1135px){
+@media (max-width: 1135px){
     iframe{
         display:none;
     }
