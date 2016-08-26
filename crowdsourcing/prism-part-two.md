@@ -19,7 +19,7 @@ Below these main parameters for your text, you will be asked to make some other 
 
 By default, Prism assumes that the text you will upload and all its markings will be made available to the public. Selecting **unlisted** will make your Prism private so that it will be viewable only to people to whom you send the URL. Once you create the Prism, you will want to be extra certain that you copy that URL down somewhere so that you can send it out to your group.
 
-Prism will also ask you what license you want to attribute to your materials. Many of the choices offered here are [creative commons](https://creativecommons.org/) licenses, but you can also choose public domain or fair use depending on your use case. If you are unsure, you can always select no license, but it would be worth doing a little research about the materials you are uploading to find out their legal status.
+Prism will also ask you what license you want to attribute to your materials. Many of the choices offered here are [creative commons](https://creativecommons.org/) licenses, but you can also choose public domain or fair use depending on your needs. If you are unsure, you can always select no license, but it would be worth doing a little research about the materials you are uploading to find out their legal status.
 
 Once you upload a text, the easiest way to find it will be to go your personal page by clicking the "MYPRISMS" link from the top menu. In this profile page, you can easily access both those texts that you have uploaded as well as the ones that you have highlighted by others (quite handy if you lose the URL for an unlisted text). 
 
