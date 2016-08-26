@@ -9,7 +9,7 @@ We might recognize any of the following, related activities as being kinds of te
 * Adapting a text and reflecting on it
 * Examining the details in a text
 
-This last point is worth pausing over: **close reading**, in particular, is often proclaimed as one of the primary analytical tool of scholars and students in the humanities. To read closely means to give careful attention to the various components that make up a text and cause us to think or feel a certain way about it. Close reading relies on, at the very least, two core principles about the text under study:
+This last point is worth pausing over: **close reading**, in particular, is often proclaimed as one of the primary analytical tool of scholars and students in the humanities. To read closely means to give careful attention to the various components that make up a text and cause us to think or feel a certain way about it. Close reading relies on a core principle about the text under study:
 
 > Everything about the text matters, whether the author intended for it to matter or not.
 
