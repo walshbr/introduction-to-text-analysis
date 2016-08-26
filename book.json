@@ -2,8 +2,8 @@
     "plugins": ["autocover"], 
     "pluginsConfig": { 
         "autocover": { 
-            "title": "My Book", 
-            "author": "Author", 
+            "title": "Introduction to Text Analysis", 
+            "author": "Brandon Walsh and Sarah Horowitz", 
             "pluginsConfig": { 
                 "autocover": { 
                     "font": { 
