@@ -7,7 +7,7 @@ The Google NGram Viewer provides a quick and easy way to explore changes in lang
 
 The tool allows you to search hundreds of thousands of texts quickly and, by tracking a few words or phrases, draw inferences about cultural and historical shifts. If we search on 'science' and 'religion,' for example, we could draw conclusions about their relative importance at various points in last few centuries.
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=science%2Creligion&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscience%3B%2Cc0%3B.t1%3B%2Creligion%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
 
 <img class="iframe-image-sub" src="/assets/issues/science-religion.jpg" alt="science and religion">
 
@@ -40,13 +40,13 @@ Even with a perfect corpus, our choices can make a big difference in the results
 
 We have three n-grams of length 1 ("a", "test" and "sentence"), two n-grams of length 2 ("a test" and "test sentence"), and 1 n-gram of length 3 ("a test sentence"). Or, we could use shorthand: we have 3 **unigrams** or **tokens**, 2 **bigrams**, and 1 **trigram**. These are just fancy ways to describe different ways of chunking up a piece of text so that we can work with it. And we can do the same thing in the NGram Viewer. Take this NGram for the token 'scandal' in an English corpus:
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
+ 
 
  <img src="/assets/issues/scandal.jpg" class="iframe-image-sub" alt="scandal ngram">
 
 It appears like something fairly dramatic happened around 1660 that caused a massive spike in the usage of 'scandal.' This in itself could be significant, but we might be interested in more nuanced readings of this data. We might want to see, say, bigrams containing scandal like 'political scandal' and 'religious scandal' to observe when certain types of scandals come into prominence. The NGram Viewer allows for a number of nuanced searches that you can read about [here](https://books.google.com/ngrams/info). For now, let's try out a wildcard search - '* scandal':
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=*+scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t2%3B%2C*%20scandal%3B%2Cc0%3B%2Cs0%3B%3Bthe%20scandal%3B%2Cc0%3B%3Ba%20scandal%3B%2Cc0%3B%3Bof%20scandal%3B%2Cc0%3B%3Band%20scandal%3B%2Cc0%3B%3Bgreat%20scandal%3B%2Cc0%3B%3Bfrom%20scandal%3B%2Cc0%3B%3Bno%20scandal%3B%2Cc0%3B%3Bthis%20scandal%3B%2Cc0%3B%3Bpublic%20scandal%3B%2Cc0%3B%3Bor%20scandal%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
 
  <img src="/assets/issues/wildcard-scandal.jpg" class="iframe-image-sub" alt="bigram of wildcard scandal">
 
@@ -55,7 +55,7 @@ The asterisk in searches like this matches anything, so it will return all two-w
 
 We might also want to look at different forms of the same word. After all, the above search only captures the singular form of 'scandal', but any word can occur in multiple forms over the course of a corpus. The NGram Viewer can account for this as well:
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal%2Cscandals%2Cscandalous&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0%3B.t1%3B%2Cscandals%3B%2Cc0%3B.t1%3B%2Cscandalous%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
 
  <img src="/assets/issues/forms-of-scandal.jpg" class="iframe-image-sub" alt="forms of scandal ngram">
 
@@ -63,13 +63,13 @@ That massive spike we see in the use of 'scandal' is not quite matched by other 
 
 To drill down more deeply into another term relevant to this course, check out this ngram of the word 'crime' in the English corpus:
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
 
  <img src="/assets/issues/english-crime-ngram.jpg" class="iframe-image-sub" alt="english crime ngram">
 
 According to this chart, after a drop during the early-eighteenth century, English writers discussed crime more consistently and ubiquitously than ever before. But what about authors writing in other languages? Here is the same search in French. 
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=19&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
+ 
 
  <img src="/assets/issues/french-crime-ngram.jpg" class="iframe-image-sub" alt="french crime ngram">
 
@@ -81,7 +81,7 @@ If I am using N-Grams for more than just a demonstration, I would want to do a l
 
 Or, let's say I was interested in history of scientific racism in European and American thought. In that case, I might want to know about the trajectory of the word "race" over time.  
 
-<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=race&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Crace%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
 
  <img src="/assets/issues/race.jpg" class="iframe-image-sub" alt="race ngram">
 
