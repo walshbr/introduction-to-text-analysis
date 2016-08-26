@@ -1,0 +1,14 @@
+/* CSS for print */
+ iframe{
+
+ display:none;
+
+ }
+
+ .iframe-image-sub{
+
+ display: inline;
+
+ }
+
+
