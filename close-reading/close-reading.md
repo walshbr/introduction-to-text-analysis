@@ -56,7 +56,7 @@ Sarah Maza's article is a secondary text, whereas the _Anedcotes_, discussed abo
 
 Reading primary texts is absolutely invaluable, particularly in the study of history. There is no better way to understand events in the past than by examining the sources – whether journals, newspaper articles, letters, court case records, novels, artworks, music or autobiographies – that people from that period left behind. However, you need to approach primary sources with care and as something other than a 100% accurate representation of the truth. For instance, in reading the _Anecdotes_, you might ask: did the author actually witness the events he or she was describing? Probably not. In that is the case, what can this document help us understand? And what can't we use it to do?
 
-Thus, you want to read primary sources with a series of questions in mind. The following is adapted from this [guide](http://apps.carleton.edu/curricular/history/study/):
+Thus, you want to read primary sources with a series of questions in mind. The following is adapted from a guide provided by [Carleton College](http://apps.carleton.edu/curricular/history/study/):
 
 1. What implicit and explicit messages does this text contain? What did the author choose NOT to talk about?
 
