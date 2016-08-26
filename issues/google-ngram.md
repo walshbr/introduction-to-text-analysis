@@ -46,7 +46,7 @@ It appears like something fairly dramatic happened around 1660 that caused a mas
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=*+scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t2%3B%2C*%20scandal%3B%2Cc0%3B%2Cs0%3B%3Bthe%20scandal%3B%2Cc0%3B%3Ba%20scandal%3B%2Cc0%3B%3Bof%20scandal%3B%2Cc0%3B%3Band%20scandal%3B%2Cc0%3B%3Bgreat%20scandal%3B%2Cc0%3B%3Bfrom%20scandal%3B%2Cc0%3B%3Bno%20scandal%3B%2Cc0%3B%3Bthis%20scandal%3B%2Cc0%3B%3Bpublic%20scandal%3B%2Cc0%3B%3Bor%20scandal%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-![bigram of wildcard scandal](/assets/google-ngram-viewer/wildcard-scandal.jpg)
+![bigram of wildcard scandal](/assets/issues/wildcard-scandal.jpg)
 
 The asterisk in searches like this matches anything, so it will return all two-word phrases containing 'scandal' as a second word. And, handy for us, it will show us the top ten uses. In this case, they're almost all articles or prepositions: 'the scandal,' 'a scandal,' 'of scandal,' etc. And they all seem to spike around 1660 as well. We would need more information about this time period to tell exactly what is going on here, and to do so we might want to specifically exclude these common usages.  Given the relative unreliability of N-Grams before 1800, this dramatic uptick might be due to just a few works that used the term "scandal" around this time -- and might not be representative of larger patterns.
 
