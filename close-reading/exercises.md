@@ -9,7 +9,7 @@
 > 
 > The Du Barry organized a conspiracy. Her side was powerful. The Duke had enemies. He had made some reforms and he had been in office for a long time—at court, people like to see change. Finally he was afraid of a coming fall. It was natural he was looking for a protection. He thought he had found one by organizing the marriage of the pretty archduchess and the Dauphin.,,. this marriage made the Duke become odious to the eyes of the nation.
 
-Now do the same activity with our class Prism, available from [here](http://prism.scholarslab.org/prisms/747fbb52-6bb9-11e6-a3b6-005056b3784e/highlight?locale=en). Highlight the Prism according to the rules of the game first before responding to the following questions.
+Now do the same activity with [our class Prism](http://prism.scholarslab.org/prisms/747fbb52-6bb9-11e6-a3b6-005056b3784e/highlight?locale=en). Highlight the Prism according to the rules of the game first before responding to the following questions.
 
 * What does the previous exercise make you notice about reading in general? About your own reading process?
 
