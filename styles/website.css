@@ -8,18 +8,18 @@ height: 320px;
 width: 900px;
 }
 
-#iframe-sub{
+.iframe-image-sub{
 
  display:none;
 
 }
 
 
-@media only screen and(max-width: 1135px){
+@media (max-width: 1135px){
     iframe{
         display:none;
     }
-    #iframe-sub{
-        display: inline}
+    .iframe-image-sub{
+        display: inline;
     }
 }

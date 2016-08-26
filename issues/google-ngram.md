@@ -9,8 +9,9 @@ The tool allows you to quickly search hundreds of thousands of texts and, by tra
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=science%2Creligion&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscience%3B%2Cc0%3B.t1%3B%2Creligion%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-![science and religion](/assets/google-ngram-viewer/science-religion.jpg)
-
+<div class="iframe-image-sub">
+	<img src="/assets/issues/science-religion.jpg" alt="science and religion">
+</div>
 Looking at the graph, one could see evidence for an argument about the increasing secularization of society in the last two centuries. The steady increase of usage of the word science over the last 200 years accompanied by the precipitous decline of the word religion might provide concrete evidence for what might otherwise be anecdotal. But not so fast: what is actually being measured here? We can ask questions of a number of pieces of this argument:
 
 * Corpus
@@ -40,13 +41,17 @@ We have three n-grams of length 1, two n-grams of length 2, and 1 n-gram of leng
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
 
-![scandal ngram](/assets/google-ngram-viewer/scandal.jpg)
+<div class="iframe-image-sub">
+ <img src="/assets/issues/scandal.jpg" alt="scandal ngram">
+</div>
 
 It appears like something fairly dramatic happened around 1660 that caused a massive spike in the usage of 'scandal.' This in itself could be significant, but we might be interested in more nuanced readings of this data. We might want to see, say, bigrams containing scandal like 'political scandal' and 'religious scandal' to observe when certain types of scandals come into prominence. The NGram Viewer allows for a number of nuanced searches that you can read about [here](https://books.google.com/ngrams/info). For now, let's try out a wildcard search - '* scandal':
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=*+scandal&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t2%3B%2C*%20scandal%3B%2Cc0%3B%2Cs0%3B%3Bthe%20scandal%3B%2Cc0%3B%3Ba%20scandal%3B%2Cc0%3B%3Bof%20scandal%3B%2Cc0%3B%3Band%20scandal%3B%2Cc0%3B%3Bgreat%20scandal%3B%2Cc0%3B%3Bfrom%20scandal%3B%2Cc0%3B%3Bno%20scandal%3B%2Cc0%3B%3Bthis%20scandal%3B%2Cc0%3B%3Bpublic%20scandal%3B%2Cc0%3B%3Bor%20scandal%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-![bigram of wildcard scandal](/assets/google-ngram-viewer/wildcard-scandal.jpg)
+<div class="iframe-image-sub">
+ <img src="/assets/issues/wildcard-scandal.jpg" alt="bigram of wildcard scandal">
+</div>
 
 The asterisk in searches like this matches anything, so it will return all two-word phrases containing 'scandal' as a second word. And, handy for us, it will show us the top ten uses. In this case, they're almost all articles or prepositions: 'the scandal,' 'a scandal,' 'of scandal,' etc. And they all seem to spike around 1660 as well. We would need more information about this time period to tell exactly what is going on here, and to do so we might want to specifically exclude these common usages.  Given the relative unreliability of N-Grams before 1800, this dramatic uptick might be due to just a few works that used the term "scandal" around this time -- and might not be representative of larger patterns.
 
@@ -54,7 +59,10 @@ We might also want to look at different forms of the same word. After all, the a
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=scandal%2Cscandals%2Cscandalous&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cscandal%3B%2Cc0%3B.t1%3B%2Cscandals%3B%2Cc0%3B.t1%3B%2Cscandalous%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-![forms of scandal](/assets/google-ngram-viewer/forms-of-scandal.jpg)
+<div class="iframe-image-sub">
+ <img src="/assets/issues/forms-of-scandal.jpg" alt="forms of scandal ngram">
+</div>
+
 
 That massive spike we see in the use of 'scandal' is not quite matched by other forms of the word. In particular, the adjective form 'scandalous' enjoys more usage until the mid-nineteenth century. Maybe scandal as a noun, as an idea, as a thing unto itself explodes onto the scene in the mid-nineteenth century after which it can become something more a thing attached to other people, places, and events. 
 
@@ -62,13 +70,17 @@ To drill down more deeply into one particular scandal relevant to this course, c
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-![english crime ngram](/assets/google-ngram-viewer/english-crime-ngram.jpg)
+<div class="iframe-image-sub">
+ <img src="/assets/issues/english-crime-ngram.jpg" alt="english crime ngram">
+</div>
 
 According to this chart, after a drop during the early-eighteenth century, English writers discussed crime more consistently and ubiquitously than ever before. But what about authors writing in other languages? Here is the same search in French. 
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=crime&year_start=1600&year_end=2000&corpus=19&smoothing=3&share=&direct_url=t1%3B%2Ccrime%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe> 
 
-![french crime ngram](/assets/google-ngram-viewer/french-crime-ngram.jpg)
+<div class="iframe-image-sub">
+ <img src="/assets/issues/french-crime-ngram.jpg" alt="french crime ngram">
+</div>
 
 French authors seem to show a similar spike in discussions of crime during this time period, though if you pay careful attention to the y-axis you will note that French authors actually are mentioning far more frequently relative to the rest of the writing at the time. The trends are similar, but the percentage of times 'crime' shows up is much higher in France. In England during this time, things hover around 0.0045. French writing mentioning 'crime' is over double that percentage during the same period, and it will not get around that number until 1880.  
 
@@ -80,7 +92,9 @@ Or, let's say I was interested in history of scientific racism in European and A
 
 <iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=race&year_start=1600&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Crace%3B%2Cc0" marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
 
-![race ngram](/assets/google-ngram-viewer/race.jpg)
+<div class="iframe-image-sub">
+ <img src="/assets/issues/race.jpg" alt="race ngram">
+</div>
 
 This N-Gram fshows an increasing use of this term over the course of the eighteenth and nineteenth century, peaking around 1890 and then gradual a decline in the twentieth century, albeit with some upswings. On the one hand, scientific racism had one of its heydays in the late nineteenth century, so maybe this N-Gram shows this historical.  But as soon as you think more about this topic, you would realize that it's a lot more complicated that this.  For one, it might strike you as a little odd that the line dips in the late 1950s and early 1960s, when the Civil Rights movement was emerging.  Were people really writing _less_ about race then than before? Alternatively, the term "race" can mean a lot of different things; in this case, the results I am interested in (the categorization of people according to their phenotypes) are undoubtedly getting jumbled in with references to sporting events and elections. And as soon as I started doing research on the history of scientific racism, I would learn that writers used the term "race" to refer to groups of people in different ways in the eighteenth century than they did at the end of the nineteenth century.  I would also want to think about terms that are associated with or used as synonyms for race. Maybe authors in the twentieth century were using other terms to talk about race? If so, what might those be?
 
