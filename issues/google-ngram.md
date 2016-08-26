@@ -67,7 +67,7 @@ We might also want to look at different forms of the same word. After all, the a
 
  <img src="/assets/issues/forms-of-scandal.jpg" alt="forms of scandal ngram">
 
-</div
+</div>
 
 
 That massive spike we see in the use of 'scandal' is not quite matched by other forms of the word. In particular, the adjective form 'scandalous' enjoys more usage until the mid-nineteenth century. Maybe scandal as a noun, as an idea, as a thing unto itself explodes onto the scene in the mid-nineteenth century after which it can become something more a thing attached to other people, places, and events. 
