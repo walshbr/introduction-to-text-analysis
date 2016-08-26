@@ -1,0 +1,7 @@
+/* CSS for pdf */
+ iframe{
+     display:none;
+ }
+ .iframe-image-sub{
+     display: inline;
+ }
