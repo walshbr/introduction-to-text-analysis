@@ -47,7 +47,7 @@ You can answer these questions any number of ways, and this ambiguity is part of
 
 ## Primary and Secondary Texts for Historical Analysis
 
-In addition to reading texts closely, you also want to think about what the text is and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [Here](http://umb.libguides.com/c.php?g=351019&p=2367357) is a good set of definitions:
+In addition to reading texts closely, you also want to think about the kind of text you are working with and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [The Healey Library](http://umb.libguides.com/c.php?g=351019&p=2367357) has a good set of definitions:
 
 > **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it.
 > **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis.
