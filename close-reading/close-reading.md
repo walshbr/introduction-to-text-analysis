@@ -1,6 +1,8 @@
 # Close Reading and Sources
 
-Text analysis is something that we all engage in, whether we realize it or not. The term is broad and capacious and encapsulates a variety of different activities. We might recognize any of the following, related activities as being kinds of text analysis:
+Text analysis is something that we all engage in, whether we realize it or not. The term is broad and capacious and encapsulates a variety of different activities. Even something as simple as slowing down when you see a stop sign is a kind of text analysis: doing so means you have parsed the meaning of the words on the sign and reacted accordingly. 
+
+We might recognize any of the following, related activities as being kinds of text analysis:
 
 * Paraphrasing a text
 * Searching for hidden meanings in a text
