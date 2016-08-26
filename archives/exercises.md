@@ -1,6 +1,6 @@
 # Exercises
 
-* Imagine you are marking the following [passage](http://www.victorianlondon.org/prisons/breakingwindows.htm) on prison life from *[The Dictionary of Victorian London](http://www.victorianlondon.org/index-2012.htm)* in TEI. What elements would you tag or mark? (No need to actually look up the valid TEI codes for such things - you can just invent fake tags for what you would be interested in).
+* Imagine you are marking the following [passage](http://www.victorianlondon.org/prisons/breakingwindows.htm) on prison life from [The Dictionary of Victorian London](http://www.victorianlondon.org/index-2012.htm) in TEI. What elements would you tag or mark? (No need to actually look up the valid TEI codes for such things - you can just invent fake tags for what you would be interested in).
 
 ---
 Victorian London - Prisons - breaking windows to get into prison
