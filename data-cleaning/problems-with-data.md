@@ -64,11 +64,14 @@ Arthur Doyle: first_name last_name
 
 A computer program would need a way to understand what you are giving it, something like:
 
-1. Look at this 'Author Name' database.2. Each Author has a line of its own.3. Get the Author's name.
+1. Look at this 'Author Name' database.
+2. Each Author has a line of its own.
+3. Get the Author's name.
 
 This data would cause all sorts of problems with the third step. To begin, how does the computer get the names? There are two options here:
 
-* Look at the line for a comma. Before the comma, you will find the first name. After, the last name.* Look at the line for a space. Before the space, you will find the first name. After, the last name.
+* Look at the line for a comma. Before the comma, you will find the first name. After, the last name.
+* Look at the line for a space. Before the space, you will find the first name. After, the last name.
 
 The former is the more common way of representing data like this. Using commas to denote the different pieces of data is so popular that the format has its own name: **comma seperated value** or **csv**. It has an advantage over the second format that breaks apart data based on spaces:
 
