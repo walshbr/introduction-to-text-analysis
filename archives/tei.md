@@ -25,14 +25,14 @@ Computers have a hard with abstract concepts like this. Computers tend to work i
 
 A computer program looking at the above passage from Oscar Wilde's *The Ballad of Reading Gaol* would, most likely, not even recognize those six lines as related in any way. Nor it would understand anything about how the internal components of those lines relate to each other. There are a number of ways to represent such structural information, and we can get towards one that works for a computer by working through a system that you might use on your own when you read. 
 
-Think about all the annotations that you put on your own pages as you read them. If you are anything like us, your markings tend to be all over the place. But imagine if you were to systematically note certain structural features of the text. We can think of the passage, after all, as a series of nested concepts:
+Think about all the annotations that you put on your own pages as you read them. If you are anything like us, your markings tend to be all over the place. But imagine if you were to systematically note certain structural features of the text. We can think of the Wilde passage, after all, as a series of nested concepts:
 
 * There is a stanza.
 * This stanza contains some lines.
 * Each line has text.
 * Some of that text contains a rhyme.
 
-And we can represent it graphically, like so, where black denotes the stanza boundaries, horizontal blue the lines, and the rotating colors under the final words describe a rhyme scheme:
+And we can represent it graphically, like so, where black denotes the stanza boundaries, horizontal blue represents the lines, and the rotating colors under the final words describe a rhyme scheme:
 
 ![marking up poem by hand graphically](/assets/archives/tei-graphic.jpg)
 
