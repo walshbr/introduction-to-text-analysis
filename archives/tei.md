@@ -53,7 +53,15 @@ But for a computer to understand this, we need an even more delineated way of de
 </lg>
 ```
 
-Notice how our concepts like 'stanza' and 'line' have here translated into particular **tags** like <lg> and <l>. Each set of tags has both an opening (<lg>) and a closing (</lg>) tag, the latter of which is almost identical except for a forward slash - /. These framing elements help the computer understand the boundaries of the concepts we are describing, and they help to provide structure to the text. They also have intuitive relationships to the concepts that they represent: <l> corresponds to line, and <lg> corresponds to line group. Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
+Notice how our concepts like 'stanza' and 'line' have here translated into particular **tags**:  
+```
+Our stanza becomes marked by <lg> (line grouping).
+Our lines become marked with <l> (line).
+Each set of tags has both an opening (<lg>) and a closing (</lg>) tag. 
+Closing tags are almost identical to opening tags except for a forward slash - /.
+Tags have intuitive relationships to the concepts that they represent: <l> corresponds to line, and <lg> corresponds to line group.
+```
+The opening and closing tags wrap around and determine the locations of particular structural elements for the computer: a line exists from here to there, a stanza exists from here to there, and so on. And take note of how certain tags can exist inside others. These framing elements help the computer understand the boundaries of the concepts we are describing, and they help to provide structure to the text. Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
 
 We can give further details to the poem. For example:
 
@@ -75,7 +83,7 @@ We can give further details to the poem. For example:
 
 Here I've added an exta stanza group as well as an outer tag to denote this is, in fact, a poem. We also give **attributes** to certain tags to give more information about them - type="stanza" tells the computer that the contents of this tag refer to a poem. Remember the nested hierarchy we talked about earlier? Notice how we are representing it graphically by indentation. The outer poem element contains two stanzas, which contain some lines, and those have some text. You can run your eye down the text and see the structure. Some programming languages will actually error if you do not pay attention to such things. But, either way, it just helps us keep things clean and easy to read. 
 
-One last one. Remember our rhyme scheme and line numbers? We can encode those too:
+One last thing. Remember our rhyme scheme and line numbers? We can encode those too:
 
 ``` 
 <lg type="stanza">
