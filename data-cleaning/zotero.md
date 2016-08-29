@@ -73,7 +73,7 @@ Magic! But wait - there's more. Visit the Amazon webpage for _[Sara Baartman and
 
 ![zotero download from chrome](/assets/data-cleaning/zotero-download-from-chrome.jpg)
 
-By default, Zotero just assumes you are trying to grab the webpage itself. When you visit a page with a citation you can download, however, the Zotero icon will change accordingly as it recognizes the metadata embedded in the page. Zotero will suck down the metadata on the page and store them in your Standalone App so that you can use them later. Magic!
+By default, Zotero just assumes you are trying to grab the webpage itself. When you visit a page with a citation you can download, however, the Zotero icon will change accordingly as it recognizes the metadata embedded in the page. In the image above, the Zotero icon appears as a book because it knows that it is looking at a book's metadata. Zotero will suck down the metadata on the page and store them in your Standalone App so that you can use them later. Magic!
 
 ![zotero input from web](/assets/data-cleaning/zotero-input-from-web.jpg)
 
