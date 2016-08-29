@@ -14,6 +14,10 @@ padding-left: 13.6px;
     margin-left: 13.6px;
 }
 
+#prism-licensing{
+    max-width: 50%;
+}
+
 .clear{
  clear:both
 }
