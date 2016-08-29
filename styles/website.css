@@ -4,8 +4,8 @@ max-height:500px;
 }
 
 .img-left{
-float: left;
-padding-right: 13.6px;
+float: right;
+padding-left: 13.6px;
 }
 
 .clear{
