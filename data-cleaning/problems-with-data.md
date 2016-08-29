@@ -23,7 +23,7 @@ Running this image through tesseract, a common free tool for OCR'ing text, we ge
 
 The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! I learned to read a long time ago. I can even read things written in cursive! Why does the computer have such a hard time with this?" This is one of those instances where what is really easy for you is really hard for a computer. Humans are great at pattern recognition, which is essentially what OCR is. Computers, not so much.
 
-OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](http://www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. You can find a more detailed explanation of how OCR workings [here](http://www.explainthatstuff.com/how-ocr-works.html).
+OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](http://www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. 
 
 ## Data Cleaning
 
@@ -132,3 +132,8 @@ Imagine: now that you have started to put together your own table of author name
 Such metadata standards exist, and a lot of work goes into maintaining them \(check out [Dublin Core](dublincore.org/specifications) if you are interested in learning more\). These standards ensure that anyone producing a new dataset creates work that could easily translate and communicate with other systems. They ensure that your local library's data could eventually be drawn into the [Digial Public Library of America](https://dp.la) and made available on a large scale. The process might seem easy with this basic author name example, but imagine trying to coordinate such metadata standards for all people working on all types of cultural objects, all over the world. The work never ends.
 
 You can fall down a deep pit looking at all the different metadata standards and their uses. For now, we just want you to be familiar with the concepts.
+
+## Further Resources
+
+* Chris Woolford has a more detailed explanation of how OCR works at [explainthatstuff.com](http://www.explainthatstuff.com/how-ocr-works.html).
+
