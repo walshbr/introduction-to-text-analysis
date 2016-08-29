@@ -39,7 +39,7 @@ If you have ever used something like [easybib.com](https://www.easybib.com) to p
 
 You might have felt like you were cheating when using a tool like this as a shortcut for your citations, but we're here to let you in on a secret. Your instructors rely on similar tools. If you think putting together a bibliography for your 5 page essay is irritating, imagine doing one for a 300 page book manuscript. And at the end of the process, your publisher decides that you have to use Chicago style \(footnotes\) rather than MLA \(in-text citations\). Do you want to convert them all by hand? Neither do we. 
 
-To deal with citation situations like this, the academic community has developed their own tool: [Zotero](https://www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously.
+To deal with citation situations like this, the academic community has developed its own tool: [Zotero](https://www.zotero.org). Zotero can do everything we've described so far in a snap, but it can also do so much more. Spending a few minutes learning it will save you dozens if not hundreds of hours in your writing life. Seriously.
 
 First visit the [Zotero download page](https://www.zotero.org/download). You can run Zotero out of Firefox, which allows you to capture and manage your citations without leaving the browser. But we like to separate the process of collecting citations from managing and using them. Download "Zotero Standalone" from the right window pane:
 
