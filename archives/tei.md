@@ -32,11 +32,11 @@ Think about all the annotations that you put on your own pages as you read them.
 * Each line has text.
 * Some of that text contains a rhyme.
 
-And we can represent it graphically, like so, where black denotes the stanza boundaries, horizontal blue represents the lines, and the rotating colors under the final words describe a rhyme scheme:
+And we can represent it graphically, like so, where black denotes the bounds of the stanza, horizontal blue represents the lines, and the rotating colors under the final words describe a rhyme scheme:
 
 ![marking up poem by hand graphically](/assets/archives/tei-graphic.jpg)
 
-But you probably would need a moment to realize what was going on if you came to this having not highlighted things yourself. We can perform a similar function with text annotations, which gets closer to a meaning that we could understand without having any prompting:
+But you would probably need a moment to realize what was going on if you came to this having not highlighted things yourself. We can do better. The following text annotations are a bit clearer and get closer to a meaning that we could understand without having any context. In fact, you've probably worked with annotations like these before:
 
 ![tei with text annotations](/assets/archives/tei.jpg)
 
