@@ -14,9 +14,9 @@ Sentiment analysis can also offer interesting opportunities for textual analysis
 
 The idea makes enough sense as Vonnegut presents it: at certain times in a story, things are varying degrees of good or bad. As with any form of text analysis, this kind of information could be very useful for understanding a text. 
 
-> What kind of emotions does the author employ in the text? When?
+* What kind of emotions does the author employ in the text? When?
 
-> How do emotions map onto other aesthetic categories, like narrative structure?
+* How do emotions map onto other aesthetic categories, like narrative structure?
 
 It would be fascinating to have a computer that could easily mark the sentiments in texts for you. If you have been following dutifuly along, however, you should know that computers can't do much of anything without being explicitly told how. They can do very little in the way of understanding data without a human to guide them. Trying to extract complicated information like the sentimental arc of a text, how we are meant to feel about a sentence, or how an author intended us to feel: these are extremely complicated questions that computers have a difficult time with. In fact, they are hard even for two different people to agree on. Try to guess whether these two sentences would be classified as good or bad:
 
@@ -35,9 +35,9 @@ The first sentence is from Charles Dickens's _Tale of Two Cities_ and is probabl
 
 Sentiment analysis is tricky, but that doesn't mean that researchers don't try. The process is difficult and riddled with error, but also intellectually interesting in a number of ways.
 
-> How do we map complicated abstract ideas like emotion in a way that computers could understand them?
+* How do we map complicated abstract ideas like emotion in a way that computers could understand them?
 
-> What can sentiment analysis like this tell us about the objects that we study?
+* What can sentiment analysis like this tell us about the objects that we study?
 
 As with any form of text analysis, the potential uses range as widely as your imagination. One compelling recent [use of sentiment analysis](http://varianceexplained.org/r/trump-tweets/) by David Robinson sought to gauge the degree of control that Donald Trump's campaign had over his Twitter account. Given reporting that Trump tends to use a Samsung Galaxy to tweet, Robinson wanted to determine if tweets from different techonologies might have different characteristics. If so, one could reasonably separate out his personal persona on Twitter from the one curated by his campaign stuff. Robinson found that we could reasonably determine that the angrier, more hyperbolic tweets came from a Samsung Galaxy (and were more likely to be by Trump himself). The tweets from iPhones were more likely to be "fairly benign declarations." With this knowledge we could reasonably trace the thumbprint of the Trump campaign handlers as distinct from Trump himself.
 
