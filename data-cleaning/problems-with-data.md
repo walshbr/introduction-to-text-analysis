@@ -6,7 +6,7 @@ The basic principle to remember is **garbage in, garbage out (or GIGO)**: you ar
 
 ## OCR
 
-<img src="/assets/data-cleaning/holmes.jpg" alt="sherlock holmes article clipping" class="img-left">
+<img src="/assets/data-cleaning/holmes.jpg" alt="sherlock holmes article clipping" class="img-right">
 
 Take this image taken from a newspaper ad for the American film version of Sherlock Holmes.
 
