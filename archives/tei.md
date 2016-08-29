@@ -61,7 +61,7 @@ Each set of tags has both an opening (<lg>) and a closing (</lg>) tag.
 Closing tags are almost identical to opening tags except for a forward slash - /.
 Tags have intuitive relationships to the concepts that they represent: <l> corresponds to line, and <lg> corresponds to line group.
 ```
-The opening and closing tags wrap around and determine the locations of particular structural elements for the computer: a line exists from here to there, a stanza exists from here to there, and so on. And take note of how certain tags can exist inside others. These framing elements help the computer understand the boundaries of the concepts we are describing, and they help to provide structure to the text. Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
+The opening and closing tags wrap around and determine the locations of particular structural elements for the computer: a line exists from here to there, a stanza exists from here to there, and so on. And take note of how certain tags can exist inside others. These framing elements help the computer understand the boundaries of the concepts we are describing, and they help to provide structure to the text. Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add new layers by marking the text up with these fixed annotations. This **markup** gives the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
 
 We can give further details to the poem. For example:
 
