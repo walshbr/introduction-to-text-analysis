@@ -44,8 +44,7 @@ If you work on one of these projects, peer review sounds like a lot of work, but
 
 One of the early missions of NINES was to provide scholars who could perform this service. By assembling digital humanities scholars that could evaluate digital archives and attest to their successes or flaws, project coordinators could better make their work available and understandable to non-digital colleagues. Once reviewed, NINES makes the archival materials available for searching alongside other peer-reviewed projects. You can see an example search of The Old Bailey Online [here](http://www.nines.org/search?q=old%20bailey). Because the Old Bailey's archival materials are part of NINES, a search for 'old bailey' in NINES reveals objects not only in NINES, but also in a wide range of other archives.
 
-![old bailey federated search results](/assets/archives/nines-old-bailey-search.jpg)
-
+<img src="/assets/archives/nines-old-bailey-search.jpg" alt="old bailey federated search results" class="left">
 **What does peer review mean for you as a user of an archive?**
 
 If you've made it this far in life, you've probably realized that you can't trust everything you find on the internet. In this case, knowing that something is peer reviewed allows you to put more trust in what you find on NINES than what you find elsewhere; you know that other scholars in the field have signed off on this material and think it is worthy of inclusion.
