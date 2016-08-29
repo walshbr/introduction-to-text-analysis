@@ -14,15 +14,15 @@ When you look at the entry on the _Old Bailey Online_, almost all the tags disap
 
 We have already talked a bit about the functions you can get from TEI, but, after all, those might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
 
-> What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
+* What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
 
 One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go that museum in order to read the document. A digital version online can reach a wider audience than a physical copy. However, putting materials on the internet raises a variety of legal and financial issues. After all, these digital resources require a great deal of time, funding, and energy to produce.
 
-> Will you make your materials freely available to anyone with an internet connection?&gt; Or will you require payment to see them?
+* Will you make your materials freely available to anyone with an internet connection?&gt; Or will you require payment to see them?
 
 If you have ever tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content, you have encountered such **paywalled** materials. Resources like these can be juxtaposed with **open access** materials. While there are different levels and variants, open access broadly means that the materials are provided available with little to no restrictions. For many, the choice is an ethical and a political one. But open access materials do raise serious financial questions:
 
-> Keeping materials online requires sustained funding over time. How can open access work be maintained if they are presented for free?
+* Keeping materials online requires sustained funding over time. How can open access work be maintained if they are presented for free?
 
 Once materials are put online, it is possible to connect them to a wider, global network of similar digital materials. In the same way that a library gathers information about the materials so that they may be organized in a systematic way \(more on **metadata** in our chapter on "Problems with Data"\), the process has to be overseen carefully in order for this networking to happen. Technical standards also shift \(TEI tags can change over time\), so archival materials require constant maintenance. If you have ever used a digital archive, you have taken advantage of a vast and often invisible amount of labor happening behind the scenes. The hidden work of gallery, library, archive, and museum \(or **GLAM**\) professionals ensures that our cultural heritage will remain accessible and sustainable for centuries to come.
 
@@ -58,7 +58,7 @@ Beyond the fact that you can have a lot of confidence in the projects you find h
 
 Doing a search for "crime" gets you all the references to this term in all of the different projects linked to NINES, saving you from having to search each individual one. \(One warning: only some of the results you get in the left pane will get you to material from the online projects affiliated with NINES. In other cases, NINES is searching library catalogs where the material is not available digitally. In this instance, if you wanted to read the first work, Alexandre Dumas's _Celebrated Crimes_, you would have to drive to Charlottesville and go to UVA's Special Collections Library.\)
 
-> What archives do you use on a regular basis?
-> 
-> What kinds of work do you imagine went into them?
+* What archives do you use on a regular basis?
+ 
+* What kinds of work do you imagine went into them?
 

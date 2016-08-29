@@ -17,9 +17,9 @@
 
 This book studies texts and the things that computers can do with them. But, as you read along, you may notice that they cannot do all that much. Many of the methods that you will learn are simply sophisticated ways of counting words, but it should be immediately clear that reading entails far more complicated processes of interpretation and analysis. When we read, we tend to skip straight on to much more complicated understandings of a text:
 
-> What does it mean?
+* What does it mean?
 
-> How does it mean?
+* How does it mean?
 
 Computers have a hard with abstract concepts like this. Computers tend to work in hierarchies and clear-cut structures, and, even then, they only know about those structures that someone has told them about. For example, if we were to say to a computer, "Hey! Find me the poem in this lesson!" It would have no idea what we were talking about: we have to find some way of telling the computer where it can find the poem. Right now it just thinks the text up there is no different from the other lines of text on this page. It's all just text.
 

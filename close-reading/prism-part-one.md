@@ -4,7 +4,7 @@
 
 The transparency game crystallizes a very basic element of textual analysis:
 
-> When we close read, certain textual components - phrases, words, characters - make us interpret a document in a particular way.
+* When we close read, certain textual components - phrases, words, characters - make us interpret a document in a particular way.
 
 The game asks you to make graphic representations of these decisions, to identify the words that make you think or feel a certain way. By lifting the transparency off the text, you are left with a series of colors that correspond to your reading of the document. You have traced the broad outlines of your interpretation onto the page.
 
@@ -26,6 +26,6 @@ Makes sense, and you might have done the same. By selecting the other category, 
 By design, Prism forces you to think more deeply about the categories that you are given for highlighting. The creator of this Prism wants you to mark for "sound" and "sense" - categories that relate to Alexander Pope's famous formulation of poetry from *An Essay on Criticism*. In it, Pope suggests that the sound of a poem should complement the  underlying meaning of the poem. So the creator of this game wants you to try and pinpoint where these categories overlap and where they depart. You might not have known this context, though you might have intuited elements of it. Guided reading in this way might change how you otherwise would read the passage, and the absence of clear guidelines complicates your experience of the text. 
 
 
-> How would reading be different if you do not know the exact meanings behind the categories?
+* How would reading be different if you do not know the exact meanings behind the categories?
 
 
