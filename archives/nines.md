@@ -38,7 +38,7 @@ You might also notice that NINES has a relatively expansive view of what the nin
 
 Archives submit themselves for affiliation with NINES so that their materials can be searchable alongside other NINES sites, but they must first pass a rigorous process of **peer review** first. Academic journals rely on peer review to ensure that scholarship meets particular standards of rigor and relevance; you can think of it as a bit like quality control for scholarly writing. The peer review process typically involves submitting an article or book to a series of blind reviewers who, anonymous themselves, write letters in support or rejection of the project and offer suggestions for improvement. Should the piece pass, it moves onto publication and receives the explicit seal of approval from the publication.
 
-<img src="/assets/archives/nines-old-bailey-search.jpg" alt="old bailey federated search results" class="img-left">
+<img src="/assets/archives/nines-old-bailey-search.jpg" alt="old bailey federated search results" class="img-right">
 
 **Why go through peer review?**
 
