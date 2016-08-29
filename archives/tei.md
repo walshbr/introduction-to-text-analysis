@@ -40,7 +40,7 @@ But you would probably need a moment to realize what was going on if you came to
 
 ![tei with text annotations](/assets/archives/tei.jpg)
 
-But for a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on Cyborg readers. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The *Text Encoding Initiative* (TEI), the result of this work, is an attempt to make abstract humanities concepts legible to machines. TEI applied to the passage, might begin to look something like this:
+But for a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on [Cyborg Readers](cyborg-readers.md). Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The *Text Encoding Initiative* (TEI), the result of this work, is an attempt to make abstract humanities concepts legible to machines. TEI applied to the passage, might begin to look something like this:
 
 ```
 <lg>
@@ -50,7 +50,8 @@ But for a computer to understand this, we need an even more delineated way of de
   <l>Some with a flattering word.</l>
   <l>The coward does it with a kiss,</l>
   <l>The brave man with a sword!</l>
-</lg>```
+</lg>
+```
 
 Notice how our concepts like 'stanza' and 'line' have here translated into particular **tags** like <lg> and <l>. Each set of tags has both an opening (<lg>) and a closing (</lg>) tag, the latter of which is almost identical except for a forward slash - /. These framing elements help the computer understand the boundaries of the concepts we are describing, and they help to provide structure to the text. They also have intuitive relationships to the concepts that they represent: <l> corresponds to line, and <lg> corresponds to line group. Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add **markup** to give the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
 
@@ -69,7 +70,8 @@ We can give further details to the poem. For example:
   <lg type="stanza">
     <l> A short second stanza that we've made up.</l>
   </lg>
-</lg>```
+</lg>
+```
 
 Here I've added an exta stanza group as well as an outer tag to denote this is, in fact, a poem. We also give **attributes** to certain tags to give more information about them - type="stanza" tells the computer that the contents of this tag refer to a poem. Remember the nested hierarchy we talked about earlier? Notice how we are representing it graphically by indentation. The outer poem element contains two stanzas, which contain some lines, and those have some text. You can run your eye down the text and see the structure. Some programming languages will actually error if you do not pay attention to such things. But, either way, it just helps us keep things clean and easy to read. 
 
