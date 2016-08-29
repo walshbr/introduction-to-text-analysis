@@ -79,7 +79,7 @@ By default, Zotero just assumes you are trying to grab the webpage itself. When 
 
 Well, not quite. We won't get lost in the weeds of explaining the technical details of how this works, as that is a subject for a different class. For now, just know that Zotero is interacting with hidden information on the webpage that provides information to programs like it. The average user never knows that these webpages contain information like this, but Zotero can leverage that invisible data into powerful content to make your life easier.
 
-That being said, you need to remember the principle of Garbage In, Garbage Out. In some cases, the webpage you are grabbing the citation from might not have complete \(or entirely accurate\) metadata. In that case, you will need to edit the citation in your Zotero library by clicking in the relevant fields and adding what's missing or correcting any mistakes. Alternately, the format that libraries use to store metadata is different from typical citation formats.  Go back up to the record for _Spectacular Realities_ and look at the title. You'll notice that the capitalization is different from what you might expect: the first word is capitalized, as are any proper nouns \("Paris," in this case\). But if you were using this in a bibliography or citation \(which we'll show you in a second\), you'd want to correct the capitalization. You would also need to change "Univ. of California Press" to "University of California Press." This is all to say that although Zotero makes things much, much _easier_, it doesn't necessarily make them _automatic_.
+That being said, you need to remember the principle of garbage in, garbage out. In some cases, the webpage you are grabbing the citation from might not have complete \(or entirely accurate\) metadata. In that case, you will need to edit the citation in your Zotero library by clicking in the relevant fields, adding what's missing, and/or correcting any mistakes. Alternately, the format that libraries use to store metadata might be different from typical citation formats.  Go back up to the record for _Spectacular Realities_ and look at the title. You'll notice that the capitalization is different from what you might expect: the first word is capitalized, as are any proper nouns \("Paris," in this case\). But if you were using this in a bibliography or citation \(which we'll show you in a second\), you'd want to correct the capitalization. You would also need to change "Univ. of California Press" to "University of California Press." This is all to say that although Zotero makes things much, much _easier_, it doesn't necessarily make them _automatic_.
 
 ## Zotero for Citation Management in Microsoft Word
 
@@ -91,7 +91,7 @@ There are lot of options here, but the most important for right now are 'Add Bib
 
 ![zotero selection citation style](/assets/data-cleaning/zotero-select-citation-style.jpg)
 
-Next pops up an input field that asks you to give some information so that it can locate a citation for you. Typing in 'Crone' will allow Zotero to recognize the author for the book we inputted. It will bring up the metadata we want. Click it to accept.
+Next pops up an input field that asks you to give some information so that it can locate a citation for you. Typing in 'Crone' will allow Zotero to recognize the author for the book we inputted and bring up the metadata we want. Click it to accept.
 
 ![zotero searching for citation](/assets/data-cleaning/zotero-searching-for-citation.jpg)
 
