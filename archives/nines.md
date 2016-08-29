@@ -16,7 +16,7 @@ In order to make the text legible for readers, we very often hide most (or all) 
 
 * What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
 
-One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go that museum in order to read the document. A digital version online can reach a wider audience than a physical copy. However, putting materials on the internet raises a variety of legal and financial issues. After all, these digital resources require a great deal of time, funding, and energy to produce.
+One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go to that location in order to read the document. A digital version online can reach a wider audience than a physical copy. However, putting materials on the internet raises a variety of legal and financial issues. After all, these digital resources require a great deal of time, funding, and energy to produce. Imagine yourself as the curator of an archive:
 
 * Will you make your materials freely available to anyone with an internet connection?
 * Or will you require payment to see them?
