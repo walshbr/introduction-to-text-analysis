@@ -6,9 +6,9 @@ You might be thinking to yourself, "I can't believe you made me read an entire s
 
 Let's just pretend you said something on the order of, "metadata is all well and good, but how am I going to use this in my everyday life beyond library searches?"
 
-We're glad you asked! In fact, metadata is something you deal with all the time. It is all around us, structuring our lives. If you go to a store and go to a particular section to grab cereal, metadata about the foods on that aisle has helped organize them and guide you to them. If you look through your phone to see that you have a missed call, you'll be presented with information about the caller, the call duration, the number etc. All metadata. You get the idea.
+We're glad you asked! In fact, metadata is something you deal with all the time. It is all around us, structuring our lives. If you go to a store and go to a particular section to grab cereal, metadata about the foods on that aisle has helped organize them and guide you to them. If you look through your phone to see that you have a missed call, you'll be presented with information about the caller, the call duration, the number, etc. All metadata. You get the idea.
 
-For a more concrete example relevant to this \(and any other course\). Imagine that you were asked by your instructor to write a paper on the Sherlock Holmes story "A Scandal in Bohemia." You will probably need to include a bibliography. Something like this:
+For a more concrete example relevant to this book, imagine that you were asked by your instructor to write a paper on the Sherlock Holmes story "A Scandal in Bohemia." You will probably need to include a bibliography. Something like this:
 
 Doyle, Arthur Conan. “A Scandal in Bohemia.” Sherlock Holmes: Selected Stories. Ed. Barry McCrea. Oxford: Oxford University Press, 2014. Print. Oxford World’s Classics.
 
@@ -29,7 +29,7 @@ Series: Oxford World’s Classics.
 
 The citation is just metadata, organized according to a pre-arranged format: the MLA 7th Edition, in this case. Anytime you create a citation, you are just organizing the metadata for an object in an agreed-upon format. But the process is very tedious, as we're sure you've noticed over the years. Fortunately, if you've been following along, you know that computers are exceptionally good at executing tedious tasks just like these.
 
-We know the formula for an MLA citation like this:
+We know the formula for an MLA citation looks like this:
 
 Author. Title. Book. Editor. Location: Publisher, Data. Format. Series.
 
