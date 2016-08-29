@@ -15,6 +15,7 @@ Prism offers a few options to facilitate group reading. Most importantly, it ass
 You upload a text by pasting it into the window provided. Prism does not play well with super long texts, so you may have to play around in order to find a length that works for the tool as well as for you. The three facets on the right correspond to the three marking categories according to which you want users to highlight. The rest of these categories should be self-explanatory. Note, however, that you will only be able to give a short description to readers: your document and marking categories will largely have to stand on their own.
 
 Below these main parameters for your text, you will be asked to make some other choices that may be less intuitive: 
+
 ![listed vs unlisted prism interface](/assets/crowdsourcing/prism-create-two.jpg)
 
 By default, Prism assumes that you want the text and all its markings to be made available to the public. Selecting **unlisted** will make your Prism private so that only to people to whom you send the URL can view it. Once you create the Prism, you will want to be extra certain that you copy that URL down somewhere so that you can send it out to your group.
