@@ -65,7 +65,7 @@ Zotero now knows about our citation, and we could use it for any number of thing
 
 ![magic wand ISBN input](/assets/data-cleaning/zotero-magic-wand.jpg)
 
-Try entering this one: 0520221680. Zotero will automatically go out and grab the metadata for its associated book: _Spectacular Realities_ by Vanessa Schwartz.
+Try entering this one: 0520221680. Zotero should automatically go out and grab the metadata for its associated book: _Spectacular Realities_ by Vanessa Schwartz.
 
 ![input by isbn](/assets/data-cleaning/zotero-input-by-isbn.jpg)
 
