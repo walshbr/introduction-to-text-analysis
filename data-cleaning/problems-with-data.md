@@ -17,7 +17,7 @@ The process of using software to extract the text from an image of a text is cal
 <div class="clear"></div>
 
 
-<img src="/assets/data-cleaning/holmes-ocr-text.jpg" alt="ocr'd sherlock holmes text" class="img-right"/>
+<img src="/assets/data-cleaning/holmes-ocr-text.jpg" alt="ocr'd sherlock holmes text" class="img-right" id="ocr-image"/>
 
 Running this image through tesseract, a common tool for OCR'ing text, we get the computer's best garbled attempt at translating image into text (at right):.
 
