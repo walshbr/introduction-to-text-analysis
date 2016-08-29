@@ -12,7 +12,7 @@ When you look at the [public-facing version of the entry](https://www.oldbaileyo
 
 ![Same entry without TEI](/assets/archives/old-bailey-sans-tei.jpg)
 
-We have already talked a bit about the functions you can get from TEI, but, after all, those might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
+In order to make the text legible for readers, we very often hide most (or all) of the markup that is helping to present the document. This ensures that you can serve the needs of different audiences: some people might want to see the TEI for your text, but others might just want to be able to read it as normal. We have already talked a bit about the functions you can get from TEI, but, if they largely remain hidden, you might find yourself thinking that they might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
 
 * What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
 
