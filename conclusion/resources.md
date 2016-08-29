@@ -18,6 +18,11 @@
 * Arnold, Taylor and Lauren Tilton. [Humanities Data in R](http://www.humanitiesdata.org/).
 * Jockers, Matt. [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/).
 
+## Tools
+* [Google NGram Viewer](https://books.google.com/ngrams)
+* [Voyant](https://voyant-tools.org)
+* [Prism](https://prism.scholarslab.org)
+* [Zotero](https://zotero.org)
 
 ## Other
 * [Stanford Literary Lab](http://litlab.stanford.edu/)
