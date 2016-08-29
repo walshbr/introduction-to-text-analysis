@@ -23,6 +23,8 @@ Busa's work took years. We can now carry out similar searches in seconds, and we
 
 Notice the words that you do not see on this list: words like 'a' or 'the.' Words like these, **stopwords** are _so_ common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right:
 
+<img src="/assets/cyborg-readers/voyant-settings.jpg" alt="voyant settings" class="img-right"/>
+
 ![voyant settings](/assets/cyborg-readers/voyant-settings.jpg)
 
 Use the dropdown list to switch from 'auto-detect' to none. Now the concordance will show you the actual word frequencies in the text. Notice that 'said', the number one result in the original graph, does not even come close to the frequent usage of articles, prepositions, and pronouns.
