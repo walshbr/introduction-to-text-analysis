@@ -14,6 +14,8 @@ By default, the computer has no idea that there is text inside of this image. Fo
 
 The process of using software to extract the text from an image of a text is called **optical character recognition** or OCR. There are many tools that can do this, and some are proprietary. All of these tools are only so good at the process. 
 
+<div class="clear-both"/>
+
 Running this image through tesseract, a common tool for OCR'ing text, we get something like this:
 
 ![ocr'd sherlock holmes text](/assets/data-cleaning/holmes-ocr-text.jpg)The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! I learned to read in first grade \[or whenever you learned to read\]. I can even read things written in cursive! Why does the computer have such a hard time with this?" This is one of those instances where what is really easy for you is really hard for a computer. Humans are great at pattern recognition, which is essentially what OCR is. Computers, not so much.
