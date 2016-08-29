@@ -106,7 +106,7 @@ Et voila! Your citation appears in the text in just the same way as if you were 
 * 'return' selects a particular citation.
 * 'cmd + down arrow' will bring up additional options like adding page numbers once you have a citation selected in the add citation input field.
 
-![zotero example citation](/assets/zotero-example-citation.jpg)
+![zotero example citation](/assets/data-cleaning/zotero-example-citation.jpg)
 
 Get the hang of these commands, and you'll save loads of time.
 
