@@ -10,6 +10,8 @@ padding-left: 13.6px;
 
 #ocr-image{
     max-width: 165.275px;
+    padding-left:0px;
+    margin-left: 13.6px;
 }
 
 .clear{
