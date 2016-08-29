@@ -16,9 +16,12 @@ The process of using software to extract the text from an image of a text is cal
 
 <div class="clear"/>
 
-Running this image through tesseract, a common tool for OCR'ing text, we get something like this:
 
-![ocr'd sherlock holmes text](/assets/data-cleaning/holmes-ocr-text.jpg)The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! I learned to read in first grade \[or whenever you learned to read\]. I can even read things written in cursive! Why does the computer have such a hard time with this?" This is one of those instances where what is really easy for you is really hard for a computer. Humans are great at pattern recognition, which is essentially what OCR is. Computers, not so much.
+<img src="/assets/data-cleaning/holmes-ocr-text.jpg" alt="ocr'd sherlock holmes text" class="img-right"/>
+
+Running this image through tesseract, a common tool for OCR'ing text, we get the computer's best garbled attempt at translating image into text (at right):.
+
+The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! I learned to read in first grade \[or whenever you learned to read\]. I can even read things written in cursive! Why does the computer have such a hard time with this?" This is one of those instances where what is really easy for you is really hard for a computer. Humans are great at pattern recognition, which is essentially what OCR is. Computers, not so much.
 
 OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis.com](http://www.whatfontis.com) lists over 342,000 fonts, and this count only appears to include Western fonts. A single word will look slightly different in each font and at each size. And that doesn't even begin to account for hand-written text or text that has been partially damaged: even a slight imperfection in a letter can complicate the scanning process. The process is complicated and takes a lot of work: even the most expensive OCR software is prone to errors. If you see clean text transcriptions of an image online, odds are high that a human cleaned up the OCR to make it readable. You can find a more detailed explanation of how OCR workings [here](http://www.explainthatstuff.com/how-ocr-works.html).
 
