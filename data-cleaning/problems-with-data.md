@@ -14,7 +14,7 @@ By default, the computer has no idea that there is text inside of this image. Fo
 
 The process of using software to extract the text from an image of a text is called **optical character recognition** or OCR. There are many tools that can do this, and some are proprietary. All of these tools are only so good at the process. 
 
-<div class="clear"/>
+<div class="clear"></div>
 
 
 <img src="/assets/data-cleaning/holmes-ocr-text.jpg" alt="ocr'd sherlock holmes text" class="img-right"/>
