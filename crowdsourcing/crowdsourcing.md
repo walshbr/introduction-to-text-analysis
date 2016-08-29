@@ -16,20 +16,20 @@ Whereas microtasking projects ask users to work on a problem already laid out fo
 
 It is worth pausing over all of these examples to consider the labor going into them. We are talking about an incredible amount of energy and work that is essentially volunteer. If we go onto *Typewright* and help transcribe an eighteenth-century text, that is time that we could have spent doing something else, something that could have compensated me in more explicit ways.
 
-> Is it enough that the users are contributing to the public good for these projects?
+* Is it enough that the users are contributing to the public good for these projects?
 
-> At what point does volunteer labor become exploitation?
+* At what point does volunteer labor become exploitation?
 
 In many cases, these digital projects cost vast sums of money, and, so the critique goes, these funds could have provided for actual paid employees instead of volunteers. Some of these crowdsourcing participants may not even have realized they were working. In the case of *Recaptcha*, you might have taken part in a crowdsourcing project without even realizing it. 
 
-> What are ethical practices for conducting volunteer projects on such a scale?
+* What are ethical practices for conducting volunteer projects on such a scale?
 
-> What would it take for you to feel adequately compensated for your time?
+* What would it take for you to feel adequately compensated for your time?
 
 These are open questions with no clear answers, but they are worth keeping in mind. We think this awareness and self-reflection must be the foundation of ethical ways of engaging with projects like these. After all, *Typewright*, *Recaptcha*, and *Transcribe Bentham* produce great results, but they do so by employing human energy to fairly menial tasks. *Wikipedia* raises other important questions about crowdsourcing: 
 
-> Can the crowd do more?
-> What happens when we give control of the project over to the crowd?
+* Can the crowd do more?
+* What happens when we give control of the project over to the crowd?
 
 ## Further Resources
 * Brandon Walsh, et al. have a [piece on Prism](http://llc.oxfordjournals.org/content/29/3/379.full) and crowdsourcing with a useful bibliography for pointing to other crowdsourcing projects.

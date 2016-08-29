@@ -6,7 +6,6 @@ The transparency game crystallizes a very basic element of textual analysis:
 
 * When we close read, certain textual components - phrases, words, characters - make us interpret a document in a particular way.
 
-
 The game asks you to make graphic representations of these decisions, to identify the words that make you think or feel a certain way. By lifting the transparency off the text, you are left with a series of colors that correspond to your reading of the document. You have traced the broad outlines of your interpretation onto the page.
 
 ![prism splash page](/assets/close-reading/prism-splash-page.jpg)
