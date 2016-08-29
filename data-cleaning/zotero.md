@@ -57,11 +57,11 @@ First, let's enter information manually. Let's pull out our copy of Rosalind Cro
 
 ![adding a book citation](/assets/data-cleaning/zotero-add-citation.jpg)
 
-Doing so will shift your Zotero pane so that you can enter the metadata for Crone's book on the right. Notice how you can have some categories be empty - Zotero is not picky. It has all those extra sections so that it can fit a variety of different use cases, but not every object will use every metadata category. Go ahead and do that. When you're done, you should have something like this. 
+Doing so will shift your Zotero pane so that you can enter the metadata for Crone's book on the right. Go ahead and do that. Notice how you can have some categories be empty - Zotero is not picky. It has all those extra sections so that it can fit a variety of different use cases, but not every object will use every metadata category. When you're done, you should have something like this. 
 
 ![adding crone citation](/assets/data-cleaning/zotero-editing-pane.jpg)
 
-Zotero now knows about our citation and we could use it for any number of things. But before we move on, let's cover two other ways to add citation information. Every book is given an an identifying number, an **International Standard Book Number \(ISBN\)**. This number is unique to every book. Zotero can map these numbers to their associated metadata. Clicking on the magic wand at the top of the Zotero Standalone pane will give you a place to enter an ISBN:
+Zotero now knows about our citation, and we could use it for any number of things. But before we move on, let's cover two other ways to add citation information. Every book is given an an identifying number, an **International Standard Book Number \(ISBN\)**, and we can grab metadata using this thumbprint. This number is unique to every book. Zotero can map these numbers to their associated metadata. Clicking on the magic wand at the top of the Zotero Standalone pane will give you a place to enter an ISBN:
 
 ![magic wand ISBN input](/assets/data-cleaning/zotero-magic-wand.jpg)
 
