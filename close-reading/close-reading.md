@@ -1,17 +1,17 @@
 # Close Reading and Sources
 
-Text analysis is something that we all engage in, whether we realize it or not. The term is broad and capacious and encapsulates a variety of different activities. Even something as simple as slowing down when you see a stop sign is a kind of text analysis: doing so means you have parsed the meaning of the words on the sign and reacted accordingly. 
+Text analysis is something that we all engage in, whether we realize it or not. The term is broad and capacious and encapsulates a variety of different activities. Even something as simple as slowing down when you see a stop sign is a kind of text analysis: doing so means you have parsed the meaning of the words on the sign and reacted accordingly.
 
-We might recognize any of the following, related activities as being kinds of text analysis:
+Indeed any of the following, related activities are forms of text analysis:
 
 * Paraphrasing a text
 * Searching for hidden meanings in a text
 * Adapting a text and reflecting on it
 * Examining the details in a text
 
-This last point is worth pausing over: **close reading**, in particular, is often proclaimed as one of the primary analytical tool of scholars and students in the humanities. To read closely means to give careful attention to the various components that make up a text and cause us to think or feel a certain way about it. Close reading relies on a core principle about the text under study:
+This last point is worth pausing over: **close reading**, in particular, is often proclaimed as one of the primary analytical tool of scholars and students in the humanities. To read closely means to give careful attention to the various components that make up a text, ones which cause us to think or feel a certain way about it. Close reading relies on a core principle about the text under study:
 
-> Everything about the text matters, whether the author intended for it to matter or not.
+* Everything about the text matters, whether the author intended for it to matter or not.
 
 Consider the following thought experiment. One day you come home to find the following note from your roommate on the counter:
 
@@ -31,7 +31,7 @@ Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ 
 
 > "I’ve got your business for you. You know I don’t lack taste. Trust me: you come to dinner at my house and tell me that I’m a cad if I don’t give you the most beautiful woman, the most fresh, the most seductive; a true morsel for a king."
 
-In beginning a close reading here, we might ask:
+In beginning a close reading here, I might ask:
 
 * What adjectives and nouns describe Mme du Barry here?
 
@@ -43,7 +43,8 @@ In beginning a close reading here, we might ask:
 
 * If you read the rest of the text, you'll see that most of the language in this excerpt is flowery -- but not the Count du Barry's words. What does that suggest about who he is and what his character is like?
 
-You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage, but how you use them depends on you. This evidence becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, we might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. We might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
+
+You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage, but how you use them depends on you. This evidence becomes the material you use to produce an analysis of your own \(sometimes also called a close reading\). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
 
 ## Primary and Secondary Texts for Historical Analysis
 
@@ -83,9 +84,10 @@ At one level, this work is giving an account of how Louis XV and the Countess du
 
 Interrogating sources in this fashion is just one mode of understanding a text. It relies on the idea that sustained attention to a document will allow you to understand new things about it. This same approach can be applied to virtually any object of study, be they books, films, music, or ideas themselves. Our primary motivation in this book, then, is how the process can be changed with the introduction of technology. You might start by asking a series of questions about how close reading might interact with digital tools.
 
-> Can we still read closely if the computer is doing the reading for us?
+* Can we still read closely if the computer is doing the reading for us?
 
-> How might the computer change the kinds of close readings available to us?
+* How might the computer change the kinds of close readings available to us?
 
-> Can we close read new things using digital tools that we couldn't before?
+* Can we close read new things using digital tools that we couldn't before?
+
 

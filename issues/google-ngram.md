@@ -22,9 +22,9 @@ Looking at the graph, one could see evidence for an argument about the increasin
 
 With any large-scale text analysis like this, the underlying data is everything. Imagine running the same word search for 'science' and 'religion' over 1000 texts used in religious schools or services. It would probably look quite different! The same would hold true if we targeted only biology, botany, and physics textbooks over the same time period. While these are fairly stark examples, the same principle holds true: the input affects the output. The data we choose for a study can skew our conclusions, and it is important for us to think carefully about their selection as a part of the process. 
 
-> What is the corpus, or set of texts, being used to generate this data? 
+* What is the corpus, or set of texts, being used to generate this data? 
 
-> Where is this data coming from? 
+* Where is this data coming from? 
 
 The Google NGram Viewer offers a dropdown menu where you can select a corpus to study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Books scanning project (to see similar visualizations of your own corpus, you could try working with [Bookworm](http://bookworm.culturomics.org/), a related tool). This raises a number of difficulties. As Eitan Adam Pechenick, Christopher M. Danforth, and Peter Sheridan Dodds [have noted](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137041), the corpus only has one copy of each book in its dataset. So things do not get scaled for circulation or popularity. A book that only sells one copy is weighted the same as a book that sells a thousand copies: they are both a single copy according to Google's methods. 
 
@@ -89,13 +89,13 @@ This N-Gram shows an increasing use of this term over the course of the eighteen
 
 So, language changes over time. A single word might radically change in usage over the centuries in ways that skew our results. We also use different terms over time to describe the same phenomena.  These are all things we would want to say a lot more in any interpretations using N-Grams. We would also need to consider what they can (and cannot) tell us and think about potential problems in my reading. But hopefully the implications of the technology will be exciting to you nonetheless.
 
-> Digital methods can allow us to make observations about vast numbers of texts. Far more than you would be able to read yourself.
+* Digital methods can allow us to make observations about vast numbers of texts. Far more than you would be able to read yourself.
 
 That last phrase should cause some alarm: we haven't actually read any of these texts, but we are making observations about them nonetheless. We hope you will think deeply about the implications about such an act.
 
-> What does this form of reading lose?
-> What does it gain?
-> How it can it be approached in ways that minimize the former and maximize the latter?
+* What does this form of reading lose?
+* What does it gain?
+* How it can it be approached in ways that minimize the former and maximize the latter?
 
 ## Interpretation
 
