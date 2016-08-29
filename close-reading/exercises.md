@@ -8,7 +8,7 @@ Pratice your close reading skills on the following short passage from [Historica
 > 
 > The Du Barry organized a conspiracy. Her side was powerful. The Duke had enemies. He had made some reforms and he had been in office for a long time—at court, people like to see change. Finally he was afraid of a coming fall. It was natural he was looking for a protection. He thought he had found one by organizing the marriage of the pretty archduchess and the Dauphin.,,. this marriage made the Duke become odious to the eyes of the nation.
 
-* Write a paragraph describing your reading process in as great detail as you can manage. What kinds of things do you notice about the passage? Are you looking for particular things? What goes through your head? 
+* Write a paragraph describing your reading process in as great detail as you can manage. What kinds of things do you notice about the passage? Are you looking for particular things? What goes through your head?
 
 * Then read the passage two more times and repeat the same exercise, writing down what goes through your head in detail.
 
@@ -19,6 +19,6 @@ Then go to [our class Prism](http://prism.scholarslab.org/prisms/747fbb52-6bb9-1
 
 * Say something interesting about the results that Prism gives you. What new insights does it give you into the text?
 
-* Think more critically about the categories we have chosen for you to highlight. What assumptions do you think we have about them? How does putting them against each other in this way make you think about them differently?
+* Think more critically about the categories we have chosen for you to highlight. What assumptions do you think we have about them? How does pairing these two categories change how you think about the categories themselves? 
 
 
