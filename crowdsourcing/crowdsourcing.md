@@ -14,7 +14,7 @@ You will learn more about this and other problems with digital data in our chapt
 
 Whereas microtasking projects ask users to work on a problem already laid out for them, **macrotasking** projects are lead by the interests and aims of the group itself. *Wikipedia* is probably the most famous example of crowdsourcing, and it would fall under this category. Its many users apply their energy to common problems: the production of knowledge regarding particular topics. But *Wikipedia* is different from other forms of crowdsourcing in that it has no clear goal in sight. They will never solve knowledge: instead, *Wikipedia*'s devoted users will be continually working to develop a better understanding until the website goes offline. The user community creates their own goals, priorities, and tasks, all of which can lead to systemic problems: the articles online necessarily reflect the inherent interest of the material but, instead, the interests of the community of editors. Whereas microtasking projects are about really small, repeatable problems, macrotasking problems are fundamentally different in kind.
 
-It is worth pausing over all of these examples to consider the labor going into them. We are talking about an incredible amount of energy and work that is essentially volunteer. If I go onto *Typewright* and help transcribe an eighteenth-century text, that is time that I could have spent doing something else, something that could have compensated me in more explicit ways.
+It is worth pausing over all of these examples to consider the labor going into them. We are talking about an incredible amount of energy and work that is essentially volunteer. If we go onto *Typewright* and help transcribe an eighteenth-century text, that is time that we could have spent doing something else, something that could have compensated me in more explicit ways.
 
 > Is it enough that the users are contributing to the public good for these projects?
 
@@ -26,7 +26,7 @@ In many cases, these digital projects cost vast sums of money, and, so the criti
 
 > What would it take for you to feel adequately compensated for your time?
 
-These are open questions with no clear answers, but they are worth keeping in mind. I think this awareness and self-reflection must be the foundation of ethical ways of engaging with projects like these. After all, *Typewright*, *Recaptcha*, and *Transcribe Bentham* produce great results, but they do so by employing human energy to fairly menial tasks. *Wikipedia* raises other important questions about crowdsourcing: 
+These are open questions with no clear answers, but they are worth keeping in mind. We think this awareness and self-reflection must be the foundation of ethical ways of engaging with projects like these. After all, *Typewright*, *Recaptcha*, and *Transcribe Bentham* produce great results, but they do so by employing human energy to fairly menial tasks. *Wikipedia* raises other important questions about crowdsourcing: 
 
 > Can the crowd do more?
 > What happens when we give control of the project over to the crowd?

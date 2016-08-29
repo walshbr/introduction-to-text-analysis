@@ -6,21 +6,21 @@ If that's the case, you may be wondering why we're teaching a class on text anal
 
 To do so, though, you need to know a bit about how computers process texts. It should be clear from what we've said so far that they have a hard time understanding data. They can interact with and use data, but they make very few assumptions and even fewer interpretations about data. Those that they do have been specifically programmed into the computer's software. In the context of text analysis, this means that computers have a hard time reading. Consider the following sentence:
 
-"I saw 8<sup>1/2</sup>."
+"We saw 8<sup>1/2</sup>."
 
-Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the question to which I might be responding, and I can think of two possible questions with very different contexts:
+Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the question to which we might be responding, and we can think of two possible questions with very different contexts:
 
 > "How many movies did you see?
 
 > "What movie did you see?"
 
-In the first case, I might be responding with a number of movies that I had seen. In the second, I'm responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and since we're good at understanding context, we would easily be able to distinguish between the two. 
+In the first case, we might be responding with a number of movies that we had seen. In the second, we're responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and since we're good at understanding context, we would easily be able to distinguish between the two. 
 
 Computers cannot make inferences like these, and this fact has serious implications: numbers and words have significantly different uses. Here are two further extensions of the conversation:
 
 > If you add four to how many movies you saw, what is the result?
 
-If I was talking about a number of movies, my response would clearly be, "Oh that's 12.5. Why are you giving me a math quiz?" If I was talking about the Fellini film, I might respond, "What? Oh, I was talking about a title, not a number. I can't add things to a title."
+If we were talking about a number of movies, my response would clearly be, "Oh that's 12.5. Why are you giving me a math quiz?" If we were talking about the Fellini film, we might respond, "What? Oh, we were talking about a title, not a number. We can't add things to a title."
 
 Programmers have developed conventions for telling computers to distinguish between these **data types**.  There are two important ones for our purposes here:
 
@@ -30,7 +30,7 @@ Programmers have developed conventions for telling computers to distinguish betw
 
 If you go on to learn how to program, you might find slightly different names depending on the programming language, and you will be introduced to other data types as well. But distinction between strings and integers is important for text analysis. You can perform arithmetic operations on the one while the other responds less well to such things. You can capitalize words, but not numbers. And computers generally want you to deal with similar objects: you can combine strings (words can become sentences) or add numbers, but you trying to combine a string and an integer will break things.
 
-But notice that my beginning answer hinged on the ambiguity between strings and integers. How does a computer know whether we are talking about strings or about integers in cases where they could refer to either? How does it now that I want 8 to function as a word and not as a number in this context?
+But notice that my beginning answer hinged on the ambiguity between strings and integers. How does a computer know whether we are talking about strings or about integers in cases where they could refer to either? How does it know that we want 8 to function as a word and not as a number in this context?
 
 Programmers over the years have built a variety of functions and tools into different languages to get around some of these difficulties, but they still remain. When processing text by a computer, we have to account for such problems. We generally do this by following very strict guidelines for inputting information. This **syntax** works in much the same way as grammar does for humans - helping the computer to keep track of what we mean and what we want it to do. 
 
@@ -63,7 +63,7 @@ We have five tokens and two types. Depending on our research questions and inter
 
 If sentences are broken up into words, we might care also about breaking documents into sentences first. We have a name for that too: **segmentation**.
 
-> "But wait," you say, "computers care about capitalization. So if I tokenize a text and try to compare 'word' and 'Word' it will think they are entirely different things!" 
+> "But wait," you say, "computers care about capitalization. So if we tokenize a text and try to compare 'word' and 'Word' it will think they are entirely different things!" 
 
 Good catch! You're right, those differences in capitalization often aren't meaningful. It is a fairly common practice to lowercase all the words after you tokenize them. This process is often called **normalizing** the data, since we are smoothing out inconsistencies that might get in the way of our research questions. This whole collection of processes of segmentation, tokenization, and normalization has name as well: **preprocessing**, all those things you do to data before you work with it. Depending on your interests, you might include other steps, such as tagging things for parts of speech or filtering out particular types of words.
 

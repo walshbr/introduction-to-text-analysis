@@ -42,25 +42,21 @@ Now, let's practice on a supervised approach to a common problem in text analysi
 
 * What is my research question?
 
-  * I want to be able to identify the unknown author of a text.
+  * We want to be able to identify the unknown author of a text.
 
 * How can my large question be broken down into smaller pieces?
 
-  * I have a reasonable guess as to some possible authors, so I can use those as objects of study. I also am assuming that authorship can be associated with style.
+  * We have a reasonable guess as to some possible authors, so We can use those as objects of study. We also am assuming that authorship can be associated with style.
 
 * Which of those can be measured by the computer?
 
   * Well, style is the sum total of vocabulary, punctuation, and rhetorical patterns, among other things. Those can all be counted!
 
-* What kind of example data do I have that I can for this problem?
+* What kind of example data do we have that we can for this problem?
 
-  * I have the unknown text. And I also have several texts by my potential authors that I can compare against it.
+  * We have the unknown text. And we also have several texts by my potential authors that we can compare against it.
 
-
-To illustrate this experiment, I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), I gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so my training set included about double the number of pieces by Bowler as by Glenn. With this body of training data for each author, I uploaded the texts to this great online [authorship attribution tool](http://aicbt.com/authorship-attribution/online-software/)
-by AICBT. The tool allows you to upload sample data for two authors. With this set, you can then upload a text by an unknown author, and the software will try to guess who wrote it. In this case, the mystery text was [Freedom, Justice, and John Legend](http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend) by Bowler. Author 1 is Glenn, and Author 2 is Bowler. The tool attempted to identify the author of the mystery text as follows. You can also find AICBT's helpful explanation of the different metrics that they are using to analyze the unknown text.
-
-To illustrate this experiment, I took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), I gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so my training set included about double the number of pieces by Bowler as by Glenn. With this body of training data for each author, I uploaded the texts to this great online [authorship attribution tool](http://aicbt.com/authorship-attribution/online-software/) by AICBT. The tool allows you to upload sample data for two authors. With this set, you can then upload a text by an unknown author, and the software will try to guess who wrote it. In this case, the mystery text was [Freedom, Justice, and John Legend](http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend) by Bowler. Author 1 is Glenn, and Author 2 is Bowler. The tool attempted to identify the author of the mystery text as follows. You can also find AICBT's helpful explanation of the different metrics that they are using to analyze the unknown text.
+To illustrate this experiment, we took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), we gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so my training set included about double the number of pieces by Bowler as by Glenn. With this body of training data for each author, we uploaded the texts to this great online [authorship attribution tool](http://aicbt.com/authorship-attribution/online-software/) by AICBT. The tool allows you to upload sample data for two authors. With this set, you can then upload a text by an unknown author, and the software will try to guess who wrote it. In this case, the mystery text was [Freedom, Justice, and John Legend](http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend) by Bowler. Author 1 is Glenn, and Author 2 is Bowler. The tool attempted to identify the author of the mystery text as follows. You can also find AICBT's helpful explanation of the different metrics that they are using to analyze the unknown text.
 
 ![authorship function](/assets/classifiers/authorship-function.jpg)
 ![authorship lexical](/assets/classifiers/authorship-lexical.jpg)

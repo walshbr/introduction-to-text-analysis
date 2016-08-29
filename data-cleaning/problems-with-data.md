@@ -12,7 +12,7 @@ Take this image taken from a newspaper ad for the American film version of Sherl
 
 By default, the computer has no idea that there is text inside of this image. For a computer, an image is just an image, and you can only do image-y things to it. The computer could rotate it, crop it, zoom in, or paint over parts of it, but your machine cannot read the text there - unless you tell it how to do so. The computer requires a little extra help to pull out the text information from the image.
 
-The process of using software to extract the text from an image of a text is called **optical character recognition** or OCR. There are many tools that can do this, and some are proprietary. All of these tools are only so good at the process. Running this image through tesseract, a common tool for OCR'ing text, I get something like this:
+The process of using software to extract the text from an image of a text is called **optical character recognition** or OCR. There are many tools that can do this, and some are proprietary. All of these tools are only so good at the process. Running this image through tesseract, a common tool for OCR'ing text, we get something like this:
 
 ![ocr'd sherlock holmes text](/assets/data-cleaning/holmes-ocr-text.jpg)The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! I learned to read in first grade \[or whenever you learned to read\]. I can even read things written in cursive! Why does the computer have such a hard time with this?" This is one of those instances where what is really easy for you is really hard for a computer. Humans are great at pattern recognition, which is essentially what OCR is. Computers, not so much.
 
@@ -22,17 +22,17 @@ OCR'ing text is actually a pretty complicated problem for computers. [WhatFontis
 
 Let me say it again, computers cannot infer. Imagine this scenario:
 
-I'm going to count to ten!
+We're going to count to ten!
 
 1,2,3,4,5,6,7,8,10
 
-You probably meant to have a 9 in there, but the computer will have no idea that you probably mistyped and left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is _messy_. To see what I mean, go check out the Wikipedia section on Sir Arthur Conan Doyle's [name](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle#Name). I will wait. Here is a picture of a cat in the meantime. Imagine it's a cat high fiving you when you clean up some data.
+You probably meant to have a 9 in there, but the computer will have no idea that you probably mistyped and left out a number. You would have to specifically tell it to account for such errors. This simple fact about computational logic becomes a big problem in the humanities, because humanities data is _messy_. To see what we mean, go check out the Wikipedia section on Sir Arthur Conan Doyle's [name](https://en.wikipedia.org/wiki/Arthur_Conan_Doyle#Name). We will wait. Here is a picture of a cat in the meantime. Imagine it's a cat high fiving you when you clean up some data.
 
 ![high fiving cat](/assets/data-cleaning/data-cat-high-five.jpg)
 
 Did you read it? Don't lie to me.
 
-Doyle has a complicated naming history, to say the least. Now iImagine you are putting together a database of authors. You get to Doyle. How will you save his name? I can think of a number of possibilities:
+Doyle has a complicated naming history, to say the least. Now Imagine you are putting together a database of authors. You get to Doyle. How will you save his name? We can think of a number of possibilities:
 
 ```
 Doyle Arthur Doyle
@@ -124,4 +124,4 @@ Imagine: now that you have started to put together your own table of author name
 
 Such metadata standards exist, and a lot of work goes into maintaining them \(check out [Dublin Core](dublincore.org/specifications) if you are interested in learning more\). These standards ensure that anyone producing a new dataset creates work that could easily translate and communicate with other systems. They ensure that your local library's data could eventually be drawn into the [Digial Public Library of America](https://dp.la) and made available on a large scale. The process might seem easy with this basic author name example, but imagine trying to coordinate such metadata standards for all people working on all types of cultural objects, all over the world. The work never ends.
 
-You can fall down a deep pit looking at all the different metadata standards and their uses. For now, I just want you to be familiar with the concepts.
+You can fall down a deep pit looking at all the different metadata standards and their uses. For now, we just want you to be familiar with the concepts.

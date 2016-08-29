@@ -37,7 +37,7 @@ The three most dominant emoji are fire, police sirens, and flowers, which might 
 
 ![angry sentiment](/assets/sentiment-analysis/emoji-sentiment-angry.jpg)
 
-Note how even \#angry just barely dips below 50 to be predominantly negative. I actually had to search around for a while to find a hashtag that read as predominantly negative. Could this be a function of language - are people just happier than they are sad? Certainly not. This might have to do with how we represent our emotions on social media; maybe we just don't use emojis to represent negative emotions that often. Or maybe sentiment analysis by way of computation is imprecise at best.
+Note how even \#angry just barely dips below 50 to be predominantly negative. We actually had to search around for a while to find a hashtag that read as predominantly negative. Could this be a function of language - are people just happier than they are sad? Certainly not. This might have to do with how we represent our emotions on social media; maybe we just don't use emojis to represent negative emotions that often. Or maybe sentiment analysis by way of computation is imprecise at best.
 
 > What might you imagine using sentiment analysis for?
 > 
