@@ -8,7 +8,7 @@ When you find a work encoded in TEI online, it might not be clearly apparent at 
 
 Focus on what you do know: the tagging syntax and where to go to look for help. A lot of working with technology consists of not panicking and then looking up what you don't know. But we digress.
 
-When you look at the entry on the _Old Bailey Online_, almost all the tags disappear:
+When you look at the entry on the Old Bailey Online, almost all the tags disappear:
 
 ![Same entry without TEI](/assets/archives/old-bailey-sans-tei.jpg)
 
