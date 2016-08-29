@@ -18,7 +18,8 @@ In order to make the text legible for readers, we very often hide most (or all) 
 
 One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go that museum in order to read the document. A digital version online can reach a wider audience than a physical copy. However, putting materials on the internet raises a variety of legal and financial issues. After all, these digital resources require a great deal of time, funding, and energy to produce.
 
-* Will you make your materials freely available to anyone with an internet connection?&gt; Or will you require payment to see them?
+* Will you make your materials freely available to anyone with an internet connection?
+* Or will you require payment to see them?
 
 If you have ever tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content, you have encountered such **paywalled** materials. Resources like these can be juxtaposed with **open access** materials. While there are different levels and variants, open access broadly means that the materials are provided available with little to no restrictions. For many, the choice is an ethical and a political one. But open access materials do raise serious financial questions:
 
