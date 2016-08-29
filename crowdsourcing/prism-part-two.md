@@ -14,7 +14,7 @@ Prism offers a few options to facilitate group reading. Most importantly, it ass
 
 You upload a text by pasting it into the window provided. Prism does not play well with super long texts, so you may have to play around in order to find a length that works for the tool as well as for you. The three facets on the right correspond to the three marking categories according to which you want users to highlight. The rest of these categories should be self-explanatory. Note, however, that you will only be able to give a short description to readers: your document and marking categories will largely have to stand on their own.
 
-<img src="/assets/crowdsourcing/prism-create-two.jpg" alt="listed vs unlisted prism interface" class="img-right">
+<img src="/assets/crowdsourcing/prism-create-two.jpg" alt="listed vs unlisted prism interface" class="img-right" id="prism-licensing">
 
 Below these main parameters for your text, you will be asked to make some other choices that may be less intuitive.
 
