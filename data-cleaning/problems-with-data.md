@@ -19,7 +19,7 @@ The process of using software to extract the text from an image of a text is cal
 
 <img src="/assets/data-cleaning/holmes-ocr-text.jpg" alt="ocr'd sherlock holmes text" class="img-right" id="ocr-image"/>
 
-Running this image through tesseract, a common tool for OCR'ing text, we get the computer's best garbled attempt at translating image into text (at right).
+Running this image through tesseract, a common free tool for OCR'ing text, we get the computer's best garbled attempt at translating image into text (at right).
 
 The material here is still recognizable as being part of the same text, though there are obvious problems with the reproduction. At first blush, you might think, "This should be easy! I learned to read in first grade \[or whenever you learned to read\]. I can even read things written in cursive! Why does the computer have such a hard time with this?" This is one of those instances where what is really easy for you is really hard for a computer. Humans are great at pattern recognition, which is essentially what OCR is. Computers, not so much.
 
