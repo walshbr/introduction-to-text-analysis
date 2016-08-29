@@ -57,7 +57,7 @@ First, let's enter information manually. Let's pull out our copy of Rosalind Cro
 
 ![adding a book citation](/assets/data-cleaning/zotero-add-citation.jpg)
 
-Doing so will shift your Zotero pane so that you can enter the metadata for Crone's book on the right. Go ahead and do that.
+Doing so will shift your Zotero pane so that you can enter the metadata for Crone's book on the right. Go ahead and do that. When you're done, you should have something like this. Notice how you can have some categories be empty - Zotero is not picky. It has all those extra sections so that it can fit a variety of different use cases, but 
 
 ![adding crone citation](/assets/data-cleaning/zotero-editing-pane.jpg)
 
