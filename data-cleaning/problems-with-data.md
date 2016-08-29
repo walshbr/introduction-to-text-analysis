@@ -8,7 +8,8 @@ The basic principle to remember is **garbage in, garbage out (or GIGO)**: you ar
 
 Take this image taken from a newspaper ad for the American film version of Sherlock Holmes:
 
-![sherlock holmes article clipping](/assets/data-cleaning/holmes.jpg)
+<img src="/assets/data-cleaning/holmes.jpg" alt="sherlock holmes article clipping" class="img-left">
+
 
 By default, the computer has no idea that there is text inside of this image. For a computer, an image is just an image, and you can only do image-y things to it. The computer could rotate it, crop it, zoom in, or paint over parts of it, but your machine cannot read the text there - unless you tell it how to do so. The computer requires a little extra help to pull out the text information from the image.
 
