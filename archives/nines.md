@@ -6,7 +6,7 @@ When you find a work encoded in TEI online, it might not be clearly apparent at 
 
 ![Jack the Ripper TEI](/assets/archives/old-bailey-tei.jpg)
 
-Focus on what you do know: the tagging syntax and where to go to look for help. A lot of working with technology consists of not panicking and then looking up what you don't know. But we digress.
+Focus on what you do know: the tagging syntax should ring some bells. If you want to look up any of the tags, you can always check out the [TEI guidelines](http://www.tei-c.org/index.xml). A lot of working with technology consists of not panicking and then looking up what you don't know. But we digress.
 
 When you look at the entry on the Old Bailey Online, almost all the tags disappear:
 
