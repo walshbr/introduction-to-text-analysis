@@ -45,7 +45,7 @@ First visit the [Zotero download page](https://www.zotero.org/download). You can
 
 ![zotero download](/assets/data-cleaning/zotero-download.jpg)
 
-This will download an application to your desktop that, if you're like us, you'll want to put in a place where you'll have quick and easy access to it. While you're at it, you will need to add at least one of the browser extensions by clicking on the button in the same pane. We recommend you just add the extension to every browser that you have on your computer: this little download is what will allow you to pull citation information down off a webpage.
+This will download an application to your desktop that, if you're like us, you'll want to put in a place where you'll have quick and easy access to it. While you're at it, you will need to add at least one of the browser extensions by clicking on the button in the same pane from the downloads page. We recommend you just add the extension to every browser that you have on your computer: this little download is what will allow you to pull citation information down off a webpage.
 
 Once you download all those, open up Zotero Standalone. It should look something like this:
 
