@@ -3,7 +3,7 @@ img{
 max-height:500px;
 }
 
-img-left{
+.img-left{
 float: left;
 padding-right: 13.6px;
 }
