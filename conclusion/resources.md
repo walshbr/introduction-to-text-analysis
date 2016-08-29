@@ -12,10 +12,11 @@
 
 ## Python
 * [Python Documentation](https://www.python.org/doc/)
-[NLTK book](http://www.nltk.org/book/)
+* [NLTK book](http://www.nltk.org/book/)
 
 ## R
 * Arnold, Taylor and Lauren Tilton. [Humanities Data in R](http://www.humanitiesdata.org/).
+* Jockers, Matt. [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/).
 
 
 ## Other
