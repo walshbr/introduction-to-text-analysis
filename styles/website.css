@@ -7,3 +7,7 @@ max-height:500px;
 float: left;
 padding-right: 13.6px;
 }
+
+.clear{
+ clear:both
+}
