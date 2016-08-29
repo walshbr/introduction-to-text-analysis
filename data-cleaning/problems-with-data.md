@@ -10,7 +10,6 @@ Take this image taken from a newspaper ad for the American film version of Sherl
 
 <img src="/assets/data-cleaning/holmes.jpg" alt="sherlock holmes article clipping" class="img-left">
 
-
 By default, the computer has no idea that there is text inside of this image. For a computer, an image is just an image, and you can only do image-y things to it. The computer could rotate it, crop it, zoom in, or paint over parts of it, but your machine cannot read the text there - unless you tell it how to do so. The computer requires a little extra help to pull out the text information from the image.
 
 The process of using software to extract the text from an image of a text is called **optical character recognition** or OCR. There are many tools that can do this, and some are proprietary. All of these tools are only so good at the process. Running this image through tesseract, a common tool for OCR'ing text, we get something like this:
