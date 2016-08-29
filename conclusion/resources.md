@@ -1,4 +1,4 @@
-# Resources
+# Further Resources
 
 ## Tutorials
 * [The Programming Historian](http://programminghistorian.org/)
