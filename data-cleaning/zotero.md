@@ -99,14 +99,16 @@ The input field now shows how the citation will show up. In most cases, however,
 
 ![zotero give page numbers to citation](/assets/data-cleaning/zotero-give-page-numbers-to-citation.jpg)
 
-Et voila! Your citation appears in the text in just the same way as if you were doing it by hand, properly formatted with the correct page numbers. The process might appear a little slow, but once you get the hang of the workflow, this process greatly speeds up writing. Gather all your citations in one place, and then learn the handful of keyboard shortcuts for working with Zotero in Word. These are the ones we use most often:
+Et voila! Your citation appears in the text in just the same way as if you were doing it by hand, properly formatted with the correct page numbers. 
+
+![zotero example citation](/assets/data-cleaning/zotero-example-citation.jpg)
+
+The process might appear a little slow, but once you get the hang of the workflow, this process greatly speeds up writing. Gather all your citations in one place, and then learn the handful of keyboard shortcuts for working with Zotero in Word. These are the ones we use most often:
 
 * 'ctrl + option + a' will add a new citation.
 * 'arrow keys' allow you to highlight particular objects from the Zotero search when inputting a citation
 * 'return' selects a particular citation.
 * 'cmd + down arrow' will bring up additional options like adding page numbers once you have a citation selected in the add citation input field.
-
-![zotero example citation](/assets/data-cleaning/zotero-example-citation.jpg)
 
 Get the hang of these commands, and you'll save loads of time.
 
