@@ -35,7 +35,7 @@ Author. Title. Book. Editor. Location: Publisher, Data. Format. Series.
 
 The formula will vary slightly depending on the type of item you are citing, but, if we have a full metadata listing for each text, we could imagine a tool that would put fill in the metadata and format it to our recipe. We could imagine software that would spit out a bibliography for us.
 
-If you have ever used something like [easybib.com](https://www.easybib.com) to produce a bibliography, you have done exactly the process that I am describing. You fill in the metadata you want, and easybib spits out a citation.
+If you have ever used something like [easybib.com](https://www.easybib.com) to produce a bibliography, you have done exactly the process that we are describing. You fill in the metadata you want, and easybib spits out a citation.
 
 You might have felt like you were cheating when using a tool like this as a shortcut for your citations, but we're here to let you in on a secret. Your instructors rely on similar tools. If you think putting together a bibliography for your 5 page essay is irritating, imagine doing one for a 300 page book manuscript. And at the end of the process, your publisher decides that you have to use Chicago style \(footnotes\) rather than MLA \(in-text citations\). No one wants to do any of this manually.
 
@@ -45,7 +45,7 @@ First visit the [Zotero download page](https://www.zotero.org/download). You can
 
 ![zotero download](/assets/data-cleaning/zotero-download.jpg)
 
-This will download an application to your desktop that, if you're like me, you'll want to put in a place where you'll have quick and easy access to it. While you're at it, you will need to add at least one of the browser extensions by clicking on the button in the same pane. I recommend you just add the extension to every browser that you have on your computer: this little download is what will allow you to pull citation information down off a webpage.
+This will download an application to your desktop that, if you're like me, you'll want to put in a place where you'll have quick and easy access to it. While you're at it, you will need to add at least one of the browser extensions by clicking on the button in the same pane. We recommend you just add the extension to every browser that you have on your computer: this little download is what will allow you to pull citation information down off a webpage.
 
 Once you download all those, open up Zotero Standalone. It should look something like this:
 
@@ -99,7 +99,7 @@ The input field now shows how the citation will show up. In most cases, however,
 
 ![zotero give page numbers to citation](/assets/data-cleaning/zotero-give-page-numbers-to-citation.jpg)
 
-Et voila! Your citation appears in the text in just the same way as if you were doing it by hand, properly formatted with the correct page numbers. The process might appear a little slow, but once you get the hang of the workflow, this process greatly speeds up writing. Gather all your citations in one place, and then learn the handful of keyboard shortcuts for working with Zotero in word. These are the ones I use most often:
+Et voila! Your citation appears in the text in just the same way as if you were doing it by hand, properly formatted with the correct page numbers. The process might appear a little slow, but once you get the hang of the workflow, this process greatly speeds up writing. Gather all your citations in one place, and then learn the handful of keyboard shortcuts for working with Zotero in word. These are the ones we use most often:
 
 * 'ctrl + option + a' will add a new citation.
 * 'arrow keys' allow you to highlight particular objects from the Zotero search when inputting a citation
@@ -109,11 +109,11 @@ Et voila! Your citation appears in the text in just the same way as if you were 
 
 Get the hang of these commands, and you'll save loads of time.
 
-But adding citations is only one part of the process. You also want to add a bibliography to your document based on those citations. Zotero can do this too! From the Zotero menu in Word, select 'Add Bibliography'. Zotero will magically format the metadata you're using into bibliographical entries. Then format those into a bibliography based on the citation style you have chosen for the document. By default, the bibliography will appear wherever your cursor was. So you'll need to move it around to put it in a location that works for you. Add a couple more citations using the other things we added to Zotero and see if you can get it looking reasonable. Here is what I came up with:
+But adding citations is only one part of the process. You also want to add a bibliography to your document based on those citations. Zotero can do this too! From the Zotero menu in Word, select 'Add Bibliography'. Zotero will magically format the metadata you're using into bibliographical entries. Then format those into a bibliography based on the citation style you have chosen for the document. By default, the bibliography will appear wherever your cursor was. So you'll need to move it around to put it in a location that works for you. Add a couple more citations using the other things we added to Zotero and see if you can get it looking reasonable. Here is what we came up with:
 
 ![zotero text with bibliography](/assets/data-cleaning/zotero-document-with-bibliography.jpg)
 
-I put the bibliography at the end of the text and hit return a few times after the last sentence to give it space \(you often might insert a page break to put it on its own page\). I gave it a centered heading. And I inserted a couple other citations to flesh things out.
+We put the bibliography at the end of the text and hit return a few times after the last sentence to give it space \(you often might insert a page break to put it on its own page\). We gave it a centered heading. And we inserted a couple other citations to flesh things out.
 
 We hope you see how powerful this is. Zotero saves a lot of time, and it can help organize your workflow neatly and naturally. Now, when you read something new that you think could be useful, in addition to taking notes you will also add it to Zotero. Later, when you go to write, that information can be easily added to your document without much of a hassle.
 
