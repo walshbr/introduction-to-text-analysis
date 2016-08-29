@@ -110,11 +110,11 @@ Et voila! Your citation appears in the text in just the same way as if you were 
 
 Get the hang of these commands, and you'll save loads of time.
 
-But adding citations is only one part of the process. You also want to add a bibliography to your document based on those citations. Zotero can do this too! From the Zotero menu in Word, select 'Add Bibliography'. Zotero will magically format the metadata you're using into bibliographical entries. Then format those into a bibliography based on the citation style you have chosen for the document. By default, the bibliography will appear wherever your cursor was. So you'll need to move it around to put it in a location that works for you. Add a couple more citations using the other things we added to Zotero and see if you can get it looking reasonable. Here is what we came up with:
+But adding citations is only one part of the process. You also want to add a bibliography to your document based on those citations. Zotero can do this too! From the Zotero menu in Word, select 'Add Bibliography.' Zotero will magically format the metadata you're using into bibliographical entries. Then format those into a bibliography based on the citation style you have chosen for the document. By default, the bibliography will appear wherever your cursor was. So you'll need to move it around to put it in a location that works for you. Add a couple more citations using the other things we added to Zotero and see if you can get it looking reasonable. Here is what we came up with:
 
 ![zotero text with bibliography](/assets/data-cleaning/zotero-document-with-bibliography.jpg)
 
-We put the bibliography at the end of the text and hit return a few times after the last sentence to give it space \(you often might insert a page break to put it on its own page\). We gave it a centered heading. And we inserted a couple other citations to flesh things out.
+To make this all look reasonable, we put the bibliography at the end of the text and hit return a few times after the last sentence to give it space \(you often might insert a page break to put the bibliography on its own page\). We gave it a centered heading. And we inserted a couple other citations to flesh things out.
 
 We hope you see how powerful this is. Zotero saves a lot of time, and it can help organize your workflow neatly and naturally. Now, when you read something new that you think could be useful, in addition to taking notes you will also add it to Zotero. Later, when you go to write, that information can be easily added to your document without much of a hassle.
 
