@@ -20,6 +20,7 @@ One good reason might be to increase access to the materials. After all, a manus
 
 * Will you make your materials freely available to anyone with an internet connection?
 * Or will you require payment to see them?
+* Why?
 
 If you have ever tried to access a resource from an online newspaper only to be told that you need to subscribe to see their content, you have encountered such **paywalled** materials. Resources like these can be juxtaposed with **open access** materials. While there are different levels and variants, open access broadly means that the materials are provided available with little to no restrictions. For many, the choice is an ethical and a political one. But open access materials do raise serious financial questions:
 
