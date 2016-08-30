@@ -9,7 +9,7 @@ After Voyant processes your text you'll get a series of window panes with lots o
 
 ![default view of string of pearls in voyant](/assets/cyborg-readers/voyant-overview.jpg)
 
-Voyant gives you lots of options, so do not be overwhelmed. Voyant provides great documentation for working through their interface, and we will not rehearse them all again [here](http://docs.voyant-tools.org/start/). Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
+Voyant gives you lots of options, so do not be overwhelmed. Voyant provides [great documentation](http://docs.voyant-tools.org/start/) for working through their interface, and we will not rehearse them all again here. Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
 
 ![voyant default wordcloud of string of pearls](/assets/cyborg-readers/voyant-word-cloud-default.jpg)
 
@@ -17,7 +17,7 @@ Word clouds like these have been made popular in recent years by [Wordle](http:/
 
 ![underlying corpus term frequency](/assets/cyborg-readers/voyant-term-frequencies.jpg)
 
-Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](http://www.historyofinformation.com/expanded.php?id=2321) begun on punch cards in the 1940's and 50's was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
+Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind is frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](http://www.historyofinformation.com/expanded.php?id=2321), begun on punch cards in the 1940's and 50's, was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
 
 Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot simply by counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character.
 
@@ -62,3 +62,7 @@ But let's not stop there! You may also notice that the word cloud for "A Scandal
 Alternately, the types of words in these two works are different. The word cloud for _A String of Pearls_ contains a lot of verbs \("shall," "said," "come," "know," "suppose," "thought"\), whereas that for "A Scandal in Bohemia" is made up of a lot of nouns, particularly those referring to places \("room," "house," "street," "lodge," "window," and "adress"\). This is an interesting thing to note, but you still want to think about what this means about the two different texts. Perhaps _A String of Pearls_ is more concerned with action and on the excitement of people doing things than "A Scandal in Bohemia," where the emphasis is on moving through and exploring different spaces.
 
 Some of these conclusions were probably pretty obvious as you read these two works \(or portions of them\). You probably picked up the fact that _A String of Pearls_ is set in working-class London, whereas "A Scandal in Bohemia" takes place in a more elevated milieu. You might even have noticed a difference in vocabulary, even if using Voyant made these differences more apparent -- and gave you further data to back up any claims you were making about these distinctions. But you probably didn't notice the emphasis on action vs. the importance of place in these two works. So this is a good example of how cyborg readers can lead you to new interpretations.
+
+## Further Resources
+
+* Rockwell and Sinclair, the creators of Voyant, have a great book on using it for text analysis: *[Hermeneutica](https://mitpress.mit.edu/books/hermeneutica)*.
