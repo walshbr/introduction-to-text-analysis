@@ -37,7 +37,7 @@ Return to the word cloud. Using the slider below the word cloud, you can reduce 
 
 ![voyant word clouse dense](/assets/cyborg-readers/voyant-word-cloud-dense.jpg)
 
-Just like the stopword list can be used to adjust the filters that help to give you meaningful results, this slider adjusts the visualization that you get. It should become clear as you play with both options that different filters and different visualizations can give you radically different readings. The results are far from objective: your own reading, the tool itself and how you use it all shape the data as it comes to be known.
+Just like the stopword list can be used to adjust the filters that help to give you meaningful results, this slider adjusts the visualization that you get. It should become clear as you play with both options that different filters and different visualizations can give you radically different readings. The results are far from objective: your own reading, the tool itself, and how you use it all shape the data as it comes to be known.
 
 This is a good reminder that you should not think of digital tools as gateways to fixed and clear truths, either about historical periods or individual texts. Voyant may seem somehow objective in that it produces mathematical calculations and data visualizations, but now you've seen that you can easily alter the results. These techniques of "distant reading" are same as the models of "close reading" we talked about earlier in that both only lead to asking more questions and positing more interpretations.
 
@@ -51,7 +51,7 @@ For one, looking at these word clouds suggests that much of the vocabulary of th
 
 Additionally, most of the words are relatively short and most are only one or two syllables long.  Penny dreadfuls like _The String of Pearls_ were aimed at working class audiences: could the prevalence of these relatively 'simple' words reflect the audience of the text? In order to substantiate such a claim, we would probably want to look at other publications of the period to see whether or not such a list of frequently used words was typical or not.
 
-If we load Arthur Conan Doyle's "A Scandal in Bohemia" into Voyant, you can see that we get quite different results. \(Again, feel free to follow along!\)
+If we load Arthur Conan Doyle's "[A Scandal in Bohemia](http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#1)" into Voyant, you can see that we get quite different results. \(Again, feel free to follow along!\)
 
 ![scandal in bohemia word cloud](/assets/cyborg-readers/scandal-in-bohemia-word-cloud.jpg)
 
