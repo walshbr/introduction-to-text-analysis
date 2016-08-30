@@ -59,7 +59,9 @@ But there are advantages to these rigid restrictions. By following them, we can 
 
 "This is a sentence" ≠ "This" "is" "a" "sentence"
 
-A computer would not recognize these two terms as being equal. The left side, after all, contains spaces, and the right side contains a series of smaller strings. Annoying? Maybe. But also useful! After all, we are rarely interested in whole sentences. We commonly refer to individual words as **tokens**, and the process of breaking sentences into words then becomes called **tokenization**. While we often care about how many times each particular token occurs, we might care about not so much about the numbers of each different word so much as the different kinds of words themselves. So rather than counting all words, we just want to grab an example of each token **type**. If we have the following document:
+A computer would not recognize the two sides of the equals sign as being equivalent. The left side, after all, contains spaces, and the right side contains a series of smaller strings. Annoying? Maybe. But also useful! After all, we are rarely interested in whole sentences. We commonly refer to individual words as **tokens**, and the process of breaking sentences into words then becomes called **tokenization**. This allows us to structure our text into a collection of pieces that we can manipulate more easily. 
+
+We can break things down even further once we've divided a text into individual words. While we often care about how many times each particular token occurs, we might care about not so much about the numbers of each different word so much as the different kinds of words themselves. So rather than counting all words, we just want to grab an example of each token **type**. If we have the following document:
 
 > Test test test sentence sentence
 
