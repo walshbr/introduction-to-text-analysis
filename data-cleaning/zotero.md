@@ -53,9 +53,9 @@ Once you download all those, open up Zotero Standalone. It should look something
 
 Your Zotero installation and library will look different from Brandon's, because his is full of materials related to things he has written. It will probably look pretty empty, since you haven't filled it with any items just yet. Let's show Brandon what's what by grabbing some metadata to store it in Zotero. We will do this three different ways.
 
-First, let's enter information manually. Let's pull out our copy of Rosalind Crone's _Violent Victorians_ \(you can find the relevant metadata on [Amazon](https://www.amazon.com/dp/071908685X/?tag=mh0b-20&hvadid=4965340066&hvqmt=p&hvbmt=bp&hvdev=c&ref=pd_sl_6usflqlo9o_p) if you don't have your own copy. By clicking on the plus sign at the top, you can select the type of object you are adding to your collection. This is a book, so let's select that.
+<img src="/assets/data-cleaning/zotero-add-citation.jpg" alt="adding a book citation" class="img-right medium">
 
-![adding a book citation](/assets/data-cleaning/zotero-add-citation.jpg)
+First, let's enter information manually. Let's pull out our copy of Rosalind Crone's _Violent Victorians_ \(you can find the relevant metadata on [Amazon](https://www.amazon.com/dp/071908685X/?tag=mh0b-20&hvadid=4965340066&hvqmt=p&hvbmt=bp&hvdev=c&ref=pd_sl_6usflqlo9o_p) if you don't have your own copy. By clicking on the plus sign at the top, you can select the type of object you are adding to your collection. This is a book, so let's select that.
 
 Doing so will shift your Zotero pane so that you can enter the metadata for Crone's book on the right. Go ahead and do that. Notice how you can have some categories be empty - Zotero is not picky. It has all those extra sections so that it can fit a variety of different use cases, but not every object will use every metadata category. When you're done, you should have something like this. 
 
