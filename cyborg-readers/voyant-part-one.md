@@ -9,7 +9,7 @@ After Voyant processes your text you'll get a series of window panes with lots o
 
 ![default view of string of pearls in voyant](/assets/cyborg-readers/voyant-overview.jpg)
 
-Voyant gives you lots of options, so do not be overwhelmed. Voyant provides great documentation for working through their interface, and we will not rehearse them all again [here](http://docs.voyant-tools.org/start/). Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
+Voyant gives you lots of options, so do not be overwhelmed. Voyant provides [great documentation](http://docs.voyant-tools.org/start/) for working through their interface, and we will not rehearse them all again here. Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
 
 ![voyant default wordcloud of string of pearls](/assets/cyborg-readers/voyant-word-cloud-default.jpg)
 
@@ -17,7 +17,7 @@ Word clouds like these have been made popular in recent years by [Wordle](http:/
 
 ![underlying corpus term frequency](/assets/cyborg-readers/voyant-term-frequencies.jpg)
 
-Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](http://www.historyofinformation.com/expanded.php?id=2321) begun on punch cards in the 1940's and 50's was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
+Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind is frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](http://www.historyofinformation.com/expanded.php?id=2321) begun on punch cards in the 1940's and 50's was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
 
 Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot simply by counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about the central character.
 
