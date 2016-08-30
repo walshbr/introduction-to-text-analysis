@@ -9,7 +9,8 @@
 * Leary, Patrick. "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)."
 * Moretti, Franco. *Graphs, Maps, Trees.*
 * Kirsch, Adam. "[Technology is Taking Over English Departments: The False Promise of the Digital Humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)."
-* LA Review of Books, *[The Digital in the Humanities](https://lareviewofbooks.org/feature/the-digital-in-the-humanities)* series.
+* LA Review of Books, *[The Digital in the Humanities](https://lareviewofbooks.org/feature/the-digital-in-the-humanities)* series
+* Rockwell, Geoffrey and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*.
 
 ## Python
 * [Python Documentation](https://www.python.org/doc/)
