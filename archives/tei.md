@@ -100,7 +100,7 @@ We have added attributes to denote the line numbers for each line as well as the
 
 Once a text has been **encoded** in this way, it can be represented more easily in a digital form. This work may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. TEI encoding can make it possible to provide nuanced digital editions of a text. We could actually say to a program, pull out all the rhyming words in a poem. Or make them appear differently on a webpage. Or change them all to "TEI is the best."
 
-Let's look at an example of something that's got a lot of encoding already in it. Here is the TEI for [this entry](http://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on a robbery case involving mention of Jack the Ripper from the [Old Bailey Online](http://www.oldbaileyonlineorg]. You might not recognize a lot of the tags \(there are _loads_ of TEI tags\), but the general arrangement of them should look familiar:
+Let's look at an example of something that's got a lot of encoding already in it. Here is the TEI for [this entry](http://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on a robbery case that mentions Jack the Ripper from the [Old Bailey Online](http://www.oldbaileyonlineorg). You might not recognize a lot of the tags \(there are _loads_ of TEI tags\), but the general arrangement of them should look familiar:
 
 
 
@@ -108,7 +108,7 @@ Let's look at an example of something that's got a lot of encoding already in it
 
 
 
-Focus on what you do know: the tagging syntax should ring some bells. If you want to look up any of the tags, you can always check out the [TEI guidelines](http://www.tei-c.org/index.xml). A lot of working with technology consists of not panicking and then looking up what you don't know. But we digress.
+Focus on what you do know: the tagging syntax should ring some bells. If you want to look up any of the tags, you can always check out the [TEI guidelines](http://www.tei-c.org/index.xml). A lot of working with technology consists of not panicking when you see something unfamiliar and then looking up what you don't know. But we digress.
 
 
 
@@ -122,5 +122,6 @@ When you look at the [public-facing version of the entry](https://www.oldbaileyo
 
 In order to make the text legible for readers, we very often hide most (or all) of the markup that is helping to present the document. This ensures that you can serve the needs of different audiences: some people might want to see the TEI for your text, but others might just want to be able to read it as normal. We have already talked a bit about the functions you can get from TEI, but, if they largely remain hidden, you might find yourself thinking that they might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
 
+Looking at the TEI tags for this document give you a sense of why you might encode a text even if not many people are going to look at the TEI. You'll see there are tags for the witnesses' names (both first and last) and their gender. Why might this be useful? Well, maybe the people who designed this site thought that users could conceivably want to search for the participants in a crime by name and by gender. That way you can ask all sorts of questions about what other crimes individuals witnessed, or whether men or women were more likely to be involved in or witness to particular types of crime.
 
 Encoding is meant to convey abstract humanities concepts to the machine so that we can make better use of them in our digital work. Some of these concepts, like line breaks, might be pretty clear cut. Others might require a lot of interpretation. Even given the same set of tags and texts, two people could encode things differently. You can make a whole career off working with TEI, and we have just scratched the surface here. But encoding documents in TEI is an important step in preparing them for their lives as digital artifacts. Not all texts need to be encoded in TEI in order for them to be archived, but the vast majority of documents you will find in digital humanities archives have been encoded in this way. The process helps ensure that complex humanities data makes its way comfortably, ethically, and responsibly into the digital world.
