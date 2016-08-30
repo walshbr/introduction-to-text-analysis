@@ -1,5 +1,7 @@
 # Further Resources
 
+This page collects the "Further Resources" sections added to the end of some chapters. It also adds a few more tidbits that didn't fit well anywhere but that will be helpful to anyone exploring text analysis.
+
 ## Tutorials
 * [The Programming Historian](http://programminghistorian.org/)
 
