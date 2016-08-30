@@ -4,9 +4,9 @@ If you have been dutifuly following along until now, it should have become clear
 
 If such a disparity in skills exists between you and computers, you may be wondering why we're teaching a class on digital text analysis. Why bring technology into the equation when it is a poor approximation for a lot of the things that we follow in you reading? The answer is that there are a lot of instances where you can combine the nuance of human thinking with the quantitative power of computers to look at texts in new and creative ways. In particular, you can make computers do a lot of the repetitive work that you might find tedious.
 
-To do so, though, you need to know a bit about how computers process texts. It should be clear from what we've said so far that they have a hard time understanding data. They can interact with and use information, but they make very few assumptions and even fewer interpretations about what they're working with. Those interpretations and abilities that they do have been specifically programmed into the computer's software. So what follows is a lesson in not taking anything for granted.
+To do so, though, you need to know a bit about how computers process texts. It should be clear from what we've said so far that they have a hard time understanding data. They can interact with and use information, but they make very few assumptions and even fewer interpretations about what they're working with. Those interpretations and abilities that they do have been specifically programmed into the computer's software. So what follows, then, is a lesson in not taking anything for granted.
 
-In the context of text analysis, this means that computers have a hard time reading. Consider the following sentence:
+In the context of text analysis, all of this means that computers have a hard time reading. Consider the following sentence:
 
 "We saw 8<sup>1/2</sup>."
 
@@ -16,13 +16,13 @@ Taken alone, the sentence doesn't tell us much. Its meaning depends a lot on the
 
 > "What movie did you see?"
 
-In the first case, we might be responding with a number of movies that we had seen. In the second, we're responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). One is a number, and one is a name. For humans, the difference is mostly trivial, and since we're good at understanding context, we would easily be able to distinguish between the two. 
+In the first case, we might be responding with a number of movies that we had seen. It was a slow weekend, and we spent it at the local movie theatre hopping from film to film. It was a great time! In the second situation, we might be responding with the title of a specific film, [*8<sup>1/2</sup>* by Italian director Frederico Fellini](https://en.wikipedia.org/wiki/8%C2%BD). So one answer is a number, and one answer is a name. For humans, the difference is mostly trivial, and since we're good at understanding context, we would easily be able to distinguish between the two. In most situations, we would just adjust our understanding internally before moving on with the conversation. 
 
 Computers cannot make inferences like these, and this fact has serious implications: numbers and words have significantly different uses. Here are two further extensions of the conversation:
 
 > If you add four to how many movies you saw, what is the result?
 
-If we were talking about a number of movies, my response would clearly be, "Oh that's 12.5. Why are you giving me a math quiz?" If we were talking about the Fellini film, we might respond, "What? Oh, we were talking about a title, not a number. We can't add things to a title."
+If we were talking about a number of movies, my response would clearly be, "Oh that's 12.5. Why are you giving me a math quiz?" If we were talking about the Fellini film, we might respond, "What? Oh, we were talking about a title, not a number. We can't add things to a title." Again, humans have the ability to respond to context, infer, and adapt. Computers aren't nearly as flexible.
 
 Programmers have developed conventions for telling computers to distinguish between these **data types**.  There are two important ones for our purposes here:
 
