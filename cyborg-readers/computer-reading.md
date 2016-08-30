@@ -36,24 +36,26 @@ But notice that our beginning scenario hinged on the ambiguity between strings a
 
 Programmers over the years have built a variety of functions and tools into different languages to get around some of these difficulties, but they still remain. When processing text by a computer, we have to account for such problems. We generally do this by following very strict guidelines for inputting information. This **syntax** works in much the same way as grammar does for humans - helping the computer to keep track of what we mean and what we want it to do. 
 
-In this case, we can tell something is a string or not by the presence or absence of quotation marks:
+In this case, we can tell the computer that something is a string or not by the presence or absence of quotation marks:
 
 8 vs "8"
 
 The computer looks at those quotation marks and can intuit the difference in datatypes: 
 
-integer vs string
+* A number without quotation marks? That's an integer. 
+* Ah quotation marks. That means I'm looking at a string.
 
 Programming and text analysis more generally are built on such subtle distinctions. A computer needs to have its hand held in order to recognize difference and similarity. To a computer, the following are entirely unrelated:
 
-8 ≠ "8" ≠ "Eight" ≠ "Eighth"
+* 8 ≠ "8" ≠ "Eight" ≠ "Eighth"
+
 The computer would not recognize the relationships among those four clearly related words. It goes even further: computers think of lowercase and capital letters as different characters entirely. 
 
 "H" ≠ "h"
 
-These differences can be extremely frustrating when just beginning to practice text analysis, but don't worry: you don't have to reinvent the wheel. You benefit from years of programmers developing ways to account for these things. In any programming context, you probably have access to a range of utilities to capitalize things, lowercase them, convert integers to strings, convert date timestamps into words, etc. 
+These differences can be extremely frustrating when just beginning to practice text analysis, but don't worry: you don't have to reinvent the wheel. You benefit from years of programmers developing ways to account for these things. In any programming context, you probably have access to a range of utilities to capitalize things, lowercase them, convert integers to strings, convert date timestamps into words, etc. What this means is that sometime, years ago, someone first invented that wheel for you. A diligent programmer came along and told the computer that "h" and "H" have a special relationship along with how to navigate that link. You can benefit from their work.
 
-But there are advantages to these rigid restrictions. By following them, we can get very detailed information about texts that we might otherwise gloss over. The first part of any text analysis project involves converting complex language into organized data that the computer can understand. 
+But there are advantages to these rigid restrictions. By following them, we can get very detailed information about texts that we might otherwise gloss over. The first part of any text analysis project involves converting complex language into organized data that the computer can understand. This first step involves smoothing out problematic bits and filling in gaps, all with an eye to the issues outlined above and in the chapter on [Data Cleaning](data-cleaning.md).
 
 "This is a sentence" ≠ "This" "is" "a" "sentence"
 
