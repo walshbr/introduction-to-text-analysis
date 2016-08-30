@@ -22,15 +22,15 @@ Computers cannot make inferences like these, and this fact has serious implicati
 
 > If you add four to how many movies you saw, what is the result?
 
-If we were talking about a number of movies, my response would clearly be, "Oh that's 12.5. Why are you giving me a math quiz?" If we were talking about the Fellini film, we might respond, "What? Oh, we were talking about a title, not a number. We can't add things to a title." Again, humans have the ability to respond to context, infer, and adapt. Computers aren't nearly as flexible.
+If we were talking about a number of movies, my response would clearly be, "Oh that's 12.5. Why are you giving me a math quiz?" If we were talking about the Fellini film, we might respond, "What? Oh, we were talking about a title, not a number. We can't add things to a title." Again, humans have the ability to respond to context, infer, and adapt. Computers aren't nearly as flexible: they need to know ahead of time, in most cases, what kind of information they are dealing with. That way they can act as you anticipated.
 
-Programmers have developed conventions for telling computers to distinguish between these **data types**.  There are two important ones for our purposes here:
+Programmers have developed conventions for telling computers to distinguish between these different kinds of information, or **data types**. The distinction we outline above contains the two most important ones for our purposes here:
 
-**String**: characters, the stuff of words
+**Strings**: characters, the stuff of words
 
-**Integer**: a whole number
+**Integers**: a whole numbers
 
-If you go on to learn how to program, you might find slightly different names depending on the programming language, and you will be introduced to other data types as well. But distinction between strings and integers is important for text analysis. You can perform arithmetic operations on the one while the other responds less well to such things. You can capitalize words, but not numbers. And computers generally want you to deal with similar objects: you can combine strings (words can become sentences) or add numbers, but you trying to combine a string and an integer will break things.
+The misunderstanding about films depends on ambiguity around data types like these. If you go on to learn how to program, you might find slightly different names depending on the programming language, and you will be introduced to other data types as well. But the distinction between strings and integers is important for text analysis. You can perform arithmetic operations on integers while strings respond less well to such things. You can capitalize words, but not numbers. And computers generally want you to deal with similar objects: you can combine strings (words can become sentences) or add numbers, but trying to combine a string and an integer will break things. 
 
 But notice that my beginning answer hinged on the ambiguity between strings and integers. How does a computer know whether we are talking about strings or about integers in cases where they could refer to either? How does it know that we want 8 to function as a word and not as a number in this context?
 
