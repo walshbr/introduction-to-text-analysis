@@ -9,7 +9,7 @@ padding-left: 13.6px;
 }
 
 .medium{
-    max-width: 280px;
+    max-width: 280px !important;
 }
 
 #ocr-image{
