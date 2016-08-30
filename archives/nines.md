@@ -2,19 +2,7 @@
 
 Once a text is encoded in TEI, the work of a textual scholar has only begun. Encoding is the first step in a long process of preparing documents, historical or otherwise, for presentation and distribution on the web. Now that you have some sense of what it takes to begin thinking about putting a document online, let's think more about the stakes.
 
-When you find a work encoded in TEI online, it might not be clearly apparent at first glance. A lot of times this information is hidden. You can find the TEI materials of [The Old Bailey Online](http://www.oldbaileyonline.org/) by clicking "View as XML" at the bottom of a particular entry \(TEI is a version of XML, which is a more general [markup language](https://en.wikipedia.org/wiki/Markup_language)\). If you do so for [this entry](http://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on a robbery case involving mention of Jack the Ripper, you can take a look at the entry's associated TEI. You might not recognize a lot of the tags \(there are _loads_ of TEI tags\), but the general arrangement of them should look familiar:
-
-![Jack the Ripper TEI](/assets/archives/old-bailey-tei.jpg)
-
-Focus on what you do know: the tagging syntax should ring some bells. If you want to look up any of the tags, you can always check out the [TEI guidelines](http://www.tei-c.org/index.xml). A lot of working with technology consists of not panicking and then looking up what you don't know. But we digress.
-
-When you look at the [public-facing version of the entry](https://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on the Old Bailey Online, almost all the tags disappear:
-
-![Same entry without TEI](/assets/archives/old-bailey-sans-tei.jpg)
-
-In order to make the text legible for readers, we very often hide most (or all) of the markup that is helping to present the document. This ensures that you can serve the needs of different audiences: some people might want to see the TEI for your text, but others might just want to be able to read it as normal. We have already talked a bit about the functions you can get from TEI, but, if they largely remain hidden, you might find yourself thinking that they might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
-
-* What might be your intellectual reasons for encoding something in TEI if the user will never really interact with it as such?
+When you find a work encoded in TEI online, it might not be clearly apparent at first glance. 
 
 One good reason might be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go to that location in order to read the document. A digital version online can reach a wider audience than a physical copy. However, putting materials on the internet raises a variety of legal and financial issues. After all, these digital resources require a great deal of time, funding, and energy to produce. Imagine yourself as the curator of an archive:
 
