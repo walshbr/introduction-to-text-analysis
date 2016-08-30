@@ -55,7 +55,7 @@ The computer would not recognize the relationships among those four clearly rela
 
 These differences can be extremely frustrating when just beginning to practice text analysis, but don't worry: you don't have to reinvent the wheel. You benefit from years of programmers developing ways to account for these things. In any programming context, you probably have access to a range of utilities to capitalize things, lowercase them, convert integers to strings, convert date timestamps into words, etc. What this means is that sometime, years ago, someone first invented that wheel for you. A diligent programmer came along and told the computer that "h" and "H" have a special relationship along with how to navigate that link. You can benefit from their work.
 
-But there are advantages to these rigid restrictions. By following them, we can get very detailed information about texts that we might otherwise gloss over. The first part of any text analysis project involves converting complex language into organized data that the computer can understand. This first step involves smoothing out problematic bits and filling in gaps, all with an eye to the issues outlined above and in the chapter on [Data Cleaning](data-cleaning.md).
+But there are advantages to these rigid restrictions. By following them, we can get very detailed information about texts that we might otherwise gloss over. The first part of any text analysis project involves converting complex language into organized data that the computer can understand. This first step involves smoothing out problematic bits and filling in gaps, all with an eye to the issues outlined above and in the chapter on [Data Cleaning](/data-cleaning.md).
 
 "This is a sentence" ≠ "This" "is" "a" "sentence"
 
