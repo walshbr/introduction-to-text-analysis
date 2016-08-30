@@ -3,4 +3,5 @@ We are very grateful to the encouragement and feeback from all of our colleagues
 * Mackenzie Brooks
 * Julie Kane
 * Eric Rochester
+* Demitra Tsioulos
 * Students from the course
