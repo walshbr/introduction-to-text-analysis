@@ -29,7 +29,7 @@ Our reading experience, our interpretations of a text, the way it makes us feel:
 * Is anything clearly decreasing or increasing over time?
 * Are thing largely the same over time?
 
-If you have a corpus where the dates are known, you can begin to draw inferences based around language use over time. The Google NGram tool is built on such assumptions, though you should take care to think about how changes in language itself might affect your results \(the classic example of this is the [long s](https://en.wikipedia.org/wiki/Long_s), which computers frequently read as an 'f' in older texts\). How do the trends you see relate to your understanding of what happens historically over the same time period? Alternatively, since we experience individual texts over time and we can examine how the use of a concept change from the beginning of a text to the end? What does this tell you about how this text unfolds?
+If you have a corpus where the dates for each text are known, you can begin to draw inferences based around language use over time. The Google NGram tool is built on such assumptions, though you should take care to think about how changes in language itself might affect your results \(the classic example of this is the [long s](https://en.wikipedia.org/wiki/Long_s), which computers frequently read as an 'f' in older texts\). How do the trends you see relate to your understanding of what happens historically over the same time period? Alternatively, since we experience individual texts over time and we can examine how the use of a concept change from the beginning of a text to the end? What does this tell you about how this text unfolds?
 
 * Does something just look plain wrong?
 
