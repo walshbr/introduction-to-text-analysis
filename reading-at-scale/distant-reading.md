@@ -33,21 +33,21 @@ If you have a corpus where the dates for each text are known, you can begin to d
 
 * Does something just look plain wrong?
 
-It is easy to think that the results given to you by the computer are correct, to take them at their word. After all, how could numbers lie? The truth is, however, that statistics are the results of the biases of the people who produced them. Seemingly good statistics can make anything seem like objective truth when there might not be anything more than a pretty picture:
+It is easy to think that the results given to you by the computer are correct, to take them at their word. After all, how could numbers lie? The truth is, however, that any data is the result of the biases of the people who produced them. Seemingly good statistics can make anything seem like objective truth when there might not be anything more than a pretty picture:
 
 ![bad statistics make a dinosaur](/assets/reading-at-scale/distant-reading-dinosaur.jpg)
 
-And a flashy visualization can just as easily show nothing:
+And a flashy visualization can just as easily show nothing.
 
 ![bad visualization](/assets/reading-at-scale/distant-reading-graphs.jpg)
 
 Your own results might be the result of some setting that you have configured just slightly incorrectly. Or maybe you uploaded the wrong text. Or maybe you are misunderstanding how the tool works in the first place. If something has you scratching your head, take a step back and see if there is something wrong with your setup.
 
-> But wait! I don't know enough about X to be able to do this kind of work.
+> But wait, you say, I don't know enough about X to be able to do this kind of work!
 
 You're fine! You don't need to know anything about statistics or computer science in order to be able to say something meaningful about texts through distant reading. Knowledge about both of these fields can go a long way and give you more meaningful and interesting things to say, but these tools, methods, and ideas should not be beyond anyone. Take a tool out for a spin and see what happens. You can always learn more about these fields to help give your analysis a stronger foundation, but it will all be for nothing if you don't even try because of such anxieties.
 
-* You cannot read everything. Instead, focus on what humans are good at: reading with care and offering interpretation. The computer can work with big numbers much quicker than you. Your job is to help it do so in a meaningful way.
+You cannot read everything. Instead, focus on what humans are good at: reading with care and offering interpretation. The computer can work with big numbers much quicker than you. Your job is to help it do so in a meaningful way.
 
 ## Further Reading
 
