@@ -2,8 +2,8 @@
 
 When Brandon was entering graduate school, an older student once summed up life as a sort of equation:
 
-> There is a infinite of material that one could read.
-> 
+> There is an infinite of material that one could read.
+ 
 > There is a finite amount of time in which you can read.
 
 His lesson was that there are limits to the amount of material that even the most voracious reader can take in. One's eyes can only move so quickly, one's mind only process so much. This might sound depressing, but it can also be freeing: if you cannot read everything, why feel the need to try to do so? Instead, read what you can with care.
