@@ -16,7 +16,8 @@ It might appear as though distant reading is less critical: after all, you could
 
 One way to begin thinking about developing approaches to using tools and methods like these is to take a step back. When looking at the results of distant reading, you are, more than anything else, looking for patterns and outliers. You could ask yourself a number of question when looking at the results of tools like Voyant.
 
-* Does anything clearly not belong or not make sense? What surprises you?
+* Does anything clearly not belong or not make sense? 
+* What surprises you?
 
 If you know your text is about the American South, and you find that the fourth most common token is 'France,' that probably says something interesting. You might need to revise your expectations and your research questions, and that is perfectly fine. This is actually part of the research process; if you don't revise your analysis, that means you aren't responding to what you are encountering in your sources. The most interesting thing about a project is rarely the first thing we think it will be.
 
@@ -49,4 +50,5 @@ You're fine! You don't need to know anything about statistics or computer scienc
 ## Further Reading
 
 * Franco Moretti, *Graphs, Maps, Trees*.
-* Matt Jockers, *Macroanalysis*
+* Matt Jockers, *Macroanalysis*.
+* Ryan Cordell, [Scale as Deformance](http://ryancordell.org/research/scale-as-deformance/)
