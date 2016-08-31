@@ -129,3 +129,4 @@ Encoding is meant to convey abstract humanities concepts to the machine so that 
 ## Further Resources
 
 * Jacob Heil is great on the reasons for encoding in [Why We TEI](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/).
+* Ryan Cordell [On Ignoring Encoding](http://ryancordell.org/research/dh/on-ignoring-encoding/)
