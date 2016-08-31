@@ -25,7 +25,9 @@ If you know your text is about the American South, and you find that the fourth 
 
 Our reading experience, our interpretations of a text, the way it makes us feel: these are the result of may things, but language plays a role in constructing all of them. Words form the basis for everything we get out of reading, so we can work backwards from word to concept. Think about what underlying concepts might be taking shape as a result of particular words. For example, if four of the top five words in a text are male names or male pronouns, that might say something about gender representation in the text. Personal pronouns might say something about what it means to be a self in your text. Four times more exclamation points than periods? That might say something about the rhetorical impression the author wants to convey.
 
-* What trends do you see in the data? Is anything clearly decreasing or increasing over time?
+* What trends do you see in the data?
+* Is anything clearly decreasing or increasing over time?
+* Are thing largely the same over time?
 
 If you have a corpus where the dates are known, you can begin to draw inferences based around language use over time. The Google NGram tool is built on such assumptions, though you should take care to think about how changes in language itself might affect your results \(the classic example of this is the [long s](https://en.wikipedia.org/wiki/Long_s), which computers frequently read as an 'f' in older texts\). How do the trends you see relate to your understanding of what happens historically over the same time period? Alternatively, since we experience individual texts over time and we can examine how the use of a concept change from the beginning of a text to the end? What does this tell you about how this text unfolds?
 
