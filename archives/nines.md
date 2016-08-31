@@ -1,6 +1,6 @@
 # NINES and Digital Archives
 
-Our discussion of TEI has given you a sense of some of the work that can go into creating digital editions of texts. Indeed, encoding is the first step in a long process of preparing documents, historical or otherwise, for presentation and distribution on the web. In this section, we'll talk more about the stakes of putting digital collections online and help you understand some of the archives that are out there for you to use.
+Our discussion of TEI has given you a sense of some of the work that can go into creating digital editions of texts. Indeed, encoding texts in this way is often the first step in a long process of preparing documents, historical or otherwise, for presentation and distribution on the web. In this section, we'll talk more about the stakes of putting digital collections like these online and help you understand some of the archives that are out there for you to use.
 
 One good reason to put a collection online is be to increase access to the materials. After all, a manuscript kept in a museum requires that someone go to that location in order to read the document. An online version can reach a wider audience than a physical copy. However, putting materials on the internet raises a variety of legal and financial issues. After all, these digital resources require a great deal of time, funding, and energy to produce. Imagine you are the curator of an archive:
 
