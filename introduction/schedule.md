@@ -18,8 +18,8 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Understanding Scandal
   * Ari Adut, _On Scandal_, Introduction and Chapter 1
-  * Patrick Leary, [“Googling the Victorians”](http://www.victorianresearch.org/googling.pdf)
-  * "Introduction" and "Issues in Digital Text Analysis" in this book
+  * Patrick Leary, [Googling the Victorians](http://www.victorianresearch.org/googling.pdf)
+  * [Introduction](/introduction.md) and [Issues in Digital Text Analysis](/issues-in-digital-text-analysis.md) in this book
 
 ### Week 2
 
