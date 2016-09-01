@@ -5,7 +5,7 @@
 * [Introduction](introduction.md)
     * [For Instructors](introduction/for-instructors.md)
     * [For Students](introduction/for-students.md)
-    * [Schedule](schedule.md)
+    * [Schedule](introduction/schedule.md)
 * [Issues in Digital Text Analysis](issues-in-digital-text-analysis.md)
     * [Why Read with a Computer?](issues/why-read-with-a-computer.md)
     * [Google NGram Viewer](issues/google-ngram.md)
