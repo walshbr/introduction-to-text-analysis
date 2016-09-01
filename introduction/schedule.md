@@ -24,7 +24,8 @@ Through this course, students will be introduced to text analysis and data minin
 ### Week 2
 
 * Scandal and Monarchy, Part I
-  * Sarah Maza, “The Diamond Necklace Affair Revisited: The Case of the Missing Queen” * [Historical Essays on the Life of Marie–Antoinette of Austria](http://chnm.gmu.edu/revolution/d/262/)
+  * Sarah Maza, “The Diamond Necklace Affair Revisited: The Case of the Missing Queen” 
+  * [Historical Essays on the Life of Marie–Antoinette of Austria](http://chnm.gmu.edu/revolution/d/262/)
 
 
 * Scandal and Monarchy, Part II 
@@ -73,7 +74,8 @@ Through this course, students will be introduced to text analysis and data minin
 ### Week 6
 
 * Violence and Entertainment, Part I 
-  * Rosalind Crone, _Violent Victorians_, Chapters 1 and 3 * [_The String of Pearls_, Chapters 36-39](http://www.victorianlondon.org/mysteries/sweeney_todd-00.htm) 
+  * Rosalind Crone, _Violent Victorians_, Chapters 1 and 3 
+  * [_The String of Pearls_, Chapters 36-39](http://www.victorianlondon.org/mysteries/sweeney_todd-00.htm) 
   * Franco Moretti, “Graphs” from _Graphs, Maps, Trees_
 
 
@@ -103,7 +105,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Sex and Death in the City 
   * Judith Walkowitz, “Jack the Ripper and the Myth of Male Violence” 
-  * Find two articles from [Casebook: Jack the Ripper](http://www.casebook.org/press_reports/) 
+  * Find two articles on Jack the Ripper from [Casebook: Jack the Ripper](http://www.casebook.org/press_reports/) 
   * "Topic Modeling" in this book
 
 #### Annotated Bibliography Due
@@ -130,7 +132,8 @@ Through this course, students will be introduced to text analysis and data minin
 
 
 * Scandals and Contemporary Media 
-  * Anita Sarkeesian Interview: [‘The word “troll” feels too childish. This is abuse’](http://www.theguardian.com/technology/2015/aug/29/anita-sarkeesian-gamergate-interview-jessica-valenti) * [“NSA Files Decoded”](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) 
+  * Anita Sarkeesian Interview: [‘The word “troll” feels too childish. This is abuse’](http://www.theguardian.com/technology/2015/aug/29/anita-sarkeesian-gamergate-interview-jessica-valenti) 
+  * [“NSA Files Decoded”](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) 
   * Adam Kirsch, [“Technology is Taking Over English Departments: The False Promise of the Digital Humanities”](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
 
 #### Draft of Final Project Due
@@ -143,6 +146,7 @@ Through this course, students will be introduced to text analysis and data minin
   * Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, [“Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks”](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) 
   * Matt Bai, [“How Gary Hart’s Downfall Forever Changed American Politics”](http://www.nytimes.com/2014/09/21/magazine/how-gary-harts-downfall-forever-changed-american-politics.html)   
   * "Conclusion" in this book
+
 
 ### Week 12
 
