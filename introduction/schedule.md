@@ -56,7 +56,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Female Criminality 
   * Lisa Downing, “Murder in the Feminine: Marie Lafarge and the Sexualization of the Nineteenth-Century Criminal Woman” 
   * Cesare Lombroso, _Criminal Woman, the Prostitute and the Normal Woman_, selections 
-  * "Digital Archives" in this book
+  * [Digital Archives](/digital-archives.md) in this book
 
 #### Second Paper Due: Analysis of a Nineteeth-Century Archive
 
