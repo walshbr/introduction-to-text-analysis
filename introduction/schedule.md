@@ -18,8 +18,8 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Understanding Scandal
   * Ari Adut, _On Scandal_, Introduction and Chapter 1
-  * Patrick Leary, [“Googling the Victorians”](http://www.victorianresearch.org/googling.pdf)
-  * "Introduction" and "Issues in Digital Text Analysis" in this book
+  * Patrick Leary, [Googling the Victorians](http://www.victorianresearch.org/googling.pdf)
+  * [Introduction](/introduction.md) and [Issues in Digital Text Analysis](/issues-in-digital-text-analysis.md) in this book
 
 ### Week 2
 
@@ -31,7 +31,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Scandal and Monarchy, Part II 
   * Tamara Hunt, “Morality and Monarchy in the Queen Caroline Affair” 
   * Find two articles dating from the Queen Caroline Affair in the 19th Century British Newspapers Collection 
-  * "Close Reading" in this book
+  * [Close Reading](/close-reading.md) in this book
 
 #### First Paper Due: Analysis of a Scandal
 
@@ -39,12 +39,12 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Scandal and Sexuality, Continued 
   * Ari Adut, _On Scandal_, Chapter 2 
-  * [Edward Carson’s Opening Speech for the Defense of Lord Queensberry](http://law2.umkc.edu/faculty/projects/ftrials/wilde/defenopening.htm)
+  * Edward Carson’s [Opening Speech for the Defense of Lord Queensberry](http://law2.umkc.edu/faculty/projects/ftrials/wilde/defenopening.htm)
 
 
 * The Spectacle of Punishment 
   * Michel Foucault, _Discipline and Punish_, selections 
-  * "Crowdsourcing" in this book
+  * [Crowdsourcing](/crowdsourcing.md) in this book
 
 ### Week 4
 
