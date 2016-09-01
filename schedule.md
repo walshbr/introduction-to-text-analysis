@@ -24,35 +24,56 @@ Through this course, students will be introduced to text analysis and data minin
 ### Week 2
 
 * Scandal and Monarchy, Part I
-  * Sarah Maza, “The Diamond Necklace Affair Revisited: The Case of the Missing Queen” * [Historical Essays on the Life of Marie–Antoinette of Austria](http://chnm.gmu.edu/revolution/d/262/)
+  * Sarah Maza, “The Diamond Necklace Affair Revisited: The Case of the Missing Queen” 
+  * [Historical Essays on the Life of Marie–Antoinette of Austria](http://chnm.gmu.edu/revolution/d/262/)
 
-* Scandal and Monarchy, Part II * Tamara Hunt, “Morality and Monarchy in the Queen Caroline Affair” * Find two articles dating from the Queen Caroline Affair in the 19th Century British Newspapers Collection * "Close Reading" in this book
+
+* Scandal and Monarchy, Part II 
+  * Tamara Hunt, “Morality and Monarchy in the Queen Caroline Affair” 
+  * Find two articles dating from the Queen Caroline Affair in the 19th Century British Newspapers Collection * "Close Reading" in this book
 
 #### First Paper Due: Analysis of a Scandal
 
 ### Week 3
 
-* Scandal and Sexuality, Continued * Ari Adut, _On Scandal_, Chapter 2 * [Edward Carson’s Opening Speech for the Defense of Lord Queensberry](http://law2.umkc.edu/faculty/projects/ftrials/wilde/defenopening.htm)
+* Scandal and Sexuality, Continued 
+  * Ari Adut, _On Scandal_, Chapter 2 
+  * [Edward Carson’s Opening Speech for the Defense of Lord Queensberry](http://law2.umkc.edu/faculty/projects/ftrials/wilde/defenopening.htm)
 
-* The Spectacle of Punishment * Michel Foucault, _Discipline and Punish_, selections * "Crowdsourcing" in this book
+
+* The Spectacle of Punishment 
+  * Michel Foucault, _Discipline and Punish_, selections * "Crowdsourcing" in this book
 
 ### Week 4
 
-* Crime and the City * Louis Chevalier, _Working Classes, Dangerous Classes_, selections * Henry Mayhew, _The London Underworld_, selections
+* Crime and the City 
+  * Louis Chevalier, _Working Classes, Dangerous Classes_, selections 
+  * Henry Mayhew, _The London Underworld_, selections
 
-* Female Criminality * Lisa Downing, “Murder in the Feminine: Marie Lafarge and the Sexualization of the Nineteenth-Century Criminal Woman” * Cesare Lombroso, _Criminal Woman, the Prostitute and the Normal Woman_, selections * "Digital Archives" in this book
+
+* Female Criminality 
+  * Lisa Downing, “Murder in the Feminine: Marie Lafarge and the Sexualization of the Nineteenth-Century Criminal Woman” 
+  * Cesare Lombroso, _Criminal Woman, the Prostitute and the Normal Woman_, selections 
+  * "Digital Archives" in this book
 
 #### Second Paper Due: Analysis of a Nineteeth-Century Archive
 
 ### Week 5
 
-* Detection in the 19th Century * Simon Cole, _Suspect Identities_, Chapters 1 and 2
+* Detection in the 19th Century 
+  * Simon Cole, _Suspect Identities_, Chapters 1 and 2
 
-* The Rise of Detective Fiction * Michael Saler, “’Clap if You Believe in Sherlock Holmes’: Mass Culture and the Re-Enchantment of Modernity, c. 1890-1940" * Arthur Conan Doyle, [“A Scandal in Bohemia”](http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#) * "Data Cleaning" in this book
+
+* The Rise of Detective Fiction 
+  * Michael Saler, “’Clap if You Believe in Sherlock Holmes’: Mass Culture and the Re-Enchantment of Modernity, c. 1890-1940"   
+  * Arthur Conan Doyle, [“A Scandal in Bohemia”](http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#) 
+  * "Data Cleaning" in this book
 
 ### Week 6
 
-* Violence and Entertainment, Part I * Rosalind Crone, _Violent Victorians_, Chapters 1 and 3 * [_The String of Pearls_, Chapters 36-39](http://www.victorianlondon.org/mysteries/sweeney_todd-00.htm) * Franco Moretti, “Graphs” from _Graphs, Maps, Trees_
+* Violence and Entertainment, Part I 
+  
+* Rosalind Crone, _Violent Victorians_, Chapters 1 and 3 * [_The String of Pearls_, Chapters 36-39](http://www.victorianlondon.org/mysteries/sweeney_todd-00.htm) * Franco Moretti, “Graphs” from _Graphs, Maps, Trees_
 
 * Violence and Entertainment, Part II * Rosalind Crone, _Violent Victorians_, Chapter 6 * Find an article on a 19th century murder from the _Times_ from the [_Dictionary of Victorian London_](http://www.victorianlondon.org/index-2012.htm) * "Cyborg Readers" in this book
 
