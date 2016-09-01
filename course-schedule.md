@@ -1,8 +1,8 @@
 # Course Schedule
 
-## Note for Students in History 211: 
+## Note for Students in History 211:
 
-The following is the course schedule as set up at the beginning of the term. It's very likely that we will change it during the course of the term, but will not update the schedule here. Please consult Sakai for the official schedule.
+The following is the course schedule from the beginning of the term. It's very likely that we will change it during the course of the term, but will not update the schedule here. Please consult Sakai for the official schedule.
 
 ## Description
 
