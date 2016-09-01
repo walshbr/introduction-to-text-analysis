@@ -18,7 +18,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 * Understanding Scandal
   * Ari Adut, _On Scandal_, Introduction and Chapter 1
-  * Patrick Leary, [Googling the Victorians](http://www.victorianresearch.org/googling.pdf)
+  * Patrick Leary, "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)"
   * [Introduction](/introduction.md) and [Issues in Digital Text Analysis](/issues-in-digital-text-analysis.md) in this book
 
 ### Week 2
@@ -68,8 +68,8 @@ Through this course, students will be introduced to text analysis and data minin
 
 * The Rise of Detective Fiction 
   * Michael Saler, “’Clap if You Believe in Sherlock Holmes’: Mass Culture and the Re-Enchantment of Modernity, c. 1890-1940" 
-  * Arthur Conan Doyle, [“A Scandal in Bohemia”](http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#) 
-  * "Data Cleaning" in this book
+  * Arthur Conan Doyle, "[A Scandal in Bohemia](http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#)"
+  * [Data Cleaning](/data-cleaning.md) in this book
 
 ### Week 6
 
@@ -82,7 +82,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Violence and Entertainment, Part II 
   * Rosalind Crone, _Violent Victorians_, Chapter 6 
   * Find an article on a 19th century murder from the _Times_ from the [_Dictionary of Victorian London_](http://www.victorianlondon.org/index-2012.htm) 
-  * "Cyborg Readers" in this book
+  * [Cyborg Readers](cyborg-readers.md) in this book
 
 #### Final Group Project Proposals Due
 
@@ -94,7 +94,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 * The Spectacle of the City, Part II 
   * Vanessa Schwartz, _Spectacular Realities_, Chapters 2 and 3 
-  * "Reading at Scale" in this book
+  * [Reading at Scale](/reading-at-scale.md) in this book
 
 ### Week 8
 
