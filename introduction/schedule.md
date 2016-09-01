@@ -58,6 +58,7 @@ Through this course, students will be introduced to text analysis and data minin
   * Cesare Lombroso, _Criminal Woman, the Prostitute and the Normal Woman_, selections 
   * [Digital Archives](/archives.md) in this book
 
+
 * **Second Paper Due: Analysis of a Nineteeth-Century Archive**
 
 ### Week 5
@@ -84,6 +85,7 @@ Through this course, students will be introduced to text analysis and data minin
   * Find an article on a 19th century murder from the _Times_ from the [_Dictionary of Victorian London_](http://www.victorianlondon.org/index-2012.htm) 
   * [Cyborg Readers](cyborg-readers.md) in this book
 
+
 * **Final Group Project Proposals Due**
 
 ### Week 7
@@ -107,6 +109,7 @@ Through this course, students will be introduced to text analysis and data minin
   * Judith Walkowitz, “Jack the Ripper and the Myth of Male Violence” 
   * Find two articles on Jack the Ripper from [Casebook: Jack the Ripper](http://www.casebook.org/press_reports/) 
   * [Topic Modeling](/topic-modeling.md) in this book
+
 
 * **Annotated Bibliography Due**
 
@@ -135,6 +138,7 @@ Through this course, students will be introduced to text analysis and data minin
   * Anita Sarkeesian Interview: "'[The word “troll” feels too childish. This is abuse]"'(http://www.theguardian.com/technology/2015/aug/29/anita-sarkeesian-gamergate-interview-jessica-valenti) 
   * [NSA Files Decoded](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) 
   * Adam Kirsch, "[Technology is Taking Over English Departments: The False Promise of the Digital Humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)"
+
 
 * **Draft of Final Project Due**
 
