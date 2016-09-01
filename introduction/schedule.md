@@ -33,7 +33,7 @@ Through this course, students will be introduced to text analysis and data minin
   * Find two articles dating from the Queen Caroline Affair in the 19th Century British Newspapers Collection 
   * [Close Reading](/close-reading.md) in this book
 
-#### First Paper Due: Analysis of a Scandal
+* **First Paper Due: Analysis of a Scandal**
 
 ### Week 3
 
@@ -58,7 +58,7 @@ Through this course, students will be introduced to text analysis and data minin
   * Cesare Lombroso, _Criminal Woman, the Prostitute and the Normal Woman_, selections 
   * [Digital Archives](/archives.md) in this book
 
-#### Second Paper Due: Analysis of a Nineteeth-Century Archive
+* **Second Paper Due: Analysis of a Nineteeth-Century Archive**
 
 ### Week 5
 
@@ -84,7 +84,7 @@ Through this course, students will be introduced to text analysis and data minin
   * Find an article on a 19th century murder from the _Times_ from the [_Dictionary of Victorian London_](http://www.victorianlondon.org/index-2012.htm) 
   * [Cyborg Readers](cyborg-readers.md) in this book
 
-#### Final Group Project Proposals Due
+* **Final Group Project Proposals Due**
 
 ### Week 7
 
@@ -108,7 +108,7 @@ Through this course, students will be introduced to text analysis and data minin
   * Find two articles on Jack the Ripper from [Casebook: Jack the Ripper](http://www.casebook.org/press_reports/) 
   * [Topic Modeling](/topic-modeling.md) in this book
 
-#### Annotated Bibliography Due
+* **Annotated Bibliography Due**
 
 ### Week 9
 
@@ -136,7 +136,7 @@ Through this course, students will be introduced to text analysis and data minin
   * [NSA Files Decoded](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded) 
   * Adam Kirsch, "[Technology is Taking Over English Departments: The False Promise of the Digital Humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)"
 
-#### Draft of Final Project Due
+* **Draft of Final Project Due**
 
 ### Week 11
 
@@ -156,4 +156,4 @@ Through this course, students will be introduced to text analysis and data minin
 
 ### Exam Week
 
-#### Final Project and Process Paper Due
+* **Final Project and Process Paper Due**
