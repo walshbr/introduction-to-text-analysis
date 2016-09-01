@@ -106,7 +106,7 @@ Through this course, students will be introduced to text analysis and data minin
 * Sex and Death in the City 
   * Judith Walkowitz, “Jack the Ripper and the Myth of Male Violence” 
   * Find two articles on Jack the Ripper from [Casebook: Jack the Ripper](http://www.casebook.org/press_reports/) 
-  * "Topic Modeling" in this book
+  * [Topic Modeling](/topic-modeling.md) in this book
 
 #### Annotated Bibliography Due
 
@@ -114,21 +114,21 @@ Through this course, students will be introduced to text analysis and data minin
 
 * The Spectacle of Race, Part I 
   * Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Introduction, Chapters 3 and 4 
-  * Tressie McMillan Cottom, [“When Your (Brown) Body is a (White) Wonderland”](http://tressiemc.com/2013/08/27/when-your-brown-body-is-a-white-wonderland/)
+  * Tressie McMillan Cottom, [When Your (Brown) Body is a (White) Wonderland](http://tressiemc.com/2013/08/27/when-your-brown-body-is-a-white-wonderland/)
 
 
 * The Spectacle of Race, Part II 
   * Clifton Crais and Pamela Scully, _Sara Baartman and the Hottentot Venus_, Chapter 6 
-  * Cleuci de Oliveira, [“Saartjie Baartman: The Original Booty Queen”](http://jezebel.com/saartje-baartman-the-original-booty-queen-1658569879) 
-  * Pia Glenn, [“You Can’t Ignore the Degradation of Saartjie Baartman to Connect Her to Kim Kardashian. You Just Can’t”](http://www.xojane.com/issues/saartjie-baartman-kim-kardashian) 
-  * Danielle Bowler, [“Saartjie Baartman is not ‘The Original Booty Queen’”](http://ewn.co.za/2014/11/17/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen) 
-  * "Classifiers" in this book
+  * Cleuci de Oliveira, [Saartjie Baartman: The Original Booty Queen](http://jezebel.com/saartje-baartman-the-original-booty-queen-1658569879) 
+  * Pia Glenn, [You Can’t Ignore the Degradation of Saartjie Baartman to Connect Her to Kim Kardashian. You Just Can’t](http://www.xojane.com/issues/saartjie-baartman-kim-kardashian) 
+  * Danielle Bowler, [Saartjie Baartman is not ‘The Original Booty Queen’](http://ewn.co.za/2014/11/17/OPINION-Danielle-Bowler-Saartjie-Baartman-is-not-the-original-booty-queen) 
+  * [Classifiers](/classifiers.md) in this book
 
 ### Week 10
 
 * Politics, National Identity and Scandal 
   * Michael Burns, _France and the Dreyfus Affair_, selections 
-  * "Sentiment Analysis" in this book
+  * [Sentiment Analysis](/sentiment-analysis.md) in this book
 
 
 * Scandals and Contemporary Media 
