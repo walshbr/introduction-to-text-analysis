@@ -38,14 +38,21 @@ When you do, you will see a graph of the selected collocation over time. 'Sweeny
 
 To graph things, Voyant breaks up your document into a segments \(you can change how many it uses\). Within each piece of the text it calculates how often the selected phrase or word appears. In this case, we might say Sweeney Todd talks significantly more in the first 70% of the text than he does in the last portion. Since you read the last few chapters of the novel, you might have a sense of why this is. The end of the text deals primarily with revelations about Todd's actions than his actions themselves. Of course, you wouldn't know this if you hadn't read portions of the text, a good example of how "distant reading" and regular, old-fashioned reading can and should enrich each other.
 
-Introducing time offers new opportunities for analysis, but it can also raise issues. For one, it assumes that language means the same thing over the course of your corpus. This is probably fine for something as self-contained as a single work of fiction, but if you are examining thousands of documents over the course of several decades or centuries it could cause real problems. Words change over time, as does language. Your data and interests will determine how important this caveat is for you. A few guiding questions can help:
+The 'trends' pane can be quite handy, and it will allow you to see individual words or phrases as they rise and fall over the course of a corpus. Think of it as the next step in critically analyzing a concordance. After all, texts occur in sequence, and we can learn a lot from examining the locations in which significant words tend to cluster. You can think of this graph feature as roughly charting the time of the narrative: it cares about the order in which words occur. 
 
-* What is the timeframe of your corpus? 
+Thinking about language as it unfolds over time in this way can offer new opportunities for analysis, but it can also raise issues. In a single text like **The String of Pearls**, 
+
+For one, it assumes that language means the same thing over the course of your corpus. This is probably fine for something as self-contained as a single work of fiction, but if you are examining thousands of documents over the course of several decades or centuries it could cause real problems. Words change over time, as does language. Your data and interests will determine how important this caveat is for you. A few guiding questions can help:
+
+* What is the timeframe of your corpus?
+
 * Are there any significant political, social, or technological events during that time that could inflect how language works in the texts?
+
 * What are your research questions?
+
 * How much do your research questions depend on time? on specific uses of particular language that are likely to change?
 
 If these issues seem like they could affect your work, you can still responsibily analyze your data by exploring other options for text analysis. In particular, [learning to program yourself](/conclusion/where-to-go.md) can offer you greater control over the kinds of things that your work accounts for.
 
-The 'trends' pane can be quite handy, and it will allow you to see individual words or phrases as they rise and fall over the course of a corpus. Think of it as the next step in critically analyzing a concordance. After all, texts occur in sequence, and we can learn a lot from examining the locations in which significant words tend to cluster. You can think of this graph feature as roughly charting the time of the narrative: it cares about the order in which words occur. As we will see in our next chapter on **[topic modeling](/topic-modeling.md)**, this is not always the case.
+As we will see in our next chapter on **[topic modeling](/topic-modeling.md)**, this is not always the case.
 
