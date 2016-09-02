@@ -1,6 +1,6 @@
 # Bags of Words
 
-When we read, our eyes move in sequence across the page and take in phrase after phrase in the order in which they were intended. This sense of chronology is integral to how we, as human readers, understand texts. But it is possible to imagine other ways of reading. Have you ever skimmed over a page backwards looking at every other word? You probably still got the gist of the text even though you didn't read it in order and even though you missed many of the words.
+When we read, our eyes move in sequence across the page and take in phrase after phrase in the order in which they were intended. This fact allowed us to do interesting things graphing words over time using [Voyant](https://voyant-tools.org). This sense of chronology is integral to how we, as human readers, understand texts. But it is possible to imagine other ways of reading. Have you ever skimmed over a page backwards looking at every other word? You probably still got the gist of the text even though you didn't read it in order and even though you missed many of the words.
 
 Take this passage:
 
