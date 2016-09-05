@@ -67,13 +67,39 @@ Words in Corpus
     "am"
 ]
 
-Counts for Sentence 1
-[1, 1, 1, 1, 1, 1, 0, 0, 0]
-Counts for Sentence 2
-[0, 0, 1, 1, 1, 1, 1, 1, 1]
+Counts for Sentences
+1: [1, 1, 1, 1, 1, 1, 0, 0, 0]
+2: [0, 0, 1, 1, 1, 1, 1, 1, 1]
 ```
 
-Here we get two lists. "Words in Corpus" gives all of the words in our documents. "Counts for Sentence 1" and "Counts for Sentence 2" detail the number of times each of those terms occur in each sentence. So the first element of the Counts list for Sentence 1 is 1, because "Barbara" occurs 1 time. Sentence 2 has 0 in that same position because the word "Barbara" does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple short sentences, but imagine being able to break apart whole texts like this.
+Here we get two lists. "Words in Corpus" gives all of the words in our documents. "Counts for Sentence 1" and "Counts for Sentence 2" detail the number of times each of those terms occur in each sentence. So the first element of the Counts list for Sentence 1 is 1, because "Barbara" occurs 1 time. Sentence 2 has 0 in that same position because the word "Barbara" does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple short sentences, but imagine being able to break apart whole texts like this. 
+
+One last thing. Take this sentence:
+
+* Sentence 3: "I am Dave"
+
+If we give the bag of words counts for this in comparison 
+
+```
+Words in Corpus
+
+[
+ "Barbara",
+ "is",
+ "doing",
+ "fine",
+ "thank",
+ "you",
+ "Dave,
+ "I",
+ "am"
+]
+
+Counts for Sentences
+1: [1, 1, 1, 1, 1, 1, 0, 0, 0]
+2: [0, 0, 1, 1, 1, 1, 1, 1, 1]
+3: [0, 0, 0, 0, 0, 0, 1, 1, 1]
+```
 
 You might feel like this goes against everything that you've ever known about reading. This might feel like destroying a text. You're not wrong. This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. This approach, instead, wants you to think about reading in a different way, to develop a new epistemology for the process. We lose something in the process, the sense of a text as it unfolds over time.
 
