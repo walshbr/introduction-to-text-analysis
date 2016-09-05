@@ -28,12 +28,13 @@ One problem with using _Prism_ to do this work is that it depends on someone set
 
 We are beginning to float a different kind of reading. Let's take one more step back.
 
-If we take the words in a text as being indicative of its underlying topics, we actually don't need to worry about word order so much. The sequence of words, sometimes called the **syntagmatic axis**, only matters for certain kinds of reading. In previous chapters, we have preserved the sense of narrative time in a text - when we counted words with _Voyant_, we then graphed them over time. We just care about whether the words are there or not, not the order they come in. But we can find out interesting things about texts if we are a little more flexible if we think about them not as things that unfold over time but rather as pure token counts, as **bags of words**. In a bag of words model, word order becomes irrelevant. All we care about is what words occur in a text and how often they do so. Pretty straight forward, right?
+If we take the words in a text as being indicative of its underlying topics, we actually don't need to worry about word order so much. The sequence of words, sometimes called the **syntagmatic axis**, only matters for certain kinds of reading. In previous chapters, we have preserved the sense of narrative time in a text - when we counted words with _Voyant_, we then graphed them over time. We cared about whether and how much a particular phrase occurred in the beginning of the text vs. the end. But we can find out interesting things about texts if we are a little more flexible if we think about them not as things that unfold over time but rather as pure token counts, as **bags of words**. In a bag of words model, word order becomes irrelevant. All we care about is what words occur in a text and how often they do so. Pretty straight forward, right?
 
 Take the following two sentences:
 
-"Fine. How are you doing?"
-"How are you doing? Fine?"
+* "Fine. How are you doing?"
+
+* "How are you doing? Fine?"
 
 If we _normalize_ a text by removing the stopwords, lowercasing the words and getting rid of the punctuation, we get a bag of words. In this case, the bag of words for these two sentences is the same: 
 
