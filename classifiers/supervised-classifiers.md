@@ -8,7 +8,7 @@ Let's try another example, adapted from Lisa Rhody's [farmers' market game](http
 
 Now imagine, instead, that we give you a slightly different exercise. We give you a bag filled with dragon fruit, star fruit, and durian. Imagine that you don't know anything about these fruits. We say, "find me all the durian." You could sort the fruit into piles all day long, but, if you don't know anything about durian, you won't be able to pick out the fruit you need. So we give you a little **training** by first bringing in ten examples of durian for you to study. We say, "Look at them. Study them. Pay attention to these characteristics: durian have spikes, they are big, and they are yellow-ish." We might also give you several examples of non-durian fruit so that you can get a sense of what durian don't look like. This set of fruit, where we tell you the correct labels for the fruit, is called our **training set**. Now, you have something to work with! You pull a fruit. No spikes. So you start a pile called not durian. The next one has spikes. Durian! You keep going until you have two piles, one contains fruit that you think are durian and one contains fruit that you think are not.
 
-This kind of classification is called **supervised classification**. You had to be taught what the durian looked like before you could really do anything. We would call these a **feature set**, and it might look something like this:
+This kind of classification is called **supervised classification**. You had to be taught what the characteristics of a durian before you could really do anything. We would call this collection of traits a **feature set**, and it might look something like this:
 
 ```
 feature_set = {
@@ -18,7 +18,7 @@ feature_set = {
 }
 ```
 
-Don't worry too much about the brackets, equals sign, etc. These are just a common way of organizing the information so that the computer can read them. Here, we're just saying that to belong the feature set, the fruit has to have spikes, be large and yellow-ish. This allows us to make a reasonable guess as to whether or not any one piece of fruit we pulled out of the bag was a durian. Notice how you can only work in binaries: the fruit is either a durian or not. Your not-durian pile had star fruit and dragon fruit in it, since you weren't really able to distinguish between the two in this thought experiment. We could only answer something like the following if we looked at star fruit:
+Don't worry too much about the brackets, equals sign, etc. These are just a common way of organizing the information so that the computer can read them. Here, we're just saying that this feature set defines what a durian looks like: the fruit has to have spikes, be large, and yellow-ish. This allows us to make a reasonable guess as to whether or not any one piece of fruit we pull out of the bag was a durian. Notice how you can only work in binaries: the fruit is either a durian or not. Your not-durian pile had star fruit and dragon fruit in it, since you weren't really able to distinguish between the two in this thought experiment. We could only answer something like the following if we looked at star fruit:
 
 ```
 fruit.is_durian?
