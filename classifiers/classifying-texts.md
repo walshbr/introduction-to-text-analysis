@@ -2,15 +2,9 @@
 
 At this point, you might be saying, "Supervised classification is all well and good, but how does this relate to text analysis? I'm going to go back to googling for animal photos."
 
-Stop right there! We've got not one, but two for you:
-
-![non-diegetic owl photo](/assets/classifiers/owl.jpg)
-
-\(What do you think this owl thinks about supervised classifiers?\)
+If you think you're tired, how do you think this dog feels? Impersonaiting bagels is exhausting.
 
 ![sarah's sleeping dog](/assets/classifiers/sleepingstarbuck.jpg)
-
-\(Do you feel like crawling under the covers and sleeping like this dog here? She sometimes gets tired of impersonating a bagel.\)
 
 Now that you're back and not going anywhere, your point is a good one. We wanted to stay relatively simple so that you could get a handle on the basics of supervised classification, but let's think about the ways you could apply this method to texts. The [NLTK book](http://www.nltk.org/book/ch06.html) \(which is a great one to check out if you want to go into more depth into text analysis\) lists some common text classification tasks:
 
