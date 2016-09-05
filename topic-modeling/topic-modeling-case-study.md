@@ -44,7 +44,7 @@ The real work of topic modeling involves interpreting these topics in ways to ma
 
 Looking at these topics, we might see that a number of them deal with aspects of sound recording. In particular, the texts often tend to talk about the act of producing these recordings. This makes sense, as users of LibriVox actually create and upload recordings themselves. Topics 15 and 17 are also notable, as they represent French and German language topics. In any large corpus that is primarily one language, texts written in other languages will tend to group together. If we assumed before that medical language would tend to occur next to each other, this makes sense. French vocabulary is far more likely to appear next to other French vocabulary, in a text that is entirely French, relative to a larger corpus that is primarily in English.
 
-Information like this can be very useful, because topic modeling also spits out, for each document in the corpus, a matrix showing what percentage each topic is likely to contribute to that text. It might contain hundreds of thousands of segments that look something like this \(modified slightly for readability\):
+Information like this can be very useful, because topic modeling also spits out, for each document in the corpus, a matrix showing what percentage each topic is likely to contribute to that text. The matrix might contain hundreds of thousands of segments that look something like this \(modified slightly for readability\):
 
 ```
 0 httpsforum.librivox.orgviewtopic.phpf23t2 
@@ -71,12 +71,14 @@ Information like this can be very useful, because topic modeling also spits out,
 
 ```
 
-The first line here contains information about the document, an ID for the document and then a name for it. In this case, each forum post has its own URL, so we are using the URL for the ID.
+The first line here contains information about the document, an ID for the document and then a name for it. In this case, each forum post has its own URL, so we are using the URL for the ID:
 
 ```
 0 httpsforum.librivox.orgviewtopic.phpf23t2
 ```
 
+This post is post number 0, the first post chronicled by the topic modeling software. Brandon strips out some of the punctuation, but you probably recognize what follows as looking sort of like a URL. This topic modeling information corresponds to a forum post that exists at this URL - [
+[https://forum.librivox.org/viewtopic.php?f=23&t=2](https://forum.librivox.org/viewtopic.php?f=23&t=2).
 What follows is a list of each topic produced by our topic modeling software and the weight of each topic for that document:
 
 ```
@@ -88,7 +90,7 @@ What follows is a list of each topic produced by our topic modeling software and
 
 ```
 
-So topics 12, 1, and 11, in that order, are the three most prominent topics in the document. Topic 12 has a weight of 14% in the document, and so on. Using this information, if we know the dates that each text was published, we can actually determine the rise and fall in prominence of different topics over time. Remember topics 15 and 17, our German and French language topics? They aren't especially prominent in this first text \(an English one\). But we can get a sense of where French and German texts are likely to occur by charting the ebb and flow of this topic over time:
+So topics 12, 1, and 11, in that order, are the three most prominent topics in the document. Topic 12 has a weight of 14% in the document, and so on. Topic 12 is far more likely to appear in this topic than topics 17 and 15. Using this information, if we know the dates that each text was published, we can actually determine the rise and fall in prominence of different topics over time. We could see how discourse ebbs and flows over the course of our corpus. Remember topics 15 and 17, our German and French language topics? They aren't especially prominent in this first text \(an English one\). But we can get a sense of where French and German texts are likely to occur by charting the ebb and flow of this topic over time:
 
 ![topic modeling french and german topics over time](/assets/topic-modeling/topic-modeling-french-german.jpg)
 
