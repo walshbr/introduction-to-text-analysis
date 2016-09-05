@@ -118,4 +118,6 @@ Don't be alarmed if topic modeling seems much more abstract than the material we
 
 * Miriam Posner is helpful on [understanding topic modeling results](http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/).
 
+* Benjamin Schmidt in [Words Alone: Dismantling Topic Modeling in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/#appendix) provides very useful cautions when working with topic models over time.
+
 
