@@ -53,4 +53,4 @@ Computers might not be able to feel, but perhaps we can train them to know what 
 
 * Maya Eilam has represented Vonnegut's theory about shapes in [a variety of infographics](http://www.mayaeilam.com/2012/01/01/the-shapes-of-stories-a-kurt-vonnegut-infographic/).
 
-* Jockers has a series of posts on the sentiment analysis work that begins [here](http://www.matthewjockers.net/2015/02/02/syuzhet/), where also references the Vonnegut video.  
+* Jockers has a series of posts on his sentiment analysis project that begins [here](http://www.matthewjockers.net/2015/02/02/syuzhet/), where also references the Vonnegut video.  
