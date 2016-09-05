@@ -16,14 +16,14 @@ Let's break each of these tasks down. Remember, a supervised classifier relies o
 
 * To decide whether an email is spam, you will need lots of examples of junk email.
 * To tag a news article as belonging to a particular category, you will need examples of articles from each of those categories.
-* To determine the use of the word 'bank', you will need examples of it used in all possible contexts. 
+* To determine the use of the word 'bank', you will need examples of the word used in all these possible contexts. 
 
-In each case, it's not enough to just dump data at the classifier. You would also have to decide what feature sets you want to examine for the training sets for each task. Take the task of building a spam filter. To determine whether or not a text is spam, you would need to decide what features you find to be indicative of junk mail. And you have many options! Here are just a few:
+In each case, it's not enough to just dump data into the classifier. You would also have to decide what feature sets you want to examine for the training sets for each task. Take the task of building a spam filter. To determine whether or not a text is spam, you would need to decide what features you find to be indicative of junk mail. And you have many options! Here are just a few:
 
-* You might decide that word choice is indicative of spam: "Buy now! Click this link to see an urgent message!". So you'd need to break up your representative spam texts into tokenized lists of vocabulary and work from there to give the classifier a sense of those words likely to result in unwanted messages.
+* You might decide that word choice is indicative of spam: "Buy now! Click this link to see an urgent message!". So you'd need to break up your representative spam texts into tokenized lists of vocabulary. From there you would work to give the classifier a sense of those words likely to result in unwanted messages.
 * You might notice that all your spam notifications come from similar emails. You could train the classifier to identify certain email addresses, pull out those which have known spam addresses, and tag them as spam.
 
-You could certainly come up with others. In any case, you would need to step through a series of questions common to all text analysis projects:
+You could certainly come up with other approaches. In any case, you would need to step through a series of questions common to all text analysis projects:
 
 * What is my research question?
 * How can my large question be broken down into smaller pieces?
