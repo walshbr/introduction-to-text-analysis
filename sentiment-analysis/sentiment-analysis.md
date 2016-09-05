@@ -2,7 +2,7 @@
 
 We began this book by talking about interpretation on a micro level: close reading asks you to pay attention to every small detail in a text to produce analysis. We have since zoomed out to think about what we could gain from macro reading and how computers enable us to understand texts in new ways. In our final moments, we will loop back around to the beginning.
 
-We have repeatedly stressed the interplay of computation and interpretation: when the computer spits some results at you, your work has only begun. The computer can supply data, but you must interpret that data yourself. The computer does not really read. You do. What you've learned about is how to read _with_ computers.
+We have repeatedly stressed the interplay of computation and interpretation: when the computer presents some results to you, your work has only begun. The computer can supply data, but you must interpret that data yourself. The computer does not really read. You do. What you've learned about is how to read _with_ computers.
 
 But you have probably also noticed in the last few chapters that the kinds of readings we are using our computers for have become more sophisticated. When we use software to discover the topics a text is discussing or to identify anonymous authors, we are not quite having them read in the same mode as a person would. But we are getting closer. These techniques aim to provide a richer sense of a text, and they do so in quite sophisticated ways. We will close with a somewhat simpler problem, but one that is profoundly difficult for computers: is a particular text happy or sad? For that matter, is a sentence? A word?
 
@@ -20,16 +20,17 @@ The idea makes enough sense as Vonnegut presents it: at certain times in a story
 
 It would be fascinating to have a computer that could easily mark the sentiments in texts for you. If you have been following dutifuly along, however, you should know that computers can't do much of anything without being explicitly told how. They can do very little in the way of understanding data without a human to guide them. Trying to extract complicated information like the sentimental arc of a text, how we are meant to feel about a sentence, or how an author intended us to feel: these are extremely complicated questions that computers have a difficult time with. In fact, they are hard even for two different people to agree on. Try to guess whether these two sentences would be classified as good or bad:
 
-"I am very happy."
-"She is so sad."
+* "I am very happy."
+
+* "She is so sad."
 
 Those were easy ones: good and bad. Hot and cold. How about these:
 
-"It was the best of times, it was the worst of times…"
+* "It was the best of times, it was the worst of times…"
 
-"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+* "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
 
-"I could be happier."
+* "I could be happier."
 
 The first sentence is from Charles Dickens's _Tale of Two Cities_ and is probably a bit hard to parse in such a polarized reading. If it is both good and bad, it probably comes out as neutral, right? But Dickens's was talking about the era of the French Revolution here; his whole point was that this was an extraordinary time, hardly a "neutral" situation. We would probably need some system for determining what to do in such situations. The second sentence, by Jane Austen, complicates matters even further. An avid reader of Austen would know that her texts come loaded with satire. It is unlikely she actually means her words to be taken at face value. Virtually no truthes actually are *universally* acknowledged to be true, so the sentence winks at the reader that it is not mean to be taken in full seriousness. The third suggests some happiness. Or does it? 
 
