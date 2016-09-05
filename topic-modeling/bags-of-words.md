@@ -74,11 +74,11 @@ Counts for Sentences
 
 Here we get two lists. "Words in Corpus" gives all of the words in our documents. "Counts for Sentence 1" and "Counts for Sentence 2" detail the number of times each of those terms occur in each sentence. So the first element of the Counts list for Sentence 1 is 1, because "Barbara" occurs 1 time. Sentence 2 has 0 in that same position because the word "Barbara" does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple short sentences, but imagine being able to break apart whole texts like this. 
 
-One last thing. Take this sentence:
+One last thing. Let's add this sentence to the bag of words model that we've been building:
 
 * Sentence 3: "I am Dave"
 
-If we give the bag of words counts for this in comparison 
+The new model looks like this:
 
 ```
 Words in Corpus
