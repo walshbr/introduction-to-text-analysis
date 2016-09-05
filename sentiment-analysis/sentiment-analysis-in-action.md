@@ -4,6 +4,11 @@ To illustrate how sentiment analysis works, let's walk through a couple differen
 
 ## Jockers and Syuzhet
 
+Matt Jockers has been working on using [sentiment analysis to discover plot trajectories in fiction](http://www.matthewjockers.net/2015/02/02/syuzhet/) in just the same terms as the video in the previous lesson (indeed, his work is what pointed us to the Vonnegut clip!). By taking thousands of texts and classifying their sentences for sentiment, he has developed a software procedure for tracing plot trajectories and [suggested](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/) that there are only six or seven different plot shapes based on this type of analysis.
+
+Jockers's bold claim has since come under serious critique by Joanna Swafford, who argues that the shapes are the results of configurations in Jockers's software rather than of any inherent quality in the text (also a recurrent theme throughout this book!).
+
+
 Matt Jockers uses a sophisticated software package that he constructed in the [R programming language](/conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. To find a more technical explanation you can look at Jockers's "[Introduction to the Syuzhet Package](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html)".
 
 Jockers's project combines supervised classifiers and unsupervised classifiers. Remember: supervised classifiers rely on training data that tells the software how to interpret and classify data. Unsupervised classifiers are not based on any prior training data. Instead, they rely on underlying assumptions and algorithms to categorize texts \(in the case of topic modeling, this means that the unsupervised classifiers make assumptions about the relation between texts and statistics\).
