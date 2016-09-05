@@ -50,8 +50,8 @@ If we _normalize_ a text by removing the stopwords, lowercasing the words, and g
 
 The nuanced context of the sentences that makes the two of them different disappears, but we get the sense that they both discuss similar material. Now, we would not only want to know what words are being used; we'd also want to know how often they are mentioned. So a bag of words model for the following two sentences might produce something like the following:
 
-* Sentence 1: "Barbara is doing fine, thank you."
-* Sentence 2: "Thank you, Dave. I am doing fine."
+* Sentence A: "Barbara is doing fine, thank you."
+* Sentence B: "Thank you, Dave. I am doing fine."
 
 ```
 Words in Corpus
@@ -68,15 +68,15 @@ Words in Corpus
 ]
 
 Counts for Sentences
-1: [1, 1, 1, 1, 1, 1, 0, 0, 0]
-2: [0, 0, 1, 1, 1, 1, 1, 1, 1]
+A: [1, 1, 1, 1, 1, 1, 0, 0, 0]
+B: [0, 0, 1, 1, 1, 1, 1, 1, 1]
 ```
 
-Here we get two lists. "Words in Corpus" gives all of the words in our documents. "Counts for Sentence 1" and "Counts for Sentence 2" detail the number of times each of those terms occur in each sentence. So the first element of the Counts list for Sentence 1 is 1, because "Barbara" occurs 1 time. Sentence 2 has 0 in that same position because the word "Barbara" does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple short sentences, but imagine being able to break apart whole texts like this. 
+Here we get two lists. "Words in Corpus" gives all of the words in our documents. "Counts for Sentence A" and "Counts for Sentence B" detail the number of times each of those terms occur in each sentence. So the first element of the Counts list for Sentence A is 1, because "Barbara" occurs 1 time. Sentence B has 0 in that same position because the word "Barbara" does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple short sentences, but imagine being able to break apart whole texts like this. 
 
 One last thing. Let's add this sentence to the bag of words model that we've been building:
 
-* Sentence 3: "I am Dave"
+* Sentence C: "I am Dave"
 
 The new model looks like this:
 
@@ -96,10 +96,17 @@ Words in Corpus
 ]
 
 Counts for Sentences
-1: [1, 1, 1, 1, 1, 1, 0, 0, 0]
-2: [0, 0, 1, 1, 1, 1, 1, 1, 1]
-3: [0, 0, 0, 0, 0, 0, 1, 1, 1]
+A: [1, 1, 1, 1, 1, 1, 0, 0, 0]
+B: [0, 0, 1, 1, 1, 1, 1, 1, 1]
+C: [0, 0, 0, 0, 0, 0, 1, 1, 1]
 ```
+
+Just by glancing at the counts for the three sentences, you could argue that two of the sentences are more similar to each other. Look at how many 1's you get in the sentences A and B vs. how many 0's you get in sentence C. You can do a lot of math to prove this, and even start to graph things to visualize the argument. Note that sentences 1 and 3 are mirror images of each other: they don't share any vocabulary in common. We can think about A and C as opposite ends of a continuum, then, and B being somewhere in between. Since Sentence B shares 4 terms with sentence A and 5 with sentence C, we can say that sentence B is a bit further to one than the other:
+```
+Sentences Graphed by Similarity
+A------------------B----------C
+```
+For now, don't worry about the math behind all of this. We just want to give you a sense of the possibilities that can come from considering texts in this way.
 
 You might feel like this goes against everything that you've ever known about reading. This might feel like destroying a text. You're not wrong. This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. This approach, instead, wants you to think about reading in a different way, to develop a new epistemology for the process. We lose something in the process, the sense of a text as it unfolds over time.
 
