@@ -116,6 +116,6 @@ Don't be alarmed if topic modeling seems much more abstract than the material we
 
 * For a more thorough explanation of how the algorithm behind topic modeling works, you might take a look at Lisa Rhody's [class exercise for teaching LDA](https://github.com/lmrhody/topicmodelgame).
 
-* Miriam Posner is helpful on [understanding topic modeling results](http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/)
+* Miriam Posner is helpful on [understanding topic modeling results](http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/).
 
 
