@@ -24,15 +24,17 @@ It would be fascinating to have a computer that could easily mark the sentiments
 
 * "She is so sad."
 
-Those were easy ones: good and bad. Hot and cold. How about these:
+Those were easy ones: good and bad. Hot and cold. How about this one:
 
 * "It was the best of times, it was the worst of times…"
 
+This sentence is from Charles Dickens's _Tale of Two Cities_ and is probably a bit hard to parse in such a binary reading. If it is both good and bad, it probably comes out as neutral, right? But Dickens was talking about the era of the French Revolution here; his whole point was that this was an extraordinary time, hardly a "neutral" situation. In fact, he is interested in juxtaposing different things - best/worst, London/Paris, etc.- not in resolving them. We would probably need some system for determining what to do in such situations. 
+
+Try this sentence, by Jane Austen, which complicates matters even further:
+
 * "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
 
-* "I could be happier."
-
-The first sentence is from Charles Dickens's _Tale of Two Cities_ and is probably a bit hard to parse in such a polarized reading. If it is both good and bad, it probably comes out as neutral, right? But Dickens's was talking about the era of the French Revolution here; his whole point was that this was an extraordinary time, hardly a "neutral" situation. We would probably need some system for determining what to do in such situations. The second sentence, by Jane Austen, complicates matters even further. An avid reader of Austen would know that her texts come loaded with satire. It is unlikely she actually means her words to be taken at face value. Virtually no truthes actually are *universally* acknowledged to be true, so the sentence winks at the reader that it is not mean to be taken in full seriousness. The third suggests some happiness. Or does it? 
+An avid reader of Austen would know that her texts come loaded with satire. It is unlikely she actually means her words to be taken at face value. Virtually no truthes actually are *universally* acknowledged to be true, so the sentence winks at the reader that it is not mean to be taken in full seriousness. In fact, much of her work is meant as a scathing criticism of the culture and people around her. 
 
 Sentiment analysis is tricky, but that doesn't mean that researchers don't try. The process is difficult and riddled with error, but also intellectually interesting in a number of ways.
 
