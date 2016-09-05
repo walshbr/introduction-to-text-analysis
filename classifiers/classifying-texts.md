@@ -16,7 +16,7 @@ Let's break each of these tasks down. Remember, a supervised classifier relies o
 
 * To decide whether an email is spam, you will need lots of examples of junk email.
 * To tag a news article as belonging to a particular category, you will need examples of articles from each of those categories.
-* To determine the use of the word 'bank', you will need examples of the word used in all these possible contexts. 
+* To determine the use of the word 'bank,' you will need examples of the word used in all these possible contexts. 
 
 In each case, it's not enough to just dump data into the classifier. You would also have to decide what feature sets you want to examine for the training sets for each task. Take the task of building a spam filter. To determine whether or not a text is spam, you would need to decide what features you find to be indicative of junk mail. And you have many options! Here are just a few:
 
@@ -28,7 +28,7 @@ You could certainly come up with other approaches. In any case, you would need t
 * What is my research question?
 * How can my large question be broken down into smaller pieces?
 * Which of those can be measured by the computer?
-* What kind of example data do I have that I can for this problem?
+* What kinds of example data do I need for this problem? What kinds so already have in my possession?
 
 Going through these questions can be difficult at first, but, with practice, you will yourself able to separate feasible digital humanities questions from those that are impossible to answer. You will start to gain a sense of what could be measured and analyzed as well as whether or not you might want to do so at all.
 
