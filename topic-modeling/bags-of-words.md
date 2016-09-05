@@ -36,7 +36,7 @@ Take the following two sentences:
 
 * "How are you doing? Fine?"
 
-If we _normalize_ a text by removing the stopwords, lowercasing the words and getting rid of the punctuation, we get a bag of words. In this case, the bag of words for these two sentences is the same: 
+If we _normalize_ a text by removing the stopwords, lowercasing the words, and getting rid of the punctuation, we get a bag of words. In this case, the bag of words for these two sentences is the same: 
 
 ```
 [
@@ -48,10 +48,10 @@ If we _normalize_ a text by removing the stopwords, lowercasing the words and ge
 ]
 ```
 
-Not only would be want to know what words are being used, we'd also want to know how often they are mentioned. So a bag of words model for the following two sentences might produce something like the following:
+The nuanced context of the sentences that makes the two of them different disappears, but we get the sense that they both discuss similar material. Now, we would not only want to know what words are being used; we'd also want to know how often they are mentioned. So a bag of words model for the following two sentences might produce something like the following:
 
-Sentence 1: "Barbara is doing fine, thank you."
-Sentence 2: "Thank you, Dave. I am doing fine."
+* Sentence 1: "Barbara is doing fine, thank you."
+* Sentence 2: "Thank you, Dave. I am doing fine."
 
 ```
 Words in Corpus
