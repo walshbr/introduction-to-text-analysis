@@ -117,4 +117,6 @@ But we also gain the ability to think about a text in new ways. Sentences are ju
 * The [Wikipedia page on the Bag of Words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
   was helpful for putting this lesson together. 
 * While we haven't quite gotten to topic modeling yet, Matt Jockers has a good summary description of how topic modeling and LDA work in these terms called "[LDA Buffet: A Topic Modeling Fable](http://www.matthewjockers.net/macroanalysisbook/lda/)."
+* Daniel Chandler has a helpful [explanation](http://visual-memory.co.uk/daniel/Documents/S4B/sem03.html) of the syntagmatic axis.
+* David McClure's technical [post](https://litlab.stanford.edu/counting-words-in-hathitrust-with-python-and-mpi/)on data mining the HathiTrust corpus with Python pointed us to Chandler's work.
 
