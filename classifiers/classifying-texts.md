@@ -32,25 +32,18 @@ You could certainly come up with other approaches. In any case, you would need t
 
 Going through these questions can be difficult at first, but, with practice, you will yourself able to separate feasible digital humanities questions from those that are impossible to answer. You will start to gain a sense of what could be measured and analyzed as well as whether or not you might want to do so at all. You will also start to get a sense of what kind of projects are worth pursuing as well as interesting.
 
-Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution. Sometimes texts come down to us with no authors at all attributed to them, and we might want to know who wrote them. You could approach this problem in a variety of unsupervised ways, graphing the similarity or difference of particular authors based on a number of algorithms. But if you have a pretty good guess as to whom the author of a particular text might be, you can take a supervised approach to the problem. At other times, a single text might be written under a pseudonym, but you might have a good guess as to whom might be the author. To step through our same list of steps:
+Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution. Sometimes texts come down to us with no authors at all attributed to them, and we might want to know who wrote them. Or maybe a single text might be written under a pseudonym, but you might have a good guess as to whom might be the author. You could approach this problem in a variety of unsupervised ways, graphing the similarity or difference of particular authors based on a number of algorithms. But if you have a pretty good guess as to whom the author of a particular text might be, you can take a supervised approach to the problem. To step through our same list of steps:
 
 * What is my research question?
-
   * We want to be able to identify the unknown author of a text.
-
 * How can my large question be broken down into smaller pieces?
-
-  * We have a reasonable guess as to some possible authors, so We can use those as objects of study. We also am assuming that authorship can be associated with style.
-
+  * We have a reasonable guess as to some possible authors, so we can use those as objects of study. We also are assuming that authorship can be associated with style.
 * Which of those can be measured by the computer?
-
   * Well, style is the sum total of vocabulary, punctuation, and rhetorical patterns, among other things. Those can all be counted!
-
 * What kind of example data do we have that we can for this problem?
-
   * We have the unknown text. And we also have several texts by my potential authors that we can compare against it.
 
-To illustrate this experiment, we took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), we gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so my training set included about double the number of pieces by Bowler as by Glenn. With this body of training data for each author, we uploaded the texts to this great online [authorship attribution tool](http://aicbt.com/authorship-attribution/online-software/) by AICBT. The tool allows you to upload sample data for two authors. With this set, you can then upload a text by an unknown author, and the software will try to guess who wrote it. In this case, the mystery text was [Freedom, Justice, and John Legend](http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend) by Bowler. Author 1 is Glenn, and Author 2 is Bowler. The tool attempted to identify the author of the mystery text as follows. You can also find AICBT's helpful explanation of the different metrics that they are using to analyze the unknown text.
+To illustrate this experiment, we took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), we gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so my training set included about double the number of pieces by Bowler (10) as by Glenn (5). With this body of training data for each author, we uploaded the texts to a great online [authorship attribution tool](http://aicbt.com/authorship-attribution/online-software/) by AICBT. The tool allows you to upload sample data for two authors. With this set, you can then upload a text by an unknown author, and the software will try to guess who wrote it based on a variety of text analysis protocols. In this case, the mystery text was "[Freedom, Justice, and John Legend](http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend)" by Bowler. Author 1 is Glenn, and Author 2 is Bowler. The tool attempted to identify the author of the mystery text as follows. The images also include AICBT's helpful explanation of the different metrics that they are using to analyze the unknown text.
 
 ![authorship function](/assets/classifiers/authorship-function.jpg)
 ![authorship lexical](/assets/classifiers/authorship-lexical.jpg)
@@ -58,7 +51,7 @@ To illustrate this experiment, we took two authors from our syllabus: Danielle B
 
 So looking at these measures, for a successful classifier we would want the arrow to point towards the right \(this text is actually by author 2\). You'll immediately see that we have some success, but also some failure! Function word analysis is a slight indicator of the correct author, lexical analysis is virtually useless, and punctuation analysis is way _wrong_. In a real classification project, we would want use the success or failure of our classifier to revise our sense of which features are useful for our particular project. In this case, punctuation is not a good measure at all, so we would throw that out. We might focus, instead, on function words as an indicator of authorship. We can tweak our approach accordingly. But measures like these are only ever working probabilistically. We can say that the mystery text _might_ be written by our second author, but only in rare cases could we ever know for certain.
 
-Note also how these measures of authorship overlap with other things we have studied in this book. Remember stopwords, those words that are so common in a text that they are frequently removed before text analysis? In cases, like this one, we might actually care a lot about those simple stopwords. Two of the three measures for authorship here deal with just those words that we might otherwise throw away: punctuation, articles, etc. These words might not tell you much about what a text talks about, but they can tell you an awful lot about _how_ a text discusses them. They make up the verbal tissue in ways and can very frequently serve as identifying thumbprints.
+Note also how these measures of authorship overlap with other things we have studied in this book. Remember stopwords, those words that are so common in a text that they are frequently removed before text analysis? In cases, like this one, we might actually care a lot about those simple stopwords. Two of the three measures for authorship here deal with just those words that we might otherwise throw away: punctuation, articles, etc. These words might not tell you much about what a text talks about, but they can tell you an awful lot about _how_ a text discusses them. 
 
 Take a text that we've talked a lot about in this course: _The String of Pearls_. This penny dreadful was published in weekly installments and was written \(we think\) by James Malcolm Rymer and Thomas Peckett Prest. But the work was published anonymously, so we don't know which author wrote which chapter \(or even if Rymer and Prest wrote the novel\).
 
@@ -70,7 +63,7 @@ For the purposes of this demonstration, let's assume that we know that Rymer wro
 
 ![](/assets/Screen Shot 2016-08-25 at 10.34.08 AM.jpg)
 
-Here, it looks like the tool is trending towards Rymer as the author of the Chapter, but we're mainly dealing with uncertainty. But that uncertainty itself is pretty interesting! Maybe what this is showing us is that the authors had a pretty similar style. We might want to investigate the uses of puncutation in different chapters or the lexical diversity, word length and sentence length in much more detail.
+Here, it looks like the tool is trending towards Rymer as the author of the Chapter, but we're mainly dealing with uncertainty. But that uncertainty itself is pretty interesting! Maybe what this is showing us is that the authors had a pretty similar style. Or maybe both authors had a hand in each chapter, and our training set is not particularly useful. If we had large bodies of text by each author we might have better luck. We might want to drill down further and investigate the uses of puncutation in different chapters or the lexical diversity, word length, and sentence length in much more detail.
 
 * Are other penny dreadfuls similar to _The String of Pearls_ in these respects?
  
