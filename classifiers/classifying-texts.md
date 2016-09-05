@@ -2,7 +2,7 @@
 
 At this point, you might be saying, "Supervised classification is all well and good, but how does this relate to text analysis? I'm going to go back to googling for animal photos."
 
-Stop right there! We've got one for you. If you think you're tired, how do you think this dog feels? Impersonaiting bagels is exhausting.
+Stop right there! We've got one for you. If you think you're tired, how do you think this dog feels? Impersonating bagels is exhausting.
 
 ![sarah's sleeping dog](/assets/classifiers/sleepingstarbuck.jpg)
 
