@@ -1,4 +1,4 @@
-# Adapting This Book
+# Adapting This Book for Another Course
 
 We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. We especially imagine people reworking the exercises in each chapter to reflect their own content. With a little effort you can rework the book for your own purposes and publish it to GitBooks for your students to use.
 
