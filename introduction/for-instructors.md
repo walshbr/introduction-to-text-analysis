@@ -1,6 +1,6 @@
 # For Instructors
 
-This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis \(or case studies based on the associated concept\), and then provides a series of exercises for practicing the new skills. Our intended audience is students who have no background in programming, text analysis, or digital humanities.
+This coursebook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces a concept, a tool for digital text analysis \(or case studies based on the associated concept\), and then provides a series of exercises for practicing the new skills. Our intended audience is students who have no background in programming, text analysis, or digital humanities.
 
 We designed this book with three goals:
 
