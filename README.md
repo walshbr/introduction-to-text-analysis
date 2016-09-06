@@ -9,6 +9,6 @@ The materials here are meant to form the basis for a digital text analysis cours
 
 The book is best viewed online using either Chrome or Firefox. You can also download it to read as a PDF [here](https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/details).
 
-<a xmlns:cc="http://creativecommons.org/ns#" href="https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/index.html" property="cc:attributionName" rel="cc:attributionURL">*Introduction to Text Analysis: A Coursebook*</a> by Brandon Walsh and Sarah Horowitz is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+<a xmlns:cc="http://creativecommons.org/ns#" href="https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/index.html" property="cc:attributionName" rel="cc:attributionURL">*Introduction to Text Analysis: A Coursebook*</a> by Brandon Walsh and Sarah Horowitz is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/80x15.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
