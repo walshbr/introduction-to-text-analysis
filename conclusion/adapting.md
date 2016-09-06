@@ -9,11 +9,11 @@ We encourage others to use this book for their own courses and to change it to m
 
 ## Getting Your Own Copy
 
-The contents of this book are hosted in [a repository on GitHub](https://github.com/bmw9t/introduction-to-text-analysis) and rendered to the internet via [GitBooks](http://gitbook.com). When we make changes to the file structure hosted on GitHub, the changes populate out to our GitBooks account, which renders the various files into a book. To make your own remixable copy of the book, you will need to make a copy our GitHub repository and sync your copy with a GitBook of your own. Things you'll need to begin:
+The contents of this book are hosted in [a repository on GitHub](https://github.com/bmw9t/introduction-to-text-analysis) and rendered to the internet via [GitBooks](http://gitbook.com). When we make changes to the file structure hosted on GitHub, the changes populate out to our GitBooks account, which renders the various files into the web version of the book. To make your own remixable copy of the book, you will need to make a copy our GitHub repository and sync your copy with a GitBook of your own. Things you'll need to begin:
 
 - GitBooks Account
 - GitHub Account
-- GitBooks Editor
+- GitBooks Editor (optional depending on your command line and markdown fluency)
 
 First you will need to make a copy of our GitHub repository for your own account. When logged in and looking at our repository page, you should see these three buttons in the top-left corner of the window:
 
@@ -23,9 +23,9 @@ First you will need to make a copy of our GitHub repository for your own account
 
 ![copy of github repository after forking](/assets/conclusion/github-forking.jpg)
 
-Note the "forked from bmw9t/introduction-to-text-analysis" window at the top of the window, which lets you know where the book originated from. Above that you will see your own book's location.
+Note the "forked from bmw9t/introduction-to-text-analysis" window at the top of the window, which lets you know where the book originated from. Above that you will see your own book's location. You now have your own version of the book's various files, and any changes you make to your own version will not affect our original book. GitHub will also keep track of your book's history for you.
 
-#### Publishing
+## Publishing
 
 You have a copy of the files that make up the book, but you will need to sync them with GitBooks if you want to publish them online in the same way that we have done here. To do so, after logging into GitBooks you will click on the green 'Import Button.' ![gitbook add book button](/assets/conclusion/gitbook-add-book.jpg)
 
