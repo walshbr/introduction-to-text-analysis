@@ -99,7 +99,10 @@ That last phrase should cause some alarm: we haven't actually read any of these 
 
 ## Interpretation
 
-Of course, these graphs mean nothing on their own. It is our job to look at the results and describe them in meaningful ways. But be critical of what you see. You might find something interesting, but you might be looking at nonsense. It is your job to tell the difference. Beware of **apophenia**, the all to human urge to look at random data and find meaningful patterns in it. You can find wild patterns in anything if [you look hard enough](http://tylervigen.com/spurious-correlations). After all, visualizations can confuse as much as clarify. Numbers and graphs do not carry objective meaning.
+Of course, these graphs mean nothing on their own. It is our job to look at the results and describe them in meaningful ways. But be critical of what you see. You might find something interesting, but you might be looking at nonsense. It is your job to tell the difference. Beware of **apophenia**, the all to human urge to look at random data and find meaningful patterns in it. You can find wild patterns in anything if [you look hard enough](http://tylervigen.com/spurious-correlations). After all, visualizations can confuse as much as clarify. Numbers and graphs do not carry objective meaning. Miriam Posner summarized it pithily on Twitter once:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Visualization brings such clarity to data <a href="https://twitter.com/hashtag/beauty?src=hash">#beauty</a> <a href="https://twitter.com/hashtag/elegance?src=hash">#elegance</a> <a href="https://t.co/ciplkuXYj1">pic.twitter.com/ciplkuXYj1</a></p>&mdash; Miriam Posner (@miriamkp) <a href="https://twitter.com/miriamkp/status/725764655352684545">April 28, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ![apophenia illustrated - noise illustration](/assets/issues/visual-clarity.jpg)
 
