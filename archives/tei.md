@@ -100,7 +100,7 @@ We have added attributes to denote the line numbers for each line as well as the
 
 Once a text has been **encoded** in this way, it can be represented more easily in a digital form. This work may not necessarily actually make it *look* any different. But it does allow you to do new and exciting things to your work. TEI encoding can make it possible to provide nuanced digital editions of a text. We could actually say to a program, pull out all the rhyming words in a poem. Or make them appear differently on a webpage. Or change them all to "TEI is the best."
 
-Let's look at an example of something that's got a lot of encoding already in it. Here is the TEI for [this entry](http://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on a robbery case that mentions Jack the Ripper from the [Old Bailey Online](http://www.oldbaileyonlineorg). You might not recognize a lot of the tags \(there are _loads_ of TEI tags\), but the general arrangement of them should look familiar:
+Let's look at an example of something that's got a lot of encoding already in it. Here is the TEI for [this entry](http://www.oldbaileyonline.org/browse.jsp?id=t18881119-50&div=t18881119-50&terms=ripper#highlight) on a robbery case that mentions Jack the Ripper from the [Old Bailey Online](http://www.oldbaileyonlineorg). You might not recognize a lot of the tags \(there are _loads_ of TEI tags\), but the general arrangement of them should look familiar (full TEI [here](https://www.oldbaileyonline.org/browse.jsp?foo=bar&path=sessionsPapers/18881119.xml&div=t18881119-50&xml=yes)):
 
 
 
