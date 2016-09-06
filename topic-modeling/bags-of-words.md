@@ -1,12 +1,12 @@
 # Bags of Words
 
-When we read, our eyes move in sequence across the page and take in phrase after phrase in the order in which they were intended. This fact allowed us to do interesting things graphing words over time using [Voyant](https://voyant-tools.org). This sense of chronology is integral to how we, as human readers, understand texts. But it is possible to imagine other ways of reading. Have you ever skimmed over a page backwards looking at every other word? You probably still got the gist of the text even though you didn't read it in order and even though you missed many of the words.
+When we read, our eyes move in sequence across the page and take in phrase after phrase in the order in which they were intended. This fact allows us to do interesting things graphing words over time using [Voyant](https://voyant-tools.org). This sense of chronology is integral to how we, as human readers, understand texts. But it is possible to imagine other ways of reading. Have you ever skimmed over a page backwards looking at every other word? You probably still got the gist of the text even though you didn't read it in order and even though you missed many of the words.
 
 Take this passage:
 
 > I will, for the sake of argument, assume that the information given to the coroner by the officer of one of the medical schools is correct, and that Dr. Phillips is right in considering that the character of the mutilation in question justifies the assumption that the perpetrator was probably one who possessed some knowledge of anatomy. But that the inference which has been deduced is warranted, any one who is the least acquainted with medical science and practice will unhesitatingly deny and indignantly repudiate. That a lunatic may have desired to obtain possession of certain organs for some insane purpose is very possible, and the theory of the murdering fiend being a madman only derives confirmation from the information obtained by the coroner. But that the parts of the body carried off were wanted for any quasi scientific publication, or any other more or less legitimate purpose, no one having any knowledge of medical science will for a moment believe.
 
-The excerpt is from [a letter](http://www.casebook.org/press_reports/pall_mall_gazette/18880928.html) about the Jack the Ripper murders from the _Pall Mall Gazette_ published on September 28, 1888. Even without knowing anything about the context, you can probably infer a rough sense of the topic of the text: murder. We might further say that there are a number of overlapping topics in the text: evidence, medicine, murder, and many more. But how did you recognize these themes in the paragraph? Besides reading the whole text, you could probably skim it. In this case, certain words strongly indicate certain topics to you. You see the words "coroner" and "body," and these words suggest particular things and not others. They make you think, "This article is about crime or medicine. They do not make you think, "Oh I'm reading a recipe for a nice guacamole." Vocabulary are the building blocks of the themes in a passage, and we can, theoretically, determine the topics at work in a passage by paying close attention to the kinds of words that appear in it. Here is the same passage with one representation of how the reading process for this article might have taken place for you using [_Prism_](https://prism.scholarslab.org). We have highlighted various words associated with particular categories as such:
+The excerpt is from [a letter](http://www.casebook.org/press_reports/pall_mall_gazette/18880928.html) about the Jack the Ripper murders from the _Pall Mall Gazette_ published on September 28, 1888. Even without knowing anything about the context, you can probably infer a rough sense of the topic of the text: murder. We might further say that there are a number of overlapping topics in the text: evidence, medicine, murder, and many more. But how did you recognize these themes in the paragraph? If you skimmed the text, certain words might have lept out at you as indicating these topics. You see the words "coroner" and "body," and these words suggest particular things and not others. They make you think, "This article is about crime or medicine." They do not make you think, "Oh I'm reading a recipe for a nice guacamole" \(or at least we really hope they don't\). Vocabulary are the building blocks of the themes in a passage, and we can, theoretically, determine the topics at work in a text by paying close attention to the kinds of words that appear in it. Here is the same passage with one representation of how the reading process for this article might have taken place for you using _[Prism](https://prism.scholarslab.org)_. We have highlighted various words associated with particular categories as such:
 
 ```
 Highlight Color: Topic
@@ -36,7 +36,8 @@ Take the following two sentences:
 
 * "How are you doing? Fine?"
 
-If we _normalize_ a text by removing the stopwords, lowercasing the words, and getting rid of the punctuation, we get a bag of words. In this case, the bag of words for these two sentences is the same: 
+
+If we _normalize_ a text by removing the stopwords, lowercasing the words, and getting rid of the punctuation, we get a bag of words. In this case, the bag of words for these two sentences is the same:
 
 ```
 [
@@ -72,7 +73,7 @@ A: [1, 1, 1, 1, 1, 1, 0, 0, 0]
 B: [0, 0, 1, 1, 1, 1, 1, 1, 1]
 ```
 
-Here we get two lists. "Words in Corpus" gives all of the words in our documents. "Counts for Sentence A" and "Counts for Sentence B" detail the number of times each of those terms occur in each sentence. So the first element of the Counts list for Sentence A is 1, because "Barbara" occurs 1 time. Sentence B has 0 in that same position because the word "Barbara" does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple short sentences, but imagine being able to break apart whole texts like this. 
+Here we get two lists. "Words in Corpus" gives all of the words in our documents. "Counts for Sentence A" and "Counts for Sentence B" detail the number of times each of those terms occur in each sentence. So the first element of the Counts list for Sentence A is 1, because "Barbara" occurs 1 time. Sentence B has 0 in that same position because the word "Barbara" does not occur in the sentence. We could have numbers as large as we need in order to represent the text as a whole. Pretty easy for a couple short sentences, but imagine being able to break apart whole texts like this.
 
 One last thing. Let's add this sentence to the bag of words model that we've been building:
 
@@ -102,11 +103,13 @@ C: [0, 0, 0, 0, 0, 0, 1, 1, 1]
 ```
 
 Just by glancing at the counts for the three sentences, you could argue that two of the sentences are more similar to each other. Look at how many 1's you get in the sentences A and B vs. how many 0's you get in sentence C. You can do a lot of math to prove this, and even start to graph things to visualize the argument. Note that sentences 1 and 3 are mirror images of each other: they don't share any vocabulary in common. We can think about A and C as opposite ends of a continuum, then, and B being somewhere in between. Since Sentence B shares 4 terms with sentence A and 5 with sentence C, we can say that sentence B is a bit further to one than the other:
+
 ```
 Sentences Graphed by Similarity
 A------------------B----------C
 ```
-For now, don't worry about the math behind all of this. We just want to give you a sense of the possibilities that can come from considering texts as bags of words. Note that, at a certain point, the vocabulary behind the model becomes irrelevant to this kind of thinking. We're just working with numbers, which is good for the computer! We can add the meaning and linguistic nuance back at the end, when we use this information to make humanities interpretations. 
+
+For now, don't worry about the math behind all of this. We just want to give you a sense of the possibilities that can come from considering texts as bags of words. Note that, at a certain point, the vocabulary behind the model becomes irrelevant to this kind of thinking. We're just working with numbers, which is good for the computer! We can add the meaning and linguistic nuance back at the end, when we use this information to make humanities interpretations.
 
 You might feel like this goes against everything that you've ever known about reading. This might feel like destroying a text. You're not wrong. This concept is pretty far removed from how we tend to read, since we tend to read in sequence across the page. This approach, instead, wants you to think about reading in a different way, to develop a new epistemology for the act. We lose something in the process, the sense of a text as it unfolds over time.
 
