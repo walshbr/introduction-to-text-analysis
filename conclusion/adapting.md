@@ -1,11 +1,12 @@
 # Adapting This Book for Another Course
 
+***The GitBook editor and system that we use for publishing are changing rapidly. While you can fork our GitHub Repository and edit your own versions of the files, the GitBook platform as of this writing is too unstable for us to develop reliable documentation about how to publish your own version of the text. We will update this page when the issue has been resolved. Until then, the instructions in the Publishing section below should be considered out of date and unstable. If you are able to import your own copy of the text on GitHub by mimicking the instructions below, please make an issue on our GitHub page to let us know. ***
+
 We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. We especially imagine people reworking the exercises in each chapter to reflect their own content. With a little effort you can rework the book for your own purposes and publish it to GitBooks for your students to use.
 
 **Notes:**
 
 * **Copying the book will only get you a particular version of the book at a particular point in time. By default, any changes we make to the book after you copy it will not be reflected in your version of the book. [Syncing your version](https://help.github.com/articles/syncing-a-fork/) of the book with ours will likely conflict with any changes you have made, so we would only try that with great care.** 
-* **The GitBook editor and system that we use for publishing are changing rapidly, and we make no guarantees that these steps are updated. As of this writing, they were functional, but let us know by filing an issue on our [GitHub repository](https://github.com/bmw9t/introduction-to-text-analysis/issues) if you find a problem. In particular, the publishing section is brittle.** 
 
 ## Getting Your Own Copy
 
