@@ -27,6 +27,8 @@ Note the "forked from bmw9t/introduction-to-text-analysis" window at the top of 
 
 ## Publishing
 
+**Note: GitBook is still under heavy development, and these steps might have changed since last writing.**
+
 You have a copy of all the files that make up the book, but you will need to sync them with GitBooks if you want to publish them online in the same way that we have done here. To do so, after logging into GitBooks you will click on the green 'Import Button.' ![gitbook add book button](/assets/conclusion/gitbook-add-book.jpg)
 
 Selecting the "GITHUB" option, you will need to link your GitHub account and verify your account by an email.
