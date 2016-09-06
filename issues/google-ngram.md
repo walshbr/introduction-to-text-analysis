@@ -103,9 +103,6 @@ Of course, these graphs mean nothing on their own. It is our job to look at the 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Visualization brings such clarity to data <a href="https://twitter.com/hashtag/beauty?src=hash">#beauty</a> <a href="https://twitter.com/hashtag/elegance?src=hash">#elegance</a> <a href="https://t.co/ciplkuXYj1">pic.twitter.com/ciplkuXYj1</a></p>&mdash; Miriam Posner (@miriamkp) <a href="https://twitter.com/miriamkp/status/725764655352684545">April 28, 2016</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-![apophenia illustrated - noise illustration](/assets/issues/visual-clarity.jpg)
-
 Always think. Never let a graph think for you.
 
 ## Further Resources
