@@ -47,11 +47,11 @@ You now have a working copy of the book hosted on GitHub and rendered in GitBook
 
 ## Editing
 
-#### Markdown
+### Markdown
 
 From here you just need to know a few more things to edit your new and ready-to-remix textbook. The book is written as a series of files in **markdown**, a form of markup that can easily be converted into HTML. GitBooks provides a [great tutorial on markdown](https://gitbookio.gitbooks.io/markdown/content/) that help get you started. 
 
-#### Editing with GitBooks Editor
+### Editing with GitBooks Editor
 
 If markdown feels too complicated, GitBooks also provides a handy [desktop editor](https://www.gitbook.com/editor/osx) that can make the process just about as intuitive as writing in Microsoft Word. You can type in markdown, but the editor will also convert certain commands to markdown for you:
 
@@ -61,7 +61,7 @@ But we can also highlight text and press command + b as we would in Microsoft Wo
 
 ![gitbooks editor interface](/assets/conclusion/gitbooks-editor-interface.jpg)
 
-The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you do decide to work in the GitBooks Editor, you will need to log in the first you do so. Then select the "GitBooks.com" option for importing. 
+The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you do decide to work in the GitBooks Editor, you will need to log in the first time you do so. Then select the "GitBooks.com" option for importing. 
 
 ![gitbooks cloning locally](/assets/conclusion/gitbooks-clone.jpg)
 
