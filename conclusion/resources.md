@@ -4,6 +4,7 @@ Each individual lesson contains suggested further readings on the particular top
 
 ## Secondary Readings
 
+* [Digital Humanities Zotero Group](https://www.zotero.org/groups/digital_humanities/items)
 * Leary, Patrick. "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)."
 * Moretti, Franco. *[Graphs, Maps, Trees](https://www.amazon.com/Graphs-Maps-Trees-Abstract-Literary/dp/1844671852).*
 * Kirsch, Adam. "[Technology is Taking Over English Departments: The False Promise of the Digital Humanities](https://newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)."
