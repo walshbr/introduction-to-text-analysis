@@ -40,7 +40,7 @@ But you would probably need a moment to figure out what was going on if you came
 
 ![tei with text annotations](/assets/archives/tei.jpg)
 
-For a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on [Cyborg Readers](cyborg-readers.md). For example, we would have to consistently use lower-case letters to represent rhyme schemes. And "line 1" to represent the first line of a poem instead of "line one." We need a clear and uniform way for describing the parts of the poem that never changes. Any variations from these rules would cause unwanted and unintended effects. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The **Text Encoding Initiative (TEI)**, the result of this work, is an attempt to make abstract humanities concepts legible to machines. If we apply TEI to the passage, it might begin to look something like this:
+For a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on "[Cyborg Readers](cyborg-readers.md)". For example, we would have to consistently use lower-case letters to represent rhyme schemes. And "line 1" to represent the first line of a poem instead of "line one." We need a clear and uniform way for describing the parts of the poem that never changes. Any variations from these rules would cause unwanted and unintended effects. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The **Text Encoding Initiative (TEI)**, the result of this work, is an attempt to make abstract humanities concepts legible to machines. If we apply TEI to the passage, it might begin to look something like this:
 
 ```
 <lg>
@@ -128,5 +128,5 @@ Encoding is meant to convey abstract humanities concepts to the machine so that 
 
 ## Further Resources
 
-* Jacob Heil is great on the reasons for encoding in [Why We TEI](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/).
-* Ryan Cordell [On Ignoring Encoding](http://ryancordell.org/research/dh/on-ignoring-encoding/)
+* Jacob Heil is great on the reasons for encoding in "[Why We TEI](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/)".
+* Ryan Cordell "[On Ignoring Encoding](http://ryancordell.org/research/dh/on-ignoring-encoding/)"
