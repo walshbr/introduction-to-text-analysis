@@ -16,9 +16,10 @@ Each individual lesson contains suggested further readings on the particular top
 
 ## Tutorials and Textbooks
 * Arnold, Taylor and Lauren Tilton. [Humanities Data in R](http://www.humanitiesdata.org/).
+* Crymble, Adam, Fred Gibbs, Allison Hegel, Caleb McDaniel, Ian Milligan, Evan Taparata, Amanda Visconti, and Jeri Wieringa, eds. [The Programming Historian](http://programminghistorian.org/).
 * Jockers, Matt. [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/).
 * [NLTK book](http://www.nltk.org/book/) (Python)
-* [The Programming Historian](http://programminghistorian.org/)
+
 
 
 ## Tools
