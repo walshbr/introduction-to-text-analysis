@@ -2,7 +2,7 @@
 
 Each individual lesson contains suggested further readings on the particular topic discussed in that section. Here we wanted to gather two types of resources. First, we wanted to gather a few more useful tidbits that didn't fit well anywhere but that will be helpful to anyone exploring text analysis. Second, we wanted to point you towards other fantastic tutorials and textbooks for text analysis that go further in depth than we do here. Interested browsers should also check out the lessons on particular topics of interest to make sure you see any and all resources.
 
-## Secondary Readings
+## Secondary Readings on the Digital Humanities
 
 * [Digital Humanities Zotero Group](https://www.zotero.org/groups/digital_humanities/items)
 * Leary, Patrick. "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)."
@@ -23,6 +23,9 @@ Each individual lesson contains suggested further readings on the particular top
 * [Prism](https://prism.scholarslab.org)
 * [Voyant](https://voyant-tools.org)
 * [Zotero](https://zotero.org)
+
+## Interesting Applications of Text Analysis
+* 
 
 ## Other
 * [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](https://www.nines.org)
