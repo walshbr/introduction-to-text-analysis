@@ -54,4 +54,4 @@ You cannot read everything. Instead, focus on what humans are good at: reading w
 * Franco Moretti, *Graphs, Maps, Trees*.
 * Margaret Cohen, *The Sentimental Education of the Novel*
 * Matt Jockers, *Macroanalysis*.
-* Ryan Cordell, [Scale as Deformance](http://ryancordell.org/research/scale-as-deformance/)
+* Ryan Cordell, "[Scale as Deformance](http://ryancordell.org/research/scale-as-deformance/)"

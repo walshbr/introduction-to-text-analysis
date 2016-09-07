@@ -2,7 +2,7 @@
 
 This is a workbook about text analysis. Many of you are probably used to analyzing texts in one form or another, whether that be by carefully considering the parts of a literary text or thinking about the words in a historical document. But even though we'll be doing both those things, we are using the phrase "text analysis" in a slightly different fashion: to talk about how we can use computers to help analyze texts in new ways.
 
-Text analysis is often understood as one of the methodologies of the **digital humanities**, alongside other activities like creating digital exhibits and online mapping. We'll talk a lot \(and you'll read a lot\) about digital humanities in class. Essentially, this refers to how we are using computers and new technology in the humanities. Laura Mandell offers one helpful definition of what the digital humanities are in an [interview with the LA Review of Books](https://lareviewofbooks.org/article/digital-humanities-interview-laura-mandell/):
+Text analysis is often understood as one of the methodologies of the **digital humanities**, alongside other activities like creating digital exhibits and online mapping. We'll talk a lot \(and you'll read a lot\) about digital humanities in class. Essentially, this refers to how we are using computers and new technology in the humanities. Laura Mandell offers one helpful definition of what the digital humanities are in an [interview with the *LA Review of Books*](https://lareviewofbooks.org/article/digital-humanities-interview-laura-mandell/):
 
 > But the best definition of the digital humanities, I think, is bringing digital methods to bear on humanities research and then interrogating the digital humanities by humanities research.
 
