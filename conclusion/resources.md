@@ -24,8 +24,8 @@ Each individual lesson contains suggested further readings on the particular top
 
 ## Tools
 * [Google NGram Viewer](https://books.google.com/ngrams)
-* [Voyant](https://voyant-tools.org)
 * [Prism](https://prism.scholarslab.org)
+* [Voyant](https://voyant-tools.org)
 * [Zotero](https://zotero.org)
 
 ## Other
