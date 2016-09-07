@@ -29,7 +29,8 @@ Each individual lesson contains suggested further readings on the particular top
 * [Viral Texts](http://viraltexts.org/)
 * [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
 * [Mining the Dispatch](http://dsl.richmond.edu/dispatch/pages/home)
-* 
+* [How a Computer Program Helped Show J.K. Rowling write A Cuckoo's Calling]
+* [Text Analysis of Trump's Tweets]
 
 ## Other
 * [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](https://www.nines.org)
