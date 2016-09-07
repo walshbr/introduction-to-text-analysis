@@ -51,8 +51,9 @@ You cannot read everything. Instead, focus on what humans are good at: reading w
 
 ## Further Reading
 
-The following resources offer a great introduction to distant reading. 
-* Franco Moretti, *Graphs, Maps, Trees*.
+* Ryan Cordell provides a helpful examination of the interconnectedness of close and distant reading in "[Scale as Deformance](http://ryancordell.org/research/scale-as-deformance/)"
+
+In addition, the following resources offer a great introduction to distant reading.: 
+* Franco Moretti, *[Graphs, Maps, Trees: Abstract Models for Literary History](https://www.amazon.com/Graphs-Maps-Trees-Abstract-Literary/dp/1844671852)*.
 * Margaret Cohen, *The Sentimental Education of the Novel*
 * Matt Jockers, *Macroanalysis*.
-* Ryan Cordell, "[Scale as Deformance](http://ryancordell.org/research/scale-as-deformance/)"
