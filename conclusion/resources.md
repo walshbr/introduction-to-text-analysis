@@ -13,10 +13,11 @@ Each individual lesson contains suggested further readings on the particular top
 
 ## Tutorials and Textbooks
 * Arnold, Taylor and Lauren Tilton. [Humanities Data in R](http://www.humanitiesdata.org/).
+* Bird, Steven, Ewan Klein, and Edward Loper. [NLTK book](http://www.nltk.org/book/). (Python)
 * Crymble, Adam, Fred Gibbs, Allison Hegel, Caleb McDaniel, Ian Milligan, Evan Taparata, Amanda Visconti, and Jeri Wieringa, eds. [The Programming Historian](http://programminghistorian.org/).
 * Graham, Shawn, Ian Milligan, and Scott Weingart. *[Exploring Big Historical Data: The Historian's Macroscope](http://www.themacroscope.org/2.0/)*.
 * Jockers, Matt. [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/).
-* [NLTK book](http://www.nltk.org/book/) (Python)
+
 
 ## Tools
 * [Google NGram Viewer](https://books.google.com/ngrams)
