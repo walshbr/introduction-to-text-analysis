@@ -24,3 +24,6 @@ This class is taught by an English professor and a History professor.  You'll pr
 
 * The LA Review of Books series ["The Digital in the Humanities"](https://lareviewofbooks.org/feature/the-digital-in-the-humanities) contains interviews with many luminaries in the field and can be a good introduction for further reading as to just what this baggy field is. We especially like the interviews of [Bethany Nowviskie](https://lareviewofbooks.org/article/digital-humanities-interview-bethany-nowviskie) and of [Jessica Marie Johnson](https://lareviewofbooks.org/article/digital-humanities-interview-jessica-marie-johnson).
 
+## For Students in History 211
+
+We suggest that you read this coursebook online as opposed to downloading it as a PDF, Mobi or ePub, since some of the embedded material will only show up online. Additionally, we may make changes to the book during the course of the term, so you want to make sure you are reading the most up-to-date version of this book.
