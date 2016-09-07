@@ -2,9 +2,6 @@
 
 Each individual lesson contains suggested further readings on the particular topic discussed in that section. Here we wanted to gather two types of resources. First, we wanted to gather a few more useful tidbits that didn't fit well anywhere but that will be helpful to anyone exploring text analysis. Second, we wanted to point you towards other fantastic tutorials and textbooks for text analysis that go further in depth than we do here. Interested browsers should also check out the lessons on particular topics of interest to make sure you see any and all resources.
 
-## Tutorials
-* [The Programming Historian](http://programminghistorian.org/)
-
 ## Secondary Readings
 
 * Cordell, Ryan. "[Qitjb the Raven](http://ryancordell.org/research/qijtb-the-raven/)."
@@ -17,13 +14,12 @@ Each individual lesson contains suggested further readings on the particular top
 * LA Review of Books, *[The Digital in the Humanities](https://lareviewofbooks.org/feature/the-digital-in-the-humanities)* series
 * Rockwell, Geoffrey and Stéfan Sinclair. *[Hermeneutica: Computer-Assisted Interpretation in the Humanities](https://mitpress.mit.edu/books/hermeneutica)*.
 
-## Python
-* [Python Documentation](https://www.python.org/doc/)
-* [NLTK book](http://www.nltk.org/book/)
-
-## R
+## Tutorials and Textbooks
 * Arnold, Taylor and Lauren Tilton. [Humanities Data in R](http://www.humanitiesdata.org/).
 * Jockers, Matt. [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/).
+* [NLTK book](http://www.nltk.org/book/) (Python)
+* [The Programming Historian](http://programminghistorian.org/)
+
 
 ## Tools
 * [Google NGram Viewer](https://books.google.com/ngrams)
