@@ -20,8 +20,6 @@ Each individual lesson contains suggested further readings on the particular top
 * Jockers, Matt. [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/).
 * [NLTK book](http://www.nltk.org/book/) (Python)
 
-
-
 ## Tools
 * [Google NGram Viewer](https://books.google.com/ngrams)
 * [Prism](https://prism.scholarslab.org)
