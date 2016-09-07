@@ -51,6 +51,7 @@ You cannot read everything. Instead, focus on what humans are good at: reading w
 
 ## Further Reading
 
+The following resources offer a great introduction to distant reading. 
 * Franco Moretti, *Graphs, Maps, Trees*.
 * Margaret Cohen, *The Sentimental Education of the Novel*
 * Matt Jockers, *Macroanalysis*.
