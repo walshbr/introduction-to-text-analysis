@@ -25,7 +25,10 @@ Each individual lesson contains suggested further readings on the particular top
 * [Zotero](https://zotero.org)
 
 ## Interesting Applications of Text Analysis
-* 
+* [Quantifying Kissinger](http://www.quantifyingkissinger.com/)
+* [Viral Texts](http://viraltexts.org/)
+* [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
+
 
 ## Other
 * [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](https://www.nines.org)
