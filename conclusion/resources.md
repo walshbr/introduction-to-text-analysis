@@ -18,7 +18,6 @@ Each individual lesson contains suggested further readings on the particular top
 * Graham, Shawn, Ian Milligan, and Scott Weingart. *[Exploring Big Historical Data: The Historian's Macroscope](http://www.themacroscope.org/2.0/)*.
 * Jockers, Matt. [Text Analysis with R for Students of Literature](http://www.matthewjockers.net/text-analysis-with-r-for-students-of-literature/).
 
-
 ## Tools
 * [Google NGram Viewer](https://books.google.com/ngrams)
 * [Prism](https://prism.scholarslab.org)
