@@ -31,6 +31,7 @@ Each individual lesson contains suggested further readings on the particular top
 * [Mining the Dispatch](http://dsl.richmond.edu/dispatch/pages/home)
 * [How a Computer Program Helped Show J.K. Rowling write A Cuckoo's Calling]
 * [Text Analysis of Trump's Tweets]
+* [Walmart Gets Its Worst Yelp Reviews in Black and Latino Neighborhoods]
 
 ## Other
 * [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](https://www.nines.org)
