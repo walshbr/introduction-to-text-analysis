@@ -29,7 +29,12 @@ Each individual lesson contains suggested further readings on the particular top
 * [Viral Texts](http://viraltexts.org/)
 * [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
 * [Mining the Dispatch](http://dsl.richmond.edu/dispatch/pages/home)
+http://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/
+
 * [How a Computer Program Helped Show J.K. Rowling write A Cuckoo's Calling]
+
+http://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/
+
 * [Text Analysis of Trump's Tweets]
 * [Walmart Gets Its Worst Yelp Reviews in Black and Latino Neighborhoods]
 
