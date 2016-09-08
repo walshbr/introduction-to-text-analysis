@@ -30,8 +30,8 @@ Each individual lesson contains suggested further readings on the particular top
 * [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
 * [Mining the Dispatch](http://dsl.richmond.edu/dispatch/pages/home)
 * [How a Computer Program Helped Show J.K. Rowling write A Cuckoo's Calling](http://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)
-* [Text Analysis of Trump's Tweets Confirms He Writes only the (Angrier) Android half](http://varianceexplained.org/r/trump-tweets/)
-* [Walmart Gets Its Worst Yelp Reviews in Black and Latino Neighborhoods]
+* [Text Analysis of Trump's Tweets Confirms He Writes only the (Angrier) Android Half](http://varianceexplained.org/r/trump-tweets/)
+* [Walmart Gets Its Worst Yelp Reviews in Black and Latino Neighborhoods](http://www.citylab.com/work/2016/08/walmart-get-its-worst-yelp-reviews-in-black-and-latino-neighborhoods/497864/)
 
 ## Other
 * [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](https://www.nines.org)
