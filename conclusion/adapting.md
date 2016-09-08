@@ -2,9 +2,9 @@
 
 ***The GitBook platform that we use for publishing is changing rapidly. While you can fork our GitHub Repository and edit your own versions of the files, the GitBook platform as of this writing is too unstable for us to develop reliable documentation about how to publish your own version of the text. We will update this page when the issue has been resolved. Until then, the instructions in the Publishing section below should be considered out of date and unstable. If you are able to import your own copy of the text on GitHub by mimicking the instructions below, please make an issue on our [GitHub page](https://github.com/bmw9t/introduction-to-text-analysis/issues) to let us know. ***
 
-We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. We especially imagine people reworking the exercises in each chapter to reflect their own content. With a little effort you can rework the book for your own purposes and publish it to GitBooks for your students to use.
+We encourage others to use this book for their own courses and to change it to meet the needs of their own contexts. The publishing platform here helps to facilitate this process. We especially imagine people reworking the exercises in each chapter to reflect their own disciplinary content. With a little effort you can rework the book for your own purposes and publish it to GitBooks for your students to use.
 
-**Notes:**
+**Note:**
 
 * **Copying the book will only get you a particular version of the book at a particular point in time. By default, any changes we make to the book after you copy it will not be reflected in your version of the book. [Syncing your version](https://help.github.com/articles/syncing-a-fork/) of the book with ours will likely conflict with any changes you have made, so we would only try that with great care.** 
 
@@ -24,7 +24,7 @@ First you will need to make a copy of our GitHub repository for your own account
 
 ![copy of github repository after forking](/assets/conclusion/github-forking.jpg)
 
-Note the "forked from bmw9t/introduction-to-text-analysis" window at the top of the window, which lets you know where the book originated from. Above that you will see your own book's location. You now have your own version of the book's various files, and any changes you make to your own version will not affect our original book. GitHub will also keep track of your book's history for you. 
+Note the "forked from bmw9t/introduction-to-text-analysis" statement at the top of the window, which lets you know where the book originated from. Above that you will see your own book's location. You now have your own version of the book's various files, and any changes you make to your own version will not affect our original book. GitHub will also keep track of your book's history for you. 
 
 ## Publishing
 
@@ -58,11 +58,11 @@ If markdown feels too complicated, GitBooks also provides a handy [desktop edito
 
 \*\*bolded text\*\* will render as **bolded text**.
 
-But we can also highlight text and press command + b as we would in Microsoft Word to produce the same effect.
+But you can also highlight text and press command + b as you would in Microsoft Word to produce the same effect.
 
 ![gitbooks editor interface](/assets/conclusion/gitbooks-editor-interface.jpg)
 
-The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you do decide to work in the GitBooks Editor, you will need to log in the first time you do so. Then select the "GitBooks.com" option for importing. 
+The interface provides a preview of what your text will look like to the right of the window, which can be very helpful if you are new to markdown. If you decide to work in the GitBooks Editor, you will need to log in the first time you do so. Then select the "GitBooks.com" option for importing. 
 
 ![gitbooks cloning locally](/assets/conclusion/gitbooks-clone.jpg)
 
@@ -74,7 +74,7 @@ After doing so, any changes you have made from the GitBooks editor will also cha
 
 #### Editing with Terminal
 
-If you are planning to use terminal, the process is fairly similar. Once you have forked and have your own copy of the book on github, you will just clone it to your computer using the clone url found at the top of your repository's page on GitHub. Here is the one for the original book:  
+If you are planning to use terminal, the process is fairly similar. Once you have forked and have your own copy of the book on GitHub, you will just clone it to your computer using the clone url found at the top of your repository's page on GitHub. Here is the one for the original book:  
 
 ![github clone url](/assets/conclusion/clone-url.jpg)
 
@@ -82,6 +82,6 @@ Find your own clone url, copy it to your clipboard, and use it like so (without 
 
 ```$ git clone {your_clone_url here}```
 
-This will copy the repository to your machine. From there, you will just edit using a plain text editor as normal and make changes to the repository using [git](https://git-scm.com/). 
+This will copy the repository to your machine. From there, you can edit using a plain text editor as normal and make changes to the repository using [git](https://git-scm.com/). 
 
 At this point you should have everything you need to edit your copy of the book as you see fit for your own needs. If we haven't covered something here or you run into problems, drop us a line in our [discussions forum](https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/discussions).
