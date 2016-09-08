@@ -32,6 +32,8 @@ Each individual lesson contains suggested further readings on the particular top
 * [How a Computer Program Helped Show J.K. Rowling write A Cuckoo's Calling](http://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)
 
 * [Text Analysis of Trump's Tweets]
+http://varianceexplained.org/r/trump-tweets/
+
 * [Walmart Gets Its Worst Yelp Reviews in Black and Latino Neighborhoods]
 
 ## Other
