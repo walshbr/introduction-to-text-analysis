@@ -83,7 +83,9 @@ That being said, you need to remember the principle of garbage in, garbage out. 
 
 ## Zotero for Citation Management in Microsoft Word
 
-Now that we have our metadata, the fun begins. If you use Microsoft Word, strap in and buckle up. Go to the Zotero menu and select Preferences. From the 'Cite' menu, Install the Microsoft Word Add-in. Doing so will add a special 'Zotero' menu to every Microsoft Word document that you open.
+Now that we have our metadata, the fun begins. If you use Microsoft Word, strap in and buckle up. Go to the Zotero menu and select Preferences. From the 'Cite' menu, Install the Microsoft Word Add-in. Doing so will add a special 'Zotero' menu to every Microsoft Word document that you open. Now let's open a new Microsoft Word document and check out the new menu.
+
+[Note: Microsoft Word 2016 changes the Zotero integration slightly. You will be looking for a menu called "add-in's," and the keyboard shortcuts below will not work by default.]
 
 ![zotero menu in word](/assets/data-cleaning/zotero-menu-in-word.jpg)
 
