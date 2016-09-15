@@ -1,6 +1,6 @@
 # Exercises
 
-Practice your close reading skills on the following short passage from:
+Practice your close reading skills on the following short passage:
 
 ---
 Excerpt from "The Respectful Petition of an Humble Subject to her Majesty Queen Caroline," The Morning Post, September 09, 1820, issue 15439.
