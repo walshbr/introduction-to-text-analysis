@@ -78,7 +78,7 @@ The first line here contains information about the document, an ID for the docum
 ```
 
 This post is post number 0, the first post chronicled by the topic modeling software. Brandon stripped out some of the punctuation, but you probably recognize what follows as looking sort of like a URL. This topic modeling information corresponds to a forum post that exists at this URL:
-[https:\/\/forum.librivox.org\/viewtopic.php?f=23&t=2](https://forum.librivox.org/viewtopic.php?f=23&t=2).
+[https://forum.librivox.org/viewtopic.php?f=23&t=2](https://forum.librivox.org/viewtopic.php?f=23&t=2).
 What follows is a list of each topic our topic modeling software produced and the weight of each topic for that document:
 
 ```
