@@ -128,3 +128,6 @@ Zotero is much more that just a way to produce citations and bibliographies. It 
 
 Zotero isn't perfect. Sometimes, an error might occur, and you might have to wrestle with your text a bit. But the payoff is worth it. Save your work often. Back things up. And use Zotero without fear.
 
+## Further Resources
+* Jason Puckett has a more advanced breakdown of Zotero in *[Zotero: A Guide for Librarians, Researchers and Educators](https://www.amazon.com/Zotero-Guide-Librarians-Researchers-Educators/dp/0838985890/ref=sr_1_1?ie=UTF8&qid=1473948483&sr=8-1&keywords=zotero)*
+
