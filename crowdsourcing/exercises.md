@@ -4,6 +4,7 @@ Design a Prism game and answer the following questions. For your text, use an ex
 * [Letter vi](http://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-4#lf0872-04_label_299)
 * [Preface](http://oll.libertyfund.org/titles/bentham-the-works-of-jeremy-bentham-vol-4#lf0872-04_head_014)
 
+
 1. What about this text are you interested in exploring? What is the interpretive intervention that you hope to make?
 2. Who will you address it to? Why this particular group?
 3. After designing your Prism get at least five people to read and mark the text for you.
