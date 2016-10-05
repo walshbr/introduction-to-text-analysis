@@ -81,7 +81,7 @@ We can give further details to the poem. For example:
 </lg>
 ```
 
-Here we've added an exta stanza group as well as an outer tag to denote that this is, in fact, a poem. We also give **attributes** to certain tags to provide more information about them: type="stanza" tells the computer that the contents of this tag refer to a poem. Remember the nested hierarchy we talked about earlier? Notice how we represent it graphically by indentation. The outer poem element contains two stanzas, which contain some lines, and those have some text. You can run your eye down the text and see the structure. Some programming languages will actually error if you do not pay attention to such things. But, either way, it just helps us keep things clean and easy to read. 
+Here we've added an extra stanza group as well as an outer tag to denote that this is, in fact, a poem. We also give **attributes** to certain tags to provide more information about them: type="stanza" tells the computer that the contents of this tag refer to a poem. Remember the nested hierarchy we talked about earlier? Notice how we represent it graphically by indentation. The outer poem element contains two stanzas, which contain some lines, and those have some text. You can run your eye down the text and see the structure. Some programming languages will actually error if you do not pay attention to such things. But, either way, it just helps us keep things clean and easy to read. 
 
 One last thing. Remember our rhyme scheme and line numbers? We can encode those too:
 
