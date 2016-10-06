@@ -1,4 +1,5 @@
 # Google NGram Viewer
+
 The [Google NGram Viewer](https://books.google.com/ngrams) is often the first thing brought out when people discuss large-scale textual analysis, and it serves nicely as a basic introduction into the possibilities of computer-assisted reading. 
 
 ![google ngram splash page](/assets/issues/google-ngram-viewer.jpg)
