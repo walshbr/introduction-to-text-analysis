@@ -1,3 +1,5 @@
+Note: We have moved platforms since releasing this book. To see the new and improved version of the book running off Jekyll, check it out [here](http://walshbr.com/textanalysiscoursebook/). Materials here may be slightly out of date.
+
 # Preface
 
 *(Note: We welcome feedback on this book! If you find an error, want clarification on a particular issue, or find deep problems with particular explanations, drop us a line on our [GitHub issues page](https://github.com/bmw9t/introduction-to-text-analysis/issues). We'll be grateful and list you in our [acknowledgements](acknowledgements.md)!)*
