@@ -2,7 +2,7 @@ Note: We have moved platforms since releasing this book. To see the new and impr
 
 # Preface
 
-*(Note: We welcome feedback on this book! If you find an error, want clarification on a particular issue, or find deep problems with particular explanations, drop us a line on our [GitHub issues page](https://github.com/bmw9t/introduction-to-text-analysis/issues). We'll be grateful and list you in our [acknowledgements](acknowledgements.md)!)*
+*(Note: We welcome feedback on this book! If you find an error, want clarification on a particular issue, or find deep problems with particular explanations, drop us a line on our [GitHub issues page](https://github.com/walshbr/textanalysiscoursebook/issues). We'll be grateful and list you in our [acknowledgements](acknowledgements.md)!)*
 
 This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces students to a concept, a tool for or method of digital text analysis, and a series of exercises for practicing the new skills. In some cases, studies of particular projects are presented instead of tools in the third section of each unit. 
 
